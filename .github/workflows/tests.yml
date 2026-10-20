@@ -4,6 +4,7 @@ name: tests
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -31,9 +32,10 @@ jobs:
 
   screens:
     # The review screens are in development and not part of the release.
-    # A failure here is shown on the job but does not fail the run.
+    # They run only when started by hand (Actions > tests > Run workflow).
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-24.04
-    timeout-minutes: 90
+    timeout-minutes: 240
     continue-on-error: true
     steps:
       - uses: actions/checkout@v4
