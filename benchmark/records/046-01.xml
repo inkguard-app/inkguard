@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAKESHORE CHILDREN'S CLINIC - CARE COORDINATION NOTE
+PATIENT: THORNQUIST RAO, ELIAS    MRN: TR-8802217    DOB: 03/17/2080    AGE: 12Y
+DATE OF NOTE: 05/09/2092   AUTHOR: ROSALIND TEAGUE RN   DEPT: GEN PEDS
+
+REASON: FOLLOW UP FROM WELL CHILD VISIT 05/08/2092 W/ DR BEAUMONT-ACHEBE. BP ELEVATED X3 VISITS. NEEDS DENTAL AND SPECIALTY REFERALS. MOM CALLED 0945.
+
+1. BP 151/92 YESTERDAY, WAS 145/88 ON 05/03/91, 142/84 ON 04/27/90. WT 37.4 KG, BMI 20.7. PCP WANTS PEDS NEPHROLOGY / HTN CLINIC EVAL AT WESTFIELD CHILDRENS HOSPITAL (DR AL-SAYED). REFERRAL # REF-92-05517 ENTERED, FAXED TO 608-555-0172.
+2. PHQ-9 DONE 05/08, SCORE LOW. PT DENIES SADNESS. MOM CONCERNED ABOUT SCHOOL STRESS.
+3. DENTAL: REFERRAL TO MEADOWBROOK DENTAL GROUP, DR NAKAGAWA-LOWE. LAST DENTAL 05/10/91 (GINGIVITIS). APPT BOOKED 05/22 AT 3:30.
+4. ALLERGY: FAMILY CALLS HIM "PEANUT" (NICKNAME). ALLERGY FIELD SAYS PEANUT - CLARIFIED W MOM ANJALI THAT ALLERGY IS TO PEANUTS AND TREE NUTS AND NICKNAME IS A COINCIDENCE. EPI AUTO INJECTOR ON FILE SINCE 01/26/81, EXP 08/2092 - NEEDS REFIL BEFORE CAMP.
+5. ECZEMA (ATOPIC DERMATITIS) STABLE, SEASONAL RHINITIS - FEXOFENADINE 30 MG DAILY.
+
+PLAN: MOM &lt;&lt;PARENT_NAME&gt;&gt; TO BRING HOME BP LOG. SCHOOL FORMS TO FOLLOW. CALL MOM AT (608) 555-0139 OR DAD NILS AT 608-555-0148 WORK EXT 2231. SISTER MAYA (AGE 8) ALSO DUE FOR CHECK.
+
+FAMILY: LIVES W MOTHER ANJALI RAO, FATHER NILS THORNQUIST, SISTER MAYA, 1840 LARKSPUR TERRACE, MADISON WI 53711. GREAT GRANDMOTHER INGRID LIVES W THEM, AGE NINETY-SIX, GRANDFATHER RAMESH 93 YO IN FLORIDA. SCHOOL: HAWTHORNE ELEMENTARY (GR 6 NEXT YR MIDDLE SCHOOL), BUS ROUTE 14.
+
+INSURANCE: BADGER STATE INSURANCE GROUP, MEMBER BSIG-9921-4470-3, GRP 55012.
+
+.CCNOTE
+ELECTRONICALLY SIGNED BY ROSALIND TEAGUE RN 05/09/2092 11:48
+ROUTED TO: DR BEAUMONT-ACHEBE; REFERRAL COORDINATOR
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="LAKESHORE CHILDREN'S CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="62" end="83" text="THORNQUIST RAO, ELIAS" TYPE="PATIENT" comment="" />
+<ID id="P2" start="92" end="102" text="TR-8802217" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="111" end="121" text="03/17/2080" TYPE="DATE" comment="" />
+<AGE id="P4" start="130" end="132" text="12" TYPE="AGE" comment="" />
+<DATE id="P5" start="148" end="158" text="05/09/2092" TYPE="DATE" comment="" />
+<NAME id="P6" start="169" end="184" text="ROSALIND TEAGUE" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="196" end="204" text="GEN PEDS" TYPE="DEPARTMENT" comment="" />
+<DATE id="P8" start="246" end="256" text="05/08/2092" TYPE="DATE" comment="" />
+<NAME id="P9" start="263" end="278" text="BEAUMONT-ACHEBE" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="396" end="404" text="05/03/91" TYPE="DATE" comment="" />
+<DATE id="P11" start="416" end="424" text="04/27/90" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="495" end="523" text="WESTFIELD CHILDRENS HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P13" start="528" end="536" text="AL-SAYED" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="550" end="562" text="REF-92-05517" TYPE="IDNUM" comment="" />
+<CONTACT id="P15" start="581" end="593" text="608-555-0172" TYPE="FAX" comment="" />
+<DATE id="P16" start="609" end="614" text="05/08" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="704" end="728" text="MEADOWBROOK DENTAL GROUP" TYPE="ORGANIZATION" comment="" />
+<NAME id="P18" start="733" end="746" text="NAKAGAWA-LOWE" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="760" end="768" text="05/10/91" TYPE="DATE" comment="" />
+<DATE id="P20" start="795" end="800" text="05/22" TYPE="DATE" comment="" />
+<NAME id="P21" start="840" end="846" text="PEANUT" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="879" end="885" text="PEANUT" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="904" end="910" text="ANJALI" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="1015" end="1023" text="01/26/81" TYPE="DATE" comment="" />
+<DATE id="P25" start="1029" end="1036" text="08/2092" TYPE="DATE" comment="" />
+<CONTACT id="P26" start="1233" end="1247" text="(608) 555-0139" TYPE="PHONE" comment="" />
+<NAME id="P27" start="1255" end="1259" text="NILS" TYPE="PATIENT" comment="" />
+<CONTACT id="P28" start="1263" end="1275" text="608-555-0148" TYPE="PHONE" comment="" />
+<CONTACT id="P29" start="1285" end="1289" text="2231" TYPE="PHONE" comment="" />
+<NAME id="P30" start="1298" end="1302" text="MAYA" TYPE="PATIENT" comment="" />
+<AGE id="P31" start="1308" end="1309" text="8" TYPE="AGE" comment="" />
+<NAME id="P32" start="1355" end="1365" text="ANJALI RAO" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="1374" end="1389" text="NILS THORNQUIST" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="1398" end="1402" text="MAYA" TYPE="PATIENT" comment="" />
+<LOCATION id="P35" start="1404" end="1425" text="1840 LARKSPUR TERRACE" TYPE="STREET" comment="" />
+<LOCATION id="P36" start="1427" end="1434" text="MADISON" TYPE="CITY" comment="" />
+<LOCATION id="P37" start="1435" end="1437" text="WI" TYPE="STATE" comment="" />
+<LOCATION id="P38" start="1438" end="1443" text="53711" TYPE="ZIP" comment="" />
+<NAME id="P39" start="1463" end="1469" text="INGRID" TYPE="PATIENT" comment="" />
+<AGE id="P40" start="1488" end="1498" text="NINETY-SIX" TYPE="AGE" comment="" />
+<NAME id="P41" start="1512" end="1518" text="RAMESH" TYPE="PATIENT" comment="" />
+<AGE id="P42" start="1519" end="1521" text="93" TYPE="AGE" comment="" />
+<LOCATION id="P43" start="1528" end="1535" text="FLORIDA" TYPE="STATE" comment="" />
+<LOCATION id="P44" start="1545" end="1565" text="HAWTHORNE ELEMENTARY" TYPE="ORGANIZATION" comment="" />
+<DATE id="P45" start="1572" end="1579" text="NEXT YR" TYPE="DATE" comment="" />
+<LOCATION id="P46" start="1622" end="1650" text="BADGER STATE INSURANCE GROUP" TYPE="ORGANIZATION" comment="" />
+<ID id="P47" start="1659" end="1675" text="BSIG-9921-4470-3" TYPE="HEALTHPLAN" comment="" />
+<ID id="P48" start="1681" end="1686" text="55012" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P49" start="1722" end="1737" text="ROSALIND TEAGUE" TYPE="DOCTOR" comment="" />
+<DATE id="P50" start="1741" end="1751" text="05/09/2092" TYPE="DATE" comment="" />
+<NAME id="P51" start="1772" end="1787" text="BEAUMONT-ACHEBE" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

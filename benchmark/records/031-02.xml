@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Clinic: Blue Ridge Pediatric Associates       Dept: Nurse Triage
+Date: 10/02/2092 (Thursday)      Time: 17:52      Call taken by: Jasper Cole, MA, then RN Kelli Dunmore
+Patient: Holloway, River A   DOB: 03/03/2089   Age: 3 y   MRN: 5530-1127
+Caller: mother, Tamsin   Callback: 828-555-0134   Alt: father Desmond at work 828-555-0177
+
+REASON FOR CALL: Left ear pain, tugging ear, fever since afternoon. 
+HISTORY (per mother): started pulling at his left ear last night, today temp 101.8 under arm at Little Acorns Preschool when the teacher Ms. Farrant called her at Greenbough Montessori where Tamsin works as a teaching assistant. Cranky, eating less, drinking ok. No rash, no vomiting. Has had ear infections before (3 so far). Egg allergy, carries the pen. Asthma dx 10/2091 - no wheeze this week per mom.
+Mom gave ibuprofen at 15:30 (she said "the purple bottle", dose per weight 15.8 kg ... hmm the chart shows 14.9 kg 02/08/2092 so recheck).
+
+TRIAGE PROTOCOL: Earache, child. Disposition: see within 24 hrs. Offered tomorrow Friday 08:20 with Dr. Nwosu-Bell; mother accepts. Advised: fluids, acetaminophen or ibuprofen by weight, return/ER if stiff neck, fever over 104, lethargic.
+mom says dad Desmmond will bring him because she has a class observation, "his father is on the other line, call him Dez" 
+Transport: neighbor Mr. Ignatius Pell may drive them if the truck KLM-4471 does not start. Landlord Mr. Quist still has not fixed the heat at 214 Sycamore Hollow Rd, Unit B so the house was cold, mom is annoyed, please note for social hx.
+
+.TRIAGEEND   Read back: yes.   Spacer for inhaler is labelled in marker "RIVER H. - BLUEBIRDS ROOM 4" per mom.
+Routed to: Amara Nwosu-Bell MD; cc K Dunmore RN
+Entered by jcole3 10/02/2092 18:10 from 192.168.14.60
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="28" end="59" text="Blue Ridge Pediatric Associates" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="72" end="84" text="Nurse Triage" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="91" end="101" text="10/02/2092" TYPE="DATE" comment="" />
+<DATE id="P3" start="103" end="111" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P4" start="150" end="161" text="Jasper Cole" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="175" end="188" text="Kelli Dunmore" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="198" end="215" text="Holloway, River A" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="223" end="233" text="03/03/2089" TYPE="DATE" comment="" />
+<AGE id="P8" start="241" end="242" text="3" TYPE="AGE" comment="" />
+<ID id="P9" start="252" end="261" text="5530-1127" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P10" start="278" end="284" text="Tamsin" TYPE="PATIENT" comment="" />
+<CONTACT id="P11" start="297" end="309" text="828-555-0134" TYPE="PHONE" comment="" />
+<NAME id="P12" start="324" end="331" text="Desmond" TYPE="PATIENT" comment="" />
+<CONTACT id="P13" start="340" end="352" text="828-555-0177" TYPE="PHONE" comment="" />
+<LOCATION id="P14" start="519" end="542" text="Little Acorns Preschool" TYPE="ORGANIZATION" comment="" />
+<NAME id="P15" start="564" end="571" text="Farrant" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="586" end="607" text="Greenbough Montessori" TYPE="ORGANIZATION" comment="" />
+<NAME id="P17" start="614" end="620" text="Tamsin" TYPE="PATIENT" comment="" />
+<PROFESSION id="P18" start="632" end="650" text="teaching assistant" TYPE="PROFESSION" comment="" />
+<DATE id="P19" start="790" end="797" text="10/2091" TYPE="DATE" comment="" />
+<DATE id="P20" start="944" end="954" text="02/08/2092" TYPE="DATE" comment="" />
+<DATE id="P21" start="1051" end="1057" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P22" start="1073" end="1083" text="Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="1221" end="1229" text="Desmmond" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1325" end="1328" text="Dez" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1355" end="1368" text="Ignatius Pell" TYPE="PATIENT" comment="" />
+<ID id="P26" start="1397" end="1405" text="KLM-4471" TYPE="VEHICLE" comment="" />
+<NAME id="P27" start="1435" end="1440" text="Quist" TYPE="PATIENT" comment="" />
+<LOCATION id="P28" start="1473" end="1503" text="214 Sycamore Hollow Rd, Unit B" TYPE="STREET" comment="" />
+<NAME id="P29" start="1644" end="1652" text="RIVER H." TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1693" end="1709" text="Amara Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="1717" end="1726" text="K Dunmore" TYPE="DOCTOR" comment="" />
+<NAME id="P32" start="1741" end="1747" text="jcole3" TYPE="USERNAME" comment="" />
+<DATE id="P33" start="1748" end="1758" text="10/02/2092" TYPE="DATE" comment="" />
+<CONTACT id="P34" start="1770" end="1783" text="192.168.14.60" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,24 @@
+EMERGENCY DEPARTMENT NOTE
+{{FACILITY|Highcastle General Hospital}} ED
+{{NAME|Rafferty Erb-Lindqvist}}, 24 M, MRN {{MRN|HGH-73300412}}, arrived {{DATE|08/30/2073}} 01:15
+Triage by {{NAME|Shauna Tennyson}}, RN; ED attending Dr. {{NAME|Bronwyn Achterberg}}
+
+Helmeted motorcycle rider, [[high-speed MVC]], thrown onto the left shoulder, head and shoulder forced apart. [[GCS 15]]. Left arm hanging, internally rotated, elbow extended, wrist flexed — "[[waiter's tip posture]]" ([[Erb palsy]] pattern; patient's surname coincidentally {{NAME|Erb-Lindqvist}}). [[Deltoid]] 0/5, [[biceps]] 0/5, [[supraspinatus]] 0/5, [[brachioradialis]] 1/5, [[triceps]] 4/5, hand intrinsics 5/5. Sensory loss over the lateral shoulder and lateral forearm ([[C5-C6 dermatomes]]). No [[Horner syndrome]] (good sign — argues against [[preganglionic T1 avulsion]]). [[Radial pulse]] present.
+
+Imaging: [[CT C-spine]] no fracture. [[Chest X-ray]]: left clavicle fracture, [[elevated left hemidiaphragm]] ([[phrenic nerve]] involvement, C3-5). [[CTA neck/upper extremity]]: no subclavian injury.
+Plan: sling, ortho for clavicle, neurosurgery/peripheral nerve referral, [[MRI brachial plexus]] and [[CT myelography]] at 3-4 weeks, [[EMG/NCS]] at 3-4 weeks.
+=====NOTE=====
+PERIPHERAL NERVE SURGERY CONSULT — {{DATE|09/24/2073}}
+{{NAME|Rafferty Erb-Lindqvist}}  {{MRN|HGH-73300412}}
+Seen by Dr. {{NAME|Ottilie Brandwein}}; fellow Dr. {{NAME|Jaroslav Mikula}}
+[[CT myelogram]]: [[pseudomeningocele]] at left C6 with absent rootlets ([[root avulsion]]); C5 rootlets present. [[MRI brachial plexus (3D STIR)]]: thickened, oedematous [[upper trunk]].
+[[EMG]]: denervation in deltoid, biceps, infraspinatus, [[rhomboids]] (dorsal scapular nerve — suggests very proximal C5 injury), [[serratus anterior]] spared. [[Sensory nerve action potentials]] for the [[lateral antebrachial cutaneous nerve]] preserved (preganglionic C6 lesion).
+Impression: [[left upper trunk brachial plexus injury]] — C5 postganglionic rupture, C6 preganglionic avulsion.
+Plan at 3-4 months if no recovery: [[nerve transfers]] — [[Oberlin transfer]] (ulnar fascicle to biceps branch of [[musculocutaneous nerve]]), [[spinal accessory to suprascapular nerve transfer]], [[triceps branch to axillary nerve transfer]] (Somsak), +/- [[sural nerve grafting]] from C5 stump. [[Range of motion]] therapy to avoid [[frozen shoulder]].
+=====NOTE=====
+LETTER — {{DATE|11/05/2073}}
+To: {{NAME|Lucinda Farrow-Beck}}, Esq., {{ORG|Farrow-Beck and Okafor Personal Injury Law}}, re: case {{ID|PI-73-44821}}
+Re: my patient {{NAME|Rafferty Erb-Lindqvist}}
+
+At your request (with patient authorisation), summary: Mr. {{NAME|Erb-Lindqvist}} sustained a [[left brachial plexus injury]] with [[C6 root avulsion]] and [[C5 rupture]] in the motorcycle collision. He underwent [[spinal accessory to suprascapular nerve transfer]], [[Oberlin transfer]] and [[triceps-to-axillary nerve transfer]] last month. Expected recovery of [[elbow flexion]] to [[MRC grade 4]] in 12-18 months; [[shoulder abduction]] typically 45-90 degrees. He is unable to work as a roofer. Future costs: [[occupational therapy]], [[electrical muscle stimulation]], [[shoulder ROM therapy]], [[EMG/NCS]] at 6 and 12 months, [[neuropathic pain]] management with [[gabapentin 600 mg TID]] for [[deafferentation pain]], physical therapy, possible [[free functioning gracilis muscle transfer]] if transfers fail. A [[letter of protection]] has been received by our billing office. I am available for [[deposition]] by arrangement.
+Dr. {{NAME|O. Brandwein}}, Peripheral Nerve Surgery

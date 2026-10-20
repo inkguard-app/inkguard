@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX  -  RIDGELINE FAMILY MEDICINE
+To: Whitcombe Dental Group   Attn: Alan Whitcombe DDS
+Fax: (570) 555-0163    Ph: (570) 555-0164
+From: Tori Beckett MA for Dr Nambier   Fax (570) 555-0119
+Date: 10/11/2071   Pages: 3 incl cover
+Re: ostrowicz, kasimir  DOB 03/09/2046  MRN 3318-0472
+
+Msg: pls see pt for gingivitis, ref placed 10/10/2071. Pt prev known as Casey Ostrow - old dental chart from 2066 may be under that name, pls merge. Pt's cell 570-555-0142, wife Dana ok to leave vm. Ins member id PA-77120-04-C.
+Pls fax bitewing + perio chart back to (570) 555-0119. 
+
+CONFIDENTIALITY NOTICE: this fax is for &lt;&lt;insert name&gt;&gt; no wait for the addressee only. If recvd in error call (570) 555-0118 asap.
+cc: Priya Nambiar; chart; pt portal (k.ostrowicz@mailbox-example.net)
+Dear [PATIENT], Dear Mr Ostrow (template, ignore)
+Sent 10/11/2071 09:14   Page 1 of 3  OSTROWICZ, KASIMIR  MRN 3318-0472
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="38" end="60" text="Whitcombe Dental Group" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="69" end="83" text="Alan Whitcombe" TYPE="DOCTOR" comment="" />
+<CONTACT id="P2" start="93" end="107" text="(570) 555-0163" TYPE="FAX" comment="" />
+<CONTACT id="P3" start="115" end="129" text="(570) 555-0164" TYPE="PHONE" comment="" />
+<NAME id="P4" start="136" end="148" text="Tori Beckett" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="156" end="166" text="Dr Nambier" TYPE="DOCTOR" comment="" />
+<CONTACT id="P6" start="173" end="187" text="(570) 555-0119" TYPE="FAX" comment="" />
+<DATE id="P7" start="194" end="204" text="10/11/2071" TYPE="DATE" comment="" />
+<NAME id="P8" start="231" end="249" text="ostrowicz, kasimir" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="255" end="265" text="03/09/2046" TYPE="DATE" comment="" />
+<ID id="P10" start="271" end="280" text="3318-0472" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P11" start="325" end="335" text="10/10/2071" TYPE="DATE" comment="" />
+<NAME id="P12" start="354" end="366" text="Casey Ostrow" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="391" end="395" text="2066" TYPE="DATE" comment="" />
+<CONTACT id="P14" start="441" end="453" text="570-555-0142" TYPE="PHONE" comment="" />
+<NAME id="P15" start="460" end="464" text="Dana" TYPE="PATIENT" comment="" />
+<ID id="P16" start="495" end="508" text="PA-77120-04-C" TYPE="HEALTHPLAN" comment="" />
+<CONTACT id="P17" start="549" end="563" text="(570) 555-0119" TYPE="FAX" comment="" />
+<CONTACT id="P18" start="678" end="692" text="(570) 555-0118" TYPE="PHONE" comment="" />
+<NAME id="P19" start="703" end="716" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<CONTACT id="P20" start="736" end="767" text="k.ostrowicz@mailbox-example.net" TYPE="EMAIL" comment="" />
+<NAME id="P21" start="793" end="799" text="Ostrow" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="824" end="834" text="10/11/2071" TYPE="DATE" comment="" />
+<ID id="P23" start="880" end="889" text="3318-0472" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

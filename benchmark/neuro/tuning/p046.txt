@@ -1,0 +1,25 @@
+FAMILY MEDICINE OFFICE VISIT
+{{FACILITY|Pellworth Family Medicine}}
+{{NAME|Euphemia Strand-Abercrombie}}, age {{AGE|93}}, MRN {{MRN|PFM-0030192}}, {{DATE|02/06/2074}}
+Physician Dr. {{NAME|Nathaniel Okpara}}; MA {{NAME|Brianna Seaholm}}
+
+{{AGE|93}}-year-old woman, lives alone with daily help from her niece {{NAME|Rosalie Abercrombie}}. 10 days of severe mid-back pain after lifting a laundry basket. No fall. Pain 8/10, worse with standing and turning in bed, relieved lying flat. No leg weakness, no bladder or bowel change, no fever, no weight loss.
+Exam: point tenderness over [[T12 spinous process]], [[thoracic kyphosis]] increased, neuro: power 5/5 lower limbs, [[patellar reflexes]] 1+ symmetric, [[plantar responses flexor]], sensation intact. No [[saddle anaesthesia]].
+[[Thoracolumbar X-ray AP and lateral]]: new [[T12 vertebral compression fracture]] with ~40% anterior height loss ([[Genant grade 2]]), old L2 wedge deformity. No [[retropulsion]] visible.
+Past [[DEXA]] (2 years ago): [[lumbar spine T-score -3.4]], [[femoral neck T-score -3.1]] — [[osteoporosis]]; she declined [[alendronate]] then. [[FRAX]] 10-year hip fracture risk 14%.
+Plan: [[calcitonin]] not used; [[acetaminophen 1 g TID]], [[lidocaine 5% patch]], short course of [[tramadol 25 mg]] with caution ([[fall risk]], [[delirium]]); [[thoracolumbar brace]] not tolerated. [[MRI thoracolumbar spine]] with [[STIR]] to confirm acuity; refer to spine for possible [[kyphoplasty]]. Start [[vitamin D3 1000 IU]], [[calcium 1200 mg/day diet+supplement]]; discuss [[zoledronic acid 5 mg IV yearly]] or [[denosumab 60 mg SC q6 months]] once acute pain controlled. [[ICD-10 M80.08XA]].
+=====NOTE=====
+RADIOLOGY — MRI THORACIC AND LUMBAR SPINE WITHOUT CONTRAST
+{{FACILITY|Pellworth Valley Imaging}}   Accession {{ID|PVI-74-0088213}}
+{{NAME|STRAND-ABERCROMBIE, EUPHEMIA}}   {{MRN|PFM-0030192}}   {{DATE|02/09/2074}}
+CLINICAL: {{AGE|93}} F, acute mid-back pain, T12 compression on radiographs.
+TECHNIQUE: 1.5T, sagittal [[T1]], [[T2]], [[STIR]]; axial T2 at T11-L1. Study limited by patient motion despite coaching; sagittal STIR repeated with a faster [[PROPELLER]]-type sequence. The patient declined [[sedation]].
+FINDINGS: Acute/subacute [[T12 compression fracture]] with [[bone marrow oedema]] (STIR hyperintense, T1 hypointense) and a horizontal [[fluid cleft sign]] suggesting [[Kümmell disease]] / [[intravertebral vacuum cleft]]. 45% anterior height loss. Mild [[posterior cortical bulging]] without [[retropulsion]] into the canal; no [[spinal cord compression]], [[conus medullaris]] normal at L1. No [[paraspinal mass]] or [[epidural extension]] — features favour [[benign osteoporotic fracture]] over [[pathological fracture]]. Chronic healed [[L2 wedge fracture]] without oedema. [[Multilevel degenerative disc disease]].
+IMPRESSION: Acute osteoporotic [[T12 compression fracture]] with intravertebral cleft — amenable to [[vertebral augmentation]] if clinically indicated.
+Radiologist Dr. {{NAME|Imelda Castellucci-Byrne}}
+=====NOTE=====
+PROCEDURE NOTE — T12 BALLOON KYPHOPLASTY — {{DATE|02/20/2074}}
+{{NAME|Euphemia Strand-Abercrombie}}  {{AGE|93}} y  {{MRN|PFM-0030192}}
+Proceduralist Dr. {{NAME|Hamid Varghese-Lowell}} (orthopaedic spine); [[Medtronic Kyphon]] rep {{NAME|Calla Desrosiers}} present.
+[[Monitored anaesthesia care]], prone on bolsters, biplanar [[fluoroscopy]]. [[Bilateral transpedicular approach]] at T12 with [[11G access cannulae]]; [[Kyphon Xpander II inflatable bone tamps]] inflated to 220 psi bilaterally with partial height restoration; [[PMMA bone cement]] 3.5 mL total injected in the doughy phase under continuous lateral fluoroscopy, with good interdigitation into the cleft and no [[cement extravasation]] into the canal or [[segmental veins]]. [[Bone biopsy]] sent (to exclude [[myeloma]]/[[metastasis]]). [[CPT 22513]].
+Post: pain 2/10 at 2 h, ambulated with walker. [[Neuro checks]] intact. Return to Dr. {{NAME|N. Okpara}} for [[osteoporosis treatment]] — [[romosozumab]] considered (no MI/stroke in past year), followed by [[antiresorptive]]. Niece updated.

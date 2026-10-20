@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY - DENTAL EPISODE OF CARE
+Hollis Street Dental Clinic  cc: Riverbend Family Medicine  (937) 555-0133
+Pt: Terrence Pruitt  DOB 03/19/2054  MRN 8841-5530
+Ref: Dr. Ingrid Vasquez-Hale ref 06/12/2095
+Seen: 06/26/2095   Dentist: Dr. Nell Okafor
+
+Dx: gingival dz, hx tooth loss (dentures fitted prev, 09/28/2094).
+Done: consult + report, bitewing xrays, gingival exam, full-mouth supra/subgingival scaling, OHE. Tolerated well no complications.
+Meds: lisinopril 10 qd, amlodipine 2.5 qd  &lt;-- see below, STOPPED by PCP 06/12/2095, list not updated here. No abx needed.
+Pt 41 yo, BP stable. Contact (937) 555-0148. Wife Janelle drove him home.
+D/c instr: brush bid, floss, soft brush, rinse prn. Recall 6 mo, sooner if bleeding/pain.
+Pt d/c'd from dental episode to PCP f/u.
+-- N. Okafor DDS, 06/26/2095
+
+Pasted for reference (PCP note, pt brought printout):
+HISTORY AND PHYSICAL (annual wellness)
+Riverbend Family Medicine
+DOS 06/12/2095   Provider: Dr. Ingrid Vasquez-Hale
+Pt Terrence A. Pruitt, MRN 8841-5530, DOB 03/19/2054, 41 yo M
+Plan ID MBR-4417-902-31
+CC: annual exam, med review. HPI: 1 yr f/u HTN. Compliant lisinopril 10 qd + amlodipine 2.5 qd. Home BPs ok. Stress resolved 06/11/2095. No CP/palp/HA. Chronic sinusitis quiet.
+SH: M, wife Janelle; son Micah, dau Odette. FT at Brannock Freight Systems. Renting 2217 Larkspur Terrace, Dayton; landlord Edwin Halvorsen slow w repairs, mold in bath, pt stressed. Neighbour Odalys Quintero watches kids after school. Father Arlen (ninety-two next month), mother-in-law Philippa in her mid-nineties, wife is main caregiver. EtOH/drugs denied.
+VS: BP 116/65, wt 86.4 kg, BMI 27.5, pain 3/10. TC 122.5, LDL 47.8.
+A/P: 1. HTN at goal, med rec done, lisinopril + amlodipine STOPPED today, lifestyle + home BP log, recheck 3 mo. 2. Lipids at goal. 3. Caregiver strain, SW eval. 4. Dental referal placed. 5. RTC 1 yr.
+-- I. Vasquez-Hale, MD   e-signed 06/12/2095 15:20
+
+Dental addendum 06/27/2095: pt called, gums sore, using salt rinse. Neighbor Hal Tenant says his dad Arlen, 9O (sic), also needs dentist - gave 937-555-0140. Landlord problem again, pt vented abt Halvorsen and the mold, "ill sue" (not clinical).
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="43" end="70" text="Hollis Street Dental Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="76" end="101" text="Riverbend Family Medicine" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P2" start="103" end="117" text="(937) 555-0133" TYPE="FAX" comment="" />
+<NAME id="P3" start="122" end="137" text="Terrence Pruitt" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="143" end="153" text="03/19/2054" TYPE="DATE" comment="" />
+<ID id="P5" start="159" end="168" text="8841-5530" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="178" end="197" text="Ingrid Vasquez-Hale" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="202" end="212" text="06/12/2095" TYPE="DATE" comment="" />
+<DATE id="P8" start="219" end="229" text="06/26/2095" TYPE="DATE" comment="" />
+<NAME id="P9" start="245" end="256" text="Nell Okafor" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="312" end="322" text="09/28/2094" TYPE="DATE" comment="" />
+<DATE id="P11" start="529" end="539" text="06/12/2095" TYPE="DATE" comment="" />
+<AGE id="P12" start="582" end="584" text="41" TYPE="AGE" comment="" />
+<CONTACT id="P13" start="608" end="622" text="(937) 555-0148" TYPE="PHONE" comment="" />
+<NAME id="P14" start="629" end="636" text="Janelle" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="787" end="796" text="N. Okafor" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="802" end="812" text="06/26/2095" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="907" end="932" text="Riverbend Family Medicine" TYPE="HOSPITAL" comment="" />
+<DATE id="P18" start="937" end="947" text="06/12/2095" TYPE="DATE" comment="" />
+<NAME id="P19" start="964" end="983" text="Ingrid Vasquez-Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="987" end="1005" text="Terrence A. Pruitt" TYPE="PATIENT" comment="" />
+<ID id="P21" start="1011" end="1020" text="8841-5530" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P22" start="1026" end="1036" text="03/19/2054" TYPE="DATE" comment="" />
+<AGE id="P23" start="1038" end="1040" text="41" TYPE="AGE" comment="" />
+<ID id="P24" start="1054" end="1069" text="MBR-4417-902-31" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P25" start="1195" end="1205" text="06/11/2095" TYPE="DATE" comment="" />
+<NAME id="P26" start="1259" end="1266" text="Janelle" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1272" end="1277" text="Micah" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1283" end="1289" text="Odette" TYPE="PATIENT" comment="" />
+<LOCATION id="P29" start="1297" end="1321" text="Brannock Freight Systems" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P30" start="1331" end="1352" text="2217 Larkspur Terrace" TYPE="STREET" comment="" />
+<LOCATION id="P31" start="1354" end="1360" text="Dayton" TYPE="CITY" comment="" />
+<NAME id="P32" start="1371" end="1386" text="Edwin Halvorsen" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="1440" end="1455" text="Odalys Quintero" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="1490" end="1495" text="Arlen" TYPE="PATIENT" comment="" />
+<AGE id="P35" start="1497" end="1507" text="ninety-two" TYPE="AGE" comment="" />
+<NAME id="P36" start="1535" end="1543" text="Philippa" TYPE="PATIENT" comment="" />
+<AGE id="P37" start="1551" end="1563" text="mid-nineties" TYPE="AGE" comment="" />
+<NAME id="P38" start="1880" end="1895" text="I. Vasquez-Hale" TYPE="DOCTOR" comment="" />
+<DATE id="P39" start="1911" end="1921" text="06/12/2095" TYPE="DATE" comment="" />
+<DATE id="P40" start="1945" end="1955" text="06/27/2095" TYPE="DATE" comment="" />
+<NAME id="P41" start="2006" end="2016" text="Hal Tenant" TYPE="PATIENT" comment="" />
+<NAME id="P42" start="2030" end="2035" text="Arlen" TYPE="PATIENT" comment="" />
+<AGE id="P43" start="2037" end="2039" text="9O" TYPE="AGE" comment="" />
+<CONTACT id="P44" start="2073" end="2085" text="937-555-0140" TYPE="PHONE" comment="" />
+<NAME id="P45" start="2125" end="2134" text="Halvorsen" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

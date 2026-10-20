@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL MESSAGE - FROM PATIENT
+Sent: 02/10/2079 06:12
+From: blessing hart  (bhart1004)
+To: DR VANDERMERE
+Subject: dialysis and a blessing
+
+Good morning doctor. Dialysis is going ok, the nurses at Tidewater are kind, my chair is Chair 7. But i feel so cold and my legs cramp after. My husband Everet says i must write you. My daughter Mercy flew in from Atlanta and it was a blessing to see her. My son Isaac too.
+
+Also my mother in law Odette is now ninety-three or ninety-four, nobody remembers!, (ninety-four) and she keeps asking why I'm tired. Can you tell the dialysis people the cramping? The glucose also was low 84 on the 9th.
+
+I will be at Thursday clinic. Thank you doctor. God bless.
+Blessing Hart, (912) 555-0187
+</TEXT>
+<TAGS>
+<DATE id="P0" start="44" end="54" text="02/10/2079" TYPE="DATE" comment="" />
+<NAME id="P1" start="67" end="80" text="blessing hart" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="83" end="92" text="bhart1004" TYPE="USERNAME" comment="" />
+<NAME id="P3" start="101" end="111" text="VANDERMERE" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="203" end="212" text="Tidewater" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P5" start="235" end="242" text="Chair 7" TYPE="LOCATION-OTHER" comment="" />
+<NAME id="P6" start="299" end="305" text="Everet" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="341" end="346" text="Mercy" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="409" end="414" text="Isaac" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="443" end="449" text="Odette" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="506" end="517" text="ninety-four" TYPE="AGE" comment="" />
+<DATE id="P11" start="656" end="664" text="Thursday" TYPE="DATE" comment="" />
+<CONTACT id="P12" start="717" end="731" text="(912) 555-0187" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

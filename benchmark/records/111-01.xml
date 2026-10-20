@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 6102 | SOURCE=EHR | NOTE=H&amp;P | AUTHOR=sm_mora
+SUMMIT RIDGE CANCER AND WOMEN'S CENTER  --  Hereditary Risk and Survivorship Clinic
+HISTORY AND PHYSICAL                                   Page 1 of 2
+STORY, HARMONY   MRN SR-3340712   DOB 02/06/2036   
+Date of service: 10/04/2061      Age: 25      Referring: self / PCP
+Attending: Nyne Valdez, MD         Scribe: Seven Mora, RN
+
+CHIEF COMPLAINT
+@CC@ -- "I want to know if I carry what my mom's side has"
+
+HPI
+H. Story is a 25 y.o. female, goes by "Harm", seen for a risk assesment visit. Her story is long but short version: maternal aunt had breast ca in her 40s, per pt, no personal hx of cancer. No lump, no nipple dc.
+Pt has been unemployed since this morning ... sorry, since 10/2061 (left part time job at Lantern &amp; Loom Cafe in 2058). Reports limited social contact, drinks alcohol, "less than before".
+Copy-forward from last visit (06/01/2061): "On OCP, no problems. Mom Mercy accompanies."
+
+SOCIAL
+Lives at 905 Hollow Pine Court, Unit B, Spokane, WA 99205 with partner x183474 (that is his name, he chose it, pronounced "x one eight three four seven four"). Sister Kiwi Story and friend Blue Hallett drive her to appts: plate WA BLU-3382.
+Phone (509) 555-0188.  Portal: https://mychart.summitridge.example/hstory
+
+MEDS
+{7 (ethinyl estradiol 0.035 mg / norgestimate...)} pack, started 06/01/2061
+ALLERGIES: NKDA   (Allergies: Harmony Story)
+
+EXAM
+BP 135/75, BMI 20.9. Well appearing. Breasts: no mass. Nodes neg.  Depression screen neg.
+
+A/P
+1. Family hx breast ca - genetics counselling, refer
+2. Contracept - continue
+3. F/u 1 yr. Ask Dr. Valdez to sign
+
+Electronically signed by Nyne Valdez MD 10/04/2061 16:30   Last edited by sm_mora from 10.8.52.17
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="50" end="88" text="SUMMIT RIDGE CANCER AND WOMEN'S CENTER" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="94" end="133" text="Hereditary Risk and Survivorship Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="201" end="215" text="STORY, HARMONY" TYPE="PATIENT" comment="" />
+<ID id="P3" start="222" end="232" text="SR-3340712" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="239" end="249" text="02/06/2036" TYPE="DATE" comment="" />
+<DATE id="P5" start="270" end="280" text="10/04/2061" TYPE="DATE" comment="" />
+<AGE id="P6" start="291" end="293" text="25" TYPE="AGE" comment="" />
+<NAME id="P7" start="332" end="343" text="Nyne Valdez" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="364" end="374" text="Seven Mora" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="460" end="468" text="H. Story" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="474" end="476" text="25" TYPE="AGE" comment="" />
+<NAME id="P11" start="499" end="503" text="Harm" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="732" end="739" text="10/2061" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="763" end="782" text="Lantern &amp; Loom Cafe" TYPE="ORGANIZATION" comment="" />
+<DATE id="P14" start="786" end="790" text="2058" TYPE="DATE" comment="" />
+<DATE id="P15" start="891" end="901" text="06/01/2061" TYPE="DATE" comment="" />
+<NAME id="P16" start="930" end="935" text="Mercy" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="967" end="996" text="905 Hollow Pine Court, Unit B" TYPE="STREET" comment="" />
+<LOCATION id="P18" start="998" end="1005" text="Spokane" TYPE="CITY" comment="" />
+<LOCATION id="P19" start="1007" end="1009" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P20" start="1010" end="1015" text="99205" TYPE="ZIP" comment="" />
+<NAME id="P21" start="1029" end="1036" text="x183474" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1081" end="1114" text="x one eight three four seven four" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1125" end="1135" text="Kiwi Story" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1147" end="1159" text="Blue Hallett" TYPE="PATIENT" comment="" />
+<ID id="P25" start="1186" end="1197" text="WA BLU-3382" TYPE="VEHICLE" comment="" />
+<CONTACT id="P26" start="1205" end="1219" text="(509) 555-0188" TYPE="PHONE" comment="" />
+<CONTACT id="P27" start="1230" end="1272" text="https://mychart.summitridge.example/hstory" TYPE="URL" comment="" />
+<DATE id="P28" start="1344" end="1354" text="06/01/2061" TYPE="DATE" comment="" />
+<NAME id="P29" start="1385" end="1398" text="Harmony Story" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1600" end="1606" text="Valdez" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="1641" end="1652" text="Nyne Valdez" TYPE="DOCTOR" comment="" />
+<DATE id="P32" start="1656" end="1666" text="10/04/2061" TYPE="DATE" comment="" />
+<NAME id="P33" start="1690" end="1697" text="sm_mora" TYPE="USERNAME" comment="" />
+<CONTACT id="P34" start="1703" end="1713" text="10.8.52.17" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Big Sky Veterans Behavioral Clinic
+REFERRAL LETTER                                  06/20/2083
+To: Dr. Anders Kowalczyk, Missoula Oral Surgery Group, fax (406) 555-0127
+Re: PAGE, DESMOND   DOB 09/12/2021   MRN VBH-7-318402   Member ID SSP-0058-4471-7
+
+Dear Dr. Kowalczyk,
+
+Please see Mr. Page (Desmond; goes by Dez), a 61 year old veteran, for evaluation of multiple missing teeth and a prior tooth infection (lost teeth June 2081). He has gum disease (gingivitis x 2), borderline BP and prediabetes. I'm sending him to you because he can't chew well and has lost weight (82 kg now).
+
+He's very nervous about dental work, and has hx of PTSD-like symptoms related to his service, so please be gentle. His wife Lark usually comes along and is a great advocate. His pager is not on (autocorrect made it "pagan"). Best number (406) 555-0113 ext 4417.
+
+Please turn the page for his medications. (page 2 of 2)
+Meds: HCTZ 25 mg was a one-time dispense 5/8/2078; naproxen 2081. Allergies none.
+
+Sincerely, 
+Sunita Vazhappilly, MD       S.V.
+dictated, not read   (transcriptionist: "Vazhapily" -- the correct is Vazhappilly)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="34" text="Big Sky Veterans Behavioral Clinic" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="84" end="94" text="06/20/2083" TYPE="DATE" comment="" />
+<NAME id="P2" start="103" end="119" text="Anders Kowalczyk" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="121" end="148" text="Missoula Oral Surgery Group" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P4" start="154" end="168" text="(406) 555-0127" TYPE="FAX" comment="" />
+<NAME id="P5" start="173" end="186" text="PAGE, DESMOND" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="193" end="203" text="09/12/2021" TYPE="DATE" comment="" />
+<ID id="P7" start="210" end="222" text="VBH-7-318402" TYPE="MEDICALRECORD" comment="" />
+<ID id="P8" start="235" end="250" text="SSP-0058-4471-7" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P9" start="261" end="270" text="Kowalczyk" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="288" end="292" text="Page" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="294" end="301" text="Desmond" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="311" end="314" text="Dez" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="319" end="321" text="61" TYPE="AGE" comment="" />
+<DATE id="P14" start="421" end="430" text="June 2081" TYPE="DATE" comment="" />
+<NAME id="P15" start="709" end="713" text="Lark" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="822" end="836" text="(406) 555-0113" TYPE="PHONE" comment="" />
+<CONTACT id="P17" start="841" end="845" text="4417" TYPE="PHONE" comment="" />
+<DATE id="P18" start="945" end="953" text="5/8/2078" TYPE="DATE" comment="" />
+<DATE id="P19" start="964" end="968" text="2081" TYPE="DATE" comment="" />
+<NAME id="P20" start="999" end="1017" text="Sunita Vazhappilly" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1028" end="1032" text="S.V." TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1074" end="1083" text="Vazhapily" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="1103" end="1114" text="Vazhappilly" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

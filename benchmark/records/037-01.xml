@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Magnolia Bend Medical Center -- Department of Radiology
+RADIOLOGY REPORT
+Patient: ASHDOWN, CALLUM R     MRN: 0771-2096     DOB: 01/23/2019
+Exam: MRI right knee without contrast       Exam date: 12/29/2050
+Ordering: Dr. Oksana Pylypchuk       Reading radiologist: Dr. Haruka Matsumura-Reid
+
+CLINICAL HISTORY:
+31 years old man with injury right knee one week ago when he is twisting on boat deck, pain and locking since then. Patient is on chronic opioid for neck pain.
+
+TECHNIQUE:
+Multiplanar multisequence images was obtained in 1.5T scanner. Accession number RAD-5120-883471 is assigned to this study. No comparison studies is available.
+
+FINDINGS:
+Medial meniscus: There is a complex oblique tear in posterior horn of medial meniscus, extending to the inferior articular surface. Small displaced flap is not seen.
+Lateral meniscus: Intact.
+Ligaments: ACL and PCL are intact. MCL has mild edema but fibers continuous. LCL complex intact.
+Cartilage: Mild chondral thinning at the medial femoral condyle. No full thickness defect.
+Joint: Small joint effusion. Baker cyst is absent.
+Bones: No fracture or bone bruise.
+
+IMPRESSION:
+1. Tear of posterior horn medial meniscus.
+2. Mild MCL sprain, small effusion.
+Recommend orthopaedic consultation.
+
+Images were sent for post processing at C:\Users\mreyes_ct2\Desktop\ashdown_knee_1229\ by the technologist.
+Report dictated by Dr. Matsumura-Reid, signed 12/29/2050 16:41. Copy to Dr. Sergio Valdivieso.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="28" text="Magnolia Bend Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="55" text="Department of Radiology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="82" end="99" text="ASHDOWN, CALLUM R" TYPE="PATIENT" comment="" />
+<ID id="P3" start="109" end="118" text="0771-2096" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="128" end="138" text="01/23/2019" TYPE="DATE" comment="" />
+<DATE id="P5" start="194" end="204" text="12/29/2050" TYPE="DATE" comment="" />
+<NAME id="P6" start="219" end="235" text="Oksana Pylypchuk" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="267" end="288" text="Haruka Matsumura-Reid" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="308" end="310" text="31" TYPE="AGE" comment="" />
+<ID id="P10" start="560" end="575" text="RAD-5120-883471" TYPE="IDNUM" comment="" />
+<NAME id="P11" start="1294" end="1304" text="mreyes_ct2" TYPE="USERNAME" comment="" />
+<NAME id="P12" start="1376" end="1390" text="Matsumura-Reid" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="1399" end="1409" text="12/29/2050" TYPE="DATE" comment="" />
+<NAME id="P14" start="1429" end="1446" text="Sergio Valdivieso" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

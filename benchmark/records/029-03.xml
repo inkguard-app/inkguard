@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE - Liffeyside General Hospital
+Triage 22/06/2082 06:12      ED doctor: Dr Marcin Kowalski      Triage nurse: Rosa Moon
+Patient: Oksana HAVRYLENKO   DOB 19/05/2061   Age @AGE@   MRN LGH 20-448193   Sex F
+Arrived by: ambulance, run sheet NAS-0622-5581      Cubicle R4      Dept selected: Orthopaedic Fracture Clinic
+
+.CC
+21 y.o. primigravida at 37 weeks + 3 days sent in by midwife Orla Wren from antenatal visit because BP 172/112 and headache since night. Husband no, partner Ruairi Keane with her. Contractions: none regular. Foetal movements present.
+
+HPI: In the last three weeks she is followed in cardio-obstetric clinic for hypertensive disorder of pregnancy (dx 31/05/2082, in the system as eclampsia in pregnancy, but without seizure), admitted 31/05/2082 until 03/06/2082 on labetalol, discharged home with BP monitoring. Today headache bitemporal 7/10, no visual disturbance now, no epigastric pain, no vomiting, no chest pain, no dispnea. No fits.
+Pasted from previous note (cardiology 31/05/2082): "Dr. Villaverde, 21 years old woman, pregnant of 34 weeks + 2 days (EDD 30/06/2082) ... Labetalol per obstetric protocol". [EDD in this paragraph is wrong, corrected EDD is 10/07/2082]
+Pasted fragment: "Patient Mairead O'Donoghue, DOB 04/11/2059, MRN LGH 19-300177, known mitral stenosis, on warfarin, INR 2.4" &lt;- this line is not our patient, from template.
+
+PMH: fracture of left clavicle (09/2074), gingivitis, bronchitis, sinusitis, previous contraception. No allergies known. Meds now: labetalol 200 mg bd, no others, no aspirin. Social: lives Flat 4, 23 Thomond Road, Inchicore, Dublin 8, D08 K2F7, Ireland; works part time in a bakery (Delaney &amp; Sons Bakery) until 34 weeks. Family: mother Halyna Havrylenko in Lviv, sister Daryna in Mississauga, Ontario, Canada. Not smoke. Alcohol none.
+
+Exam: T 36.8, HR 96, BP 168/110 and after 15 min 164/106, RR 18, SpO2 98% air. Alert, orientation OK, no focal neurology, no papilledema, tendon reflexes brisk with 2 beats clonus. Chest clear. Heart sounds normal, no murmur. Abdomen gravid, fundal height consistent with date, uterus soft, no tenderness. Oedema ++ both legs. Foetal heart rate 142 by Doppler.
+Investigations: urine protein 3+; bloods sent (FBC, U&amp;E, LFT, urate, clotting); ECG sinus rhythm 94, no ischaemic change. No imaging needed.
+Treatment: IV labetalol 20 mg, then magnesium sulphate per protocol started 06:50 on advice of obstetrician Prof Niamh Brannigan.
+
+Impression: Severe pre-eclampsia at term. No evidence of Bell's palsy or other focal deficit (patient asked because she feel mouth heavy on the left, exam ok, symmetric).
+Disposition: transferred to labour ward LW 3 at 07:25 for induction of labour (medical induction), handed over to registrar Dr Sinead Gallagher. Partner informed, he phone mother of patient Halyna +380 32 555 0178.
+
+Electronically signed M. Kowalski 22/06/2082 08:03  -  Last edited by mkowalski 22/06/2082 09:41 from 172.20.31.77
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="28" end="55" text="Liffeyside General Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="63" end="73" text="22/06/2082" TYPE="DATE" comment="" />
+<NAME id="P2" start="99" end="114" text="Marcin Kowalski" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="134" end="143" text="Rosa Moon" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="153" end="170" text="Oksana HAVRYLENKO" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="177" end="187" text="19/05/2061" TYPE="DATE" comment="" />
+<ID id="P6" start="206" end="219" text="LGH 20-448193" TYPE="MEDICALRECORD" comment="" />
+<ID id="P7" start="261" end="274" text="NAS-0622-5581" TYPE="IDNUM" comment="" />
+<LOCATION id="P8" start="288" end="290" text="R4" TYPE="ROOM" comment="" />
+<LOCATION id="P9" start="311" end="338" text="Orthopaedic Fracture Clinic" TYPE="DEPARTMENT" comment="" />
+<AGE id="P10" start="344" end="346" text="21" TYPE="AGE" comment="" />
+<NAME id="P11" start="405" end="414" text="Orla Wren" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="501" end="513" text="Ruairi Keane" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="694" end="704" text="31/05/2082" TYPE="DATE" comment="" />
+<DATE id="P14" start="778" end="788" text="31/05/2082" TYPE="DATE" comment="" />
+<DATE id="P15" start="795" end="805" text="03/06/2082" TYPE="DATE" comment="" />
+<DATE id="P16" start="1022" end="1032" text="31/05/2082" TYPE="DATE" comment="" />
+<NAME id="P17" start="1040" end="1050" text="Villaverde" TYPE="DOCTOR" comment="" />
+<AGE id="P18" start="1052" end="1064" text="21 years old" TYPE="AGE" comment="" />
+<DATE id="P19" start="1107" end="1117" text="30/06/2082" TYPE="DATE" comment="" />
+<DATE id="P20" start="1208" end="1218" text="10/07/2082" TYPE="DATE" comment="" />
+<NAME id="P21" start="1246" end="1264" text="Mairead O'Donoghue" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="1270" end="1280" text="04/11/2059" TYPE="DATE" comment="" />
+<ID id="P23" start="1286" end="1299" text="LGH 19-300177" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P24" start="1427" end="1434" text="09/2074" TYPE="DATE" comment="" />
+<LOCATION id="P25" start="1584" end="1607" text="Flat 4, 23 Thomond Road" TYPE="STREET" comment="" />
+<LOCATION id="P26" start="1609" end="1618" text="Inchicore" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P27" start="1620" end="1626" text="Dublin" TYPE="CITY" comment="" />
+<LOCATION id="P28" start="1630" end="1638" text="D08 K2F7" TYPE="ZIP" comment="" />
+<LOCATION id="P29" start="1640" end="1647" text="Ireland" TYPE="COUNTRY" comment="" />
+<LOCATION id="P30" start="1678" end="1699" text="Delaney &amp; Sons Bakery" TYPE="ORGANIZATION" comment="" />
+<NAME id="P31" start="1732" end="1749" text="Halyna Havrylenko" TYPE="PATIENT" comment="" />
+<LOCATION id="P32" start="1753" end="1757" text="Lviv" TYPE="CITY" comment="" />
+<NAME id="P33" start="1766" end="1772" text="Daryna" TYPE="PATIENT" comment="" />
+<LOCATION id="P34" start="1776" end="1787" text="Mississauga" TYPE="CITY" comment="" />
+<LOCATION id="P35" start="1789" end="1796" text="Ontario" TYPE="STATE" comment="" />
+<LOCATION id="P36" start="1798" end="1804" text="Canada" TYPE="COUNTRY" comment="" />
+<NAME id="P37" start="2447" end="2462" text="Niamh Brannigan" TYPE="DOCTOR" comment="" />
+<LOCATION id="P38" start="2676" end="2680" text="LW 3" TYPE="ROOM" comment="" />
+<NAME id="P39" start="2763" end="2779" text="Sinead Gallagher" TYPE="DOCTOR" comment="" />
+<NAME id="P40" start="2826" end="2832" text="Halyna" TYPE="PATIENT" comment="" />
+<CONTACT id="P41" start="2833" end="2849" text="+380 32 555 0178" TYPE="PHONE" comment="" />
+<NAME id="P42" start="2874" end="2885" text="M. Kowalski" TYPE="DOCTOR" comment="" />
+<DATE id="P43" start="2886" end="2896" text="22/06/2082" TYPE="DATE" comment="" />
+<NAME id="P44" start="2922" end="2931" text="mkowalski" TYPE="USERNAME" comment="" />
+<DATE id="P45" start="2932" end="2942" text="22/06/2082" TYPE="DATE" comment="" />
+<CONTACT id="P46" start="2954" end="2966" text="172.20.31.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

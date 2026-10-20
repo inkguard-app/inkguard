@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL MESSAGE (from patient)
+Sent: 07/05/2070  21:40
+To: Blue Mountain Women's Health - Dr. Aalto
+Subject: IUD check
+
+hi dr aalto,
+its amaris frost. i had the new IUD put in on the 2nd and since then ive had cramps that wake me up and some spotting. is that normal?? the last one i had took a few weeks to settle. no fever. i work from home so i can come in anytime this week.
+
+thanks
+Amaris
+
+--- reply from Joy (RN care coordinator) 07/06/2070 ---
+Hi Amaris! Cramping and light spotting are common in the first few weeks. Please call if you have fever, heavy bleeding, or severe pain. We have you down for a string check in 4-6 weeks. :)
+</TEXT>
+<TAGS>
+<DATE id="P0" start="44" end="54" text="07/05/2070" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="66" end="94" text="Blue Mountain Women's Health" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="101" end="106" text="Aalto" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="133" end="138" text="aalto" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="144" end="156" text="amaris frost" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="190" end="193" text="2nd" TYPE="DATE" comment="" />
+<NAME id="P6" start="394" end="400" text="Amaris" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="417" end="420" text="Joy" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="443" end="453" text="07/06/2070" TYPE="DATE" comment="" />
+<NAME id="P9" start="461" end="467" text="Amaris" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

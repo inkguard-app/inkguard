@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Bright Smile Pediatric Dentistry  -  88 Church Street, Suite 3, Burlington VT
+OPERATIVE NOTE (procedure room)                                           Case # BS-31877
+
+Patient: Lipica Whitlok      DOB: 02/27/2072      Age: 2      Sex: F      MRN (referring clinic): PD-2072-0048
+Date of procedure: 02/11/2075  (Tuesday)       Surgeon: Dr. Wen-Li Castellanos       Assistant: Marisol Reyes, RDH
+Referring: Dr. Obi-Thornton, Cedar Grove Childrens Clinic, referral dated 02/04/2075
+Anesthetist: ***        Anesthesia: none, knee to knee position with mother holding
+
+PREOPERATIVE DIAGNOSIS: Marginal gingivitis lower anterior sextant, plaque and calculus, no cares seen.
+POSTOPERATIVE DIAGNOSIS: Same.
+PROCEDURE: Comprehensive oral evaluation, bitewing films not taken, examination of the gingivae, supragingival and sub gingival scaling all teeth, oral hygiene education and fluoride varnish deferred.
+
+INDICATIONS: This is a two year eleven month old girl, almost three, referred by her pediatrician for a first dental visit and for a screening form for her preschool, Little Acorns Montessori. Mother, Ms. Rukhsana Anwar, signed consent (scan file Whitlock_Lipika_consent_021175.pdf). Father Callum was not present, he was working his food truck "Lippy's Dumplings" at the farmers market.
+
+DESCRIPTION: The patient was brought to the procedure room accompanied by her mother. After a tell show do with the mirror, which she called "mister spinny" the lap to lap exam was done. Soft tissue nl, tongue and palate nl, mild erythema and plaque at teeth A, B, I, J... sorry teeth K and L. The scaler was used supra and subgingival around the whole mouth, gentle, with water irrigation. Patient cried briefly during the lower anterior scaling but settled with her mothers voice, her stuffed rabbit and a sticker. No bleeding beyond expected. Estimated blood loss less than one ml. No complications. Specimens none.
+
+FINDINGS: Mild generalised plaque, localized gingivitis. Occlusion normal for age. No evidence of early childhood caries. Mother was shown tooth brushing technique and told to use a rice grain smear of fluoride toothpaste, twice a day, and avoid juice in the bed.
+
+DISPOSITION: Home with mother in good condition. Return in six months, sooner if the gums bleed or swell. Report to be faxed to Dr. Obi-Thornton (802) 555-0101 and a school form given to mother. Mother's cell 802-555-0137.
+
+SOCIAL (pasted from intake): lives with mother, father and grandma at 5 Merrimack Lane, Burlington 05401. Great grandmother Hester Whitlock, a nonagenarian, visits at Christmas and wears a full denture, per mother. Ins: VTM 4402 9918 03.
+
+Dictated by Dr. Castellanos on February 11th 2075, transcribed by voice software, NOT PROOFREAD. Electronically signed W. Castellanos DDS 02/11/2075 16:48
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="32" text="Bright Smile Pediatric Dentistry" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="37" end="53" text="88 Church Street" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="64" end="74" text="Burlington" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="75" end="77" text="VT" TYPE="STATE" comment="" />
+<ID id="P4" start="159" end="167" text="BS-31877" TYPE="IDNUM" comment="" />
+<NAME id="P5" start="178" end="192" text="Lipica Whitlok" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="203" end="213" text="02/27/2072" TYPE="DATE" comment="" />
+<AGE id="P7" start="224" end="225" text="2" TYPE="AGE" comment="" />
+<ID id="P8" start="267" end="279" text="PD-2072-0048" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="299" end="309" text="02/11/2075" TYPE="DATE" comment="" />
+<DATE id="P10" start="312" end="319" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P11" start="340" end="358" text="Wen-Li Castellanos" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="376" end="389" text="Marisol Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="410" end="422" text="Obi-Thornton" TYPE="DOCTOR" comment="" />
+<LOCATION id="P14" start="424" end="452" text="Cedar Grove Childrens Clinic" TYPE="HOSPITAL" comment="" />
+<DATE id="P15" start="469" end="479" text="02/04/2075" TYPE="DATE" comment="" />
+<AGE id="P16" start="925" end="950" text="two year eleven month old" TYPE="AGE" comment="" />
+<LOCATION id="P17" start="1069" end="1093" text="Little Acorns Montessori" TYPE="ORGANIZATION" comment="" />
+<NAME id="P18" start="1103" end="1121" text="Ms. Rukhsana Anwar" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1149" end="1164" text="Whitlock_Lipika" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="1173" end="1179" text="021175" TYPE="DATE" comment="" />
+<NAME id="P21" start="1193" end="1199" text="Callum" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="1248" end="1265" text="Lippy's Dumplings" TYPE="ORGANIZATION" comment="" />
+<NAME id="P23" start="2308" end="2320" text="Obi-Thornton" TYPE="DOCTOR" comment="" />
+<CONTACT id="P24" start="2321" end="2335" text="(802) 555-0101" TYPE="FAX" comment="" />
+<CONTACT id="P25" start="2385" end="2397" text="802-555-0137" TYPE="PHONE" comment="" />
+<LOCATION id="P26" start="2470" end="2486" text="5 Merrimack Lane" TYPE="STREET" comment="" />
+<LOCATION id="P27" start="2488" end="2498" text="Burlington" TYPE="CITY" comment="" />
+<LOCATION id="P28" start="2499" end="2504" text="05401" TYPE="ZIP" comment="" />
+<NAME id="P29" start="2524" end="2539" text="Hester Whitlock" TYPE="PATIENT" comment="" />
+<AGE id="P30" start="2543" end="2555" text="nonagenarian" TYPE="AGE" comment="" />
+<ID id="P31" start="2620" end="2636" text="VTM 4402 9918 03" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P32" start="2655" end="2666" text="Castellanos" TYPE="DOCTOR" comment="" />
+<DATE id="P33" start="2670" end="2688" text="February 11th 2075" TYPE="DATE" comment="" />
+<NAME id="P34" start="2758" end="2772" text="W. Castellanos" TYPE="DOCTOR" comment="" />
+<DATE id="P35" start="2777" end="2787" text="02/11/2075" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

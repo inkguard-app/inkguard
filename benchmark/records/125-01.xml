@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>North Prairie Cancer Institute - DEPT OF RADIOLOGY
+Pt name: ABBEY, JONAS   MRN: 7710-4426   DOB: 06/17/2000   Age: 70   Sex: M
+Study: CT chest abdomen pelvis with contrast   Date of study: 03/04/71
+Ordered by: Dr. Olena Hryshko (Medical Oncology)
+
+INDICATION: Staging, newly diagnosed adenocarcinoma of colon (biopsy 2/22, reported 2/27/71). Patient have history of polyp removal same day as colonoscopy.
+
+COMPARISON: None. Patient report he had CT in 2065 in other country, no images avaliable.
+
+TECHNIQUE: Portal venous phase, 100 ml of iodinated contrast. Dose log attached.
+
+FINDINGS:
+Chest: No pulmonary nodule more than 4 mm. Mild coronary calcification, patient have ischemic heart disease (stent not seen). No pleural efusion. Lymph nodes of mediastinum not enlarged.
+Abdomen: Liver without focal lesion. There is a concentric wall thickening of sigmoid colon, length approx 4 cm, with pericolic fat stranding. Two small pericolic nodes up to 8 mm, suspicious. No ascites. Pancreas, spleen and both kidneys normal. Gallbladder present.
+Pelvis: No free fluid. Prostate normal size. Bladder normal. Bones: no lytic lesion, ilium and sacrum intact.
+
+IMPRESSION:
+1. Sigmoid colon mass, with 2 suspicious pericolic nodes - clinical stage maybe T3 N1, correlate pathology.
+2. No distant metastasis on this study.
+3. Mild coronary calcification.
+
+Reported by Tadeusz Wrobel, MD. Electronically signed 03/04/2071 16:22 .
+Dictated using voice recognition: "Mr. Abby" was heard in first draft, corrected to Abbey.
+cc: Farah Nasrallah, MD  fax (651) 555-0166
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="30" text="North Prairie Cancer Institute" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="60" end="72" text="ABBEY, JONAS" TYPE="PATIENT" comment="" />
+<ID id="P2" start="80" end="89" text="7710-4426" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="97" end="107" text="06/17/2000" TYPE="DATE" comment="" />
+<AGE id="P4" start="115" end="117" text="70" TYPE="AGE" comment="" />
+<DATE id="P5" start="189" end="197" text="03/04/71" TYPE="DATE" comment="" />
+<NAME id="P6" start="214" end="227" text="Olena Hryshko" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="229" end="245" text="Medical Oncology" TYPE="DEPARTMENT" comment="" />
+<DATE id="P8" start="317" end="321" text="2/22" TYPE="DATE" comment="" />
+<DATE id="P9" start="332" end="339" text="2/27/71" TYPE="DATE" comment="" />
+<DATE id="P10" start="452" end="456" text="2065" TYPE="DATE" comment="" />
+<NAME id="P11" start="1360" end="1374" text="Tadeusz Wrobel" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="1402" end="1412" text="03/04/2071" TYPE="DATE" comment="" />
+<NAME id="P13" start="1505" end="1510" text="Abbey" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1516" end="1531" text="Farah Nasrallah" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="1541" end="1555" text="(651) 555-0166" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

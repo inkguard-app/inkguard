@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,mrn,pt_name,dob,note_date,note_type,author,note_text
+70741,9034-1126,"Marissol Reyes",11/30/1997,04/30/2095,PORTAL-MSG,marisol_r_9034,"hello doctor, this is marisol, my wife Billie helps me type. Nebulizer broke, serial is on bottom. I forgot password again so my hint is plate VKR-4410 and cpap RS-7782-0031-C. dont be confuse the account is under Marcus still. Link you send: https://portal.bayshore-example.org/p/9034-1126 doesnt open on ipad (ip shows 192.168.1.44). Please can you call my friend Odell Sample if no answer, he has key. I feel the breathing is more worse since Tuesday. thank you"
+</TEXT>
+<TAGS>
+<ID id="P0" start="66" end="75" text="9034-1126" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="77" end="91" text="Marissol Reyes" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="93" end="103" text="11/30/1997" TYPE="DATE" comment="" />
+<DATE id="P3" start="104" end="114" text="04/30/2095" TYPE="DATE" comment="" />
+<NAME id="P4" start="126" end="140" text="marisol_r_9034" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="181" end="187" text="Billie" TYPE="PATIENT" comment="" />
+<ID id="P6" start="285" end="293" text="VKR-4410" TYPE="VEHICLE" comment="" />
+<ID id="P7" start="303" end="317" text="RS-7782-0031-C" TYPE="DEVICE" comment="" />
+<NAME id="P8" start="356" end="362" text="Marcus" TYPE="PATIENT" comment="" />
+<CONTACT id="P9" start="385" end="432" text="https://portal.bayshore-example.org/p/9034-1126" TYPE="URL" comment="" />
+<CONTACT id="P10" start="463" end="475" text="192.168.1.44" TYPE="IPADDR" comment="" />
+<NAME id="P11" start="508" end="520" text="Odell Sample" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="588" end="595" text="Tuesday" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

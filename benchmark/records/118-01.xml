@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OGLETHORPE FAMILY PRACTICE                                   PAGE 1 OF 2
+PROGRESS NOTE (SOAP)
+PT: HART, BLESSING  MRN OFP-0077315  DOB 10/12/2004  AGE 74  F
+DOS: 01/09/2079   PCP: VANDERMEER, SOREN MD   ROOMED BY: ALICIA BRANDT, MA
+
+CC: "KIDNEY DOC SAYS MY NUMBERS ARE BAD." (pt was SUPER CHILL and chatty, vibes good, brought a casserole for staff lol)
+
+S: 74 Y/O F W/ CKD STAGE 4 (DM NEPHROPATHY), HTN, PREDIABETES/ANEMIA, ISCHEMIC HEART DZ, HX AML? (LEUKEMIA) S/P BONE MARROW TX 01/11/2074, OSTEOPOROSIS, AWAITING KIDNEY TX. FEELS TIRED, ANKLES SWOLLEN, LESS APPETITE. DENIES CP, SOB AT REST. HUSBAND EVERETT DRIVES HER. SHE SAYS HER MOTHER-IN-LAW ODETTE HART, 94 YRS OLD, "IS STRONGER THAN ME". PT DENIES ANY SURGERIES BUT CHART SHOWS TUBAL LIGATION (2039).
+O: GLUCOSE 66.7, EGFR 21.1 (FALLING; WAS 15.7 ON 12/09/2078). NAD. 1+ PEDAL EDEMA. LUNGS CLEAR.
+A: 1. CKD 4 PROGRESSING, NEARING DIALYSIS  2. HTN  3. HYPOGLYCEMIA? (GLUCOSE 66.7 - REPEAT)  4. OSTEOPOROSIS
+P: DIALYSIS ACCESS PLAN W/ DR MENON AT COASTAL KIDNEY GROUP. HD TO START 01/15/2079 PER NEPHRO. LOW K/PHOS DIET. RTC 3 WKS.
+
+PAGE 2 OF 2   HART, BLESSING   MRN OFP-0077315
+COPIED FORWARD FROM 01/09/2078: "PT WORKS PART TIME" (STALE - RETIRED FROM RIVERBEND ELEMENTARY SCHOOL)
+ELECTRONICALLY SIGNED SOREN VANDERMEER MD 01/09/2079 17:05   LAST EDIT BY ABRANDT FROM 10.8.31.140
+ROUTED TO: PRIYANKA MENON MD FAX (912) 555-0193
+</TEXT>
+<TAGS>
+<NAME id="P0" start="98" end="112" text="HART, BLESSING" TYPE="PATIENT" comment="" />
+<ID id="P1" start="118" end="129" text="OFP-0077315" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="135" end="145" text="10/12/2004" TYPE="DATE" comment="" />
+<AGE id="P3" start="151" end="153" text="74" TYPE="AGE" comment="" />
+<DATE id="P4" start="162" end="172" text="01/09/2079" TYPE="DATE" comment="" />
+<NAME id="P5" start="180" end="190" text="VANDERMEER" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="214" end="227" text="ALICIA BRANDT" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="482" end="492" text="01/11/2074" TYPE="DATE" comment="" />
+<NAME id="P8" start="604" end="611" text="EVERETT" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="651" end="662" text="ODETTE HART" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="664" end="666" text="94" TYPE="AGE" comment="" />
+<DATE id="P11" start="755" end="759" text="2039" TYPE="DATE" comment="" />
+<DATE id="P12" start="811" end="821" text="12/09/2078" TYPE="DATE" comment="" />
+<NAME id="P13" start="994" end="1002" text="DR MENON" TYPE="DOCTOR" comment="" />
+<LOCATION id="P14" start="1006" end="1026" text="COASTAL KIDNEY GROUP" TYPE="ORGANIZATION" comment="" />
+<DATE id="P15" start="1040" end="1050" text="01/15/2079" TYPE="DATE" comment="" />
+<ID id="P16" start="1127" end="1138" text="OFP-0077315" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P17" start="1159" end="1169" text="01/09/2078" TYPE="DATE" comment="" />
+<LOCATION id="P18" start="1214" end="1241" text="RIVERBEND ELEMENTARY SCHOOL" TYPE="ORGANIZATION" comment="" />
+<NAME id="P19" start="1265" end="1281" text="SOREN VANDERMEER" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1285" end="1295" text="01/09/2079" TYPE="DATE" comment="" />
+<NAME id="P21" start="1317" end="1324" text="ABRANDT" TYPE="USERNAME" comment="" />
+<CONTACT id="P22" start="1330" end="1341" text="10.8.31.140" TYPE="IPADDR" comment="" />
+<NAME id="P23" start="1353" end="1367" text="PRIYANKA MENON" TYPE="DOCTOR" comment="" />
+<CONTACT id="P24" start="1375" end="1389" text="(912) 555-0193" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

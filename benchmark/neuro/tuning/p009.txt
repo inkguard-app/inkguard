@@ -1,0 +1,27 @@
+NEUROSURGERY CONSULT
+Requesting: ED, {{FACILITY|Pembury Lakes Hospital}}
+Patient: {{NAME|Ezekiel Thornquist}}   MRN {{MRN|PLH-117-30-882}}   Date {{DATE|09/18/2077}}
+
+Reason: new [[diplopia]] and [[facial numbness]].
+
+HPI: 38 M with 3 days of horizontal binocular diplopia and left facial tingling. No headache. Family history: mother and maternal uncle with "brain blood vessel spots" — suspicious for [[familial cerebral cavernous malformation]] ([[KRIT1/CCM1]]).
+
+Exam: [[left abducens nerve palsy]] (failure of abduction OS), [[left facial nerve palsy House-Brackmann II]], [[decreased pinprick V1-V3 left]], [[left INO]] absent. No [[long tract signs]]; [[Babinski]] flexor bilaterally. Gait normal.
+
+[[MRI with SWI]]: 14 mm [[pontine cavernous malformation]], [[Zabramski type I]] (subacute haemorrhage, hyperintense on T1 and T2), with [[popcorn appearance]] and [[haemosiderin rim]]; it reaches the [[pial surface]] at the [[facial colliculus]] floor of the fourth ventricle. Numerous additional [[Zabramski type IV]] punctate foci on [[SWI]] in both hemispheres. Associated [[developmental venous anomaly]] adjacent.
+
+Assessment: symptomatic [[brainstem cavernoma]] haemorrhage.
+Plan: admit, [[dexamethasone 4 mg q6h]] short course, serial neuro exams. Surgery not advised in the acute phase; reassess at 4-6 weeks for possible resection via [[telovelar approach]] / [[suboccipital craniotomy]] using [[safe entry zones (suprafacial triangle)]]. Genetic counselling referral. Avoid anticoagulation.
+
+Dr. {{NAME|Naomi Quarshie-Bell}}, Neurosurgery, pager {{PHONE|555-266-0013}}
+=====NOTE=====
+NEURO CLINIC FOLLOW-UP — {{DATE|11/02/2077}}
+{{NAME|E. Thornquist}}  {{MRN|PLH-117-30-882}}
+
+[[Diplopia]] improving; [[abduction deficit OS]] now minimal on [[cover test]] with only diplopia in far left gaze. [[Facial nerve HB I]]. [[Trigeminal sensory deficit]] recovering, [[corneal reflex]] present. Gait normal, [[Romberg negative]]. Repeat [[MRI SWI]]: lesion now 11 mm, haematoma resorbing, [[methaemoglobin]] signal decreasing, no new bleed.
+
+Discussion: Given a single symptomatic haemorrhage and good recovery, observation chosen over resection. Annual re-bleed risk discussed (higher for [[brainstem location]] and after prior haemorrhage). Off-label [[propranolol]] and [[atorvastatin]] discussed (trial data only); neither started. Avoid [[aspirin]] where possible.
+[[KRIT1 pathogenic variant]] confirmed (c.1363C>T); sister {{NAME|Liesl Thornquist}} referred for screening at {{FACILITY|Pembury Lakes Genetics Clinic}}.
+Driving: permitted once [[diplopia]] resolved.
+Follow-up [[MRI with SWI and T2*]] in 12 months; return urgently for new [[dysphagia]], [[ataxia]] or [[hemiparesis]].
+{{NAME|N. Quarshie-Bell}}

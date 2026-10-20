@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT                                    11/17/2081
+Dear Ms. Early  (portal: https://riverbend-health.example/pt/ceary),
+
+Thank you for coming in for your annual exam today. Your blood work: total cholesterol 173 and LDL 91.3, a little higher than last time, WBC 4.8 low normal, hemoglobin 12.1 ok. Nothing to worry about period. We also did depression screening your score was zero comma great.
+
+New paragraph. Your medication list was reviewd with you today: the IUD (placed 07/30/2079) comma expires 07/2084? no that is 5 years, check 07/26/2080 was the removal date on the list - STALE, leave it. Still taking hydrocodone/acetaminophen. 
+
+I put a referal to the dentist for the gum problem. Please call Dental Scheduling at (918) 555-0100 ext 2231.
+
+Warmly comma
+Dr. Kaur
+
+Re: EARLY, CALLA / Kala Early / MRN 00-714-2825
+Routing: Tavia Bellamy, Nurse Quarles; ines.quarles@riverbend-health.example
+Dictated not proofread
+</TEXT>
+<TAGS>
+<DATE id="P0" start="54" end="64" text="11/17/2081" TYPE="DATE" comment="" />
+<NAME id="P1" start="70" end="79" text="Ms. Early" TYPE="PATIENT" comment="" />
+<CONTACT id="P2" start="90" end="131" text="https://riverbend-health.example/pt/ceary" TYPE="URL" comment="" />
+<DATE id="P3" start="490" end="500" text="07/30/2079" TYPE="DATE" comment="" />
+<DATE id="P4" start="516" end="523" text="07/2084" TYPE="DATE" comment="" />
+<DATE id="P5" start="551" end="561" text="07/26/2080" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="720" end="737" text="Dental Scheduling" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P7" start="741" end="755" text="(918) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P8" start="760" end="764" text="2231" TYPE="PHONE" comment="" />
+<NAME id="P9" start="784" end="788" text="Kaur" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="794" end="806" text="EARLY, CALLA" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="809" end="819" text="Kala Early" TYPE="PATIENT" comment="" />
+<ID id="P12" start="826" end="837" text="00-714-2825" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P13" start="847" end="860" text="Tavia Bellamy" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="862" end="875" text="Nurse Quarles" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="877" end="914" text="ines.quarles@riverbend-health.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

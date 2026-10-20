@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER-VISIT SUMMARY FOR MARCUS FROST
+Lakeshore Diabetes and Endocrine Clinic  -  03/01/2085  -  Dr Amara Paige
+
+Dear Mr. Frost,
+Thank you for coming in. Here is what we talked about.
+YOUR NUMBERS TODAY: weight 91.1 kg (was 95 last year, GREAT job), BMI 28.9, BP 104/71, HbA1c 6.1, glucose 79.5.
+WHAT THIS MEANS: your sugar is still in the "prediabetes" range. It has gone 5.9, 6.2, 5.8, 6.1 over the last 4 years. This is NOT diabetes.
+WHAT TO DO:
+ - keep walking, even in winter, even when there is frost
+ - no new medicine today. Ask about Wegovy or Glucophage only if A1c goes above 6.5
+ - recheck in about a year, March 2086
+ - your concussion from 12/16/2084 was cleared on 03/03/2085
+SAFETY: we asked about violence at home. If you ever feel unsafe call us at (608) 555-0111 or your friend Hope.
+Questions? Portal: https://myhealth.lakeshoreendo.example/mfrost   QR: [MRN 55-20917 DOB 08/23/2039]
+Printed 03/01/2085 15:30 by Y. Cobb, MA
+</TEXT>
+<TAGS>
+<NAME id="P0" start="24" end="36" text="MARCUS FROST" TYPE="PATIENT" comment="" />
+<LOCATION id="P1" start="37" end="76" text="Lakeshore Diabetes and Endocrine Clinic" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="81" end="91" text="03/01/2085" TYPE="DATE" comment="" />
+<NAME id="P3" start="99" end="110" text="Amara Paige" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="121" end="126" text="Frost" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="618" end="628" text="March 2086" TYPE="DATE" comment="" />
+<DATE id="P6" start="653" end="663" text="12/16/2084" TYPE="DATE" comment="" />
+<DATE id="P7" start="679" end="689" text="03/03/2085" TYPE="DATE" comment="" />
+<CONTACT id="P8" start="766" end="780" text="(608) 555-0111" TYPE="PHONE" comment="" />
+<NAME id="P9" start="796" end="800" text="Hope" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="821" end="866" text="https://myhealth.lakeshoreendo.example/mfrost" TYPE="URL" comment="" />
+<ID id="P11" start="878" end="886" text="55-20917" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P12" start="891" end="901" text="08/23/2039" TYPE="DATE" comment="" />
+<DATE id="P13" start="911" end="921" text="03/01/2085" TYPE="DATE" comment="" />
+<NAME id="P14" start="931" end="938" text="Y. Cobb" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>** TELEPHONE ENCOUNTER **  06/14/2086  10:22
+CALLER: PT (SPOKE TO JAYLEN ORTIZ, VOL, WITH MA TAMSIN VOGEL LISTENING IN)
+CALLBACK: 218-555-0172  or PAGER 555-0142  (CLINIC EXT x4417)
+
+--&gt; pt said his name is "Papa Alpha Golf Echo, Ezekial" (NATO alphabet lol) so we could spell it right. Page, Ezekial, DOB 11/3/41 -&gt; PAGE, EZEKIEL 11/3/41
+--&gt; Reason: lost his seizure alert wristband, engraved "Z.P. / BIG Z", serial SZ-WB-2290417. wants a new one ordered
+--&gt; Also asks if he can go back to the 06/01/2086 "anxiety thing" handout, lost that too
+--&gt; vibes: pt sounded embarrassed, kind of quiet at first. Ended up laughing.
+
+In conclusion, the patient's journey today was one of missing items, and we helped him find a path.
+
+Insurance for the band? Pt gave member id NSM 889-4410-27 (might be 889-4401-27, I wrote it twice).
+Also said Mr. Loo (friend, Ferdinand) found it?? Then no need. Pt will call back Monday.
+Routed to Achteberg for FYI. Pt's portal login: https://portal.northshorebh.example/ezpage
+</TEXT>
+<TAGS>
+<DATE id="P0" start="27" end="37" text="06/14/2086" TYPE="DATE" comment="" />
+<NAME id="P1" start="66" end="78" text="JAYLEN ORTIZ" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="93" end="105" text="TAMSIN VOGEL" TYPE="DOCTOR" comment="" />
+<CONTACT id="P3" start="130" end="142" text="218-555-0172" TYPE="PHONE" comment="" />
+<CONTACT id="P4" start="153" end="161" text="555-0142" TYPE="PHONE" comment="" />
+<CONTACT id="P5" start="175" end="180" text="x4417" TYPE="PHONE" comment="" />
+<NAME id="P6" start="208" end="228" text="Papa Alpha Golf Echo" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="317" end="330" text="PAGE, EZEKIEL" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="331" end="338" text="11/3/41" TYPE="DATE" comment="" />
+<ID id="P9" start="417" end="430" text="SZ-WB-2290417" TYPE="DEVICE" comment="" />
+<DATE id="P10" start="495" end="505" text="06/01/2086" TYPE="DATE" comment="" />
+<ID id="P11" start="767" end="782" text="NSM 889-4410-27" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P12" start="839" end="842" text="Loo" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="852" end="861" text="Ferdinand" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="906" end="912" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P15" start="924" end="933" text="Achteberg" TYPE="DOCTOR" comment="" />
+<CONTACT id="P16" start="962" end="1004" text="https://portal.northshorebh.example/ezpage" TYPE="URL" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Big Sky Veterans Behavioral Clinic   --   PROGRESS NOTE (SOAP)
+Date: 6/17/2085                      PAGE, DESMOND     MRN VBH-7-318402     Page 1 of 3
+Seen by MA Priscilla "Pip" Hargrove-Nunez (rooming) and Dr. Sunita Vazhappilly
+
+&gt;&gt;&gt; pasted from last visit, 6/11/2085:
+OPERATIVE NOTE -- Clark Fork Surgical Hospital  Date of surgery: 09/21/2083  Patient: Desmond Page Age 61 ... Laparoscopic right hemicolectomy ... Signed: -- I. Valtteri
+RADIOLOGY ... PAGE, DESMUND  DOB 09/12/2021  CT 01/26/2085: no recurrence.
+(end of pasted? not sure)
+
+S: 63 yo man, in for annual after colon cancer surgery 2083. "Doing better, but my head is not right. I don't sleep." Wife Lark says he stays up in the garden shed. Says neighbor Mr. Birch complained about noise. Son Ransom calls Sundays. Had a rough time in 2081 (violence in environment, he said it was outside the building), lost his job at Tallgrass Logistics then. Currently not in labor force. Denies SI. Mood "flat". GAD NA.
+Patient portal message from him last night: "ill log in from home, my login is dpage21" -- audit log: https://myclinic.bigskyvbc.example/login?u=dpage21 from 98.172.4.200.
+
+O: Wt 81.6 kg, BP 139/103 (high), A1c 6.3 %, glucose 90. DRE 6/11 done at surgery f/u: normal. Pain 3/10. Appears tired. Affect restricted.
+A: 1. Insomnia/depressive sx, r/o MDD. 2. Prediabetes. 3. Hypertension (new elevated diastolic). 4. Colon CA s/p resection, no recurrence. 5. Metabolic syndrome.
+P: Start sleep hygiene counselling. Recheck BP in 2 wks. Therapy referral. Release of information form for his brother-in-law Teodor Wachowiak NOT signed. Plate MT 5-11KDW on the visitor pass.
+Will page psychiatry if SI emerges. Pt thanked me and signed off "Take care, Dez".
+
+Electronically signed: Sunita Vazhappilly MD 06/17/2085 15:03     Page 3 of 3
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="34" text="Big Sky Veterans Behavioral Clinic" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="69" end="78" text="6/17/2085" TYPE="DATE" comment="" />
+<NAME id="P2" start="100" end="113" text="PAGE, DESMOND" TYPE="PATIENT" comment="" />
+<ID id="P3" start="122" end="134" text="VBH-7-318402" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P4" start="162" end="192" text="Priscilla &quot;Pip&quot; Hargrove-Nunez" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="211" end="229" text="Sunita Vazhappilly" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="259" end="268" text="6/11/2085" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="288" end="316" text="Clark Fork Surgical Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="335" end="345" text="09/21/2083" TYPE="DATE" comment="" />
+<NAME id="P9" start="356" end="368" text="Desmond Page" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="373" end="375" text="61" TYPE="AGE" comment="" />
+<NAME id="P11" start="428" end="439" text="I. Valtteri" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="454" end="467" text="PAGE, DESMUND" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="473" end="483" text="09/12/2021" TYPE="DATE" comment="" />
+<DATE id="P14" start="488" end="498" text="01/26/2085" TYPE="DATE" comment="" />
+<AGE id="P15" start="545" end="547" text="63" TYPE="AGE" comment="" />
+<DATE id="P16" start="597" end="601" text="2083" TYPE="DATE" comment="" />
+<NAME id="P17" start="665" end="669" text="Lark" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="721" end="730" text="Mr. Birch" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="759" end="765" text="Ransom" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="772" end="779" text="Sundays" TYPE="DATE" comment="" />
+<DATE id="P21" start="801" end="805" text="2081" TYPE="DATE" comment="" />
+<LOCATION id="P22" start="886" end="905" text="Tallgrass Logistics" TYPE="ORGANIZATION" comment="" />
+<NAME id="P23" start="1053" end="1060" text="dpage21" TYPE="USERNAME" comment="" />
+<CONTACT id="P24" start="1076" end="1126" text="https://myclinic.bigskyvbc.example/login?u=dpage21" TYPE="URL" comment="" />
+<CONTACT id="P25" start="1132" end="1144" text="98.172.4.200" TYPE="IPADDR" comment="" />
+<DATE id="P26" start="1208" end="1212" text="6/11" TYPE="DATE" comment="" />
+<NAME id="P27" start="1575" end="1591" text="Teodor Wachowiak" TYPE="PATIENT" comment="" />
+<ID id="P28" start="1610" end="1620" text="MT 5-11KDW" TYPE="VEHICLE" comment="" />
+<NAME id="P29" start="1719" end="1722" text="Dez" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1749" end="1767" text="Sunita Vazhappilly" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="1771" end="1781" text="06/17/2085" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

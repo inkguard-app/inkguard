@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Date: 03/04/2069   Time: 10:12   Taken by: Tyler Osgood, MA
+Caller: daughter Priscilla Hollis-Mbeki  (828-555-0163)
+Pt: Winnifred Lindqvist-Hollis   DOB 3/2/89   MRN 0082-6470
+
+S: dtr calls re: mom, "mom is nauseated since the new pills" (switched 02/22/2069 from galantamine to donepezil + memantine ER combo). Also not eating, lost track of days. When dtr phoned the house yesterday Mom answered "this is Agnes Lindqvist", which is her mother's name, died long ago.
+O: no vitals, phone call only. Dtr says she is 80, I said no she's 80 then went and looked she's turning 80 this week (March 2nd was the birthday).
+A: GI side effects of cholinesterase inhibitor, likely.
+P: Per Dr Soltesz (verbal): give dose with food, hold if vomiting, call back if no better. RX sent to Dellmont Drug, rx RX 7745013. Dtr understands. Pls dont call husband he is hard of hearing and gets upset.
+
+Tyler MA
+</TEXT>
+<TAGS>
+<DATE id="P0" start="26" end="36" text="03/04/2069" TYPE="DATE" comment="" />
+<NAME id="P1" start="63" end="75" text="Tyler Osgood" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="97" end="119" text="Priscilla Hollis-Mbeki" TYPE="PATIENT" comment="" />
+<CONTACT id="P3" start="122" end="134" text="828-555-0163" TYPE="PHONE" comment="" />
+<NAME id="P4" start="140" end="166" text="Winnifred Lindqvist-Hollis" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="173" end="179" text="3/2/89" TYPE="DATE" comment="" />
+<ID id="P6" start="186" end="195" text="0082-6470" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P7" start="268" end="278" text="02/22/2069" TYPE="DATE" comment="" />
+<NAME id="P8" start="427" end="442" text="Agnes Lindqvist" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="535" end="537" text="80" TYPE="AGE" comment="" />
+<AGE id="P10" start="555" end="557" text="80" TYPE="AGE" comment="" />
+<DATE id="P11" start="607" end="616" text="March 2nd" TYPE="DATE" comment="" />
+<NAME id="P12" start="702" end="709" text="Soltesz" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="794" end="807" text="Dellmont Drug" TYPE="ORGANIZATION" comment="" />
+<ID id="P14" start="812" end="822" text="RX 7745013" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

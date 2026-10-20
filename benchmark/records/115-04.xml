@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Heron Point Cancer Center
+Hematology and Infectious Disease Clinic
+March 23, 2061
+
+Intake Coordinator
+Northshore Recovery House
+Fax (901) 555-0199
+
+RE: REFERRAL FOR RESIDENTIAL REHABILITATION -- Jaxxon Cash (DOB 07/30/2031, age 29), MRN HP-9015526
+
+Dear Colleague,
+
+- Mr. Cash presented after an overdose on 02/16/2061 (ER visit) and has attended follow up on 02/24/2061 and today
+- diagnosis: dependent drug use (opioid), alcohol use disorder; HIV (not on ART), asthma, anemia, chronic migraine
+- he agrees to residential treatment, starting Monday
+- PHQ-9 was 15 at last screen (01/28/2061) -- moderately severe
+- family: his mother Bless Cash is supportive; grandfather Lake Cash (age 94) cannot be visited. Sister JLynn Cash is next of kin contact (901-555-0188)
+- he is an Army veteran, VA benefits pending -- ask about VA bed
+- cash only for any fees; no insurance verified yet
+
+Please keep his HIV status confidential from housemates. Send intake date to this fax: (901) 555-0170.
+
+Sincerely,
+Justice Pham, MD
+
+cc: Jaxxon Cash, 1417 Quarry Street, Apt 3, Memphis, TN
+Pasted from earlier note: "pt seen 3/23/2061 by Dr. Pam, rehab therapy discussed"
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="25" text="Heron Point Cancer Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="26" end="66" text="Hematology and Infectious Disease Clinic" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="67" end="81" text="March 23, 2061" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="102" end="127" text="Northshore Recovery House" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P4" start="132" end="146" text="(901) 555-0199" TYPE="FAX" comment="" />
+<NAME id="P5" start="195" end="206" text="Jaxxon Cash" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="212" end="222" text="07/30/2031" TYPE="DATE" comment="" />
+<AGE id="P7" start="228" end="230" text="29" TYPE="AGE" comment="" />
+<ID id="P8" start="237" end="247" text="HP-9015526" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="272" end="276" text="Cash" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="308" end="318" text="02/16/2061" TYPE="DATE" comment="" />
+<DATE id="P11" start="360" end="370" text="02/24/2061" TYPE="DATE" comment="" />
+<DATE id="P12" start="543" end="549" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P13" start="581" end="591" text="01/28/2061" TYPE="DATE" comment="" />
+<NAME id="P14" start="635" end="645" text="Bless Cash" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="673" end="682" text="Lake Cash" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="688" end="690" text="94" TYPE="AGE" comment="" />
+<NAME id="P17" start="718" end="728" text="JLynn Cash" TYPE="PATIENT" comment="" />
+<CONTACT id="P18" start="753" end="765" text="901-555-0188" TYPE="PHONE" comment="" />
+<LOCATION id="P19" start="825" end="827" text="VA" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P20" start="972" end="986" text="(901) 555-0170" TYPE="FAX" comment="" />
+<NAME id="P21" start="1000" end="1012" text="Justice Pham" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1022" end="1033" text="Jaxxon Cash" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="1035" end="1060" text="1417 Quarry Street, Apt 3" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="1062" end="1069" text="Memphis" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="1071" end="1073" text="TN" TYPE="STATE" comment="" />
+<DATE id="P26" start="1109" end="1118" text="3/23/2061" TYPE="DATE" comment="" />
+<NAME id="P27" start="1126" end="1129" text="Pam" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

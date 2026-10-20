@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Willamette Crest Medical Center
+Family Medicine Clinic
+April 10, 2079
+
+To Evergreen Hearth Bakery, Human Resources
+Attention Ms. Ruth Okonkwo-Bell
+
+Dear Ms. Okonkwo-Bell,
+
+I am writing at the request of my patient, Mrs. Dolores Case, date of birth January 17, 2018, who has accepted the position of bookkeeper with your company starting next week. She asked me to confirm that she is medically able to perform the duties of that position, which involve sitting at a desk for long periods, using a computer, and occasionally carrying files up to ten pounds.
+
+She is sixty one years old. She has a history of heart disease that was treated successfully with bypass surgery in 2073 and she is well conrolled on medication. Her last visit with me was on April 8th, when her blood pressure was one seveneten over seventy two, her weight was stable and her blood sugar was in the prediabetic range, which we are watching. She has osteoarthritis of the knee and should be allowed to stand and stertch every hour. She has no other restrictions. I do not feel there is any reason she cannot work full time.
+
+With her consent, no other heallth information is shared in this letter. Please contact the office if you need any further details, although I will need her written permission to discuss her chart.
+
+Sincerely,
+
+Hye-jin Park, MD
+Family Medicine
+
+Dictated but not read.   cc: Mrs. Case; chart
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="Willamette Crest Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="55" end="69" text="April 10, 2079" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="74" end="97" text="Evergreen Hearth Bakery" TYPE="ORGANIZATION" comment="" />
+<NAME id="P3" start="129" end="146" text="Ruth Okonkwo-Bell" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="157" end="169" text="Okonkwo-Bell" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="220" end="232" text="Dolores Case" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="248" end="264" text="January 17, 2018" TYPE="DATE" comment="" />
+<PROFESSION id="P7" start="299" end="309" text="bookkeeper" TYPE="PROFESSION" comment="" />
+<AGE id="P9" start="565" end="574" text="sixty one" TYPE="AGE" comment="" />
+<DATE id="P10" start="674" end="678" text="2073" TYPE="DATE" comment="" />
+<DATE id="P11" start="750" end="759" text="April 8th" TYPE="DATE" comment="" />
+<NAME id="P12" start="1310" end="1322" text="Hye-jin Park" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1378" end="1382" text="Case" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

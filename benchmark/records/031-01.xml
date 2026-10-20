@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>BLUE RIDGE PEDIATRIC ASSOCIATES
+LAB RESULT COMMENT TO PATIENT / FAMILY
+Patient: River Anders Holloway      DOB: 03/03/2089      Age: 10 months      MRN: 5530-1127
+Result date: 02/07/2090   Ordered by: Amara Nwosu-Bell, MD   Released by: Kelli Dunmore, RN
+Parent/Guardian: Tamsin Holloway   Phone on file: (828) 555-0134
+
+Dear Ms. Holloway,
+
+The allergy screening blood test we drew on 02/02/2090 for River came back. The result for egg is positive, which fits what you described after the scrambled egg on 01/13/2090. This does not tell us how bad a future reaction will be. We have already sent the epinephrine auto-injector to Cedar Fork Pharmacy and cetirizine for hives.
+
+Please do not give egg in any form until we meet. Baked goods count too. Please let the daycare, Little Acorns Preschool, know in writing. I attached a form for Ms. Odile Farrant the director. If River has trouble breathing, a swollen face or vomiting after eating, use the pen and call 911.
+
+Copy forward from last visit (left in by template): "Mom reports no concerns, sleeping through the night, rolls both ways, feeds well."  Weight 8.1 kg. [stale: that was 08/12/2089]
+
+Questions? Call the nurse line at (828) 555-0100 ext 212 or write through the portal at https://portal.blueridgeped.example/holloway.
+
+Electronically signed Kelli Dunmore RN 02/07/2090 16:41 for Dr. Nwosu-Bell
+Allergies: River Holloway   &lt;- wrong field filled in; real allergy is egg
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="BLUE RIDGE PEDIATRIC ASSOCIATES" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="80" end="101" text="River Anders Holloway" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="112" end="122" text="03/03/2089" TYPE="DATE" comment="" />
+<AGE id="P3" start="133" end="142" text="10 months" TYPE="AGE" comment="" />
+<ID id="P4" start="153" end="162" text="5530-1127" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="176" end="186" text="02/07/2090" TYPE="DATE" comment="" />
+<NAME id="P6" start="201" end="217" text="Amara Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="237" end="250" text="Kelli Dunmore" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="272" end="287" text="Tamsin Holloway" TYPE="PATIENT" comment="" />
+<CONTACT id="P9" start="305" end="319" text="(828) 555-0134" TYPE="PHONE" comment="" />
+<NAME id="P10" start="330" end="338" text="Holloway" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="385" end="395" text="02/02/2090" TYPE="DATE" comment="" />
+<NAME id="P12" start="400" end="405" text="River" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="506" end="516" text="01/13/2090" TYPE="DATE" comment="" />
+<LOCATION id="P14" start="629" end="648" text="Cedar Fork Pharmacy" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P15" start="773" end="796" text="Little Acorns Preschool" TYPE="ORGANIZATION" comment="" />
+<NAME id="P16" start="841" end="854" text="Odile Farrant" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="872" end="877" text="River" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="1138" end="1148" text="08/12/2089" TYPE="DATE" comment="" />
+<CONTACT id="P19" start="1185" end="1199" text="(828) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P20" start="1204" end="1207" text="212" TYPE="PHONE" comment="" />
+<CONTACT id="P21" start="1239" end="1283" text="https://portal.blueridgeped.example/holloway" TYPE="URL" comment="" />
+<NAME id="P22" start="1308" end="1321" text="Kelli Dunmore" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1325" end="1335" text="02/07/2090" TYPE="DATE" comment="" />
+<NAME id="P24" start="1350" end="1360" text="Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1372" end="1386" text="River Holloway" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

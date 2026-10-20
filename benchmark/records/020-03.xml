@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY  --  Kestrel Park Urgent Care    (voice recognition, partly edited)
+Patient: Sofia Whisnyevska Okeke   MRN 0620-18-4417   DOB 09/30/2018
+Date of visit: 02/11/2063      Age: 44      Disposition: home afetr 3 hour observation
+Treating: Dr Rohan Iyengar
+
+Reason for visti the ptaient presented with palpitations and shortness of breath and a feeling of dread started this morning she also has a brnchitis cough since January 31. No chest pain. She is a forty four year old woman with morbid, I mean pre diabetes, obseity BMI thirty one point nine, tricuspid valve regurgitation known sine two thousand thirty nine, chronic neck pain, on a hydrocodone acetaminophen from 2050 that she says she no longer takes and is not on the medication list. The patient is married and lives with her husband and her daughter Amara who is seven.
+
+Examination heart rate nineyy five, blood pressure ninety nine over seventy, SATs normal. Heart exam stable systolic murmur noted unchanged. ECG sinus rhythm no acute changes. Hemoglobin A1c fifty eight, that is five point eight percent. GAD seven score of thirreen, which is moderate to severe anxiety, the dictation said fifty but it was thirteen. Domestic abuse screen negative, drug and alcohol screen negative, social needs assessed.
+
+Diagnosis: panic like episode, bronchitis resolving. Plan: breathing exercises, avoid caffeine, follow up with family doc Dr Brandt Kessler next week, counselling referral to Sunita Pillai at the Hereditary Cancer and Oncology Risk Clinic given her mothers breast cancr history. Return if worse.
+
+Dictated by Dr. Iyengar. Transcribed by vrt_scribe07 02/12/2063. Patient discharged to husband Chidi Okeke at the front desk. Phone number of husband for follow up (905) 555-0141.
+[Comment by riyengar: "Sofia Whisnyevska" is how voice software heard it, correct name is Zofia Wisniewska-Okeke — Zofia Wisniewska-Okeke — fix pls]
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="23" end="47" text="Kestrel Park Urgent Care" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="95" end="118" text="Sofia Whisnyevska Okeke" TYPE="PATIENT" comment="" />
+<ID id="P2" start="125" end="137" text="0620-18-4417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="144" end="154" text="09/30/2018" TYPE="DATE" comment="" />
+<DATE id="P4" start="170" end="180" text="02/11/2063" TYPE="DATE" comment="" />
+<AGE id="P5" start="191" end="193" text="44" TYPE="AGE" comment="" />
+<NAME id="P6" start="255" end="268" text="Rohan Iyengar" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="432" end="442" text="January 31" TYPE="DATE" comment="" />
+<AGE id="P8" start="468" end="478" text="forty four" TYPE="AGE" comment="" />
+<DATE id="P9" start="604" end="628" text="two thousand thirty nine" TYPE="DATE" comment="" />
+<DATE id="P10" start="685" end="689" text="2050" TYPE="DATE" comment="" />
+<NAME id="P11" start="826" end="831" text="Amara" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="839" end="844" text="seven" TYPE="AGE" comment="" />
+<NAME id="P13" start="1412" end="1426" text="Brandt Kessler" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1462" end="1475" text="Sunita Pillai" TYPE="DOCTOR" comment="" />
+<LOCATION id="P16" start="1483" end="1525" text="Hereditary Cancer and Oncology Risk Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P17" start="1600" end="1607" text="Iyengar" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1624" end="1636" text="vrt_scribe07" TYPE="USERNAME" comment="" />
+<DATE id="P19" start="1637" end="1647" text="02/12/2063" TYPE="DATE" comment="" />
+<NAME id="P20" start="1679" end="1690" text="Chidi Okeke" TYPE="PATIENT" comment="" />
+<CONTACT id="P21" start="1748" end="1762" text="(905) 555-0141" TYPE="PHONE" comment="" />
+<NAME id="P22" start="1776" end="1784" text="riyengar" TYPE="USERNAME" comment="" />
+<NAME id="P23" start="1787" end="1804" text="Sofia Whisnyevska" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1854" end="1876" text="Zofia Wisniewska-Okeke" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1879" end="1901" text="Zofia Wisniewska-Okeke" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

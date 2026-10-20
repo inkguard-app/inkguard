@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id=455 | encounter=fax | note_text=
+FAX COVER SHEET
+To: Dr. Sage Brandt   Fax: (901) 555-0140   &lt;- TEMPLATE DEFAULT, last recipient. Correct recipient below.
+Corrected to: Delta Cardiology Associates, Attn: records, Fax (901) 555-0188
+From: Penny Cash, Riverbend Heart Institute     Date: 02/18/2085     Pages: 4 incl cover
+Re: Kash Fields, DOB 11/05/2033
+
+CONFIDENTIALITY NOTICE: this fax is for the person named above only. If you received it by mistake call us and destroy it.
+
+MESSAGE:
+Hi team, patient is moving his care closer to home. Enclosed: consult note, echo, last wellness visit (02/17/2085: BP 105/85, A1c 6.0, glucose 67.8, GAD-7 2, PHQ-9 5, wt 107.5 kg). Not a fan of his low sugar of 67.8, please recheck. Please do not call the number on the old chart. He says call his wife only at the new number.
+
+Lost the 2 pages of med list. Sorry.
+Thanks,
+Penny Cash, billing
+Sent from my phone
+</TEXT>
+<TAGS>
+<NAME id="P0" start="64" end="75" text="Sage Brandt" TYPE="DOCTOR" comment="" />
+<CONTACT id="P1" start="83" end="97" text="(901) 555-0140" TYPE="FAX" comment="" />
+<LOCATION id="P2" start="176" end="203" text="Delta Cardiology Associates" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P3" start="224" end="238" text="(901) 555-0188" TYPE="FAX" comment="" />
+<NAME id="P4" start="245" end="255" text="Penny Cash" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="257" end="282" text="Riverbend Heart Institute" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="293" end="303" text="02/18/2085" TYPE="DATE" comment="" />
+<NAME id="P7" start="332" end="343" text="Kash Fields" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="349" end="359" text="11/05/2033" TYPE="DATE" comment="" />
+<DATE id="P9" start="597" end="607" text="02/17/2085" TYPE="DATE" comment="" />
+<NAME id="P10" start="867" end="877" text="Penny Cash" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

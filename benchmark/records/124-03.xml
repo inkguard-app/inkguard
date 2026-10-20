@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY - Emergency Department, Saint Ansgar Medical Center
+Patient: &lt;&lt;PATIENT_NAME&gt;&gt;      MRN: 5530-2917
+@NAME@ is a @AGE@ y.o. female   DOB: **/**/****
+Admit: 09/05/2061    Discharge: 09/06/2061 02:10
+Dictating: Dr. Adaeze Nwosu, ED resident, for Dr. Kwarteng
+
+Dear [PATIENT], Dear Mrs Hartnett, (letter portion below is for the patient's copy)
+
+DIAGNOSES: 1. Concussion, mild, no loss of conciousness. 2. Right parietal scalp heamatoma. 3. Hypertension, not on treatment. 4. Prediabetes. 5. Osteoarthritis of the knee. 6. Positive screen for intimate partner violence on file since February 2061.
+
+HOSPITAL COURSE (dictated) The patient is a 63 year old lady brought by ambulance after a fall. Kindly note that she was examined, CT of the head was done and report showed no acute abnormality. Scratch that, her real name on the wristband is Corinne but the registration clerk had keyed in "Corrine Hartnett", please correct. She remained neurologically intact and tolerated oral fluids. Naproxen was hold. She went home in the care of her neighbour Pilar Szczepanski because the husband Desmond Hartnett had left the waiting room around one in the morning. Social worker Mr Tomasz Wierzba documented a safety plan and she was given the number of the local shelter hotline 800-555-0142. She would not allow us to call the police; an incident number TPD-61-77120 was nevertheless opened by the EMS crew.
+
+Her mother Gwendolyn Valdivia (ninety one, now in assisted living) is the main worry for her; patient asked us not to tell her anything. Mother's age was entered in the chart as nineteen ninety-one by the voice software, ignore.
+
+PASTED FROM TRIAGE (do not remove)
+"TRIAGE NOTES" (entered by Brianna Solis, MA)
+- pt is a 63 yo lady, came in with her neighbor mrs Chepanski who called 911
+-&gt; husband Desmund Hartnett was in waiting room
+Meds at home: lisinopril 10 mg daily, amlodipine 2.5, naproxen prn
+Allergies: Corinne Hartnett
+Emergency contact: SAME
+
+DISCHARGE MEDICATIONS: Acetaminophen 500 mg every 6 hours as needed. STOP naproxen until seen. Return if worsening headache, repeated vomiting, confusion, weakness.
+FOLLOW UP: Dr. Priyanka Venkataraghavan, Primary Care, within 2 months; concussion recheck 11/07/2061 (scheduled).
+
+cc: Dr. Venkataraghavan  fax (419) 555-0188
+cc: T. Wierzba LCSW  Note routed to: pool_edsw
+Electronically signed by Adaeze Nwosu, MD on 09/06/2061 03:41
+Dictated but not read.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="40" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P1" start="42" end="69" text="Saint Ansgar Medical Center" TYPE="HOSPITAL" comment="" />
+<ID id="P2" start="106" end="115" text="5530-2917" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="171" end="181" text="09/05/2061" TYPE="DATE" comment="" />
+<DATE id="P4" start="196" end="206" text="09/06/2061" TYPE="DATE" comment="" />
+<NAME id="P5" start="228" end="240" text="Adaeze Nwosu" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="263" end="271" text="Kwarteng" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="298" end="306" text="Hartnett" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="595" end="608" text="February 2061" TYPE="DATE" comment="" />
+<AGE id="P9" start="655" end="657" text="63" TYPE="AGE" comment="" />
+<NAME id="P10" start="854" end="861" text="Corinne" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="903" end="919" text="Corrine Hartnett" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="1062" end="1079" text="Pilar Szczepanski" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1100" end="1116" text="Desmond Hartnett" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1187" end="1201" text="Tomasz Wierzba" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="1285" end="1297" text="800-555-0142" TYPE="PHONE" comment="" />
+<ID id="P16" start="1361" end="1373" text="TPD-61-77120" TYPE="IDNUM" comment="" />
+<NAME id="P17" start="1427" end="1445" text="Gwendolyn Valdivia" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="1594" end="1613" text="nineteen ninety-one" TYPE="AGE" comment="" />
+<NAME id="P19" start="1708" end="1721" text="Brianna Solis" TYPE="DOCTOR" comment="" />
+<AGE id="P20" start="1737" end="1739" text="63" TYPE="AGE" comment="" />
+<NAME id="P21" start="1779" end="1788" text="Chepanski" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1815" end="1831" text="Desmund Hartnett" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1930" end="1946" text="Corinne Hartnett" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="2152" end="2176" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<LOCATION id="P25" start="2178" end="2190" text="Primary Care" TYPE="DEPARTMENT" comment="" />
+<DATE id="P26" start="2228" end="2238" text="11/07/2061" TYPE="DATE" comment="" />
+<NAME id="P27" start="2261" end="2276" text="Venkataraghavan" TYPE="DOCTOR" comment="" />
+<CONTACT id="P28" start="2282" end="2296" text="(419) 555-0188" TYPE="FAX" comment="" />
+<NAME id="P29" start="2301" end="2311" text="T. Wierzba" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="2369" end="2381" text="Adaeze Nwosu" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="2389" end="2399" text="09/06/2061" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

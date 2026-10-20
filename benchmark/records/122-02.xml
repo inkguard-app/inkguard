@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>St. Aldhelm Regional Hospital
+HISTORY AND PHYSICAL - ADMISSION
+Date of admission: 05/10/2093     Unit: Medicine 4 West, bed 4W-17B
+Patient: VANDERMEULEN, BRIGITTE   MRN SA-0094417   DOB 08/17/2019   Page 1 of 3
+Health card: 4471-882-937-QX
+Attending: Oluwaseun Adeyemi-Park, MD    Written by: Priya Venkataraghavan, MS3  (pvenkat2)
+
+.HPI
+@NAME@ is a 73 y.o. female with Alzheimer's disease, recurrent UTI, hip OA, brought in by ambulance from home in Kitchener by her husband Pieter Vandermeulen who found her "wandering in the garden at 5 am in her nightgown". A story of the patient's day, in my own words: Mrs. Vandermeulen is a retired garden-centre worker (Hollandia Garden Centre, left 2093 per husband, hmm, or was it 2092), born in Utrecht, who moved to Canada as a young woman, and her life has been full of plants, family and now, sadly, confusion.
+
+Son Joris in Rotterdam is awake at the phone, wants everything. Daughter Sanne is local.
+
+Past hx:
+ Alzheimer dz (dx 11/26/2089) - now donepezil/memantine since 11/22/2092
+ recurrent UTI since 01/13/2056
+ OA hip 01/26/2072 - naproxen 220 prn
+ tubal ligation 06/21/2045
+ lac of thigh 04/05/2092 resolved
+
+Meds: donepezil/memantine ER 10/28 qd; naproxen sodium 220 mg prn; galantamine 4 mg (STOPPED 11/22/2092, husband says still taking)
+
+ROS: unable, pt unreliable. Denies dysuria "I am fine, I'm fine" x4.
+
+PE: T 37.9  BP 143/86  pain 1/10  wt 77.4 kg  BMI 27.7. Confused, oriented to person only. Abdomen soft, mild suprapubic tenderness. No focal def. Gait unsteady.
+
+A/P: 1. acute confusion on dementia, r/o UTI (U/A + culture sent), med error galantamine duplicaton. 2. Hold naproxen. 3. Fall precautions, bed alarm. 4. Social work consult, husband overwhelmed. 5. PT/OT.
+
+SOAP rendered w/ comments:
+[COMMENT - pvenkat2: Dr Adeyemi Park do I need the DOB in every section?]
+[Tracked change by pvenkat2: room "4W-12A" deleted, "4W-17B" inserted]
+
+Page 2 of 3  VANDERMEULEN, BRIGITTE   MRN SA-0094471
+Electronically signed by Oluwaseun Adeyemi-Park, MD on 05/10/2093 19:22
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="29" text="St. Aldhelm Regional Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="82" end="92" text="05/10/2093" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="103" end="118" text="Medicine 4 West" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P3" start="124" end="130" text="4W-17B" TYPE="ROOM" comment="" />
+<NAME id="P4" start="140" end="162" text="VANDERMEULEN, BRIGITTE" TYPE="PATIENT" comment="" />
+<ID id="P5" start="169" end="179" text="SA-0094417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="186" end="196" text="08/17/2019" TYPE="DATE" comment="" />
+<ID id="P7" start="224" end="239" text="4471-882-937-QX" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P8" start="251" end="273" text="Oluwaseun Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="293" end="314" text="Priya Venkataraghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="322" end="330" text="pvenkat2" TYPE="USERNAME" comment="" />
+<AGE id="P11" start="350" end="352" text="73" TYPE="AGE" comment="" />
+<LOCATION id="P12" start="451" end="460" text="Kitchener" TYPE="CITY" comment="" />
+<NAME id="P13" start="476" end="495" text="Pieter Vandermeulen" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="614" end="626" text="Vandermeulen" TYPE="PATIENT" comment="" />
+<LOCATION id="P15" start="662" end="685" text="Hollandia Garden Centre" TYPE="ORGANIZATION" comment="" />
+<DATE id="P16" start="692" end="696" text="2093" TYPE="DATE" comment="" />
+<DATE id="P17" start="725" end="729" text="2092" TYPE="DATE" comment="" />
+<NAME id="P18" start="864" end="869" text="Joris" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="933" end="938" text="Sanne" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="977" end="987" text="11/26/2089" TYPE="DATE" comment="" />
+<DATE id="P21" start="1021" end="1031" text="11/22/2092" TYPE="DATE" comment="" />
+<DATE id="P22" start="1053" end="1063" text="01/13/2056" TYPE="DATE" comment="" />
+<DATE id="P23" start="1072" end="1082" text="01/26/2072" TYPE="DATE" comment="" />
+<DATE id="P24" start="1118" end="1128" text="06/21/2045" TYPE="DATE" comment="" />
+<DATE id="P25" start="1143" end="1153" text="04/05/2092" TYPE="DATE" comment="" />
+<DATE id="P26" start="1257" end="1267" text="11/22/2092" TYPE="DATE" comment="" />
+<NAME id="P27" start="1775" end="1783" text="pvenkat2" TYPE="USERNAME" comment="" />
+<NAME id="P28" start="1788" end="1800" text="Adeyemi Park" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1923" end="1945" text="VANDERMEULEN, BRIGITTE" TYPE="PATIENT" comment="" />
+<ID id="P30" start="1952" end="1962" text="SA-0094471" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P31" start="1988" end="2010" text="Oluwaseun Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<DATE id="P32" start="2018" end="2028" text="05/10/2093" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

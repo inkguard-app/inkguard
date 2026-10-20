@@ -1,0 +1,18 @@
+NEUROVASCULAR ADMISSION — {{FACILITY|Cartwright Lane University Hospital}} NSICU — {{DATE|03/30/2061}}
+{{NAME|Ignatius Fisher-Llewellyn}}, 53 M, MRN {{MRN|CLU-5509134}}
+Admitting resident Dr. {{NAME|Juniper Alcott-Mensah}}; attending Dr. {{NAME|Hartmut Ellingsen}}
+
+[[Worst headache of life]] at the gym 6 h ago, [[neck stiffness]], photophobia, one vomit. [[GCS 14 (E3V5M6)]] — [[WFNS grade II]], [[Hunt-Hess grade 2]]. No focal deficit.
+[[CT head]]: diffuse thick SAH in the basal cisterns and left sylvian fissure with bilateral [[intraventricular haemorrhage]] → [[modified Fisher grade 4]] (and the patient's name is Mr. {{NAME|Fisher-Llewellyn}} — chart the scale as "modified Fisher scale" explicitly). [[Original Fisher grade 4]]. [[Hydrocephalus]]: temporal horns 4 mm.
+[[CTA]]: 9 mm left [[MCA bifurcation aneurysm]] with a bleb, wide neck incorporating the [[superior M2 trunk]] — complex for coiling; [[surgical clipping]] favoured.
+Plan: right frontal [[EVD]] at [[Kocher's point]] now, open at [[20 cmH2O]]; [[nimodipine 60 mg q4h]]; [[clevidipine]] SBP under 140; [[tranexamic acid]] not given; seizure prophylaxis short course [[levetiracetam 500 mg BID]]; [[left pterional craniotomy and clipping]] tomorrow AM.
+=====NOTE=====
+NEUROANESTHESIA RECORD — CLIPPING — {{DATE|03/31/2061}}
+{{NAME|FISHER-LLEWELLYN, I.}} {{MRN|CLU-5509134}}
+Anesthesiologist Dr. {{NAME|Marguerite Takahashi-Bell}}; CRNA {{NAME|Elton Mwangi}}, CRNA
+Goals: avoid [[transmural pressure]] spikes at laryngoscopy and pinning ([[remifentanil]] bolus, [[lidocaine 1.5 mg/kg]]), MAP 80-100 before clip, [[normocapnia]], [[euvolaemia]]. [[TIVA propofol/remifentanil]] for [[MEP]] monitoring. [[Arterial line]] pre-induction. EVD clamped during induction then opened at 10 cmH2O after dural opening. [[Mannitol 1 g/kg]] at skin incision; [[hypertonic saline 3% 250 mL]] for further relaxation. [[Burst suppression]] with [[propofol bolus]] guided by [[EEG]] before [[temporary clip]] application on [[M1]] (6 min total). [[IONM]] ({{NAME|Yolanda Strickland}}, CNIM): MEP right hand amplitude dropped 60% after permanent clip → clip repositioned by surgeon → recovered to baseline in 4 min. [[Adenosine]] standby for [[flow arrest]] (not used).
+=====NOTE=====
+OP NOTE — {{DATE|03/31/2061}} — {{NAME|I. Fisher-Llewellyn}}
+Surgeon Dr. {{NAME|H. Ellingsen}}; resident Dr. {{NAME|J. Alcott-Mensah}}
+Left [[pterional craniotomy]], drilling of the [[lesser sphenoid wing]]. [[Distal-to-proximal sylvian fissure split]]. Proximal control on [[M1]]. Aneurysm neck dissected; the [[superior M2 trunk]] arising from the neck. Initial [[fenestrated clip]] compromised the M2 origin (MEP drop; [[ICG videoangiography]] delayed filling) → replaced with two [[Yasargil titanium clips]] in a [[tandem clipping]] configuration reconstructing the bifurcation. Repeat [[ICG]] and [[micro-Doppler]]: aneurysm occluded, M2 trunks patent, [[lenticulostriate]] perforators spared. [[Intraoperative DSA]] confirmed. Dura closed; EVD left in place.
+Post: [[TCD]] daily; [[CTA/CTP]] if clinical change; [[DCI]] surveillance days 4-14. Wife {{NAME|Philippa Fisher-Llewellyn}} {{PHONE|555-374-1192}}.

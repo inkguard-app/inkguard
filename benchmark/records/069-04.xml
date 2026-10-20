@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|note_type|author|dept|text
+91205|PATIENT PORTAL MESSAGE|dfrost48 (pt)|Spokane Valley Women's Health|
+hi, delphine here (frost, formerly aubert if the old file is under that). i am writing because i need my records sent. we are moving to winnipeg for wades job in August. the DOB is February 11, 2048 and the mrn I think is 6907-7122?? something like that. my number now: 509-555-0148. dont call the house after 5, wade is home.
+also my mother Marguerite Aubert (margarite on some forms) wants to be listed as contact, 70s.
+thanks, d.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="63" end="71" text="dfrost48" TYPE="USERNAME" comment="" />
+<LOCATION id="P1" start="77" end="106" text="Spokane Valley Women's Health" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="112" end="120" text="delphine" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="127" end="132" text="frost" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="143" end="149" text="aubert" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="244" end="252" text="winnipeg" TYPE="CITY" comment="" />
+<NAME id="P6" start="257" end="262" text="wades" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="270" end="276" text="August" TYPE="DATE" comment="" />
+<DATE id="P8" start="289" end="306" text="February 11, 2048" TYPE="DATE" comment="" />
+<ID id="P9" start="330" end="339" text="6907-7122" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P10" start="378" end="390" text="509-555-0148" TYPE="PHONE" comment="" />
+<NAME id="P11" start="421" end="425" text="wade" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="450" end="467" text="Marguerite Aubert" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="469" end="478" text="margarite" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="525" end="528" text="70s" TYPE="AGE" comment="" />
+<NAME id="P15" start="538" end="540" text="d." TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

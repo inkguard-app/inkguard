@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PRAIRIE LINE MEDICAL CENTRE  -  URGENT CARE AND IMAGING
+HISTORY AND PHYSICAL
+PATIENT: BRIGHT, MARIGOLD A   DOB: 11/17/2028   AGE: 57   MRN: MB 7714-3320
+DATE OF SERVICE: 10/19/2086 (SATURDAY)   PROVIDER: DR HENRIETTA OYELOWO-KANE   RADIOLOGY ORDER NO RAD-86-441907
+
+This is a dictation for Mrs. Bright, a fifty seven year old married woman who goes by Goldie, who was seen in the urgent care this morning. She came in on her own, her husband Lyle drove her but waited in the car, the plate is BXL 482, because the waiting room was full. She has had cough with sputum since Friday and some fever and her home test, which she brought, was positive for the coronavirus, serial number of the kit was KIT SN CV-0098812. She is concerned because her friend June Fairweather in the next apartment tested positive on Tuesday. @NAME@ is a @AGE@ y.o. woman (template, partly filled).
+
+Past history is as in the chart: obesity, hypertension, history of miscarriage and tubal ligation, transformed migraine with chronic pain, prediabetes with anemia. She lost her full time job at Ashgrove Credit Union (she was a loan processor) in June 2085, is not in the labor force now and has limited social contact since 2081. In 2084 the record notes a resolved history of intimate partner abuse, from her previous partner Gordon Lacey, and the patient says she feels safe today. Meds: hydrochlorothiazide, lisinopril 10 mg, discontinued per her on 07/07/2086 but the bottle is still in the bag. She uses an old inhaler from her sister's.
+
+Examination: afebrile in the clinic, 99 percent on room air, heart sounds regular, a few coarse crackles on the right base, throat red, no rash. A portable chest film was done at 10:40 [clock only] and the preliminary radiology read by Dr A. Pruszynski is no consolidation, mild bronchial wall thickening. 
+
+Impression: viral illness, SARS-CoV-2 positive, mild. Plan: fluids, rest, acetaminophen, isolate, call if breathless. Contact (319) 555-0138 or the daughter Dawn Bright-Okoro at 319-555-0144 if no answer. Insurance member ID HLX 4410-77-2931.
+
+Dictated but not read. Electronically signed H. Oyelowo-Kane 10/19/2086 13:02 // edited by hokane from 172.16.9.203
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="PRAIRIE LINE MEDICAL CENTRE" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="55" text="URGENT CARE AND IMAGING" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="86" end="104" text="BRIGHT, MARIGOLD A" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="112" end="122" text="11/17/2028" TYPE="DATE" comment="" />
+<AGE id="P4" start="130" end="132" text="57" TYPE="AGE" comment="" />
+<ID id="P5" start="140" end="152" text="MB 7714-3320" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="170" end="180" text="10/19/2086" TYPE="DATE" comment="" />
+<DATE id="P7" start="182" end="190" text="SATURDAY" TYPE="DATE" comment="" />
+<NAME id="P8" start="207" end="229" text="HENRIETTA OYELOWO-KANE" TYPE="DOCTOR" comment="" />
+<ID id="P9" start="251" end="264" text="RAD-86-441907" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="295" end="301" text="Bright" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="352" end="358" text="Goldie" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="442" end="446" text="Lyle" TYPE="PATIENT" comment="" />
+<ID id="P13" start="493" end="500" text="BXL 482" TYPE="VEHICLE" comment="" />
+<DATE id="P14" start="573" end="579" text="Friday" TYPE="DATE" comment="" />
+<ID id="P15" start="696" end="713" text="KIT SN CV-0098812" TYPE="DEVICE" comment="" />
+<NAME id="P16" start="751" end="767" text="June Fairweather" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="809" end="816" text="Tuesday" TYPE="DATE" comment="" />
+<LOCATION id="P18" start="1069" end="1090" text="Ashgrove Credit Union" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P19" start="1102" end="1116" text="loan processor" TYPE="PROFESSION" comment="" />
+<DATE id="P20" start="1121" end="1130" text="June 2085" TYPE="DATE" comment="" />
+<DATE id="P21" start="1199" end="1203" text="2081" TYPE="DATE" comment="" />
+<DATE id="P22" start="1208" end="1212" text="2084" TYPE="DATE" comment="" />
+<NAME id="P23" start="1302" end="1314" text="Gordon Lacey" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="1428" end="1438" text="07/07/2086" TYPE="DATE" comment="" />
+<NAME id="P25" start="1758" end="1771" text="A. Pruszynski" TYPE="DOCTOR" comment="" />
+<CONTACT id="P26" start="1953" end="1967" text="(319) 555-0138" TYPE="PHONE" comment="" />
+<NAME id="P27" start="1984" end="2001" text="Dawn Bright-Okoro" TYPE="PATIENT" comment="" />
+<CONTACT id="P28" start="2005" end="2017" text="319-555-0144" TYPE="PHONE" comment="" />
+<ID id="P29" start="2052" end="2068" text="HLX 4410-77-2931" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P30" start="2116" end="2131" text="H. Oyelowo-Kane" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="2132" end="2142" text="10/19/2086" TYPE="DATE" comment="" />
+<NAME id="P32" start="2162" end="2168" text="hokane" TYPE="USERNAME" comment="" />
+<CONTACT id="P33" start="2174" end="2186" text="172.16.9.203" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

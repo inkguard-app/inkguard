@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE   St. Eadburh's Medical Center   Emergency Department
+Arrival 10/10/2074 17:48    Triage ESI 3    Room ED-14
+Patient: Tadeusz Wieczorek   MRN WK-6620931   DOB 11/09/2026   47 y/o M
+ED attending: Dr. Kenji Oyelaran   RN: Brigid Fontaine
+
+S: 47 yo man restrained driver, rear-ended at a red light on Pacific Ave about 1 hr before arrival. Car: grey sedan plate BKM 6215, other driver gave insurance info to police, report # TPD-74-118820. Immediate neck pain and stiffness, headache, no LOC, no vomiting, denies numbness or weakness. Hx chronic low back and neck pain (since 2069), previously on long-acting opioids until Feb 2072, now only acetaminophen. Obesity. PMH also notes partner abuse hx, pt states he is safe at home now. Father had Parkinson's disease, uncle Hodgkin lymphoma - not relevant today. NKDA.
+O: Vitals T 36.9 HR 88 BP 142/88 (pain) RR 16 SpO2 98% RA. Wt 109.1 kg. Alert, GCS 15. C-spine tender paraspinal mucles, no midline step-off, ROM limited by pain. Neuro intact, no Bell's palsy, no facial droop. Spurling neg. CT c-spine neg for fracture. Lungs clear, abd soft nontender, seatbelt sign absent.
+A: Cervical strain / whiplash injury of neck, MVC.
+P: acetaminophen 325 mg q6h prn (Tylenol ok), NO opioids per pt request and hx; heat, gentle ROM, soft collar not advised. Rtc if worse. Pt asked us to page his friend Desmond Achebe to pick him up, ph 253-555-0148.  Ill page ortho only if sx persist.
+Seen with Dr. Oyelaran. Dc'd 10/10/2074 21:15 in stable condition.
+
+Electronically signed by Kenji Oyelaran, MD on 10/10/2074 21:40
+WIECZOREK, TADEUSZ  MRN WK-6620931  Page 2 of 2
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="28" end="56" text="St. Eadburh's Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="59" end="79" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="88" end="98" text="10/10/2074" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="129" end="134" text="ED-14" TYPE="ROOM" comment="" />
+<NAME id="P4" start="144" end="161" text="Tadeusz Wieczorek" TYPE="PATIENT" comment="" />
+<ID id="P5" start="168" end="178" text="WK-6620931" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="185" end="195" text="11/09/2026" TYPE="DATE" comment="" />
+<AGE id="P7" start="198" end="200" text="47" TYPE="AGE" comment="" />
+<NAME id="P8" start="225" end="239" text="Kenji Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="246" end="261" text="Brigid Fontaine" TYPE="DOCTOR" comment="" />
+<ID id="P10" start="385" end="393" text="BKM 6215" TYPE="VEHICLE" comment="" />
+<ID id="P11" start="448" end="461" text="TPD-74-118820" TYPE="IDNUM" comment="" />
+<DATE id="P12" start="599" end="603" text="2069" TYPE="DATE" comment="" />
+<DATE id="P13" start="646" end="654" text="Feb 2072" TYPE="DATE" comment="" />
+<NAME id="P14" start="1367" end="1381" text="Desmond Achebe" TYPE="PATIENT" comment="" />
+<CONTACT id="P15" start="1401" end="1413" text="253-555-0148" TYPE="PHONE" comment="" />
+<NAME id="P16" start="1465" end="1473" text="Oyelaran" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1480" end="1490" text="10/10/2074" TYPE="DATE" comment="" />
+<NAME id="P18" start="1544" end="1558" text="Kenji Oyelaran" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1566" end="1576" text="10/10/2074" TYPE="DATE" comment="" />
+<NAME id="P20" start="1583" end="1601" text="WIECZOREK, TADEUSZ" TYPE="PATIENT" comment="" />
+<ID id="P21" start="1607" end="1617" text="WK-6620931" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

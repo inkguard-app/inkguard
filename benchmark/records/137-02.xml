@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE   06/10/2065 10:40   Ngozi Adeyemi-Clark RN   Oncology Infusion/Lab
+Pt Anneka Visser 23yo, ID band checked x2: name + DOB 09/03/2041. Pt gave DOB as 3-sep first, wristband says 9/3/41. 
+Consent for germline panel signed, wit by Hope Fairweather CGC. Blood drawn L AC 1 attempt, tol well. Pt anxious re mom (Margriet). Brought daughter Fenna (14mo), sitter Lieke = pt's sis, visiting from Utrecht, staying til July.
+Allergies: NKDA. [BSN 555-123-188 typed in allergy field by registration, removed]
+Insurance WHP 7714402. Kit barcode GP-65-0610-77. Sent to ref lab.
+Teaching: results 4 wks, no result by email; call (414) 555-0152 or ex-dir: dont call number ending 0190 (old, belongs to ex Joost).
+Pt c/o "Wellington Women's Clinic faxed her records, never recvd" -&gt; Wellington Women's Clinic fax (414) 555-0111.
+NB pt calls herself Annie at work. Mail sometimes addressed Mrs de Vries.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="15" end="25" text="06/10/2065" TYPE="DATE" comment="" />
+<NAME id="P1" start="34" end="53" text="Ngozi Adeyemi-Clark" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="59" end="80" text="Oncology Infusion/Lab" TYPE="DEPARTMENT" comment="" />
+<NAME id="P3" start="84" end="97" text="Anneka Visser" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="98" end="100" text="23" TYPE="AGE" comment="" />
+<DATE id="P5" start="135" end="145" text="09/03/2041" TYPE="DATE" comment="" />
+<DATE id="P6" start="190" end="196" text="9/3/41" TYPE="DATE" comment="" />
+<NAME id="P7" start="241" end="257" text="Hope Fairweather" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="320" end="328" text="Margriet" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="348" end="353" text="Fenna" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="369" end="374" text="Lieke" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="422" end="426" text="July" TYPE="DATE" comment="" />
+<ID id="P12" start="450" end="461" text="555-123-188" TYPE="IDNUM" comment="" />
+<ID id="P13" start="525" end="532" text="7714402" TYPE="HEALTHPLAN" comment="" />
+<ID id="P14" start="546" end="559" text="GP-65-0610-77" TYPE="IDNUM" comment="" />
+<CONTACT id="P15" start="628" end="642" text="(414) 555-0152" TYPE="PHONE" comment="" />
+<NAME id="P16" start="703" end="708" text="Joost" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="780" end="805" text="Wellington Women's Clinic" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P18" start="810" end="824" text="(414) 555-0111" TYPE="FAX" comment="" />
+<NAME id="P19" start="846" end="851" text="Annie" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="890" end="898" text="de Vries" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

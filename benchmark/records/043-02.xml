@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL - EMERGENCY DEPARTMENT
+.HPI
+@NAME@ is a @AGE@ y.o. female   &lt;-- shortcut didnt expand
+Pt: Winifred Ostrander (Winnifred Ostrander on wristband)   MRN 5518204   DOB 12/02/2020   Age 73
+Arrival: 04/09/2094 08:41 via Arrowhead Ambulance Unit M-14 (run 94-02293)
+Provider: Dr. Priscilla Anand-Boyd   Insurance: Medicare, ID 4TA7-QW2-NR80
+
+CC:
+- chest pain
+
+HPI:
+- 73 yo F, Hx hyperlipidemia (on simvastatin 10), pre-diabetes, anemia, obesity (BMI 30+), osteoporosis (alendronate - see meds), chronic low back pain
+- woke 06:30 w crushing substernal pain, L arm radiation, nausea, sweats
+- husband Harlan called 911 at ~07:50
+- ASA 325 given by EMS, SL NTG x1 w partial relief
+- No prior MI. No syncope.
+
+PMH:
+- hyperlipidemia (since 2081), prediabetes, anemia, chronic LBP, colon polyp (removed 2087), miscarriage 2054
+- osteoporosis dx 9/2091; jaw/dental problems July 2092 (alveolitis, teeth lost)
+
+Meds: simvastatin 10 mg daily; alendronate 10 mg daily (carried fwd from old list - stopped 7/2092 per dental, pt confirms NOT taking); acetaminophen prn
+
+Allergies: Winifred Ostrander   (field mislabeled - NKDA confirmed w pt)
+
+Social (family heavy, per pt + husband):
+- Lives w husband Harlan Ostrander (age 74) in a rented unit, 2216 Birchwood Lane, Unit 4, Duluth, MN 5581
+- Landlord Mr. Pruitt (Pruitt Properties LLC) - stairs, 3rd floor, no elevator
+- Daughter Gwendolyn Ostrander-Reyes (nurse in Minneapolis), son Rory (lives Fargo); granddaughter Thea 9
+- Neighbor Tilly Brandvold waters plants / has spare key
+- Mother Beatrice Whitcomb, age 94 ("ninety-four"), at Pine Hollow Care Center; father-in-law Anders is 97yo, still sharp, "in his late 90s"
+- Worked full-time until 2090 at Lakeshore Linen Service (folding / laundry presser); now not working
+- Tobacco never. EtOH rare. 
+- Pt's smartwatch (serial SW-A4417-9T) alerted her at 06:41 per husband
+
+PE:
+- BP 158/92, HR 104, RR 20, SpO2 94% RA, T 36.9
+- Anxious, diaphoretic
+- RRR, no m/r/g. Lungs: bibasilar crackles
+- Abd soft. Ext: no edema
+
+ED course:
+- ECG: ST dep V4-V6, no STE; trop I elevated (6.8, rising)
+- Labs: WBC 3.3 (low), Hgb 12.4, Cr 3.0, eGFR 7.3, total chol 236.9, LDL 193.7, A1c 6.0
+- ASA, heparin gtt, clopidogrel 300 load, morphine 2 mg IV, SL NTG
+- CXR: mild cardiomegaly, congestion
+- Cards (Dr. Hart) called 09:45
+
+Assessment/Plan:
+1. NSTEMI -&gt; cath lab for PCI
+2. Cr 3.0 - AKI vs CKD? baseline unknown, hydrate carefully, minimise contrast, renal f/u
+3. Stop simvastatin, start atorva 80
+4. Admit CCU after cath. Dr. Marlon Tatum accepting.
+
+Belongings (valuables env # VE-30871): 1 gold wedding band, engraved inside "H + W 6-14-2039", 1 hearing aid L, glasses. Given to Harlan.
+
+Electronically signed by Priscilla Anand-Boyd MD on 04/09/2094 12:20
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="23" end="43" text="EMERGENCY DEPARTMENT" TYPE="DEPARTMENT" comment="" />
+<NAME id="P1" start="111" end="129" text="Winifred Ostrander" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="131" end="150" text="Winnifred Ostrander" TYPE="PATIENT" comment="" />
+<ID id="P3" start="171" end="178" text="5518204" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="185" end="195" text="12/02/2020" TYPE="DATE" comment="" />
+<AGE id="P5" start="202" end="204" text="73" TYPE="AGE" comment="" />
+<DATE id="P6" start="214" end="224" text="04/09/2094" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="235" end="254" text="Arrowhead Ambulance" TYPE="ORGANIZATION" comment="" />
+<ID id="P8" start="255" end="264" text="Unit M-14" TYPE="IDNUM" comment="" />
+<ID id="P9" start="270" end="278" text="94-02293" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="294" end="314" text="Priscilla Anand-Boyd" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="341" end="354" text="4TA7-QW2-NR80" TYPE="HEALTHPLAN" comment="" />
+<AGE id="P12" start="381" end="383" text="73" TYPE="AGE" comment="" />
+<NAME id="P13" start="614" end="620" text="Harlan" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="750" end="754" text="2081" TYPE="DATE" comment="" />
+<DATE id="P15" start="812" end="816" text="2087" TYPE="DATE" comment="" />
+<DATE id="P16" start="831" end="835" text="2054" TYPE="DATE" comment="" />
+<DATE id="P17" start="854" end="860" text="9/2091" TYPE="DATE" comment="" />
+<DATE id="P18" start="882" end="891" text="July 2092" TYPE="DATE" comment="" />
+<DATE id="P19" start="1010" end="1016" text="7/2092" TYPE="DATE" comment="" />
+<NAME id="P20" start="1084" end="1102" text="Winifred Ostrander" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="1206" end="1222" text="Harlan Ostrander" TYPE="PATIENT" comment="" />
+<AGE id="P22" start="1228" end="1230" text="74" TYPE="AGE" comment="" />
+<LOCATION id="P23" start="1250" end="1277" text="2216 Birchwood Lane, Unit 4" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="1279" end="1285" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="1287" end="1289" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="1290" end="1294" text="5581" TYPE="ZIP" comment="" />
+<NAME id="P27" start="1310" end="1316" text="Pruitt" TYPE="PATIENT" comment="" />
+<LOCATION id="P28" start="1318" end="1339" text="Pruitt Properties LLC" TYPE="ORGANIZATION" comment="" />
+<NAME id="P29" start="1385" end="1394" text="Gwendolyn" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1395" end="1410" text="Ostrander-Reyes" TYPE="PATIENT" comment="" />
+<LOCATION id="P31" start="1421" end="1432" text="Minneapolis" TYPE="CITY" comment="" />
+<NAME id="P32" start="1439" end="1443" text="Rory" TYPE="PATIENT" comment="" />
+<LOCATION id="P33" start="1451" end="1456" text="Fargo" TYPE="CITY" comment="" />
+<NAME id="P34" start="1473" end="1477" text="Thea" TYPE="PATIENT" comment="" />
+<AGE id="P35" start="1478" end="1479" text="9" TYPE="AGE" comment="" />
+<NAME id="P36" start="1491" end="1506" text="Tilly Brandvold" TYPE="PATIENT" comment="" />
+<NAME id="P37" start="1546" end="1563" text="Beatrice Whitcomb" TYPE="PATIENT" comment="" />
+<AGE id="P38" start="1569" end="1571" text="94" TYPE="AGE" comment="" />
+<AGE id="P39" start="1574" end="1585" text="ninety-four" TYPE="AGE" comment="" />
+<LOCATION id="P40" start="1592" end="1615" text="Pine Hollow Care Center" TYPE="ORGANIZATION" comment="" />
+<NAME id="P41" start="1631" end="1637" text="Anders" TYPE="PATIENT" comment="" />
+<AGE id="P42" start="1641" end="1643" text="97" TYPE="AGE" comment="" />
+<AGE id="P43" start="1668" end="1676" text="late 90s" TYPE="AGE" comment="" />
+<DATE id="P44" start="1703" end="1707" text="2090" TYPE="DATE" comment="" />
+<LOCATION id="P45" start="1711" end="1734" text="Lakeshore Linen Service" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P46" start="1746" end="1761" text="laundry presser" TYPE="PROFESSION" comment="" />
+<ID id="P47" start="1835" end="1846" text="SW-A4417-9T" TYPE="DEVICE" comment="" />
+<NAME id="P48" start="2302" end="2306" text="Hart" TYPE="DOCTOR" comment="" />
+<LOCATION id="P49" start="2505" end="2508" text="CCU" TYPE="DEPARTMENT" comment="" />
+<NAME id="P50" start="2525" end="2537" text="Marlon Tatum" TYPE="DOCTOR" comment="" />
+<ID id="P51" start="2578" end="2586" text="VE-30871" TYPE="IDNUM" comment="" />
+<NAME id="P52" start="2627" end="2628" text="H" TYPE="PATIENT" comment="" />
+<NAME id="P53" start="2631" end="2632" text="W" TYPE="PATIENT" comment="" />
+<DATE id="P54" start="2633" end="2642" text="6-14-2039" TYPE="DATE" comment="" />
+<NAME id="P55" start="2680" end="2686" text="Harlan" TYPE="PATIENT" comment="" />
+<NAME id="P56" start="2714" end="2734" text="Priscilla Anand-Boyd" TYPE="DOCTOR" comment="" />
+<DATE id="P57" start="2741" end="2751" text="04/09/2094" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

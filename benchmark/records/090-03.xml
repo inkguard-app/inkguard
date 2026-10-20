@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER-VISIT SUMMARY
+Visit: Yearly wellness   Date 05/21/2093
+Provider: Dr Gareth Lindahl
+
+What we did today:
+- weight, blood pressure (109/81), blood sugar and A1c (6.0)
+- questions about mood, falls, alcohol and daily living. No concerns.
+Next week: please come for a blood draw on 05/28/2093. Last year's LDL was 88.6 and we want it to stay near there. Keep taking your simvastatin.
+
+Next: yearly wellness visit in 1 year. Call the clinic for chest pain.
+
+Printed for: Mrs. Whitlock
+</TEXT>
+<TAGS>
+<DATE id="P0" start="50" end="60" text="05/21/2093" TYPE="DATE" comment="" />
+<NAME id="P1" start="74" end="88" text="Gareth Lindahl" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="283" end="293" text="05/28/2093" TYPE="DATE" comment="" />
+<NAME id="P3" start="471" end="484" text="Mrs. Whitlock" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

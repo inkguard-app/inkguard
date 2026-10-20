@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL MESSAGE
+From: theo marlowe (tmarlowe_vt)
+To: Dr. Eze
+Date: Apr 14, 2081 11:52pm
+Subject: sore throat + the panic thing
+
+dr eze, throat has been killing me since yesterday (Monday). your nurse said strep test maybe? i got the swab thing done at the clinic on the 13th, still waiting. also my grandma Consuelo (shes 92 not 91 like it says in your chart!!) is saying i should "stop being dramatic" lol. and my brother Mateo keeps texting.
+
+can you also pls make sure the pharmacy label says THEO, they gave me the pills with Tamsin again. Maple Street Rx. i dont want to say it out loud at the counter
+
+oh and i might move to my moms place in Rutland this summer. Lourdes Marlowe, shes 67. dont know yet.
+
+Theo M.  802-555-0136
+Sent from my phone   tmarlowe_vt@
+</TEXT>
+<TAGS>
+<NAME id="P0" start="43" end="54" text="tmarlowe_vt" TYPE="USERNAME" comment="" />
+<NAME id="P1" start="64" end="67" text="Eze" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="74" end="86" text="Apr 14, 2081" TYPE="DATE" comment="" />
+<NAME id="P3" start="138" end="141" text="eze" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="187" end="193" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P5" start="277" end="281" text="13th" TYPE="DATE" comment="" />
+<NAME id="P6" start="314" end="322" text="Consuelo" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="329" end="331" text="92" TYPE="AGE" comment="" />
+<AGE id="P8" start="336" end="338" text="91" TYPE="AGE" comment="" />
+<NAME id="P9" start="430" end="435" text="Mateo" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="503" end="507" text="THEO" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="537" end="543" text="Tamsin" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="551" end="566" text="Maple Street Rx" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P13" start="655" end="662" text="Rutland" TYPE="CITY" comment="" />
+<NAME id="P14" start="676" end="691" text="Lourdes Marlowe" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="698" end="700" text="67" TYPE="AGE" comment="" />
+<NAME id="P16" start="718" end="725" text="Theo M." TYPE="PATIENT" comment="" />
+<CONTACT id="P17" start="727" end="739" text="802-555-0136" TYPE="PHONE" comment="" />
+<CONTACT id="P18" start="761" end="773" text="tmarlowe_vt@" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

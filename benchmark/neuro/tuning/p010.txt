@@ -1,0 +1,22 @@
+RADIOLOGY — CEREBRAL ANGIOGRAM REPORT
+{{FACILITY|Vantry Point University Hospital}}, Department of Neuroradiology
+Patient: {{NAME|Gerald Okafor-Brennan}}   MRN {{MRN|VPU-8823401}}   Accession {{ID|ACC-71-449820}}
+Exam date: {{DATE|03/09/2064}}
+
+CLINICAL: 66 M, pulsatile right-sided [[tinnitus]], [[progressive cognitive decline]], one episode of [[seizure]]. MRI showed [[dilated cortical veins]] and [[venous congestive oedema]] on [[FLAIR]] in the right temporal lobe.
+
+TECHNIQUE: Six-vessel [[diagnostic cerebral angiogram]] via right femoral access, [[5F Simmons 2 catheter]], [[3D rotational angiography]].
+
+FINDINGS: [[Dural arteriovenous fistula]] at the [[right transverse-sigmoid sinus junction]], supplied by [[transosseous branches of the occipital artery]], the [[petrosquamous branch of the middle meningeal artery]] and the [[posterior meningeal artery]] from the right vertebral. There is [[retrograde flow in the right transverse sinus]] with occlusion of the sinus distal to the fistula and [[cortical venous reflux]] into the [[vein of Labbé]], which is tortuous with venous ectasia.
+
+CLASSIFICATION: [[Borden type II]]; [[Cognard type IIa+b]]. High-risk features: cortical venous reflux, venous ectasia, [[venous hypertensive encephalopathy]].
+
+IMPRESSION: Aggressive DAVF; treatment recommended. Suitable for [[transarterial Onyx embolization via the middle meningeal artery]] with balloon protection of the sinus, or [[transvenous coil embolization]] given the isolated sinus segment.
+
+Reported by: Dr. {{NAME|Fenella Strachan}}, Interventional Neuroradiology
+=====NOTE=====
+PROCEDURE NOTE — {{DATE|03/22/2064}} — {{NAME|OKAFOR-BRENNAN, G.}} — {{MRN|VPU-8823401}}
+
+[[Transarterial embolization]] of right transverse-sigmoid DAVF. [[Marathon flow-directed microcatheter]] advanced into the [[petrosquamous MMA branch]], wedged. [[Copernic RC balloon]] inflated in the sigmoid sinus for protection. [[Onyx 34]] then [[Onyx 18]], 3.6 mL total, penetrating the fistulous point and the proximal draining vein. Final angiography: [[complete obliteration of the fistula]], no residual [[cortical venous reflux]]. Care to avoid [[facial nerve]] supply from the [[petrosal branch]] of the MMA. [[Heparin 5000 units IV]] during balloon inflation.
+
+Post: [[CN VII function HB I]]. Neuro intact. Plan [[MRI with MR venography]] 3 months, [[DSA]] 6 months. Continue [[levetiracetam 500 mg BID]]. Operator {{NAME|F. Strachan}}; wife {{NAME|Abena Okafor-Brennan}} informed at {{PHONE|(555) 830-4471}}.

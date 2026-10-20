@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE - BEHAVIORAL HEALTH LIAISON
+@NAME@ / Fields, Odette    31F    MRN BH-0058142    Sunday 10/06/2075
+RN: Colm Doherty  (pager 508-555-0142)   Location: Emergency Department, bed 14
+
+2210  Asked by ED charge nurse to see pt - tearful in bay after laceration repair (R foot, stepped on broken glass at home last night). Foot already irrigated + closed by Dr. Priscilla Yeo, naproxen scripted, tetnus up to date. Pt says "I feel stupid" and "I always do this", denies intent to harm herself - cut was an accident, glass from a jar. Husband Terrence on his way from work, he is her ride, she wont let us call anybody else. Mother Rosalind Marchetti lives Fall River not close.
+
+Pt oriented x3, calm after talking 15 mins. Not suicidal. No hx of attempts per pt. Safety screen negative. Gave the crisis line and the card for the clinic 508-555-0184.
+
+Parking: security called re her car, grey sedan plate 4RTK-731 left in the ambulance bay, moved by husband 2300 (his spelling of the plate on the form was 4RKT-731 - same car).
+Belongings: phone, purse. Insurance card in purse: member id BCX 904-33-7781-02. Wristband applied by registration reads "Fieldz" - corrected.
+Allergies: Odette Fields    &lt;- label says allergies but that is her name, allergy list is NKDA per pt.
+
+Discharged 0015 with husband. Return precautions. Note routed to: Dr. Nwosu-Bell (BH), Dr. Castellanos (PCP).
+Last edited by cdoherty on 10/7/2075 00:20 from 10.44.9.201
+</TEXT>
+<TAGS>
+<NAME id="P0" start="50" end="64" text="Fields, Odette" TYPE="PATIENT" comment="" />
+<AGE id="P1" start="68" end="70" text="31" TYPE="AGE" comment="" />
+<ID id="P2" start="79" end="89" text="BH-0058142" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="93" end="99" text="Sunday" TYPE="DATE" comment="" />
+<DATE id="P4" start="100" end="110" text="10/06/2075" TYPE="DATE" comment="" />
+<NAME id="P5" start="115" end="127" text="Colm Doherty" TYPE="DOCTOR" comment="" />
+<CONTACT id="P6" start="136" end="148" text="508-555-0142" TYPE="PHONE" comment="" />
+<LOCATION id="P7" start="162" end="182" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P8" start="188" end="190" text="14" TYPE="ROOM" comment="" />
+<NAME id="P9" start="367" end="380" text="Priscilla Yeo" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="547" end="555" text="Terrence" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="636" end="654" text="Rosalind Marchetti" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="661" end="671" text="Fall River" TYPE="CITY" comment="" />
+<CONTACT id="P13" start="841" end="853" text="508-555-0184" TYPE="PHONE" comment="" />
+<ID id="P14" start="910" end="918" text="4RTK-731" TYPE="VEHICLE" comment="" />
+<ID id="P15" start="1011" end="1019" text="4RKT-731" TYPE="VEHICLE" comment="" />
+<ID id="P16" start="1094" end="1112" text="BCX 904-33-7781-02" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P17" start="1155" end="1161" text="Fieldz" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1187" end="1200" text="Odette Fields" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1350" end="1360" text="Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1371" end="1382" text="Castellanos" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1417" end="1426" text="10/7/2075" TYPE="DATE" comment="" />
+<CONTACT id="P22" start="1438" end="1449" text="10.44.9.201" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

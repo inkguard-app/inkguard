@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Prairie Line Medical Centre, Internal Medicine
+2100 Lindenwood Boulevard, Cedar Rapids, IA 52402       January 21, 2092
+
+Attn: Utilization Review / Prior Authorization
+Heartland Mutual Health
+PO Box 4417
+Des Moines, IA 50306      FAX 515-555-0172
+
+Re: Marigold A. Bright (member BRIGHT, M), DOB 11/17/2028, Member ID HLX 4410-77-2931, group GRP 55-0831
+Request: MRI right ankle without contrast, CPT code mentioned in the order, authorization PA-92-0121-7730
+
+To whom it may concern:
+
+I am writing, in a dictated letter that I may not have fully read, in support of the request for magnetic resonance imaging of the right ankle for my patient Mrs. Bright. She is a sixty three year old woman who sprained the ankle on the 13th of January and was seen in our emergency department on January 14; plain films showed no fracture. One week later, which is today, she is still unable to walk without the boot or crutches, there is swelling and tenderness over the lateral ligaments and pain with weight bearing, and I am concerned about an occult osteochondral injury or a high grade ligament tear, particularly because she has obesity and prediabetes, which slow healing.
+
+She has no history of previous ankle surgery. I would like to emphasise that she lives alone for part of the week while her husband Lyle works away; the nearest relative is her daughter Dawn Bright-Okoro, who will accompany her. The patient is not employed so I cannot give work restrictions. Please reach me on my direct line 319-555-0165 or the office (319) 555-0100 ext 4271. Patient portal reference https://my.prairieline.example/pt/mbright2028.
+
+Sincerely,
+
+Henrietta Oyelowo-Kane, MD
+Internal Medicine      NPI 1558820477
+M.A.B. file; cc: Mrs. Bright
+
+Dictated but not read. Signed in absence. Typed by T. Jorgensen, file saved as Bright_M_MRI_ankle_PA_letter_1_21_92.docx
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="Prairie Line Medical Centre" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="29" end="46" text="Internal Medicine" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="47" end="72" text="2100 Lindenwood Boulevard" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="74" end="86" text="Cedar Rapids" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="88" end="90" text="IA" TYPE="STATE" comment="" />
+<LOCATION id="P5" start="91" end="96" text="52402" TYPE="ZIP" comment="" />
+<DATE id="P6" start="103" end="119" text="January 21, 2092" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="168" end="191" text="Heartland Mutual Health" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P8" start="192" end="203" text="PO Box 4417" TYPE="STREET" comment="" />
+<LOCATION id="P9" start="204" end="214" text="Des Moines" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="216" end="218" text="IA" TYPE="STATE" comment="" />
+<LOCATION id="P11" start="219" end="224" text="50306" TYPE="ZIP" comment="" />
+<CONTACT id="P12" start="234" end="246" text="515-555-0172" TYPE="FAX" comment="" />
+<NAME id="P13" start="252" end="270" text="Marigold A. Bright" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="279" end="288" text="BRIGHT, M" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="295" end="305" text="11/17/2028" TYPE="DATE" comment="" />
+<ID id="P16" start="317" end="333" text="HLX 4410-77-2931" TYPE="HEALTHPLAN" comment="" />
+<ID id="P17" start="341" end="352" text="GRP 55-0831" TYPE="IDNUM" comment="" />
+<ID id="P18" start="443" end="458" text="PA-92-0121-7730" TYPE="IDNUM" comment="" />
+<NAME id="P19" start="648" end="654" text="Bright" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="722" end="737" text="13th of January" TYPE="DATE" comment="" />
+<DATE id="P21" start="782" end="792" text="January 14" TYPE="DATE" comment="" />
+<NAME id="P22" start="1300" end="1304" text="Lyle" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1354" end="1371" text="Dawn Bright-Okoro" TYPE="PATIENT" comment="" />
+<CONTACT id="P24" start="1495" end="1507" text="319-555-0165" TYPE="PHONE" comment="" />
+<CONTACT id="P25" start="1522" end="1536" text="(319) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P26" start="1541" end="1545" text="4271" TYPE="PHONE" comment="" />
+<CONTACT id="P27" start="1572" end="1617" text="https://my.prairieline.example/pt/mbright2028" TYPE="URL" comment="" />
+<NAME id="P28" start="1632" end="1654" text="Henrietta Oyelowo-Kane" TYPE="DOCTOR" comment="" />
+<ID id="P29" start="1686" end="1696" text="1558820477" TYPE="LICENSE" comment="" />
+<NAME id="P30" start="1697" end="1703" text="M.A.B." TYPE="PATIENT" comment="" />
+<NAME id="P31" start="1719" end="1725" text="Bright" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="1778" end="1790" text="T. Jorgensen" TYPE="DOCTOR" comment="" />
+<CONTACT id="P33" start="1806" end="1847" text="Bright_M_MRI_ankle_PA_letter_1_21_92.docx" TYPE="URL" comment="" />
+</TAGS>
+</deIdi2b2>

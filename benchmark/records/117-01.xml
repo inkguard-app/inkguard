@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,mrn,pt_name,dob,note_date,note_type,author,note_text
+70231,9034-1126,"REYES, MARCUS",11/30/1997,03/08/2095,PROGRESS-SOAP,fhaidari,"S: Patient Marisol (name in the header is old, patient prefers Marisol, she say registration will change) come to ED again for shortness of breath, this is visit nearly every week since December. She is 97 y.o., wheeze at night, cough with white sputum. She denies smoking, but nicotine patch and the chart say daily smoker since 2059. Husband Billie in room say 'she smoke on the balcony'. O: HR 96, RR 22, SpO2 91% RA, BP 121/74 wt 81 kg. Wheeze both sides, prolonged expiration. CXR hyperinflated. A: COPD exacerbation, new emphysema suspected, OSA on CPAP, DM2, CKD. P: albuterol neb, fluticasone inhaler started, 5 days prednisone, spirometry as outpatient, refer pulmonology. Smoking cessation counselling given 3 min. Pt asks to be called Ms Reyes. Pasted old demographic block: 'Name: Marcus A Reyes  Sex: M  Spouse: Wilhelmina Reyes  VA member VAM-117-90-4421  Ph (757) 555-0149'. Pls correct phone: (757) 555-0194. Sig: F. Haidari MD ext x3318"
+</TEXT>
+<TAGS>
+<ID id="P0" start="66" end="75" text="9034-1126" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="84" end="90" text="MARCUS" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="92" end="102" text="11/30/1997" TYPE="DATE" comment="" />
+<DATE id="P3" start="103" end="113" text="03/08/2095" TYPE="DATE" comment="" />
+<NAME id="P4" start="128" end="136" text="fhaidari" TYPE="USERNAME" comment="" />
+<NAME id="P5" start="149" end="156" text="Marisol" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="201" end="208" text="Marisol" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="324" end="332" text="December" TYPE="DATE" comment="" />
+<AGE id="P8" start="341" end="343" text="97" TYPE="AGE" comment="" />
+<DATE id="P9" start="468" end="472" text="2059" TYPE="DATE" comment="" />
+<NAME id="P10" start="482" end="488" text="Billie" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="887" end="892" text="Reyes" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="931" end="945" text="Marcus A Reyes" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="963" end="979" text="Wilhelmina Reyes" TYPE="PATIENT" comment="" />
+<ID id="P14" start="991" end="1006" text="VAM-117-90-4421" TYPE="HEALTHPLAN" comment="" />
+<CONTACT id="P15" start="1011" end="1025" text="(757) 555-0149" TYPE="PHONE" comment="" />
+<CONTACT id="P16" start="1047" end="1061" text="(757) 555-0194" TYPE="PHONE" comment="" />
+<NAME id="P17" start="1071" end="1078" text="Haidari" TYPE="DOCTOR" comment="" />
+<CONTACT id="P18" start="1086" end="1091" text="x3318" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

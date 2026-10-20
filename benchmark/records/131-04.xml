@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE / PROCEDURE NOTE - Endoscopy Unit
+Corrib Park University Hospital   Theatre 3, Day Surgery
+Patient: DEMIR, RIVER     DOB: 14/09/2040     MRN: CP-2285-0417
+Procedure date: 16/07/2085 (a Monday)     Time in 08:50 out 09:55
+Endoscopist: Dr. Ocean Lally     Assistant: Seven Kowalczyk, RN     Anaesthesia: Dr. A. Pillay, sedation only
+
+- Indication: iron-deficiency?? anaemia, Hb 11.2, 44 y/o man
+- Consent: signed 16/07/2085, witnessed by Seven Kowalczyk. Interpreter present (Turkish) Mehmet K.
+- Prep: good (Boston 8)
+- OGD: mild gastritis antrum, biopsies x2 for H pylori. Duodenum normal, D2 biopsies for coeliac
+- Colonoscopy to caecum, terminal ileum intubated. One 6 mm sessile polyp sigmoid, removed w/ cold snare, retrieved. Otherwise normal. No active bleeding
+- EBL minimal. No complications
+- Specimens: 3 jars labelled "DEMIR R, 14/09/40" -&gt; NB jar 3 label says "Demer"
+- Post: observe 1 hr; discharged with wife Story (she brought the car, plate 231-D-4402)
+- Plan: result review in clinic early August; stop NSAIDs; start iron if ferritin low per GP
+- Pt asked us to print "Mr. River" on the discharge sheet not "Mr. Demir" - said Demir is his mothers name
+
+Dictated by Ocean Lally. Typed by secr_ward3 17/07/2085.
+Electronically signed Ocean Lally, Consultant Gastroenterologist 17/07/2085 08:11
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="89" end="100" text="Day Surgery" TYPE="DEPARTMENT" comment="" />
+<NAME id="P1" start="110" end="122" text="DEMIR, RIVER" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="132" end="142" text="14/09/2040" TYPE="DATE" comment="" />
+<ID id="P3" start="152" end="164" text="CP-2285-0417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="181" end="191" text="16/07/2085" TYPE="DATE" comment="" />
+<NAME id="P5" start="248" end="259" text="Ocean Lally" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="275" end="290" text="Seven Kowalczyk" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="316" end="325" text="A. Pillay" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="392" end="394" text="44" TYPE="AGE" comment="" />
+<DATE id="P9" start="421" end="431" text="16/07/2085" TYPE="DATE" comment="" />
+<NAME id="P10" start="446" end="461" text="Seven Kowalczyk" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="493" end="502" text="Mehmet K." TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="840" end="847" text="DEMIR R" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="849" end="857" text="14/09/40" TYPE="DATE" comment="" />
+<NAME id="P14" start="883" end="888" text="Demer" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="933" end="938" text="Story" TYPE="PATIENT" comment="" />
+<ID id="P16" start="967" end="977" text="231-D-4402" TYPE="VEHICLE" comment="" />
+<DATE id="P17" start="1011" end="1023" text="early August" TYPE="DATE" comment="" />
+<NAME id="P18" start="1100" end="1105" text="River" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1139" end="1144" text="Demir" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="1192" end="1203" text="Ocean Lally" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1214" end="1224" text="secr_ward3" TYPE="USERNAME" comment="" />
+<DATE id="P22" start="1225" end="1235" text="17/07/2085" TYPE="DATE" comment="" />
+<NAME id="P23" start="1259" end="1270" text="Ocean Lally" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1302" end="1312" text="17/07/2085" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

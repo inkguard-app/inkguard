@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP)  High-Risk Breast Clinic, Lakeshore Cancer Centre   06/03/2065
+Pt: VISSER, ANEKE (nee Visser, md name de Vries until div)  23F  MRN 9051-2267  DOB 09/03/2041
+Referring: Dr Bram Teunissen (PCP, Women's Health)  Attending: Dr Jorge Valderrama
+
+S: Ref for fam hx ca risk assessment. NO breast sx, no lump, no nip d/c. Mother Margriet Visser breast ca dx age 41, per pt. Maternal aunt Tineke Smit Hodgkin lymphoma 2049?, mat grandfather Gerrit Hoekstra Parkinson's. Pt says she herself "had Bell's palsy in preg" -- not in chart, unverified. Pt denies abuse hx now; chart: IPV hx 11/2059-11/2060 resolved, sep from ex Joost de Vries (legal name chg back to Visser 2064).
+G2P2: son Daan b 02/27/2060, dtr Fenna b 03/28/2064 (epidural, uncomplicated). Postnatal visit 5/9/64 dep screen neg. Contraception care last 05/11/2065.
+Pt gave DOB 03-09-2041 on intake (dutch order, same day). Works Ridgeway Linen Services FT as laundry supervisor.
+Addr: 318 Cranberry Street, Apt 2R, Milwaukee, WI 53204. Prev: Lange Nieuwstraat 14-II, 3512 PH Utrecht, Netherlands.
+O: BP 118/80, wt 63.7 kg. CBE deferred? done - nl. 
+A: Fam hx breast ca 1st deg relative &lt;45. Risk model pending (Tyrer-Cuzick no. pending).
+P: genetics counselling w/ Hope Fairweather, blood for panel 6/10. No imaging now age &lt;30. RTC after results.
+Signed J. Valderrama 6/3/65 15:20
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="22" end="45" text="High-Risk Breast Clinic" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P1" start="47" end="70" text="Lakeshore Cancer Centre" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="73" end="83" text="06/03/2065" TYPE="DATE" comment="" />
+<NAME id="P3" start="88" end="101" text="VISSER, ANEKE" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="107" end="113" text="Visser" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="123" end="131" text="de Vries" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="144" end="146" text="23" TYPE="AGE" comment="" />
+<ID id="P7" start="153" end="162" text="9051-2267" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P8" start="168" end="178" text="09/03/2041" TYPE="DATE" comment="" />
+<NAME id="P9" start="193" end="207" text="Bram Teunissen" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="214" end="228" text="Women's Health" TYPE="DEPARTMENT" comment="" />
+<NAME id="P11" start="245" end="261" text="Jorge Valderrama" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="343" end="358" text="Margriet Visser" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="376" end="378" text="41" TYPE="AGE" comment="" />
+<NAME id="P14" start="402" end="413" text="Tineke Smit" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="431" end="435" text="2049" TYPE="DATE" comment="" />
+<NAME id="P16" start="454" end="469" text="Gerrit Hoekstra" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="597" end="604" text="11/2059" TYPE="DATE" comment="" />
+<DATE id="P18" start="605" end="612" text="11/2060" TYPE="DATE" comment="" />
+<NAME id="P19" start="635" end="649" text="Joost de Vries" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="674" end="680" text="Visser" TYPE="PATIENT" comment="" />
+<DATE id="P21" start="681" end="685" text="2064" TYPE="DATE" comment="" />
+<NAME id="P22" start="698" end="702" text="Daan" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="705" end="715" text="02/27/2060" TYPE="DATE" comment="" />
+<NAME id="P24" start="721" end="726" text="Fenna" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="729" end="739" text="03/28/2064" TYPE="DATE" comment="" />
+<DATE id="P26" start="783" end="789" text="5/9/64" TYPE="DATE" comment="" />
+<DATE id="P27" start="830" end="840" text="05/11/2065" TYPE="DATE" comment="" />
+<DATE id="P28" start="854" end="864" text="03-09-2041" TYPE="DATE" comment="" />
+<LOCATION id="P29" start="906" end="929" text="Ridgeway Linen Services" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P30" start="936" end="954" text="laundry supervisor" TYPE="PROFESSION" comment="" />
+<LOCATION id="P31" start="962" end="982" text="318 Cranberry Street" TYPE="STREET" comment="" />
+<LOCATION id="P32" start="992" end="1001" text="Milwaukee" TYPE="CITY" comment="" />
+<LOCATION id="P33" start="1003" end="1005" text="WI" TYPE="STATE" comment="" />
+<LOCATION id="P34" start="1006" end="1011" text="53204" TYPE="ZIP" comment="" />
+<LOCATION id="P35" start="1019" end="1042" text="Lange Nieuwstraat 14-II" TYPE="STREET" comment="" />
+<LOCATION id="P36" start="1044" end="1051" text="3512 PH" TYPE="ZIP" comment="" />
+<LOCATION id="P37" start="1052" end="1059" text="Utrecht" TYPE="CITY" comment="" />
+<LOCATION id="P38" start="1061" end="1072" text="Netherlands" TYPE="COUNTRY" comment="" />
+<NAME id="P39" start="1242" end="1258" text="Hope Fairweather" TYPE="DOCTOR" comment="" />
+<DATE id="P40" start="1276" end="1280" text="6/10" TYPE="DATE" comment="" />
+<NAME id="P41" start="1332" end="1345" text="J. Valderrama" TYPE="DOCTOR" comment="" />
+<DATE id="P42" start="1346" end="1352" text="6/3/65" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

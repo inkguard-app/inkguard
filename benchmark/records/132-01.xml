@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PINECREST SURGICAL CENTER
+OPERATIVE REPORT
+WILL, LYLE O      MRN 3318046      DOB 09/22/2006
+DATE OF PROCEDURE: 03/22/2084      CASE OR84-0322-07
+SURGEON: Alasdair Quigley-Nakamura, MD     ASSISTANT: none     ANESTHESIA: regional block plus sedation
+
+PREOPERATIVE DIAGNOSIS: Left distal radius fracture with radiocarpal subluxation.
+POSTOPERATIVE DIAGNOSIS: Same.
+PROCEDURE: Closed reduction and percutaneous pinning, left wrist.
+
+Dictated via voice software, not proof read.
+
+INDICATIONS: This is a 77-year-old right handed gentleman who fell from a step latter at the family hardware store, Hollis &amp; Will Hardware, on the morning of surgery. He has a history of ischemic heart disease on metoprolol and simvastatin, prior appendectomy, and obesity. Will will need clearance from cardiology but the risk was felt acceptable.
+
+DESCRIPTION: The patient was identified in the pre-op area, Mr. Will confirmed his name and the left arm was marked. He was brought to the room and a time out was done. Fluoroscopy showed volar subluxation of the carpus with a displaced intra articular fracture. Under traction the reduction was acheived, and two 0.062 K wires were placed through the radial styloid. Wires were cut and left outside the skin. A sugar tong splint was applied. Estimated blood loss minimal. No complications. He tolerated it well and went to recovery in stable condition; see the dictation dated 3/23/2084 for discharge instructions.
+
+PLAN: Pain control with Tylenol with hydrocodone, 7.5 / 325 for two weeks. Wires out at six weeks. Follow up in my office. Contact is his brother's widow Margit Will at (828) 555-0102.
+
+Alasdair Quigley-Nakamura, MD    D: 03/22/2084  T: 03/24/2084
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="25" text="PINECREST SURGICAL CENTER" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="65" end="72" text="3318046" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="82" end="92" text="09/22/2006" TYPE="DATE" comment="" />
+<DATE id="P3" start="112" end="122" text="03/22/2084" TYPE="DATE" comment="" />
+<ID id="P4" start="133" end="145" text="OR84-0322-07" TYPE="IDNUM" comment="" />
+<NAME id="P5" start="155" end="180" text="Alasdair Quigley-Nakamura" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="500" end="502" text="77" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="593" end="615" text="Hollis &amp; Will Hardware" TYPE="ORGANIZATION" comment="" />
+<NAME id="P8" start="751" end="755" text="Will" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="891" end="895" text="Will" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="1405" end="1414" text="3/23/2084" TYPE="DATE" comment="" />
+<NAME id="P11" start="1598" end="1609" text="Margit Will" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="1613" end="1627" text="(828) 555-0102" TYPE="PHONE" comment="" />
+<NAME id="P13" start="1630" end="1655" text="Alasdair Quigley-Nakamura" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1666" end="1676" text="03/22/2084" TYPE="DATE" comment="" />
+<DATE id="P15" start="1681" end="1691" text="03/24/2084" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

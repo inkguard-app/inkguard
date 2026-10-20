@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 6377 | SOURCE=RIS | NOTE=RADIOLOGY | AUTHOR=rhaddad
+NORTHGATE IMAGING  Accession US-63-004417
+EXAM: US PELVIS, TRANSABDOMINAL AND TRANSVAGINAL (early pregnancy)
+PATIENT: STORY, HARMONY     DOB: 02/06/2036     MRN: SR-3340712
+EXAM DATE: 01/30/2063     AGE: 26
+REFERRING: Dr. Wednesday Ng   Ph x5521
+
+INDICATION: positive home test, LMP approx 12/2062, dating. Pt's partner X183474 waiting in lobby.
+TECHNIQUE: Standard.
+COMPARISON: none
+
+FINDINGS
+Intrauterine gestational sac with yolk sac. Embryo not yet seen. Mean sac diameter consistent with approx 5 wks.
+Right ovary normal. Left ovary with corpus luteum. No free fluid.
+IMPRESSION
+Early intrauterine pregnancy, ~5 weeks, no ectopic seen. Follow-up as clinically indicated.
+
+Story of the study: pt anxious, says "this is the story of my life lol" -- tech note. 
+Pt's mom Mercy Storey called asking for a copy; released only to pt.
+Dictated and e-signed by Royal Haddad, MD, 01/30/2063 11:48.  Cc: K. Bell (resident).
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="56" end="73" text="NORTHGATE IMAGING" TYPE="ORGANIZATION" comment="" />
+<ID id="P1" start="85" end="97" text="US-63-004417" TYPE="IDNUM" comment="" />
+<NAME id="P2" start="174" end="188" text="STORY, HARMONY" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="198" end="208" text="02/06/2036" TYPE="DATE" comment="" />
+<ID id="P4" start="218" end="228" text="SR-3340712" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="240" end="250" text="01/30/2063" TYPE="DATE" comment="" />
+<AGE id="P6" start="260" end="262" text="26" TYPE="AGE" comment="" />
+<NAME id="P7" start="278" end="290" text="Wednesday Ng" TYPE="DOCTOR" comment="" />
+<CONTACT id="P8" start="296" end="301" text="x5521" TYPE="PHONE" comment="" />
+<DATE id="P9" start="346" end="353" text="12/2062" TYPE="DATE" comment="" />
+<NAME id="P10" start="376" end="383" text="X183474" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="829" end="841" text="Mercy Storey" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="914" end="926" text="Royal Haddad" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="932" end="942" text="01/30/2063" TYPE="DATE" comment="" />
+<NAME id="P14" start="955" end="962" text="K. Bell" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Meridian Prairie Medical Center - DIAGNOSTIC RADIOLOGY
+CT PULMONARY ANGIOGRAM (CHEST WITH CONTRAST)                         Accession RAD-68-0816-0231
+Patient: GEBREMARIAM, MAHLET   MRN: E-0498127   DOB: 07/02/2018   Age: @AGE@
+Exam date/time: 8/16/2068 02:15      Ordering: Dr. Lowell Frost (Endocrine)   Dept: Obstetrics
+Page 1 of 2
+
+S:
+50 y/o woman, inpatient since 8/6, dx COVID-19 pneumonia w/ hypoxemia (admitted 8/6, suspected on 7/30), now acute chest pain and pleuritic, rising O2 requirement over the night. On prophylactic heparin since the 6th. Hx T2DM w/ diabetic kidney disease, CKD stage 4 (listed for kidney transplant), asthma, HTN, ischaemic heart disease s/p CABG, [Comment by Hector Wells: pls confirm CABG year with pt hx - chart says 2063]. Question PE.
+Renal fn is poor so contrast dose was kept to minimum, discussed with Dr. Anneliese Bishop (nephrology) by phone at 01:40, who agreed the risk of missed PE outweighs the risk to the kidnies.
+
+O:
+Technique: bolus tracked CTPA, 40 mL low-osmolar contrast, adequate opacification of the main PA (~320 HU). Compared with: none available.
+Pulmonary arteries: filling defects in segmental and subsegmental branches of the right lower lobe and a smaller one in the left lower lobe. Main PA 2.7 cm. No saddle embolus. RV/LV ratio 0.9, no septal bowing, no contrast reflux into IVC, so no CT evidence of right heart strain. No Westermark sign, no Hampton hump.
+Lungs: patchy peripheral ground-glass opacities bilaterally, worse in the lower lobes, in keeping with the known viral pneumonia. Small right pleural effusion. No pneumothorax. Mild bibasal atelectasis.
+Heart/mediastinum: sternotomy wires intact, CABG clips noted. Coronary calcification. No pericardial effusion. No lymphadenopathy (nothing to suggest Hodgkin lymphoma or sarcoid pattern, nodes all &lt; 1 cm).
+Thyroid: normal size, no goitre or diffuse enlargement of the Graves type.
+Upper abdomen: limited, normal.
+Bones: no acute fracture.
+
+A:
+1. Acute pulmonary embolism, right lower lobe segmental + left lower lobe subsegmental. No right heart strain.
+2. Bilateral ground-glass opacity c/w COVID-19 pneumonia, small R effusion.
+
+P:
+Result called to Dr. Frost at 02:48 by H. Wells, read back. Recommend therapeutic anticoagulation per primary team given CKD (dose adjust). Repeat renal function in 24-48 h. Pt's husband Dawit at bedside, informed by the nurse (interpreter not used?? - Tigrinya line ID 4471 should have been).
+
+{del}Dr. Wells{/del} Electronically signed by Hector Wells, MD on 08/16/2068 03:20
+Last edited by hwells on 08/16/2068 03:34 from 10.88.2.140
+Dictated but contrast volume corrected by hand; HU value from the console.
+cc: Lowell Frost, Anneliese Bishop, Ruth Kowalczyk (PCP) fax (612) 555-0147
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="Meridian Prairie Medical Center" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="134" end="150" text="RAD-68-0816-0231" TYPE="IDNUM" comment="" />
+<NAME id="P2" start="160" end="179" text="GEBREMARIAM, MAHLET" TYPE="PATIENT" comment="" />
+<ID id="P3" start="187" end="196" text="E-0498127" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="204" end="214" text="07/02/2018" TYPE="DATE" comment="" />
+<DATE id="P5" start="244" end="253" text="8/16/2068" TYPE="DATE" comment="" />
+<NAME id="P6" start="279" end="291" text="Lowell Frost" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="312" end="322" text="Obstetrics" TYPE="DEPARTMENT" comment="" />
+<AGE id="P8" start="339" end="341" text="50" TYPE="AGE" comment="" />
+<DATE id="P9" start="369" end="372" text="8/6" TYPE="DATE" comment="" />
+<DATE id="P10" start="419" end="422" text="8/6" TYPE="DATE" comment="" />
+<DATE id="P11" start="437" end="441" text="7/30" TYPE="DATE" comment="" />
+<DATE id="P12" start="552" end="555" text="6th" TYPE="DATE" comment="" />
+<NAME id="P13" start="696" end="708" text="Hector Wells" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="756" end="760" text="2063" TYPE="DATE" comment="" />
+<NAME id="P15" start="850" end="866" text="Anneliese Bishop" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="2186" end="2191" text="Frost" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="2204" end="2212" text="H. Wells" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="2352" end="2357" text="Dawit" TYPE="PATIENT" comment="" />
+<ID id="P19" start="2435" end="2439" text="4471" TYPE="IDNUM" comment="" />
+<NAME id="P20" start="2469" end="2474" text="Wells" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="2506" end="2518" text="Hector Wells" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="2526" end="2536" text="08/16/2068" TYPE="DATE" comment="" />
+<NAME id="P23" start="2558" end="2564" text="hwells" TYPE="USERNAME" comment="" />
+<DATE id="P24" start="2568" end="2578" text="08/16/2068" TYPE="DATE" comment="" />
+<CONTACT id="P25" start="2590" end="2601" text="10.88.2.140" TYPE="IPADDR" comment="" />
+<NAME id="P26" start="2681" end="2693" text="Lowell Frost" TYPE="DOCTOR" comment="" />
+<NAME id="P27" start="2695" end="2711" text="Anneliese Bishop" TYPE="DOCTOR" comment="" />
+<NAME id="P28" start="2713" end="2727" text="Ruth Kowalczyk" TYPE="DOCTOR" comment="" />
+<CONTACT id="P29" start="2738" end="2752" text="(612) 555-0147" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

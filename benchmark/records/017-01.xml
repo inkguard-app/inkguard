@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER    Tallow Creek Family Practice
+Pt: Noreen F. Crane   MRN 0417-3306   DOB 02/09/2019   Age: 60
+Call rec'd 11/05/2079 08:50 by Calla Brennan RN
+Caller: sister Delia Crane-Whitcomb cb (740) 555-0188
+Pt phpne on file (740) 555-0163
+
+Reason: sis calls re pt missed rehab appt. Pt seen 11/2 for rehab tx per Dr Vashisht, pt "fine", sis says pt hasnt answerd phone x 2 days. sis worried, pt has hx OD ?relapse. Denies knowing of any use. Pt lives alone, no hx SI per last scrn.
+
+Voicemail auto-transcript from pt line 11/04 19:12 pasted below:
+"hey its percy its me noreen call me back at five five five oh one six three i lost my other phone dont tell lyle anytging ok bye"
+(Pt goes by "Percy" per sis, since chiildhood, nothing to do w/ the med.)  Callback # given in VM = same as on file but in words, five five five oh one six three [area code not stated]
+
+A: pt reachable per VM, no acute concern stated. Sis HIPAA release on file? ***  -&gt; not verified, did not confirm any appt info w sis. Only took msg.
+P: 1) call pt back today 2) if no ans by 1700 req wellnss chexk via Zanesville Police Dept non-emerg line 3) f/u rehab 12/02
+Called pt 09:40 no answer, LM. Called again 11:15 pt ANSWERED, says phne was dead, ok, will attend. Pt asked me not to tell Lyle Ostrander her new number. Note: ex-partner NOT to be given any info. Flagged chart.
+Noreen agrees to come in Thurs.
+
+Signed: C. Brennan RN   11/05/2079 11:32
+Cc: Dr Tobias Renkel ; fax (740) 555-0120
+&amp;lt;b&amp;gt;DO NOT RELEASE TO OSTRANDER&amp;lt;/b&amp;gt;
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="23" end="51" text="Tallow Creek Family Practice" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="56" end="71" text="Noreen F. Crane" TYPE="PATIENT" comment="" />
+<ID id="P2" start="78" end="87" text="0417-3306" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="94" end="104" text="02/09/2019" TYPE="DATE" comment="" />
+<AGE id="P4" start="112" end="114" text="60" TYPE="AGE" comment="" />
+<DATE id="P5" start="126" end="136" text="11/05/2079" TYPE="DATE" comment="" />
+<NAME id="P6" start="146" end="159" text="Calla Brennan" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="178" end="198" text="Delia Crane-Whitcomb" TYPE="PATIENT" comment="" />
+<CONTACT id="P8" start="202" end="216" text="(740) 555-0188" TYPE="PHONE" comment="" />
+<CONTACT id="P9" start="234" end="248" text="(740) 555-0163" TYPE="PHONE" comment="" />
+<DATE id="P10" start="301" end="305" text="11/2" TYPE="DATE" comment="" />
+<NAME id="P11" start="326" end="334" text="Vashisht" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="532" end="537" text="11/04" TYPE="DATE" comment="" />
+<NAME id="P13" start="567" end="572" text="percy" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="580" end="586" text="noreen" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="667" end="671" text="lyle" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="702" end="707" text="Percy" TYPE="PATIENT" comment="" />
+<CONTACT id="P17" start="819" end="850" text="five five five oh one six three" TYPE="PHONE" comment="" />
+<LOCATION id="P18" start="1093" end="1115" text="Zanesville Police Dept" TYPE="ORGANIZATION" comment="" />
+<DATE id="P19" start="1144" end="1149" text="12/02" TYPE="DATE" comment="" />
+<NAME id="P20" start="1274" end="1288" text="Lyle Ostrander" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="1363" end="1369" text="Noreen" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="1388" end="1393" text="Thurs" TYPE="DATE" comment="" />
+<NAME id="P23" start="1404" end="1414" text="C. Brennan" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1420" end="1430" text="11/05/2079" TYPE="DATE" comment="" />
+<NAME id="P25" start="1444" end="1457" text="Tobias Renkel" TYPE="DOCTOR" comment="" />
+<CONTACT id="P26" start="1464" end="1478" text="(740) 555-0120" TYPE="FAX" comment="" />
+<NAME id="P27" start="1506" end="1515" text="OSTRANDER" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

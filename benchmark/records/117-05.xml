@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,mrn,pt_name,dob,note_date,note_type,author,note_text
+70955,9034-1126,"Reyes, Marisol",11/30/1997,06/02/2095,DEATH-NOTE,kasante,"Death note. Patient died at home 06/02/2095 05:10 under hospice care, wife present. Pronounced by hospice RN, confirmed by me by phone. No pulse, no breath sounds. Cause: end-stage emphysema (COPD). Hx OSA, DM2, CAD. She was 97. Family notified. Wife said 'she always asked we use her name' - note: death certificate to use Marisol Reyes, also known as Marcus Reyes on veteran records. Chaplain on call pager 4410 (not the same as plate). Body to funeral home same day. Sig K. Asante MD."
+</TEXT>
+<TAGS>
+<ID id="P0" start="66" end="75" text="9034-1126" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P1" start="93" end="103" text="11/30/1997" TYPE="DATE" comment="" />
+<DATE id="P2" start="104" end="114" text="06/02/2095" TYPE="DATE" comment="" />
+<NAME id="P3" start="126" end="133" text="kasante" TYPE="USERNAME" comment="" />
+<DATE id="P4" start="168" end="178" text="06/02/2095" TYPE="DATE" comment="" />
+<AGE id="P5" start="360" end="362" text="97" TYPE="AGE" comment="" />
+<NAME id="P6" start="459" end="472" text="Marisol Reyes" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="488" end="500" text="Marcus Reyes" TYPE="PATIENT" comment="" />
+<CONTACT id="P8" start="544" end="548" text="4410" TYPE="PHONE" comment="" />
+<NAME id="P9" start="609" end="618" text="K. Asante" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

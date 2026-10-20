@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>REFERRAL LETTER                                                  10/05/2071
+From: Dr. Faisal Qureshi, Northshore Primary Care Associates, 1180 Superior Street, Suite 4, Duluth, MN 55802
+To: Dr. Sung-min Baek, Northshore Community Dental Clinic
+Fax 218-555-0166    cc: Adaeze Eze, RN, care coordination; a.eze@northshorepca.example.org
+
+Re: Ms. Lena Marsch  DOB 02/17/2011  MRN 0618-2297  age 60
+(formerly Ilinca Brandl, born Ilinca Dumitrescu - name changed by court 2068, order 27-FA-68-00412)
+
+Dear Dr Baek,
+
+Kindly see this 60 years old lady for dental assesment and care. She had gingivitis in 2062 and again on 10/01/2068, we gave fluoride gel that time, but she not came to follow up. Now she has type 2 diabetes (since 09/29/2070) on metformin ER 500 mg, and today at the wellness visit we found hyperglycemia, high triglycerides, so metabolic syndrome. Please consider this when you plan any procedure, dont do extraction without checking sugar.
+
+Social: she is staying now at 902 Tamarack Lane, Duluth, MN 55811, before at 41 Harbor View Apts 55802. She was a victim of intimate partner abuse until 2068, this is finished now and her ex-husband is Konrad Brandl has no access, no information to be given to him or any person who phone and say they are family. Safe contact her friend Bridget Oyelaran from the shelter (Harborlight Crisis Line case DV-2068-1184). Phone to patient: 218-555-0127 only after 9 am.
+She tells me she never lived in Romania "only visited", but record from 2066 says Cluj-Napoca, so I think she is not wanting to talk about the past. Please be gentle.
+
+Eye exam done 09/08/2071 (diabetic retinal exam) and colonoscopy 08/15/2071, results in chart. Her insurance MN-3318-77-02.
+
+With thanks and regards,
+Faisal Qureshi, MD
+Sent via Direct: fqureshi@northshorepca.example.org   Last edit 10/05/2071 by fqureshi @ 172.16.8.213
+</TEXT>
+<TAGS>
+<DATE id="P0" start="65" end="75" text="10/05/2071" TYPE="DATE" comment="" />
+<NAME id="P1" start="82" end="100" text="Dr. Faisal Qureshi" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="102" end="136" text="Northshore Primary Care Associates" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="138" end="158" text="1180 Superior Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="169" end="175" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="177" end="179" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="180" end="185" text="55802" TYPE="ZIP" comment="" />
+<NAME id="P7" start="190" end="207" text="Dr. Sung-min Baek" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="209" end="243" text="Northshore Community Dental Clinic" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P9" start="248" end="260" text="218-555-0166" TYPE="FAX" comment="" />
+<NAME id="P10" start="268" end="282" text="Adaeze Eze, RN" TYPE="DOCTOR" comment="" />
+<CONTACT id="P11" start="303" end="334" text="a.eze@northshorepca.example.org" TYPE="EMAIL" comment="" />
+<NAME id="P12" start="340" end="355" text="Ms. Lena Marsch" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="361" end="371" text="02/17/2011" TYPE="DATE" comment="" />
+<ID id="P14" start="377" end="386" text="0618-2297" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P15" start="392" end="394" text="60" TYPE="AGE" comment="" />
+<NAME id="P16" start="405" end="418" text="Ilinca Brandl" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="425" end="442" text="Ilinca Dumitrescu" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="467" end="471" text="2068" TYPE="DATE" comment="" />
+<ID id="P19" start="479" end="493" text="27-FA-68-00412" TYPE="IDNUM" comment="" />
+<NAME id="P20" start="504" end="508" text="Baek" TYPE="DOCTOR" comment="" />
+<AGE id="P21" start="527" end="529" text="60" TYPE="AGE" comment="" />
+<DATE id="P22" start="598" end="602" text="2062" TYPE="DATE" comment="" />
+<DATE id="P23" start="616" end="626" text="10/01/2068" TYPE="DATE" comment="" />
+<DATE id="P24" start="726" end="736" text="09/29/2070" TYPE="DATE" comment="" />
+<LOCATION id="P25" start="985" end="1002" text="902 Tamarack Lane" TYPE="STREET" comment="" />
+<LOCATION id="P26" start="1004" end="1010" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="1012" end="1014" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P28" start="1015" end="1020" text="55811" TYPE="ZIP" comment="" />
+<LOCATION id="P29" start="1032" end="1051" text="41 Harbor View Apts" TYPE="STREET" comment="" />
+<LOCATION id="P30" start="1052" end="1057" text="55802" TYPE="ZIP" comment="" />
+<DATE id="P31" start="1108" end="1112" text="2068" TYPE="DATE" comment="" />
+<NAME id="P32" start="1157" end="1170" text="Konrad Brandl" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="1293" end="1309" text="Bridget Oyelaran" TYPE="PATIENT" comment="" />
+<LOCATION id="P34" start="1328" end="1351" text="Harborlight Crisis Line" TYPE="ORGANIZATION" comment="" />
+<ID id="P35" start="1357" end="1369" text="DV-2068-1184" TYPE="IDNUM" comment="" />
+<CONTACT id="P36" start="1390" end="1402" text="218-555-0127" TYPE="PHONE" comment="" />
+<DATE id="P37" start="1492" end="1496" text="2066" TYPE="DATE" comment="" />
+<DATE id="P38" start="1602" end="1612" text="09/08/2071" TYPE="DATE" comment="" />
+<DATE id="P39" start="1653" end="1663" text="08/15/2071" TYPE="DATE" comment="" />
+<ID id="P40" start="1697" end="1710" text="MN-3318-77-02" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P41" start="1738" end="1752" text="Faisal Qureshi" TYPE="DOCTOR" comment="" />
+<CONTACT id="P42" start="1774" end="1808" text="fqureshi@northshorepca.example.org" TYPE="EMAIL" comment="" />
+<DATE id="P43" start="1821" end="1831" text="10/05/2071" TYPE="DATE" comment="" />
+<NAME id="P44" start="1835" end="1843" text="fqureshi" TYPE="USERNAME" comment="" />
+<CONTACT id="P45" start="1846" end="1858" text="172.16.8.213" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

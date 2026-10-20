@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>SAINT ALDRIC REGIONAL MEDICAL CENTER - RADIOLOGY
+EXAM: CXR portable 1 view   ACC# RAD-76-0912-3381
+PT: VOSS, TERRENCE  AKA MARLOWE, DESMOND   MRN 0482-7731  DOB 03/09/1979  97M
+LOC: CVICU 4   EXAM DATE: 09/12/2076 05:52
+REQ: Dr Priyanka Venkataraghavan   READ: Dr Lionel Achterberg
+
+CLIN HX: POD 1 TAVI (09/11/2076). AS. ?effusion, line check. Hx Alzhiemers, NSTEMI hx.
+COMP: 09/11/2076 intraop film.
+
+FINDINGS: Sternum intact, no sternotomy wires - transcath approch. Valve prosthesis proj over aortic root, good posn. LIJ cathter tip at cavo-atrial jnxn. ETT out. Mild bilat basilar atelectasis, no pneumothorax. Small L pleural effusion, sl increased. Heart size upper nl. Mediastinum not widened. Ilium nothing acute. (ileum = typo sorry, no bony lesion)
+
+IMPRESSION:
+1. TAVI prosthesis in expected position.
+2. Small L effusion, mild atx.
+3. No PTX.
+
+Dx'd by sound alike: pt "never had any surgery" per bedside report - nonsense, see above. Report discussed w/ ICU RN Obi Eze at 06:10.
+
+Prior report fragment accidentally in template (wrong pt?): "Ivor Pennington-Lisle DOB 11/30/2051 MRN 7730-1182 CXR neg for infiltrate."
+
+Dictated by Lionel Achterberg, MD, signed 09/12/2076 07:31. Transcribed by K. Ruiz. cc: Dr Hana Kowalczyk, fax (740) 555-0140
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="36" text="SAINT ALDRIC REGIONAL MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="82" end="98" text="RAD-76-0912-3381" TYPE="IDNUM" comment="" />
+<NAME id="P2" start="103" end="117" text="VOSS, TERRENCE" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="123" end="139" text="MARLOWE, DESMOND" TYPE="PATIENT" comment="" />
+<ID id="P4" start="146" end="155" text="0482-7731" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="161" end="171" text="03/09/1979" TYPE="DATE" comment="" />
+<AGE id="P6" start="173" end="175" text="97" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="182" end="189" text="CVICU 4" TYPE="ROOM" comment="" />
+<DATE id="P8" start="203" end="213" text="09/12/2076" TYPE="DATE" comment="" />
+<NAME id="P9" start="228" end="252" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="264" end="281" text="Lionel Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="304" end="314" text="09/11/2076" TYPE="DATE" comment="" />
+<DATE id="P12" start="376" end="386" text="09/11/2076" TYPE="DATE" comment="" />
+<NAME id="P13" start="973" end="980" text="Obi Eze" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1053" end="1074" text="Ivor Pennington-Lisle" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="1079" end="1089" text="11/30/2051" TYPE="DATE" comment="" />
+<ID id="P16" start="1094" end="1103" text="7730-1182" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P17" start="1142" end="1159" text="Lionel Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1172" end="1182" text="09/12/2076" TYPE="DATE" comment="" />
+<NAME id="P19" start="1205" end="1212" text="K. Ruiz" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1221" end="1235" text="Hana Kowalczyk" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="1241" end="1255" text="(740) 555-0140" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

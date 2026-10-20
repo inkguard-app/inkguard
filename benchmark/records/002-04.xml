@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Subject: question about my results + dentst
+From: t.wieczorek.tac@fogmail.example
+To: Dr. Achterberg-Moyo's office
+Sent: Sunday, May 4, 2081 8:02 PM  from my iPhone
+
+Hello Dr. Achterberg-Moyo,
+
+this is Tadeusz Wieczorek again (the one with the surname everyone gets wrong lol, its Vee-eh-CHOR-ek). I went to the dentist Friday like you ask, Dr Salgado was very nice, she said gums are infected a bit and cleaned all teeth. Teh bill was more than I thoght because no more insurance since job ended. Can I get a letter for the financial aid? my account is HP-0042913.
+
+Also my brother Marek Wieczorec call from Lodz and say my nephew Jakub is studying medicine there, and my sister in law Halina in Mississauga, Ontario, Canada want to send me money but I need to give address: 3907 Orchard Quay Drive, Unit 12, Tacoma, Washington, 98402. Is ok to put in the portal?
+
+Do I need to worry about the cholestrol? I have heard of Ozempic from my friend Desmond, he says his Bell's palsy came after stress. Is that true? 
+
+My band sync from this morning (sorry it paste by mistake):
+ steps 9,214 | HR rest 66 | loc 47.2529, -122.4443 | device FB-CHARGE-8841-TW | wifi OrchardQuay_Unit12_5G
+
+Thankyou,
+Tadeusz
+
+--- Original message ---
+From: rtamsin@soundcrossing.example
+Sent: 04/20/2081
+Your appointment with Dr. Achterberg-Moyo is confirmed for July 13, 2081. Please arrive 15 min early.
+</TEXT>
+<TAGS>
+<CONTACT id="P0" start="50" end="81" text="t.wieczorek.tac@fogmail.example" TYPE="EMAIL" comment="" />
+<NAME id="P1" start="90" end="105" text="Achterberg-Moyo" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="121" end="140" text="Sunday, May 4, 2081" TYPE="DATE" comment="" />
+<NAME id="P3" start="281" end="295" text="Vee-eh-CHOR-ek" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="320" end="326" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P5" start="341" end="351" text="Dr Salgado" TYPE="DOCTOR" comment="" />
+<ID id="P6" start="554" end="564" text="HP-0042913" TYPE="ACCOUNT" comment="" />
+<NAME id="P7" start="583" end="598" text="Marek Wieczorec" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="609" end="613" text="Lodz" TYPE="CITY" comment="" />
+<NAME id="P9" start="632" end="637" text="Jakub" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="687" end="693" text="Halina" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="697" end="708" text="Mississauga" TYPE="CITY" comment="" />
+<LOCATION id="P12" start="710" end="717" text="Ontario" TYPE="STATE" comment="" />
+<LOCATION id="P13" start="719" end="725" text="Canada" TYPE="COUNTRY" comment="" />
+<LOCATION id="P14" start="776" end="799" text="3907 Orchard Quay Drive" TYPE="STREET" comment="" />
+<LOCATION id="P15" start="810" end="816" text="Tacoma" TYPE="CITY" comment="" />
+<LOCATION id="P16" start="818" end="828" text="Washington" TYPE="STATE" comment="" />
+<LOCATION id="P17" start="830" end="835" text="98402" TYPE="ZIP" comment="" />
+<NAME id="P18" start="946" end="953" text="Desmond" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="1107" end="1125" text="47.2529, -122.4443" TYPE="LOCATION-OTHER" comment="" />
+<ID id="P20" start="1135" end="1152" text="FB-CHARGE-8841-TW" TYPE="DEVICE" comment="" />
+<LOCATION id="P21" start="1160" end="1181" text="OrchardQuay_Unit12_5G" TYPE="LOCATION-OTHER" comment="" />
+<CONTACT id="P22" start="1233" end="1262" text="rtamsin@soundcrossing.example" TYPE="EMAIL" comment="" />
+<DATE id="P23" start="1269" end="1279" text="04/20/2081" TYPE="DATE" comment="" />
+<NAME id="P24" start="1306" end="1321" text="Achterberg-Moyo" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="1339" end="1352" text="July 13, 2081" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

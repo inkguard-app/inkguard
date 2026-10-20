@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST - Admission
+Department of Pharmacy, Riverbend Medical Center
+Patient: Page, Cassidy R      MRN 5530-9127      DOB 01/15/2041      Admit 01/30/2068
+Interviewed by: Lindsey Frame PharmD with tech Omar Reyes; source: patient, mother Joanne at bedside, outpatient pharmacy Hawthorn Street Pharmacy (phone (319) 555-0177, ask for Camila Ortega), last fill history Rx RX 3318872.
+
+CURRENT / HOME MEDICATIONS (verified)
+1. Prenatal multivitamin, 1 tab daily - taking
+2. Ferrous sulfate 325 mg daily - taking (low iron since Sept 2067)
+3. Acetaminophen (Tylenol) 500 mg PRN - taking, max 3 g
+
+HISTORICAL / NOT TAKING [tracked change: moved from active list by lframe 1/30/68 11:20]
+4. Hydrocodone/acetaminophen 5/300 - stopped Jan 2061; pt still has old bottle at home, ask mother to dispose
+5. Ibuprofen 400 mg (Ibu) - stopped; avoid in pregnancy
+6. Norethindrone (Camila, Errin) - stopped 2063, not on contraception
+7. Depo-Provera - ended Feb 2061
+8. Natazia - historical, not relevant now
+9. Buprenorphine-naloxone (Suboxone) 8/2 mg SL daily - NEW, started this admission, Dr. Mukherjee
+
+[Comment by Lindsey Frame 01/30/2068: Scanner read the label backwards as "yddissaC egaP" -- ignore, this is Cassidy Page's own bottle]
+[Comment by Omar Reyes: partner Marcus Teal asked if Narcan kit can go home with them, yes]
+
+Allergies: none known (verified with patient and pharmacy). Pharmacy contact name "Camila" is a person here, not the pill.
+Pt wants it noted she has a migraine "since the 4th grade". Dx not Bell's palsy.
+Reconciled 01/30/2068 13:05  - Signed L. Frame, PharmD   Next review 2/6/68
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="43" end="65" text="Department of Pharmacy" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P1" start="67" end="91" text="Riverbend Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="101" end="116" text="Page, Cassidy R" TYPE="PATIENT" comment="" />
+<ID id="P3" start="126" end="135" text="5530-9127" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="145" end="155" text="01/15/2041" TYPE="DATE" comment="" />
+<DATE id="P5" start="167" end="177" text="01/30/2068" TYPE="DATE" comment="" />
+<NAME id="P6" start="194" end="207" text="Lindsey Frame" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="225" end="235" text="Omar Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="261" end="267" text="Joanne" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="300" end="324" text="Hawthorn Street Pharmacy" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P10" start="332" end="346" text="(319) 555-0177" TYPE="PHONE" comment="" />
+<NAME id="P11" start="356" end="369" text="Camila Ortega" TYPE="DOCTOR" comment="" />
+<ID id="P12" start="393" end="403" text="RX 3318872" TYPE="IDNUM" comment="" />
+<DATE id="P13" start="548" end="557" text="Sept 2067" TYPE="DATE" comment="" />
+<NAME id="P14" start="683" end="689" text="lframe" TYPE="USERNAME" comment="" />
+<DATE id="P15" start="690" end="697" text="1/30/68" TYPE="DATE" comment="" />
+<DATE id="P16" start="750" end="758" text="Jan 2061" TYPE="DATE" comment="" />
+<DATE id="P17" start="914" end="918" text="2063" TYPE="DATE" comment="" />
+<DATE id="P18" start="965" end="973" text="Feb 2061" TYPE="DATE" comment="" />
+<NAME id="P19" start="1104" end="1113" text="Mukherjee" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1127" end="1140" text="Lindsey Frame" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1141" end="1151" text="01/30/2068" TYPE="DATE" comment="" />
+<NAME id="P22" start="1190" end="1203" text="yddissaC egaP" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1224" end="1236" text="Cassidy Page" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1263" end="1273" text="Omar Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1283" end="1294" text="Marcus Teal" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1559" end="1569" text="01/30/2068" TYPE="DATE" comment="" />
+<NAME id="P27" start="1586" end="1594" text="L. Frame" TYPE="DOCTOR" comment="" />
+<DATE id="P28" start="1617" end="1623" text="2/6/68" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

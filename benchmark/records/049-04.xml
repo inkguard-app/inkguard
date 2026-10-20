@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>*** FAX COVER SHEET ***
+Lakeshore Family Medicine   Medical Records
+To: Pacific Rim Health Clinic, Vancouver, BC, Canada
+Fax: (604) 555-0142      From fax: (218) 555-0100
+Date: 11/05/2080     Pages: 14
+RE: Daniel Volk DOB 11/02/2050  (fka Dmitri Volkov)  MRN 4471-209
+Release form # RF-80-3319, signed by pt 10/30/2080
+
+Message: Pt last seen 10/09/2080 viral sinusitis, then no show f/u. Told us by phone he is moving to Vancouver, new job, girlfriend Tessa Lindqvist already there. Reqd records sent per release. Incl: problem list (seizure d/o, scoliosis), 2080 dental op note, immunizations. No ins # forward: BLU-0093-77412 will lapse.
+Pls DO NOT mail to old address 218 Pargeter Lane Apt 3B, Duluth MN 55805 - he has left, landlord Sunil Patel confirmed. Mother Irina Volkova (spelled Irena Volkova on release) ok to contact (715) 555-0148.
+
+&gt;&gt;&gt; prior note per chart, 10/09/2080: 29 yo M c/o congestion x 5d, viral sinusitis, sx tx. wt 78 kg. pt states "never had seizures" and DOB "2/11/50". Smoker? denies. Employer: Northshore Cold Storage -&gt; "quit".
+pt DOS is not the same as dob - ignore.
+
+CONFIDENTIALITY NOTICE: if rcvd in error call (218) 555-0100.
+Sent by Joelle Tran MA  11/05/2080 10:22   Electronically signed by Marguerite Abara, MD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="24" end="49" text="Lakeshore Family Medicine" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="72" end="97" text="Pacific Rim Health Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="99" end="108" text="Vancouver" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="110" end="112" text="BC" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="114" end="120" text="Canada" TYPE="COUNTRY" comment="" />
+<CONTACT id="P5" start="126" end="140" text="(604) 555-0142" TYPE="FAX" comment="" />
+<CONTACT id="P6" start="156" end="170" text="(218) 555-0100" TYPE="FAX" comment="" />
+<DATE id="P7" start="177" end="187" text="11/05/2080" TYPE="DATE" comment="" />
+<NAME id="P8" start="206" end="217" text="Daniel Volk" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="222" end="232" text="11/02/2050" TYPE="DATE" comment="" />
+<NAME id="P10" start="239" end="252" text="Dmitri Volkov" TYPE="PATIENT" comment="" />
+<ID id="P11" start="259" end="267" text="4471-209" TYPE="MEDICALRECORD" comment="" />
+<ID id="P12" start="283" end="293" text="RF-80-3319" TYPE="IDNUM" comment="" />
+<DATE id="P13" start="308" end="318" text="10/30/2080" TYPE="DATE" comment="" />
+<DATE id="P14" start="342" end="352" text="10/09/2080" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="421" end="430" text="Vancouver" TYPE="CITY" comment="" />
+<NAME id="P16" start="452" end="467" text="Tessa Lindqvist" TYPE="PATIENT" comment="" />
+<ID id="P17" start="613" end="627" text="BLU-0093-77412" TYPE="HEALTHPLAN" comment="" />
+<LOCATION id="P18" start="671" end="695" text="218 Pargeter Lane Apt 3B" TYPE="STREET" comment="" />
+<LOCATION id="P19" start="697" end="703" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="704" end="706" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P21" start="707" end="712" text="55805" TYPE="ZIP" comment="" />
+<NAME id="P22" start="737" end="748" text="Sunil Patel" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="767" end="780" text="Irina Volkova" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="790" end="803" text="Irena Volkova" TYPE="PATIENT" comment="" />
+<CONTACT id="P25" start="830" end="844" text="(715) 555-0148" TYPE="PHONE" comment="" />
+<DATE id="P26" start="873" end="883" text="10/09/2080" TYPE="DATE" comment="" />
+<AGE id="P27" start="885" end="887" text="29" TYPE="AGE" comment="" />
+<DATE id="P28" start="988" end="995" text="2/11/50" TYPE="DATE" comment="" />
+<LOCATION id="P29" start="1024" end="1047" text="Northshore Cold Storage" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P30" start="1146" end="1160" text="(218) 555-0100" TYPE="PHONE" comment="" />
+<NAME id="P31" start="1170" end="1181" text="Joelle Tran" TYPE="DOCTOR" comment="" />
+<DATE id="P32" start="1186" end="1196" text="11/05/2080" TYPE="DATE" comment="" />
+<NAME id="P33" start="1230" end="1246" text="Marguerite Abara" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

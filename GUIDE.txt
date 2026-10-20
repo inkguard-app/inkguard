@@ -1,0 +1,123 @@
+READ ME FIRST
+=============
+
+Inkguard 0.25.0
+
+Inkguard is an automated tool. It can make mistakes, including misreading context. A person must check every output before it is used.
+
+INCOMPLETE REVIEW. NOT READY TO SHARE.
+Inkguard's output is produced by software alone. No person has checked it, and
+the software can make mistakes. A person must read every file before any of it
+leaves this computer.
+
+WHAT HAPPENS TO YOUR FILES
+  Inkguard writes everything into one results folder. Every file you give it
+  comes out in exactly one of three folders, and every file in a folder starts
+  with that folder's tag. How many went to each is in 4_Audit_trail.pdf.
+
+  Search for a tag (in Finder, File Explorer, or any search) to find every file
+  in that group.
+
+  1_REDACTED-NO-FLAGS/
+     Tag: REDACTED-NO-FLAGS__
+     The software removed what it found and was not unsure of anything.
+     Not yet reviewed by a person.
+
+  2_REDACTED-FLAGGED/
+     Tag: REDACTED-FLAGGED__
+     The software removed what it found but was unsure about some words.
+     Each patient folder has a _WORDS-TO-CHECK.md that lists them, with the line
+     each is on and why the software was unsure.
+
+  3_NOT-PROCESSED-MAY-CONTAIN-PHI/
+     Tag: NOT-PROCESSED-MAY-CONTAIN-PHI__
+     Copies of the files the software did not or could not read: photos,
+     scans, file types it does not read, files it stopped on as a
+     precaution, and system files. NOT de-identified; original names kept.
+     _ORIGINAL-NAMES-KEY.csv links each neutral name in folders 1 and 2
+     back to the original file.
+
+  Neutral names: where the software finds an identifier in a file or folder name,
+  the copy has a neutral one instead (for example file-0001 or patient-0001). With
+  randomised names (--scramble-names, or the window's option), every name
+  becomes a random code.
+
+THE OTHER THINGS IN THIS FOLDER
+  0_READ_ME_FIRST_(Guide).txt
+     This guide. The same guide comes with the download.
+  4_Audit_trail.pdf
+     The audit trail: a machine-written log of the run. Who entered what before
+     it started, when it ran, the exact software, how many files went to each
+     folder, and every file by id with its folder and fingerprint. Facts only,
+     with no note text. It does show the computer's name and the name of the
+     input folder you chose.
+  5_Citations.txt
+     How to cite the version you used, with a Methods paragraph template.
+  6_PLEASE-RETURN-to-inkguard.project@gmail.com_Feedback-report.docx
+     Made by the software for the people who maintain Inkguard: codes and
+     counts, and a box for anything you want to say. Please email it back; it is
+     the only thing we receive. Nothing is sent for you.
+  .inkguard/
+     Hidden. The run's machine record. During a run it also holds copies of
+     your originals, deleted when the run ends; if a run is interrupted they
+     stay until you run again into this folder or delete it. Treat it like
+     3_NOT-PROCESSED-MAY-CONTAIN-PHI.
+
+  WATERMARK: the first line of every text and Word file names the software, the
+  version, the review status and the run id, so it stays labelled wherever it
+  goes, unless the run was started with --no-header. Spreadsheets, CSV and PDF
+  files are identified by their file-name tag only.
+
+YOUR ORIGINAL FILES
+  Only read, never changed, moved or deleted. After the run each original's
+  fingerprint (SHA-256) is checked again; 4_Audit_trail.pdf says whether all matched.
+  Inkguard's own code makes no network connections.
+
+WHAT TO DO NEXT
+  1. Read 4_Audit_trail.pdf to see what happened to every file.
+  2. In 2_REDACTED-FLAGGED, open each _WORDS-TO-CHECK.md and decide every word.
+     The line numbers take you to it; Find (Ctrl+F or Cmd+F) works too.
+  3. Read every file in 1_REDACTED-NO-FLAGS as well, and check each removal.
+  4. Decide what to do with 3_NOT-PROCESSED-MAY-CONTAIN-PHI: de-identify those files by
+     hand, or leave them out of the study.
+  5. Arrange independent review and sign-off as your study protocol requires.
+     Whether any file may be shared is for your study team and institution to decide.
+
+WHAT TO KEEP
+  - 4_Audit_trail.pdf, with your study records. It is your only copy of the run's
+    audit trail: Inkguard sends nothing anywhere and keeps no copy.
+  - 3_NOT-PROCESSED-MAY-CONTAIN-PHI on this computer only, for as long as your data plan allows.
+
+WHAT NOT TO DO
+  - Do not email, upload, copy to a USB drive or share any file here until a person
+    has reviewed it.
+  - Do not share this whole folder: it holds 3_NOT-PROCESSED-MAY-CONTAIN-PHI. Copy out only files
+    a person has reviewed.
+  - Never share 3_NOT-PROCESSED-MAY-CONTAIN-PHI or _ORIGINAL-NAMES-KEY.csv. They are not de-identified.
+
+PROBLEMS AND THANKS
+  Please email the feedback report (6_PLEASE-RETURN-...) to inkguard.project@gmail.com.
+    Its system record holds no patient information; check anything you add.
+  Did Inkguard help? Cite the version you used (5_Citations.txt).
+  Never send patient information.
+
+CITING INKGUARD
+  Wajahat A. Inkguard (Version 0.25.0). https://doi.org/10.5281/zenodo.23464777
+  The full reference, BibTeX and a Methods paragraph template: 5_Citations.txt.
+
+IMPORTANT
+  Inkguard is provided as is, without warranty or liability, under the Apache
+  License 2.0. Its output is not a certification or a legal
+  determination. Reviewing the files, and deciding whether any may be used or
+  shared, is the responsibility of the study team and its institution.
+
+ACKNOWLEDGEMENT (optional, for your records)
+  Signing below records that you read this guide. It does NOT approve any file
+  and does NOT make anything ready to share.
+
+  I have read this guide and understand that these files are an incomplete review
+  and are not ready to share.
+
+  Name: ______________________________   Role: ____________________
+
+  Date: ______________   Signature: ______________________________

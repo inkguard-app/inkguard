@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY - CASE MANAGEMENT EPISODE CLOSED
+Patient: KERRIGAN-OSEI, TOBIAH     MRN 4402-1187     Opened 02/01/2093     Closed 07/17/2093
+Case # CM-93-0471     Case manager: Ivo Szczepanski, MSW
+
+S: Pt Toby (18) reports pain "about a 5" and that the heater was finally fixed. Mother Delphine said at the home visit 07/10/2093 that stepdad Rudy moved out. Pt still working at Blue Ridge Pallet and Crate.
+O: Seen 07/17/2093 for chronic pain follow up (ambulatory). On Tylenol 325 and Percocet 10/325 since 05/18/2093; also acetaminophen from 03/19/2093.
+A: Chronic pain, LBP, fibromyalgia; housing improved; stress persists; social isolation improved.
+P: Handoff to adult clinic at Buncombe Valley Medical Center, Pain Management. Release form REL-0093-221 on file. Copy of the landlord letter: 02/15/2093.
+
+&gt;&gt;&gt; per prior note:
+SOCIAL WORK CONSULT 02/01/2093 - Pt said he was 19, DOB 04/19/2074, lives at 1419 Wren Hollow Lane, Asheville. Mom Delphene works nights. Neighbour Odalys Brandvold.
+
+   Maeve - Delphine
+   |         |
+   Tobiah ---+--- Rudy (volunteer Luca Ferreira drew this tree, ignore)
+
+Hargrove Property Mgmt wants to be called back 828-555-0121 re: lease.
+-- end --
+Electronically signed by Ivo Szczepanski, MSW on 07/17/2093 11:09
+</TEXT>
+<TAGS>
+<NAME id="P0" start="60" end="81" text="KERRIGAN-OSEI, TOBIAH" TYPE="PATIENT" comment="" />
+<ID id="P1" start="90" end="99" text="4402-1187" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="111" end="121" text="02/01/2093" TYPE="DATE" comment="" />
+<DATE id="P3" start="133" end="143" text="07/17/2093" TYPE="DATE" comment="" />
+<ID id="P4" start="151" end="161" text="CM-93-0471" TYPE="IDNUM" comment="" />
+<NAME id="P5" start="180" end="195" text="Ivo Szczepanski" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="208" end="212" text="Toby" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="214" end="216" text="18" TYPE="AGE" comment="" />
+<NAME id="P8" start="289" end="297" text="Delphine" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="321" end="331" text="07/10/2093" TYPE="DATE" comment="" />
+<NAME id="P10" start="345" end="349" text="Rudy" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="381" end="408" text="Blue Ridge Pallet and Crate" TYPE="ORGANIZATION" comment="" />
+<DATE id="P12" start="418" end="428" text="07/17/2093" TYPE="DATE" comment="" />
+<DATE id="P13" start="511" end="521" text="05/18/2093" TYPE="DATE" comment="" />
+<DATE id="P14" start="547" end="557" text="03/19/2093" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="687" end="717" text="Buncombe Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P16" start="719" end="734" text="Pain Management" TYPE="DEPARTMENT" comment="" />
+<ID id="P17" start="749" end="761" text="REL-0093-221" TYPE="IDNUM" comment="" />
+<DATE id="P18" start="800" end="810" text="02/15/2093" TYPE="DATE" comment="" />
+<DATE id="P19" start="853" end="863" text="02/01/2093" TYPE="DATE" comment="" />
+<DATE id="P20" start="889" end="899" text="04/19/2074" TYPE="DATE" comment="" />
+<LOCATION id="P21" start="910" end="931" text="1419 Wren Hollow Lane" TYPE="STREET" comment="" />
+<LOCATION id="P22" start="933" end="942" text="Asheville" TYPE="CITY" comment="" />
+<NAME id="P23" start="948" end="956" text="Delphene" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="981" end="997" text="Odalys Brandvold" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1003" end="1008" text="Maeve" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1011" end="1019" text="Delphine" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1038" end="1044" text="Tobiah" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1053" end="1057" text="Rudy" TYPE="PATIENT" comment="" />
+<NAME id="P29" start="1069" end="1082" text="Luca Ferreira" TYPE="DOCTOR" comment="" />
+<LOCATION id="P30" start="1108" end="1130" text="Hargrove Property Mgmt" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P31" start="1155" end="1167" text="828-555-0121" TYPE="PHONE" comment="" />
+<NAME id="P32" start="1214" end="1229" text="Ivo Szczepanski" TYPE="DOCTOR" comment="" />
+<DATE id="P33" start="1238" end="1248" text="07/17/2093" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

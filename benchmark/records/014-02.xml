@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE - BREWERS HILL MEDICAL CENTER ED / OBS UNIT, BED ED-14
+1/23/82  02:15  RN BETTINA HAUGEN
+PT OBRADOVIC, MILAN  67Y M  MRN WVA-0912-6043  DOB 6/12/14
+WRISTBAND STICKER READS "SVC NO 5521-80-3347" (VETERAN, NOT MRN - DO NOT SCAN). PHONE METER BT NAME OBRADOVIC_M_METER.
+ARRIVED VIA EMS 4/16 02:15?? NO - ARRIVED 1/23 01:20, PER TRIAGE. C/O COUGH X THE 15TH (ACUTE BRONCHITIS DX BY PCP 1/15), SOB, LIGHTHEADED SINCE LAST THURSDAY. HX CKD, CVA, EPILEPSY.
+VS: BP 94/88 (CUFF ?), HR 62, T 37.2, SPO2 94% RA, WT 105.2 KG, BMI 30.4, PAIN 3/10. GLUCOSE 91. CREAT 2.1 EGFR 43.6 HBA1C 3.0 (ENDO AWARE).
+NEURO: A&amp;O x3, SPEECH CLEAR, NO SEIZURE ACTIVITY. COUGH PRODUCTIVE.
+MEDS GIVEN: ACETAMINOPHEN 325 MG PO 02:30. HOME CARBAMAZEPINE DOSE TAKEN BY PT AT EVENING OF 1/22 PER PT.
+DAUGHTER JELENA CALLED FROM AUSTRALIA, +61 8 5550 0173, AT 03:40 HER TIME, ASKING FOR UPDATE; GAVE LIMITED INFO PER CONSENT (CONSENT LIST: NIKOLA, JELENA ONLY). SON NIKOLA OBRADOVIC +1 416 555 0138.
+FALL RISK HIGH (MORSE 55), BED ALARM ON. 
+HANDOFF 07:00 TO RN CALVIN OPOKU. PASTED FROM 1/16 PCP NOTE: "MR OBRADOVICH COMPLAINS OF COUGH. RX AMOX." (NO AMOX ON ED LIST - STALE).
+1/23/82 02:15 = TIME OF NOTE. NOT 4/16. DISREGARD.
+SIGNED: B HAUGEN RN  01/23/82 07:05
+LAST EDITED BY BHAUGEN FROM 192.168.40.12
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="15" end="42" text="BREWERS HILL MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="62" end="67" text="ED-14" TYPE="ROOM" comment="" />
+<DATE id="P2" start="68" end="75" text="1/23/82" TYPE="DATE" comment="" />
+<NAME id="P3" start="87" end="101" text="BETTINA HAUGEN" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="105" end="121" text="OBRADOVIC, MILAN" TYPE="PATIENT" comment="" />
+<AGE id="P5" start="123" end="125" text="67" TYPE="AGE" comment="" />
+<ID id="P6" start="134" end="147" text="WVA-0912-6043" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P7" start="153" end="160" text="6/12/14" TYPE="DATE" comment="" />
+<ID id="P8" start="193" end="205" text="5521-80-3347" TYPE="IDNUM" comment="" />
+<ID id="P9" start="261" end="278" text="OBRADOVIC_M_METER" TYPE="DEVICE" comment="" />
+<DATE id="P10" start="296" end="306" text="4/16 02:15" TYPE="DATE" comment="" />
+<DATE id="P11" start="322" end="326" text="1/23" TYPE="DATE" comment="" />
+<DATE id="P12" start="358" end="366" text="THE 15TH" TYPE="DATE" comment="" />
+<DATE id="P13" start="395" end="399" text="1/15" TYPE="DATE" comment="" />
+<DATE id="P14" start="425" end="438" text="LAST THURSDAY" TYPE="DATE" comment="" />
+<DATE id="P15" start="754" end="769" text="EVENING OF 1/22" TYPE="DATE" comment="" />
+<NAME id="P16" start="787" end="793" text="JELENA" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="806" end="815" text="AUSTRALIA" TYPE="COUNTRY" comment="" />
+<CONTACT id="P18" start="817" end="832" text="+61 8 5550 0173" TYPE="PHONE" comment="" />
+<NAME id="P19" start="917" end="923" text="NIKOLA" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="925" end="931" text="JELENA" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="943" end="959" text="NIKOLA OBRADOVIC" TYPE="PATIENT" comment="" />
+<CONTACT id="P22" start="960" end="975" text="+1 416 555 0138" TYPE="PHONE" comment="" />
+<NAME id="P23" start="1036" end="1051" text="RN CALVIN OPOKU" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1065" end="1069" text="1/16" TYPE="DATE" comment="" />
+<NAME id="P25" start="1084" end="1094" text="OBRADOVICH" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1155" end="1162" text="1/23/82" TYPE="DATE" comment="" />
+<DATE id="P27" start="1189" end="1193" text="4/16" TYPE="DATE" comment="" />
+<NAME id="P28" start="1214" end="1225" text="B HAUGEN RN" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1227" end="1235" text="01/23/82" TYPE="DATE" comment="" />
+<NAME id="P30" start="1257" end="1264" text="BHAUGEN" TYPE="USERNAME" comment="" />
+<CONTACT id="P31" start="1270" end="1283" text="192.168.40.12" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

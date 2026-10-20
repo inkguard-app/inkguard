@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|enc_date|enc_type|author|text
+88231|09/29/2080|ED|wpage2|
+FROST, ROYAL  MRN FR-0080-3317  DOB 04/09/1998  Page 1 of 2
+Lakemoor Regional Medical Center - Emergency / Behavioural Health Liaison
+
+- Pt is 82 y.o. male, brought by wife Hope (spouse, not a hopeful story tonight - her words) via private car
+- CC: SOB x 3 days, "more confused than normal" per wife, swinging at her when she tried to get him up
+- Hx: Alzheimers, CHF dx'd earlier this yr, IHD s/p CABG, osteoprosis, prediabetes
+- Meds per wife (bottle bag, she brought it): carvedilol 25, lisinopril 20, furosemide 40, donepezil 23, metoprolol succ 100 (???), NTG spray prn
+  -&gt; carvedilol AND metoprolol both on the list. flagged for pharmacy
+- Allergies: *** (not filled in)
+- Lives w/ wife, 77 Larkspur Terrace, Dunmore - son Seven helps on weekends
+
+OBJECTIVE
+- BP 98/60, HR 104, RR 26, Sat 88% RA -&gt; 94% on mask
+- Bilat crackles to mid lung, LE edema 2+, JVD
+- CXR: pulmonary congestion, cardiomegaly
+- Hgb 16.5, Cr 0.7, WBC 8.3 ; HbA1c 6.3
+- Neuro: oriented to self only. Knew his name ("Royal, like the family") but not the year or hospital
+- BH liaison eval: agitation attributed to hypoxia and delirium on top of dementia, no SI/HI, no restraints used
+
+PLAN
+- IV furosemide, O2 by mask, ECG done
+- Admit to inpatient, tele bed. Cardiology consult called, Dr. Will Page spoke w/ on-call
+- Wife wants to know if its time to talk about "what he would of wanted". Palliative to see
+- Pt's daughter-in-law Skye will bring the advance directive monday
+
+D/W wife at bedside, she verbalized understanding. Dont leave him alone at the rail - he tried to climb out twice.
+Page the sitter if he gets up again, page 6 of the policy.
+
+Electronically signed by Will Page, MD on 09/29/2080 22:41
+Last edited by wpage2 on 9/30/2080 01:12 from 10.44.8.217
+FROST, ROYAL  MRN FR-0080-3317  DOB 04/09/1998  Page 2 of 2
+</TEXT>
+<TAGS>
+<DATE id="P0" start="43" end="53" text="09/29/2080" TYPE="DATE" comment="" />
+<NAME id="P1" start="57" end="63" text="wpage2" TYPE="USERNAME" comment="" />
+<ID id="P2" start="83" end="95" text="FR-0080-3317" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="101" end="111" text="04/09/1998" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="125" end="157" text="Lakemoor Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<AGE id="P5" start="208" end="210" text="82" TYPE="AGE" comment="" />
+<NAME id="P6" start="238" end="242" text="Hope" TYPE="PATIENT" comment="" />
+<LOCATION id="P7" start="782" end="789" text="Dunmore" TYPE="CITY" comment="" />
+<NAME id="P8" start="796" end="801" text="Seven" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="1061" end="1066" text="Royal" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="1335" end="1344" text="Will Page" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="1477" end="1481" text="Skye" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="1515" end="1521" text="monday" TYPE="DATE" comment="" />
+<NAME id="P13" start="1723" end="1732" text="Will Page" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1740" end="1750" text="09/29/2080" TYPE="DATE" comment="" />
+<NAME id="P15" start="1772" end="1778" text="wpage2" TYPE="USERNAME" comment="" />
+<DATE id="P16" start="1782" end="1791" text="9/30/2080" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="1803" end="1814" text="10.44.8.217" TYPE="IPADDR" comment="" />
+<ID id="P18" start="1833" end="1845" text="FR-0080-3317" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P19" start="1851" end="1861" text="04/09/1998" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

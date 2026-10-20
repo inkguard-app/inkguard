@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER   2/6/82  11:40   LAKESHORE ENDOCRINE ASSOCIATES
+CALLER: JELENA MARKOVIC (DAUGHTER) FROM AUSTRALIA - CALLBACK +61 8 5550 0173  (IT IS 2:40 AM THERE, PER CALLER)
+RE: OBRADOVIC, MILAN R  DOB 06/12/2014  MRN WVA-0912-6403
+TAKEN BY: RN BETTINA HAUGEN
+
+DAUGHTER STATES DAD WAS SEEN AT URGENT CARE TODAY, TOLD "KIDNEYS GETTING WORSE". WORRIED. SHE WANTS US TO FAX RECORDS TO HIS SON NIKOLA IN TORONTO (88 ELMCREST RD UNIT 1204, TORONTO ON M9C 5K1, CANADA). NO RELEASE ON FILE FOR RECORDS - ONLY FOR PHONE UPDATES. EXPLAINED.
+UC LABS TODAY: CREAT 2.1, EGFR 57.1 (UP FROM 43.6 ON 1/23), HBA1C 3.2, GLU 79.7. BP 108/84.
+DAD'S HBA1C STILL LOW, CONSULT NOTE FROM AUGUST SAID CHECK FRUCTOSAMINE - NOT DONE YET? CHECKED: FRUCTOSAMINE DRAWN 1/30 AT ED (NORMAL RANGE?? RESULT NOT IN CHART).
+PLAN: DR FARADAY-NWOSU TO REVIEW MONDAY. TELL DAUGHTER PT SHOULD SIGN RELEASE AT NEXT VISIT. OFFERED TO MAIL FORM TO 3320 W LISBON.
+EACH CALL: WROTE DOWN HER NAME AS "JELENA MARKOVICH" AND "JELENA MARKOVIC" - SAME PERSON.
+SIGNED B. HAUGEN, RN
+CC: DR FARADAY-NWOSU, DR CHANDRAMOULI
+</TEXT>
+<TAGS>
+<DATE id="P0" start="22" end="28" text="2/6/82" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="38" end="68" text="LAKESHORE ENDOCRINE ASSOCIATES" TYPE="ORGANIZATION" comment="" />
+<NAME id="P2" start="77" end="92" text="JELENA MARKOVIC" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="109" end="118" text="AUSTRALIA" TYPE="COUNTRY" comment="" />
+<CONTACT id="P4" start="130" end="145" text="+61 8 5550 0173" TYPE="PHONE" comment="" />
+<NAME id="P5" start="185" end="203" text="OBRADOVIC, MILAN R" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="209" end="219" text="06/12/2014" TYPE="DATE" comment="" />
+<ID id="P7" start="225" end="238" text="WVA-0912-6403" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="249" end="266" text="RN BETTINA HAUGEN" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="397" end="403" text="NIKOLA" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="407" end="414" text="TORONTO" TYPE="CITY" comment="" />
+<LOCATION id="P11" start="416" end="440" text="88 ELMCREST RD UNIT 1204" TYPE="STREET" comment="" />
+<LOCATION id="P12" start="442" end="449" text="TORONTO" TYPE="CITY" comment="" />
+<LOCATION id="P13" start="450" end="452" text="ON" TYPE="STATE" comment="" />
+<LOCATION id="P14" start="453" end="460" text="M9C 5K1" TYPE="ZIP" comment="" />
+<LOCATION id="P15" start="462" end="468" text="CANADA" TYPE="COUNTRY" comment="" />
+<DATE id="P16" start="592" end="596" text="1/23" TYPE="DATE" comment="" />
+<DATE id="P17" start="672" end="678" text="AUGUST" TYPE="DATE" comment="" />
+<DATE id="P18" start="747" end="751" text="1/30" TYPE="DATE" comment="" />
+<NAME id="P19" start="805" end="818" text="FARADAY-NWOSU" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="829" end="835" text="MONDAY" TYPE="DATE" comment="" />
+<LOCATION id="P21" start="913" end="926" text="3320 W LISBON" TYPE="STREET" comment="" />
+<NAME id="P22" start="963" end="979" text="JELENA MARKOVICH" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="986" end="1001" text="JELENA MARKOVIC" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1025" end="1038" text="B. HAUGEN, RN" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1043" end="1059" text="DR FARADAY-NWOSU" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="1061" end="1076" text="DR CHANDRAMOULI" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

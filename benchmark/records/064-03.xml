@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Patient Portal -- New Message
+From: leo.dufresne41
+To: Dr. Helen Okonjo-Marsh / Primary Care Team
+Sent: Thursday, July 2, 2092 7:48 AM
+Subject: sinuses again :( 
+
+Hi Dr Okonjo-Marsh,
+
+its Leo Defresne, DOB 6/12/2041 just so you have the right chart. Same as last summer I have the face pressure and green stuff from my nose, been about 5 days. No fever. Dont feel any chest pain thank god but I did use the nitro spray once on Monday when I was carrying the groceries up. Can I get an appointment this week? The last time it turned into the bacterial type (in August 2090) and they gave me the antibiotics for over a month it felt like.
+
+Also my sister Colette says mom (she turns ninety-seven in the fall!! can you believe it) fell and that uncle Anselm 95 is in hospital with pneumonia so I may be out of town some days. You can reach me at (503) 555-0188 or the old one 503-555-0880 that goes to voicemail.
+
+Thanks!!
+Leo Dufresne
+Sent from my phone
+</TEXT>
+<TAGS>
+<NAME id="P0" start="36" end="50" text="leo.dufresne41" TYPE="USERNAME" comment="" />
+<NAME id="P1" start="59" end="77" text="Helen Okonjo-Marsh" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="104" end="126" text="Thursday, July 2, 2092" TYPE="DATE" comment="" />
+<NAME id="P3" start="188" end="200" text="Leo Defresne" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="206" end="215" text="6/12/2041" TYPE="DATE" comment="" />
+<DATE id="P5" start="427" end="433" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P6" start="560" end="571" text="August 2090" TYPE="DATE" comment="" />
+<NAME id="P7" start="653" end="660" text="Colette" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="681" end="693" text="ninety-seven" TYPE="AGE" comment="" />
+<NAME id="P9" start="748" end="754" text="Anselm" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="755" end="757" text="95" TYPE="AGE" comment="" />
+<CONTACT id="P11" start="843" end="857" text="(503) 555-0188" TYPE="PHONE" comment="" />
+<CONTACT id="P12" start="873" end="885" text="503-555-0880" TYPE="PHONE" comment="" />
+<NAME id="P13" start="920" end="932" text="Leo Dufresne" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

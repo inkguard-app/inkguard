@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 7120 | ENC E-99120 | PT_NAME: skyblu_63 | NOTE_TYPE: PORTAL MESSAGE (patient)
+
+From: skyblu_63  (login on Hope Frost's account)
+To: Cedar Hollow Pediatrics - Dr Page
+Sent: 05/28/2073 7:15 PM   (Sunday)
+Subject: my gums
+
+hi dr page its sky. im 10.
+- my mouth is sore where the dentist did stuff on friday
+- mom says to tell you it bleeded a little when i brushed
+- can i still go swimming on saturday?? the pool party is at lake hendry's house (Lake is my friend, her mom is Mrs Hendry)
+- also the sky was so blue today
+- is it ok if i eat ice cream
+
+thx!!!
+-sky
+(sent from my moms phone, shes typing the last part: Dr Page we are fine, call if anything, thank you - Hope)
+</TEXT>
+<TAGS>
+<ID id="P0" start="15" end="22" text="E-99120" TYPE="IDNUM" comment="" />
+<NAME id="P1" start="34" end="43" text="skyblu_63" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="89" end="98" text="skyblu_63" TYPE="USERNAME" comment="" />
+<NAME id="P3" start="110" end="120" text="Hope Frost" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="136" end="159" text="Cedar Hollow Pediatrics" TYPE="HOSPITAL" comment="" />
+<NAME id="P5" start="165" end="169" text="Page" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="176" end="186" text="05/28/2073" TYPE="DATE" comment="" />
+<DATE id="P7" start="198" end="204" text="Sunday" TYPE="DATE" comment="" />
+<AGE id="P8" start="247" end="249" text="10" TYPE="AGE" comment="" />
+<DATE id="P9" start="301" end="307" text="friday" TYPE="DATE" comment="" />
+<DATE id="P10" start="395" end="403" text="saturday" TYPE="DATE" comment="" />
+<NAME id="P11" start="427" end="438" text="lake hendry" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="448" end="452" text="Lake" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="478" end="488" text="Mrs Hendry" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="562" end="565" text="sky" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="670" end="674" text="Hope" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

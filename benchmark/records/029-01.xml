@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LIFFEYSIDE CARDIAC CENTRE - TELEPHONE ENCOUNTER
+Liffeyside General Hospital, Cardio-Obstetric Clinic
+Patient: HAVRYLENKO, Oksana     DOB: 19/05/2061     MRN: LGH 20-448193     Age: 21 y
+Date: 31/05/2082 (Sunday), 19:40         Spoken with: patient, then partner Ruairi Keane
+Interpreter: not needed (patient speaks English, Ukrainian and some Russian)    Phone: +353 87 555 0142
+
+Dr. Esteban Villaverde Mora on call for cardiology, I take the call from the midwife Orla Wren who is in the patient home for a domiciliary visit.
+
+History: 21 years old woman, pregnant of 34 weeks + 2 days (EDD aprox 10/07/2082), first pregnancy. She has not known cardiac disease. No cardiac medication. Before pregnancy she used contraceptive pill (Natazia, then Trinessa) until 01/2081. Since morning she have headache frontal, "flashes" in the eyes and swelling of the feet, no chest pain, no palpitation, a little dispnea when she climb the stairs of her flat.
+Measure by midwife with automatic machine: BP 164/108 right arm, repeated after ten minutes 158/104, pulse 92. Urine dipstick protein ++. Temperature normal. No seizure, no fits, no loss of conscience.
+
+Assessment: Hipertensive disorder of pregnancy with severe range blood pressure and neurological symptoms. In our system is code as "eclampsia in pregnancy" (31/05/2082), but she did not have a seizure, so we keep it like severe pre-eclampsia until the obstetric team decide.
+Plan:
+1. I have indicated to go immediately to the maternity unit of Liffeyside General Hospital, not to drive herself, the partner Ruairi take her by car (reg 08-D-44721), 20 minutes.
+2. I call to the obstetric registrar Prof. Niamh Brannigan who accept her. Labetalol per obstetric protocol, not by us.
+3. Tomorrow morning chest X-ray and cardiac check, I will order with the radiology, because the dispnea.
+4. Patient and partner understand, repeated back in English. Her mother Halyna in Lviv, Ukraine, is informed by partner by Whatsapp, number +380 32 555 0178.
+
+{FIRST_NAME} {LAST_NAME} MRN ______ (template did not fill)
+Next of kin: Ruairi Keane  tel 086 555 0121   Relation: partner. Default in system: Emergency contact: SAME
+Page 1 of 1   HAVRYLENKO, OKSANA   LGH 20-448193
+Dictated by Dr E. Villaverde; signed electronically 31/05/2082 20:15; routed to Fionnuala Hearn (GP)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="25" text="LIFFEYSIDE CARDIAC CENTRE" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="48" end="75" text="Liffeyside General Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="77" end="100" text="Cardio-Obstetric Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P3" start="110" end="128" text="HAVRYLENKO, Oksana" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="138" end="148" text="19/05/2061" TYPE="DATE" comment="" />
+<ID id="P5" start="158" end="171" text="LGH 20-448193" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P6" start="181" end="183" text="21" TYPE="AGE" comment="" />
+<DATE id="P7" start="192" end="202" text="31/05/2082" TYPE="DATE" comment="" />
+<DATE id="P8" start="204" end="210" text="Sunday" TYPE="DATE" comment="" />
+<NAME id="P9" start="262" end="274" text="Ruairi Keane" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="362" end="378" text="+353 87 555 0142" TYPE="PHONE" comment="" />
+<NAME id="P11" start="384" end="407" text="Esteban Villaverde Mora" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="465" end="474" text="Orla Wren" TYPE="DOCTOR" comment="" />
+<AGE id="P13" start="537" end="549" text="21 years old" TYPE="AGE" comment="" />
+<DATE id="P14" start="598" end="608" text="10/07/2082" TYPE="DATE" comment="" />
+<DATE id="P15" start="762" end="769" text="01/2081" TYPE="DATE" comment="" />
+<DATE id="P16" start="1308" end="1318" text="31/05/2082" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="1495" end="1522" text="Liffeyside General Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P18" start="1558" end="1564" text="Ruairi" TYPE="PATIENT" comment="" />
+<ID id="P19" start="1586" end="1596" text="08-D-44721" TYPE="VEHICLE" comment="" />
+<NAME id="P20" start="1654" end="1669" text="Niamh Brannigan" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1908" end="1914" text="Halyna" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="1918" end="1922" text="Lviv" TYPE="CITY" comment="" />
+<LOCATION id="P23" start="1924" end="1931" text="Ukraine" TYPE="COUNTRY" comment="" />
+<CONTACT id="P24" start="1976" end="1992" text="+380 32 555 0178" TYPE="PHONE" comment="" />
+<NAME id="P25" start="2068" end="2080" text="Ruairi Keane" TYPE="PATIENT" comment="" />
+<CONTACT id="P26" start="2086" end="2098" text="086 555 0121" TYPE="PHONE" comment="" />
+<NAME id="P27" start="2177" end="2195" text="HAVRYLENKO, OKSANA" TYPE="PATIENT" comment="" />
+<ID id="P28" start="2198" end="2211" text="LGH 20-448193" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P29" start="2227" end="2240" text="E. Villaverde" TYPE="DOCTOR" comment="" />
+<DATE id="P30" start="2264" end="2274" text="31/05/2082" TYPE="DATE" comment="" />
+<NAME id="P31" start="2292" end="2307" text="Fionnuala Hearn" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Ridgeline Family Medicine
+October 25, 2071
+
+Gantry Freight Logistics
+Attn: HR, Marguerite Oyelaran
+Re: Kasimir Ostrowicz, emp ID GFL-40917
+
+To whom it may concern,
+
+Mr. Ostrowicz seen at this office 10/10/2071 and at dental 10/24/2071 (gingivitis, cleaning, xrays). Excused from work 10/24 for appt. May RTW 10/25/2071 no restrictions. Pls note name on file may still read Casey Ostrow - same person, legal chg 2069. Mr Ostrowitz's dx not disclosed per pt, only that appt was med nec.
+
+Pt age 25. Pt's spouse Dana Ostrowicz asked abt FMLA for kids - HR to advise, not our dept.
+
+Pls call (570) 555-0118 w/ qs. Rx for chlorhexidine rinse, RX 7740213, sent to pharm.
+
+Sincerly,
+Priya Nambiar, MD
+Electronically signed 10/25/2071 08:51
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="25" text="Ridgeline Family Medicine" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="26" end="42" text="October 25, 2071" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="44" end="68" text="Gantry Freight Logistics" TYPE="ORGANIZATION" comment="" />
+<NAME id="P3" start="79" end="98" text="Marguerite Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="103" end="120" text="Kasimir Ostrowicz" TYPE="PATIENT" comment="" />
+<ID id="P5" start="129" end="138" text="GFL-40917" TYPE="IDNUM" comment="" />
+<NAME id="P6" start="169" end="178" text="Ostrowicz" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="199" end="209" text="10/10/2071" TYPE="DATE" comment="" />
+<DATE id="P8" start="224" end="234" text="10/24/2071" TYPE="DATE" comment="" />
+<DATE id="P9" start="284" end="289" text="10/24" TYPE="DATE" comment="" />
+<DATE id="P10" start="308" end="318" text="10/25/2071" TYPE="DATE" comment="" />
+<NAME id="P11" start="373" end="385" text="Casey Ostrow" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="411" end="415" text="2069" TYPE="DATE" comment="" />
+<NAME id="P13" start="420" end="429" text="Ostrowitz" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="493" end="495" text="25" TYPE="AGE" comment="" />
+<NAME id="P15" start="509" end="523" text="Dana Ostrowicz" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="588" end="602" text="(570) 555-0118" TYPE="PHONE" comment="" />
+<ID id="P17" start="638" end="648" text="RX 7740213" TYPE="IDNUM" comment="" />
+<NAME id="P18" start="676" end="689" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="716" end="726" text="10/25/2071" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

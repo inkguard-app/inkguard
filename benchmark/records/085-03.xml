@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE
+Date: 10/16/2088      Author: Yusuf Demir, CHW   for Primary Care, Millbrook Community Health Center
+Patient: ______    &lt;&lt;PATIENT_NAME&gt;&gt;   DOB: **/**/****      Age: 0
+Chart name shows Lan Tran; pt asks use Nora Tran. Need merge of the 2 charts. Old 5-902-3318, other chart 5-902-3813.
+
+Visit Oct 16 (encounter for check up). Anxiety assessment, social needs assessment, domestic abuse screen done by the dr Menon. Result: she is safe now, 5 month baby Mai with her. Husband Peter Halloran drive to work, mother in law Maureen help in the daytime.
+
+Social history (family heavy): 
+- spouse: Peter, works Dunleavy Roofing, no insurance on job
+- children: Kieran (7) in school, May 5 mo (typed by autocorrect, name is Mai)
+- neighbour Esperanza Quill Apt 2L, looks after Kieran after school
+- landlord Abernathy Cole raising rent; pasted his voice-to-text below
+- employer: she stopped bakery job Starling Bakery Cafe in summer, not in labour force.
+
+Pasted message: "hello this is abernathy cole from 1427 Wexcombe Ave calling for miss tran about the rent for november i left a message on her phone seven seven four, five five five, oh one eight eight please tell her call me back at 508-555-0170 thank you"
+
+Housing: pt is worry about eviction, referral to legal aid made. Health plan MH-4408-2217-9. Pt says she is thinking to travel to Vietnam with children for 6 month next year to see her mother. I explain the vaccines and B12... no. Gave appointment 03/19/2089.
+Allergies: Nora Tran    (label wrong, NKDA)
+Note routed to: Dr. Rahul Menon; Yusuf Demir. Last edited by ydemir 10/16/2088 16:41 from 192.168.14.77
+</TEXT>
+<TAGS>
+<DATE id="P0" start="29" end="39" text="10/16/2088" TYPE="DATE" comment="" />
+<NAME id="P1" start="53" end="64" text="Yusuf Demir" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="76" end="88" text="Primary Care" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P3" start="90" end="123" text="Millbrook Community Health Center" TYPE="HOSPITAL" comment="" />
+<AGE id="P4" start="188" end="189" text="0" TYPE="AGE" comment="" />
+<NAME id="P5" start="207" end="215" text="Lan Tran" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="229" end="238" text="Nora Tran" TYPE="PATIENT" comment="" />
+<ID id="P7" start="272" end="282" text="5-902-3318" TYPE="MEDICALRECORD" comment="" />
+<ID id="P8" start="296" end="306" text="5-902-3813" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="315" end="321" text="Oct 16" TYPE="DATE" comment="" />
+<NAME id="P10" start="430" end="435" text="Menon" TYPE="DOCTOR" comment="" />
+<AGE id="P11" start="462" end="469" text="5 month" TYPE="AGE" comment="" />
+<NAME id="P12" start="475" end="478" text="Mai" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="497" end="511" text="Peter Halloran" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="541" end="548" text="Maureen" TYPE="PATIENT" comment="" />
+<LOCATION id="P15" start="626" end="642" text="Dunleavy Roofing" TYPE="ORGANIZATION" comment="" />
+<NAME id="P16" start="676" end="682" text="Kieran" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="684" end="685" text="7" TYPE="AGE" comment="" />
+<NAME id="P18" start="698" end="701" text="May" TYPE="PATIENT" comment="" />
+<AGE id="P19" start="702" end="706" text="5 mo" TYPE="AGE" comment="" />
+<NAME id="P20" start="755" end="770" text="Esperanza Quill" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="822" end="836" text="Abernathy Cole" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="917" end="937" text="Starling Bakery Cafe" TYPE="ORGANIZATION" comment="" />
+<DATE id="P23" start="941" end="947" text="summer" TYPE="DATE" comment="" />
+<LOCATION id="P24" start="1022" end="1039" text="1427 Wexcombe Ave" TYPE="STREET" comment="" />
+<NAME id="P25" start="1057" end="1061" text="tran" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1081" end="1089" text="november" TYPE="DATE" comment="" />
+<CONTACT id="P27" start="1120" end="1172" text="seven seven four, five five five, oh one eight eight" TYPE="PHONE" comment="" />
+<CONTACT id="P28" start="1205" end="1217" text="508-555-0170" TYPE="PHONE" comment="" />
+<ID id="P29" start="1307" end="1321" text="MH-4408-2217-9" TYPE="HEALTHPLAN" comment="" />
+<LOCATION id="P30" start="1360" end="1367" text="Vietnam" TYPE="COUNTRY" comment="" />
+<DATE id="P31" start="1478" end="1488" text="03/19/2089" TYPE="DATE" comment="" />
+<NAME id="P32" start="1501" end="1510" text="Nora Tran" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="1550" end="1565" text="Dr. Rahul Menon" TYPE="DOCTOR" comment="" />
+<NAME id="P34" start="1567" end="1578" text="Yusuf Demir" TYPE="DOCTOR" comment="" />
+<NAME id="P35" start="1595" end="1601" text="ydemir" TYPE="USERNAME" comment="" />
+<DATE id="P36" start="1602" end="1612" text="10/16/2088" TYPE="DATE" comment="" />
+<CONTACT id="P37" start="1624" end="1637" text="192.168.14.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL   Oakmoor Internal Medicine
+Date of visit: 12/26/2087         PCP: Nia Ferris, MD
+Patient: Pleasant Will   DOB 5/14/2008   Age: 79   MRN SV-0916442
+Accompanied by: dtr Destiny and grandson x183474
+- CC: memory loss, "year of getting lost"
+- HPI: 79 yo woman w/ CAD, hyperlipidemia, hx severe anxiety/panic and stress, now with progressive short-term memory loss over ~12 mo. Sister Ola Mae Pruitt, 91 years old, "has none of this and she is older than me". Husband Truman says she is "fine".
+- Pt gave her age as seventy-seven and her DOB as May 4, 2008 today (chart says 05/14/2008).
+- Meds: clopidogrel 75, metoprolol succ 100, simvastatin 10, NTG spray prn.
+- Exam: pleasant and cooperative, oriented to person only. MMSE/ MoCA done. Gait steady (Morse low risk). BP 107/55, HR 58 (!!), wt 76 kg BMI 30.3, pain 2/10
+- Screens: GAD-7 9, depression screen done, substance use neg, domestic abuse screen done alone w/ pt
+- Studies: CT head 12/19/2087 atrophy, no bleed, read by Grace Ohm
+- Impression: Alzheimer's disease (new). Start galantamine 4 mg BID. Pharmacist Lane Cobb to check interaction w/ metoprolol (bradycardia!!)
+- Safety: bracelet WB-4471-PW; stove shutoff; no driving. Proxy form: grandson sign as Dylan Carter (pasted from old form, now x183474)
+- Plan labs 12/27/2087 (done: glucose 75.7, eGFR 79.9, TC 159.5, LDL 146.2 - LDL up, on simvastatin 10, adherence?). F/u 4 wk.
+Signed Nia Ferris, MD   12/26/2087 16:45
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="23" end="48" text="Oakmoor Internal Medicine" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="64" end="74" text="12/26/2087" TYPE="DATE" comment="" />
+<NAME id="P2" start="88" end="98" text="Nia Ferris" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="112" end="125" text="Pleasant Will" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="132" end="141" text="5/14/2008" TYPE="DATE" comment="" />
+<AGE id="P5" start="149" end="151" text="79" TYPE="AGE" comment="" />
+<ID id="P6" start="158" end="168" text="SV-0916442" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P7" start="189" end="196" text="Destiny" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="210" end="217" text="x183474" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="267" end="272" text="79 yo" TYPE="AGE" comment="" />
+<NAME id="P10" start="403" end="417" text="Ola Mae Pruitt" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="419" end="421" text="91" TYPE="AGE" comment="" />
+<NAME id="P12" start="486" end="492" text="Truman" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="534" end="547" text="seventy-seven" TYPE="AGE" comment="" />
+<DATE id="P14" start="563" end="574" text="May 4, 2008" TYPE="DATE" comment="" />
+<DATE id="P15" start="593" end="603" text="05/14/2008" TYPE="DATE" comment="" />
+<DATE id="P16" start="961" end="971" text="12/19/2087" TYPE="DATE" comment="" />
+<NAME id="P17" start="999" end="1008" text="Grace Ohm" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1089" end="1098" text="Lane Cobb" TYPE="DOCTOR" comment="" />
+<ID id="P19" start="1169" end="1179" text="WB-4471-PW" TYPE="DEVICE" comment="" />
+<NAME id="P20" start="1237" end="1249" text="Dylan Carter" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="1277" end="1284" text="x183474" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="1298" end="1308" text="12/27/2087" TYPE="DATE" comment="" />
+<NAME id="P23" start="1420" end="1430" text="Nia Ferris" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1437" end="1447" text="12/26/2087" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

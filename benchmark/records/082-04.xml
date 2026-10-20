@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"CARE COORDINATION NOTE"  ***ED to Home***
+Ashfield Valley Medical Center ED     06/28/2072
+Pt: Winifred A. Lindqvist-Hollis   83F   MRN 0082-6407
+Case manager: Bianca Roundtree, RN       Attending: Dr. Kofi Anane
+
+&gt;&gt;&gt; Wristband scan: VVINIFRED LINDQVIST-HOLLIS  DOB 03/02/1989  (OCR)
+
+S: Fall alarm triggered at home, GPS 35.5951, -82.5515. Neighbour Dolores Vance found her on the kitchen floor and called 911. Husband Ezekiel 91-yr-old, (91 y.o. / 91yo / ninety-one / 91+ / "over 90" / 90s) was asleep and did not hear. Daughter Priscilla is out of state, flying in.
+O: CT head neg, wrist exam normal, no fracture. BP 83/87 (sys is low, recheck 100/60). Glucose 94, HbA1c 6.0. Pain 1/10.
+A: Mechanical fall in pt with advanced Alzheimers. Discharge back home safe?? NO - husband cannot supervise.
+P: 1) Home health RN 2x/wk 2) bed alarm 3) call Mountain Home Care Partners re: aide, intake line 828-555-0147 ext 22 4) Daughter to meet at 18 Pargeter La, Asheville.
+Address on file: 18 Pargeter La, Asheville, NC 2880 (zip truncated).
+
+Phone pt answered with: "This is Agnes Lindqvist" - pt's late mother, per daughter. Charted as stated.
+Pasted from 0700 note: Dr Anane seen pt today Hx 3 yrs of mem loss lives w husband Zeke Hollis and dtr Pris nearby.
+B. Roundtree RN   Electronically signed 06/28/2072 15:51
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="43" end="73" text="Ashfield Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="81" end="91" text="06/28/2072" TYPE="DATE" comment="" />
+<NAME id="P2" start="96" end="124" text="Winifred A. Lindqvist-Hollis" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="127" end="129" text="83" TYPE="AGE" comment="" />
+<ID id="P4" start="137" end="146" text="0082-6407" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P5" start="161" end="177" text="Bianca Roundtree" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="203" end="213" text="Kofi Anane" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="267" end="277" text="03/02/1989" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="323" end="340" text="35.5951, -82.5515" TYPE="LOCATION-OTHER" comment="" />
+<NAME id="P9" start="352" end="365" text="Dolores Vance" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="421" end="428" text="Ezekiel" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="429" end="431" text="91" TYPE="AGE" comment="" />
+<AGE id="P12" start="489" end="492" text="90s" TYPE="AGE" comment="" />
+<NAME id="P13" start="532" end="541" text="Priscilla" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="848" end="875" text="Mountain Home Care Partners" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P15" start="898" end="910" text="828-555-0147" TYPE="PHONE" comment="" />
+<LOCATION id="P16" start="944" end="955" text="Pargeter La" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="957" end="966" text="Asheville" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="985" end="999" text="18 Pargeter La" TYPE="STREET" comment="" />
+<LOCATION id="P19" start="1001" end="1010" text="Asheville" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="1012" end="1014" text="NC" TYPE="STATE" comment="" />
+<LOCATION id="P21" start="1015" end="1019" text="2880" TYPE="ZIP" comment="" />
+<NAME id="P22" start="1071" end="1086" text="Agnes Lindqvist" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1167" end="1172" text="Anane" TYPE="DOCTOR" comment="" />
+<NAME id="P24" start="1224" end="1235" text="Zeke Hollis" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1244" end="1248" text="Pris" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1257" end="1269" text="B. Roundtree" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1297" end="1307" text="06/28/2072" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

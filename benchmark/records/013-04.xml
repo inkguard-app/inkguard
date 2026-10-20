@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>From: cwhanratty (account of Corinne W Hanratty)
+To: Dr. Vasantha Ramaswamy-Iyer, Ohio Valley Family Medicine Associates
+Sent: Tuesday, October 8, 2078 6:41 AM
+Subject: this is Everett not my wife
+
+Dr Iyer,
+
+Im writing from my wifes login because I forgot my own pasword again its ehanratty33. This is Everett Hanratty DOB 11/2/1933  (i know it says 1933 on the form but i was born 33, 2033 haha). I started the rehab program at Wheeling Recovery Center today, Dr Lim said to tell you. They gave me the therapy 3 times a week and I go to my meeting every Tuesday 7pm at St. Brendan's basement, the side door on Zane Street. My sponsor is Lou Brandvold his number is 304-555-0165 incase you need him. Please dont tell Gilly's im going to rehab. I told them its my neck.
+
+My pain is a 4 most days and the migrane came back. Im taking the lisinopril but i ran out of the cholesterol one. wait they never gave me one. Can you call (304) 555-0191 after 5 because Maebelle is home from school then and I dont want her to hear. Also can you write a leter to my boss. thank u
+
+Everett L Hanratty
+Sent from my iPhone
+</TEXT>
+<TAGS>
+<NAME id="P0" start="6" end="16" text="cwhanratty" TYPE="USERNAME" comment="" />
+<NAME id="P1" start="29" end="47" text="Corinne W Hanratty" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="53" end="80" text="Dr. Vasantha Ramaswamy-Iyer" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="82" end="120" text="Ohio Valley Family Medicine Associates" TYPE="ORGANIZATION" comment="" />
+<DATE id="P4" start="127" end="151" text="Tuesday, October 8, 2078" TYPE="DATE" comment="" />
+<NAME id="P5" start="177" end="184" text="Everett" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="201" end="205" text="Iyer" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="281" end="292" text="ehanratty33" TYPE="USERNAME" comment="" />
+<NAME id="P8" start="302" end="318" text="Everett Hanratty" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="323" end="332" text="11/2/1933" TYPE="DATE" comment="" />
+<DATE id="P10" start="350" end="354" text="1933" TYPE="DATE" comment="" />
+<DATE id="P11" start="382" end="384" text="33" TYPE="DATE" comment="" />
+<DATE id="P12" start="386" end="390" text="2033" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="429" end="453" text="Wheeling Recovery Center" TYPE="ORGANIZATION" comment="" />
+<NAME id="P14" start="464" end="467" text="Lim" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="555" end="562" text="Tuesday" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="570" end="592" text="St. Brendan's basement" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P17" start="611" end="622" text="Zane Street" TYPE="STREET" comment="" />
+<NAME id="P18" start="638" end="651" text="Lou Brandvold" TYPE="PATIENT" comment="" />
+<CONTACT id="P19" start="666" end="678" text="304-555-0165" TYPE="PHONE" comment="" />
+<LOCATION id="P20" start="717" end="724" text="Gilly's" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P21" start="927" end="941" text="(304) 555-0191" TYPE="PHONE" comment="" />
+<NAME id="P22" start="958" end="966" text="Maebelle" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1069" end="1087" text="Everett L Hanratty" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

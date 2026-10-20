@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HARBOURFRONT GENERAL HOSPITAL -- Emergency Department
+DEATH NOTE
+
+Patient: Anders Magnus Hope      MRN HGH-0073915      Health card 4821-337-905-KP
+Date and time of death: June 2nd, 2080, 09:41      Age 72 years      DOB 18/11/2007
+Attending: Dr. Hyun-woo Baek      Witnessed by: Tamsin Aldridge, RN
+
+This note is dictated by me at the bedside after the resuscitation and it is long because the family are abroad and I want the record to be complete. Mr. Hope was a seventy two year old man, divorced, formerly a marine supply clerk at Lakeshore Marine Supply, who lives at 58 Wellesley Mews, Unit 12 in Toronto M4Y 1H3. He collapsed this morning at his building and a neighbour began CPR. Paramedics from the Toronto Paramedic Service found him in ventricular fibrillation. He was defibrillated twice and brought to this emergency department under ongoing compressions. Despite advanced life support for thirty eight minutes including six doses of adrenaline, there was no return of spontaneous circulation. Asystole was confirmed on two leads, pupils were fixed and dilated, there were no heart sounds or breath sounds, and no response to pain. I pronounced him dead at nine forty one.
+
+Cause of death, provisional: cardiac arrest, presumed ventricular arrhythmia, in a man with no prior cardiac diagnosis in this chart. Chronic conditions: osteoarthritis of the knee, chronic sinusitis, chronic pain. He had a normal colonoscopy follow up in 2075 and a dental scaling in 2077. The coroner has been notified because the death was sudden and unexpected: case number OCC-80-04417, that is O C C, eight zero, zero four four one seven, spoken to Investigator Beatrix Lowe at 416 555 0111.
+
+Family: his former wife Ingrid Hope, address Storgatan 14, 411 38 Göteborg, Sverige, was informed by telephone at 10:30 through an interpreter, and his daughter Fiona Hope-Lindahl, 27 Tory Street, Te Aro, Wellington 6011, New Zealand, will be told when it is morning there. His brother Josef Hope is contacted. The friend Priscilla Okafor is on her way. Organ donation was not appropriate. No autopsy consent is needed as it is a coroner's case. Personal effects: one wallet, a key ring, a Seiko watch, a card in the name of Andrei Hope, I believe that is his father.
+
+Dictated but not read. [Tracked change by hbaek: deleted "unwitnessed"; inserted "neighbour witnessed"]  [Comment: check spelling of Wisniewska letter, not this chart]
+Electronically signed by Hyun-woo Baek, MD on 02/06/2080 12:15   Note routed to: records@harbourfrontgeneral.example
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="33" end="53" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<NAME id="P1" start="75" end="93" text="Anders Magnus Hope" TYPE="PATIENT" comment="" />
+<ID id="P2" start="103" end="114" text="HGH-0073915" TYPE="MEDICALRECORD" comment="" />
+<ID id="P3" start="132" end="147" text="4821-337-905-KP" TYPE="IDNUM" comment="" />
+<DATE id="P4" start="172" end="186" text="June 2nd, 2080" TYPE="DATE" comment="" />
+<AGE id="P5" start="203" end="205" text="72" TYPE="AGE" comment="" />
+<DATE id="P6" start="221" end="231" text="18/11/2007" TYPE="DATE" comment="" />
+<NAME id="P7" start="247" end="260" text="Hyun-woo Baek" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="280" end="295" text="Tamsin Aldridge" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="455" end="459" text="Hope" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="536" end="559" text="Lakeshore Marine Supply" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P11" start="574" end="600" text="58 Wellesley Mews, Unit 12" TYPE="STREET" comment="" />
+<LOCATION id="P12" start="604" end="611" text="Toronto" TYPE="CITY" comment="" />
+<LOCATION id="P13" start="612" end="619" text="M4Y 1H3" TYPE="ZIP" comment="" />
+<LOCATION id="P14" start="710" end="735" text="Toronto Paramedic Service" TYPE="ORGANIZATION" comment="" />
+<DATE id="P15" start="1445" end="1449" text="2075" TYPE="DATE" comment="" />
+<DATE id="P16" start="1474" end="1478" text="2077" TYPE="DATE" comment="" />
+<ID id="P17" start="1567" end="1579" text="OCC-80-04417" TYPE="IDNUM" comment="" />
+<NAME id="P18" start="1644" end="1669" text="Investigator Beatrix Lowe" TYPE="DOCTOR" comment="" />
+<CONTACT id="P19" start="1673" end="1685" text="416 555 0111" TYPE="PHONE" comment="" />
+<NAME id="P20" start="1712" end="1723" text="Ingrid Hope" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="1733" end="1745" text="Storgatan 14" TYPE="STREET" comment="" />
+<LOCATION id="P22" start="1747" end="1753" text="411 38" TYPE="ZIP" comment="" />
+<LOCATION id="P23" start="1754" end="1762" text="Göteborg" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="1764" end="1771" text="Sverige" TYPE="COUNTRY" comment="" />
+<NAME id="P25" start="1849" end="1867" text="Fiona Hope-Lindahl" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="1869" end="1883" text="27 Tory Street" TYPE="STREET" comment="" />
+<LOCATION id="P27" start="1885" end="1891" text="Te Aro" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P28" start="1893" end="1903" text="Wellington" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="1904" end="1908" text="6011" TYPE="ZIP" comment="" />
+<LOCATION id="P30" start="1910" end="1921" text="New Zealand" TYPE="COUNTRY" comment="" />
+<NAME id="P31" start="1974" end="1984" text="Josef Hope" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="2010" end="2026" text="Priscilla Okafor" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="2213" end="2224" text="Andrei Hope" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="2390" end="2400" text="Wisniewska" TYPE="DOCTOR" comment="" />
+<NAME id="P35" start="2450" end="2463" text="Hyun-woo Baek" TYPE="DOCTOR" comment="" />
+<DATE id="P36" start="2471" end="2481" text="02/06/2080" TYPE="DATE" comment="" />
+<CONTACT id="P37" start="2506" end="2541" text="records@harbourfrontgeneral.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

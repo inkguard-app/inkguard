@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EASTBANK PAEDIATRIC ASSOCIATES
+DISCHARGE SUMMARY (outpatient encounter)
+** DOB: **/**/**** **  &lt;- not filled, see below
+
+Patient: River Ngozi Lindqvist     MRN: 059-60418
+DOB: 11/02/2065     Age: 20 months
+Encounter date: 12 July 2067 (Tuesday)
+Clinician: Autumn Lowe, MD     MA: Kiwi Tran
+
+REASON FOR VISIT
+- Pulling at right ear x 3 days, fever on and off, fussy at night
+- Mom (Amaka Lindqvist) says River has been "so bright and chatty" untill the weekend, now off her food
+
+FINDINGS
+- Temp 38.4 C. Rt tympanic membrane red, bulging, no landmarks. Left TM ok.
+- Lungs clear, throat mildly red
+- Weight and vitals not repeated (see well visit)
+
+DIAGNOSIS: Otitis media, right
+
+PLAN
+- Cefuroxime 250 mg tablet, crushed in food, twice a day for 14 days (stop 07/26/2067)
+- Acetaminophen 160 mg chewable for fever/pain
+- Fluids, rest. Keep home from Little Acorns Daycare till fever free 24 h (teacher Mr Bright notified by mom)
+- Recheck if not better in 48-72h. Re-examine at the next well visit, due 10/2067
+
+FAMILY NOTES
+- Parents: Amaka and Seven Lindqvist (father; typed as Seven, legal first name is Sven). Dad at work, was in Sweden last month
+- Maternal grandmother Ifeoma Okafor visiting from Lagos, Nigeria, she will give the medicine on Thursday
+- Home: 3314 Stillwater Lane, Apt 5, Minneapolis, MN 55406
+
+Discharged home with mother in good condition.
+Electronically signed Autumn Lowe MD 2067-07-12 17:20
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="30" text="EASTBANK PAEDIATRIC ASSOCIATES" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="130" end="151" text="River Ngozi Lindqvist" TYPE="PATIENT" comment="" />
+<ID id="P2" start="161" end="170" text="059-60418" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="176" end="186" text="11/02/2065" TYPE="DATE" comment="" />
+<AGE id="P4" start="196" end="205" text="20 months" TYPE="AGE" comment="" />
+<DATE id="P5" start="222" end="234" text="12 July 2067" TYPE="DATE" comment="" />
+<DATE id="P6" start="236" end="243" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P7" start="256" end="267" text="Autumn Lowe" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="280" end="289" text="Kiwi Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="381" end="396" text="Amaka Lindqvist" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="760" end="770" text="07/26/2067" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="850" end="871" text="Little Acorns Daycare" TYPE="ORGANIZATION" comment="" />
+<NAME id="P12" start="905" end="911" text="Bright" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="1003" end="1010" text="10/2067" TYPE="DATE" comment="" />
+<NAME id="P14" start="1036" end="1041" text="Amaka" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1046" end="1061" text="Seven Lindqvist" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="1134" end="1140" text="Sweden" TYPE="COUNTRY" comment="" />
+<NAME id="P17" start="1175" end="1188" text="Ifeoma Okafor" TYPE="PATIENT" comment="" />
+<LOCATION id="P18" start="1203" end="1208" text="Lagos" TYPE="CITY" comment="" />
+<LOCATION id="P19" start="1210" end="1217" text="Nigeria" TYPE="COUNTRY" comment="" />
+<DATE id="P20" start="1249" end="1257" text="Thursday" TYPE="DATE" comment="" />
+<LOCATION id="P21" start="1266" end="1293" text="3314 Stillwater Lane, Apt 5" TYPE="STREET" comment="" />
+<LOCATION id="P22" start="1295" end="1306" text="Minneapolis" TYPE="CITY" comment="" />
+<LOCATION id="P23" start="1308" end="1310" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P24" start="1311" end="1316" text="55406" TYPE="ZIP" comment="" />
+<NAME id="P25" start="1387" end="1398" text="Autumn Lowe" TYPE="DOCTOR" comment="" />
+<DATE id="P26" start="1402" end="1412" text="2067-07-12" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

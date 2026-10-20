@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,note_type,enc_date,author,text
+7710,AVS,2069-08-14,snachtergael,"AFTER VISIT SUMMARY
+HUNT, MARLENE F   MRN CV7-5520914   DOB 04/03/1999
+Visit date: 08/14/2069   Dept: Endocrinology   Provider: Suleiman Achterberg, MD
+Dear Ms. Hunt,
+Thank you for comming in today.  Here is what we talked about
+WHAT WE FOUND: Your bone scan shows osteoporosis (thin bones). Your blood suger (A1c 5.9) is in the pre-diabetes range, same as last year. Weight 71.9 kg, BP 118/76.
+YOUR MEDICINES: START alendronic acid 10 mg by mouth once daily with a full glass of watter, 30 min before food, stay upright. CONTINUE simvastatin 10 mg at night. CONTINUE naproxen 220 mg as needed for lupus joint pain (take with food).
+WHAT TO DO: calcium and vitamin D, wlak 30 minutes most days, no smokng. Return in 1 year or sooner if hip or back pain.
+Scan your QR code to see this summary online: https://myhealth.cedarvale-ex.org/avs?mrn=CV7-5520914&amp;dob=04031999
+YOUR NEXT VISIT: ***
+WHAT TO DO: calcium and vitamin D, walk 30 minutes most days, no smoking. (repeated from last visit)
+Questions? Call the clinic at ***.
+Printed by snachtergael"
+</TEXT>
+<TAGS>
+<DATE id="P0" start="47" end="57" text="2069-08-14" TYPE="DATE" comment="" />
+<NAME id="P1" start="58" end="70" text="snachtergael" TYPE="USERNAME" comment="" />
+<NAME id="P2" start="92" end="107" text="HUNT, MARLENE F" TYPE="PATIENT" comment="" />
+<ID id="P3" start="114" end="125" text="CV7-5520914" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="132" end="142" text="04/03/1999" TYPE="DATE" comment="" />
+<DATE id="P5" start="155" end="165" text="08/14/2069" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="174" end="187" text="Endocrinology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P7" start="200" end="219" text="Suleiman Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="233" end="237" text="Hunt" TYPE="PATIENT" comment="" />
+<CONTACT id="P9" start="872" end="938" text="https://myhealth.cedarvale-ex.org/avs?mrn=CV7-5520914&amp;dob=04031999" TYPE="URL" comment="" />
+<NAME id="P10" start="1107" end="1119" text="snachtergael" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

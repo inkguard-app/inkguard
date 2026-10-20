@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_key,note_type,svc_date,author,text
+r-5107,LETTER TO INSURER,03/10/2089,Dr Mehwish Aslam,"Kestrel Health Alliance, Claims Review, PO Box 7731, Spokane, WA 99210
+RE: claim CL-89-0310-7782, member Ellis Page, ID CHA-6612-03-5519, grp 40228
+DOB 05/30/2063   
+
+To whom concern: Your denial dated 03/01/2089 says ""sex on claim does not match member file - name Emmeline Page"". This is the same person. Mr. Page changed legal name by court on 09/12/2088 (order WA-NC-88-5531), your file still show the old name Emmeline Rose Page and the old sex. Please correct and re-process the quarterly depot injection (given 12/08/2088) and the visit of 2/16/2089.  Emmeline Page is a 26 y.o. male [sic, EHR prefill] -- pls disregard this line and DO NOT send any letter to the old name. The patient is 25, not 26.
+
+Please call me at (253) 555-0140 ext 22 or the billing Imani --  
+Sincerely  Mehwish Aslam, MD, Endocrinology, Puget Sound Endocrine &amp; Diabetes Center
+cc: E. Page; Rainier Orchard Logistics HR (NOT cc'd, removed)"
+</TEXT>
+<TAGS>
+<DATE id="P0" start="64" end="74" text="03/10/2089" TYPE="DATE" comment="" />
+<NAME id="P1" start="75" end="91" text="Dr Mehwish Aslam" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="93" end="116" text="Kestrel Health Alliance" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P3" start="133" end="144" text="PO Box 7731" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="146" end="153" text="Spokane" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="155" end="157" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="158" end="163" text="99210" TYPE="ZIP" comment="" />
+<ID id="P7" start="174" end="189" text="CL-89-0310-7782" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="198" end="208" text="Ellis Page" TYPE="PATIENT" comment="" />
+<ID id="P9" start="213" end="229" text="CHA-6612-03-5519" TYPE="HEALTHPLAN" comment="" />
+<ID id="P10" start="235" end="240" text="40228" TYPE="IDNUM" comment="" />
+<DATE id="P11" start="245" end="255" text="05/30/2063" TYPE="DATE" comment="" />
+<DATE id="P12" start="295" end="305" text="03/01/2089" TYPE="DATE" comment="" />
+<NAME id="P13" start="360" end="373" text="Emmeline Page" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="402" end="410" text="Mr. Page" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="442" end="452" text="09/12/2088" TYPE="DATE" comment="" />
+<ID id="P16" start="460" end="473" text="WA-NC-88-5531" TYPE="IDNUM" comment="" />
+<NAME id="P17" start="510" end="528" text="Emmeline Rose Page" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="613" end="623" text="12/08/2088" TYPE="DATE" comment="" />
+<DATE id="P19" start="642" end="651" text="2/16/2089" TYPE="DATE" comment="" />
+<AGE id="P20" start="791" end="793" text="25" TYPE="AGE" comment="" />
+<CONTACT id="P21" start="822" end="843" text="(253) 555-0140 ext 22" TYPE="PHONE" comment="" />
+<NAME id="P22" start="859" end="864" text="Imani" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="881" end="894" text="Mehwish Aslam" TYPE="DOCTOR" comment="" />
+<LOCATION id="P24" start="900" end="913" text="Endocrinology" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P25" start="915" end="954" text="Puget Sound Endocrine &amp; Diabetes Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P26" start="959" end="966" text="E. Page" TYPE="PATIENT" comment="" />
+<LOCATION id="P27" start="968" end="993" text="Rainier Orchard Logistics" TYPE="ORGANIZATION" comment="" />
+</TAGS>
+</deIdi2b2>

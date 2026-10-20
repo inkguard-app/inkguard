@@ -1,0 +1,30 @@
+ENDOCRINE-NEUROSURGERY PITUITARY CLINIC
+{{FACILITY|Calderwood University Hospital}}, Pituitary Centre
+{{ADDRESS|1180 Quarry Hill Road, Ashby Falls}}, PA {{ZIP|19473}}
+
+Patient: {{NAME|Theodora Hardwicke}}  MRN {{MRN|CUH-3390471}}
+Visit: {{DATE|01/05/2073}}
+
+HPI: 48 F referred with [[bitemporal hemianopia]] and headaches. [[MRI pituitary protocol]] shows a 2.6 cm [[non-functioning pituitary macroadenoma]] with [[suprasellar extension]] elevating and thinning the [[optic chiasm]], [[Knosp grade 2]] on the right, [[Knosp grade 1]] on the left; no [[cavernous sinus invasion]] of the [[ICA]].
+
+Visual fields ([[Humphrey 24-2]]): dense superotemporal defects bilaterally, [[mean deviation]] -8.4 dB OD, -7.1 dB OS. [[OCT RNFL]] thickness preserved, which predicts good recovery.
+
+Labs: [[prolactin]] 38 ng/mL (consistent with [[stalk effect]]), [[IGF-1]] normal, [[ACTH]] and [[morning cortisol]] 9.2 mcg/dL, [[free T4]] low-normal. No [[diabetes insipidus]].
+
+Plan: [[endoscopic endonasal transsphenoidal resection]] with ENT. [[Hydrocortisone stress dosing]] peri-operatively. Will use [[nasoseptal flap]] only if a high-flow [[CSF leak]] is encountered.
+
+Signed: Dr. {{NAME|Anselm Brightwater}}, Neurosurgery
+cc: Dr. {{NAME|Lucia Fennimore}}, Endocrinology
+=====NOTE=====
+OP NOTE — ENDOSCOPIC ENDONASAL TRANSSPHENOIDAL APPROACH
+Pt {{NAME|HARDWICKE, THEODORA}} MRN {{MRN|CUH-3390471}} DOS {{DATE|02/11/2073}}
+Surgeons: {{NAME|A. Brightwater}} (neurosurgery), {{NAME|R. Oyelaran-Hughes}} (ENT)
+
+0-degree and 30-degree [[Storz Hopkins rod endoscopes]]. Bilateral [[middle turbinate lateralization]], posterior septectomy, wide [[sphenoidotomy]] with [[Kerrison rongeur]]. [[Sellar floor]] opened with [[high-speed diamond drill]]. Dura opened in cruciate fashion. Tumour removed with [[ring curettes]] and two-suction technique; the [[diaphragma sellae]] descended. No [[intraoperative CSF leak]] on [[Valsalva manoeuvre]]. Normal gland identified posteriorly-superiorly and preserved. Sellar reconstruction: [[Surgicel]] and [[DuraSeal]], no [[nasoseptal flap]] harvested. [[Doppler probe]] used to confirm both [[cavernous carotid]] arteries before opening.
+
+Neuronavigation: [[Brainlab Curve]] with CT-MRI fusion.
+EBL 150 mL.
+Post-op: [[hydrocortisone 50 mg q8h]] tapering, strict [[ins and outs]], serum sodium q6h for [[DI]] / [[SIADH]] surveillance. Sinus precautions, no nose blowing.
+=====NOTE=====
+Msg from patient via {{URL|https://portal.calderwood-uh.example.org/msg/88412}}: "My vision already seems wider on the sides!! But I'm peeing a lot and super thirsty since yesterday."
+Nurse triage: Na 149, urine SG 1.002, UOP 350 mL/h x3h → consistent with [[central diabetes insipidus]] (likely transient, [[triphasic response]] possible). Discussed with Dr. {{NAME|Brightwater}}: give [[desmopressin 1 mcg IV]] once, recheck Na in 6 h, then [[DDAVP 0.1 mg PO]] PRN. Watch for day 7 [[SIADH]] phase. Repeat [[Humphrey visual fields]] and [[OCT RNFL]] at 6 weeks. If [[CSF rhinorrhoea]] (salty drip, positive [[beta-2 transferrin]]) return immediately — risk of [[meningitis]]. Check [[8 am cortisol]] off [[hydrocortisone]] at 6 weeks; [[free T4]] and [[TSH]] at 6 weeks for [[secondary hypothyroidism]]. Post-op day 2 [[cortisol]] 14 mcg/dL. Patient phone {{PHONE|(555) 677-0219}}. Callback done {{DATE|02/14/2073}}.

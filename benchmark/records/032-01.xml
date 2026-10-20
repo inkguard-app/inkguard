@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER - DICTATED
+Swan River Children's Health Service, General Paediatrics
+Date of call: 26/07/2094   Patient: WISNIEWSKI-HART, Jakub T   DOB: 14/09/2078   UR: JW 1409-78   Age: 15
+Dictating: Dr Ifeoma Adeyemi-Lowe, registrar, to be read by consultant Dr Callum Strathairn
+
+This is a telephone encounter regarding Jakub, who goes by Kuba, a fifteen year old boy whom I reviewed in the emergency department on Thursday the 22nd with a fracture of a rib after coming off his skateboard at the skate park in Hyde Park, Perth. Chest x-ray at that time showed a single rib fracture on the left with no pneumothorax. He was discharged on ibuprofen and simple analgesia with advice about breathing exercises.
+
+I rang the home at +61 8 5550 0142 at about 4.15 on Monday afternoon and spoke to his mother, Eleanor Hart. She says that Kuba has been in more pain than expected at night, can not lie flat, is taking the ibuprofen two hundred milligrams with food, no fever, no cough and no shortness of breath. She herself works at Swan Valley Veterinary Group as a veterinary nurse and she was a little embarassed to say that she has been giving him some of the family dog's pain tablet "just once", which I have told her firmly not to do. She understands.
+
+The father, Marek Wisniewski, is working away in Rotterdam, The Netherlands, and returns in mid-August. The grandmother Halina Wisniewska is visiting from Krakow, Poland and has been sleeping in Kuba's room. Scratch that, the grandmother is called Halina Wisniewska-Nowak, she remarried. I have corrected nothing in the chart.
+
+Plan: no change in the analgesia, review in the clinic on the 2nd of August, return immediately if breathless. School is Glendalough College and Eleanor would like a letter excusing him from sport, which I will ask the consultant to sign. Mother's email is ehart@swanvalleyvet.example.
+
+Dictated but not read. Transcribed 27/07/2094 08:03 by medtrans_k7 from 10.88.12.204
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="31" end="67" text="Swan River Children's Health Service" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="69" end="88" text="General Paediatrics" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="103" end="113" text="26/07/2094" TYPE="DATE" comment="" />
+<NAME id="P3" start="125" end="149" text="WISNIEWSKI-HART, Jakub T" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="157" end="167" text="14/09/2078" TYPE="DATE" comment="" />
+<ID id="P5" start="174" end="184" text="JW 1409-78" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P6" start="192" end="194" text="15" TYPE="AGE" comment="" />
+<NAME id="P7" start="209" end="228" text="Ifeoma Adeyemi-Lowe" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="269" end="286" text="Callum Strathairn" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="328" end="333" text="Jakub" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="347" end="351" text="Kuba" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="423" end="431" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P12" start="436" end="440" text="22nd" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="519" end="528" text="Hyde Park" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P14" start="530" end="535" text="Perth" TYPE="CITY" comment="" />
+<CONTACT id="P15" start="736" end="751" text="+61 8 5550 0142" TYPE="PHONE" comment="" />
+<DATE id="P16" start="769" end="775" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P17" start="811" end="823" text="Eleanor Hart" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="839" end="843" text="Kuba" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="1034" end="1062" text="Swan Valley Veterinary Group" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P20" start="1068" end="1084" text="veterinary nurse" TYPE="PROFESSION" comment="" />
+<NAME id="P21" start="1273" end="1289" text="Marek Wisniewski" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="1310" end="1319" text="Rotterdam" TYPE="CITY" comment="" />
+<LOCATION id="P23" start="1321" end="1336" text="The Netherlands" TYPE="COUNTRY" comment="" />
+<DATE id="P24" start="1353" end="1363" text="mid-August" TYPE="DATE" comment="" />
+<NAME id="P25" start="1381" end="1398" text="Halina Wisniewska" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="1416" end="1422" text="Krakow" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="1424" end="1430" text="Poland" TYPE="COUNTRY" comment="" />
+<NAME id="P28" start="1456" end="1460" text="Kuba" TYPE="PATIENT" comment="" />
+<NAME id="P29" start="1509" end="1532" text="Halina Wisniewska-Nowak" TYPE="PATIENT" comment="" />
+<DATE id="P30" start="1651" end="1664" text="2nd of August" TYPE="DATE" comment="" />
+<LOCATION id="P31" start="1710" end="1729" text="Glendalough College" TYPE="ORGANIZATION" comment="" />
+<NAME id="P32" start="1734" end="1741" text="Eleanor" TYPE="PATIENT" comment="" />
+<CONTACT id="P33" start="1846" end="1873" text="ehart@swanvalleyvet.example" TYPE="EMAIL" comment="" />
+<DATE id="P34" start="1911" end="1921" text="27/07/2094" TYPE="DATE" comment="" />
+<NAME id="P35" start="1931" end="1942" text="medtrans_k7" TYPE="USERNAME" comment="" />
+<CONTACT id="P36" start="1948" end="1960" text="10.88.12.204" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

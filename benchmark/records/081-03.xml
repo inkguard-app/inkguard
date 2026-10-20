@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_key,note_type,svc_date,author,text
+MV20070322,PORTAL MSG FROM PT,05/10/2062,Marguerit Voss,"Hi its me again. We r moving to Concord, New Hampshire next month for dennis's job (my husband Denis Voss) so I wont be coming back after the dental thing. can u send all my records to my new doc? i dont have the name yet but ill send. also my DOB on file might be wrong, i think its 02/22/2007 on my old license, the new license says 03/22/2007 so idk which. my name before marriage was Baptist -- M. Baptiste on old papers from the appendix surgery, but I never had surgery, that was my sister (she is dead). I did have my gallbladder out tho at St Brigid. The nurse Jolene knows. btw my home wifi name is VossFamily_Dennis_5G lol if u need it for the BP cuff. thanks!! Margo
+Sent Sunday night from iPhone 73.114.20.8"
+</TEXT>
+<TAGS>
+<ID id="P0" start="39" end="49" text="MV20070322" TYPE="IDNUM" comment="" />
+<DATE id="P1" start="69" end="79" text="05/10/2062" TYPE="DATE" comment="" />
+<NAME id="P2" start="80" end="94" text="Marguerit Voss" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="128" end="135" text="Concord" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="137" end="150" text="New Hampshire" TYPE="STATE" comment="" />
+<NAME id="P5" start="166" end="172" text="dennis" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="191" end="201" text="Denis Voss" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="380" end="390" text="02/22/2007" TYPE="DATE" comment="" />
+<DATE id="P8" start="431" end="441" text="03/22/2007" TYPE="DATE" comment="" />
+<NAME id="P9" start="484" end="491" text="Baptist" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="495" end="506" text="M. Baptiste" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="644" end="653" text="St Brigid" TYPE="HOSPITAL" comment="" />
+<NAME id="P12" start="665" end="671" text="Jolene" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="704" end="724" text="VossFamily_Dennis_5G" TYPE="USERNAME" comment="" />
+<NAME id="P14" start="768" end="773" text="Margo" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="779" end="785" text="Sunday" TYPE="DATE" comment="" />
+<CONTACT id="P16" start="804" end="815" text="73.114.20.8" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

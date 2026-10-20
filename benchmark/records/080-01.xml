@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Treasure Valley Regional Hospital
+Orthopaedics and Hand Surgery  -  OPERATIVE REPORT
+Page 1 of 2          PIKE, GIDEON H          MRN 0091-6630          DOB 01/15/2047
+
+DATE OF PROCEDURE: 05/20/2077
+SURGEON: Cuthbert Ashworth-Hale, FRCS
+ASSISTANT: Rowan Hart, PGY-3
+ANAESTHESIA: Local, one percent lidocaine plain, with digital and wrist block.
+OR TRACKING: the board in theatre read "OR 4 - PIKE G - R HAND LAC - 5/20 21:40 - barcode 00918842657301" and I am dictating it as it was written up there because the scrub nurse asked me to.
+
+PREOPERATIVE DIAGNOSIS: Laceration of the right hand, palmar aspect, with possible tendon involvement.
+POSTOPERATIVE DIAGNOSIS: Laceration of the right hand, 4 cm, partial thickness, flexor tendons intact.
+PROCEDURE: Exploration, irrigation and primary repair of laceration of the right palm.
+
+INDICATIONS: This is a 30 year old right hand dominant gentleman, who was brought to the emergency department on the evening of Thursday the 20th after cutting his palm on a sheet of roofing flashing while working a day job for Brannock Roofing and Gutter. His wife, Marisol, came in behind him and says that he did not stop working for some time, which is why we saw him at nine and not at six. He has a history of asthma, which is currently quiet, takes loratadine on occasion and carries an epinephrine auto-injector, and tells me his tetanus is up to date from last summer. No other allergies that he can recall. He denies any use of alcohol today.
+
+DESCRIPTION OF PROCEDURE: After informed consent was obtained the patient was placed supine with the arm on a hand table. The hand was prepped with povidone iodine solution (Betadine) and draped in the usual sterile fashion. Local anaesthetic was infiltrated. A tourniquet was not required. The wound was explored under direct vision through a full range of finger flexion and we saw that the superficialis and profundus tendons to the index and middle fingers were intact and glided well. Allen's test was normal at the wrist both before and after the block, so there was no concern for arterial injury. Sensation in the digits was intact to light touch before the block. Nothing in the way of foreign body was found though we did remove a few flakes of galvanised metal. The wound was irrigated with two litres of normal saline. The skin was closed with five interrupted 4-0 nylon sutures (Prolene was not available) and a bulky dressing and a volar splint was placed. He tolerated the procedure well.
+
+ESTIMATED BLOOD LOSS: minimal. COMPLICATIONS: none. SPECIMENS: none.
+
+DISPOSITION: Discharged home with his wife in stable condition, naproxen for pain, return in 10 to 14 days for suture removal, sooner if redness, fever, or numbness. We have also let him know that the ortho clinic at Hand Therapy will call about the splint.
+
+[Comment by R. Hart: confirm laterality with consent form, dictation says right but nursing wrote left]
+[Tracked change - deleted: "left hand"; inserted: "right hand"  -  author rhart, 5/21/2077 07:15]
+
+Dictated by Cuthbert Ashworth-Hale 05/20/2077 23:05   Transcribed 05/21/2077   Dictated but not read.
+Electronically signed: Rowan Hart for C. Ashworth-Hale, 05/21/2077 07:20
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="33" text="Treasure Valley Regional Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="34" end="63" text="Orthopaedics and Hand Surgery" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="106" end="120" text="PIKE, GIDEON H" TYPE="PATIENT" comment="" />
+<ID id="P3" start="134" end="143" text="0091-6630" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="157" end="167" text="01/15/2047" TYPE="DATE" comment="" />
+<DATE id="P5" start="188" end="198" text="05/20/2077" TYPE="DATE" comment="" />
+<NAME id="P6" start="208" end="230" text="Cuthbert Ashworth-Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="248" end="258" text="Rowan Hart" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="414" end="418" text="5/20" TYPE="DATE" comment="" />
+<ID id="P9" start="435" end="449" text="00918842657301" TYPE="IDNUM" comment="" />
+<AGE id="P10" start="855" end="857" text="30" TYPE="AGE" comment="" />
+<DATE id="P11" start="960" end="977" text="Thursday the 20th" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="1060" end="1087" text="Brannock Roofing and Gutter" TYPE="ORGANIZATION" comment="" />
+<NAME id="P13" start="1099" end="1106" text="Marisol" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="1402" end="1408" text="summer" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="2778" end="2790" text="Hand Therapy" TYPE="DEPARTMENT" comment="" />
+<NAME id="P16" start="2832" end="2839" text="R. Hart" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="3005" end="3014" text="5/21/2077" TYPE="DATE" comment="" />
+<NAME id="P18" start="3035" end="3057" text="Cuthbert Ashworth-Hale" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="3058" end="3068" text="05/20/2077" TYPE="DATE" comment="" />
+<DATE id="P20" start="3089" end="3099" text="05/21/2077" TYPE="DATE" comment="" />
+<NAME id="P21" start="3148" end="3158" text="Rowan Hart" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="3163" end="3179" text="C. Ashworth-Hale" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="3181" end="3191" text="05/21/2077" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

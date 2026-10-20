@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CAMBIE CREST CHILDREN'S HOSPITAL  -  Paediatric Emergency &amp; Minor Procedures
+OPERATIVE NOTE (MINOR PROCEDURE)
+Patient: Anand Kenji Takeda-Raman        DOB: 2059-11-05        Age: 6 y        MRN: KM 5531-0922
+Date of procedure: 2066-02-01 (Monday)       Start 18:40  End 19:25
+Surgeon: Dr. Rashida Oyelaran     Assistant: Tobias Vandenberghe, resident     Scrub nurse: Imelda Faulkner, RN
+PHN: 9876 543 210     Accompanied by: mother Priya Raman (at bedside, phone +1 604 555 0123)
+
+PRE-OPERATIVE DIAGNOSIS: Laceration of the right thigh, approximately 4 cm, with Stanley Park playground fence as the mechanism per mother.
+POST-OPERATIVE DIAGNOSIS: Same. No foreign body.
+PROCEDURE: Irrigation, exploration and primary layered closure of laceration of thigh.
+ANAESTHESIA: Local (lidocaine with epinephrine), plus intranasal sedation. Weight 20 kg.
+
+DESCRIPTION: The child was identified by wristband (Anand Takeda-Raman) and the time out was done. The wound was cleaned with saline and explored. The fascia was intact. Hemostasis was easy. Closure was in two layers with 4-0 absorbable sutures deep and 5-0 nylon sutures skin, seven in total. Tetanus was up to date per mother (Tdap booster not due). Dressing applied. The child tolerated it well and asked for a "sticker like my sister Mei's" - Mei is his 9 year old sister.
+
+Copy forward (from 2065-12-30 note, unchanged by mistake): "Presents with sore ear, plan Amoxil x 10 days". [Not relevant today. Ear was normal.] 
+Allergies: nil known. Meds: Tylenol or Motrin prn only.
+
+DISPOSITION: Home. Sutures out in 10-12 days with family doctor Dr. Marguerite Lachance at Kitsilano Family Practice, or here. Wound care sheet given. Return if fever, redness or pus.
+No Bell's palsy, no Parkinson's, nothing neurological - template phrase from adult template, ignore.
+
+Dictated by R. Oyelaran; electronically signed 2066-02-01 21:07. Last edited by tvandenb from 10.31.77.140.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="32" text="CAMBIE CREST CHILDREN'S HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="37" end="76" text="Paediatric Emergency &amp; Minor Procedures" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="119" end="143" text="Anand Kenji Takeda-Raman" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="156" end="166" text="2059-11-05" TYPE="DATE" comment="" />
+<AGE id="P4" start="179" end="180" text="6" TYPE="AGE" comment="" />
+<ID id="P5" start="195" end="207" text="KM 5531-0922" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="227" end="237" text="2066-02-01" TYPE="DATE" comment="" />
+<DATE id="P7" start="239" end="245" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P8" start="289" end="305" text="Rashida Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="321" end="340" text="Tobias Vandenberghe" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="368" end="383" text="Imelda Faulkner" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="393" end="405" text="9876 543 210" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P12" start="433" end="444" text="Priya Raman" TYPE="PATIENT" comment="" />
+<CONTACT id="P13" start="464" end="479" text="+1 604 555 0123" TYPE="PHONE" comment="" />
+<LOCATION id="P14" start="563" end="575" text="Stanley Park" TYPE="LOCATION-OTHER" comment="" />
+<NAME id="P15" start="900" end="918" text="Anand Takeda-Raman" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1286" end="1289" text="Mei" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1295" end="1298" text="Mei" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="1345" end="1355" text="2065-12-30" TYPE="DATE" comment="" />
+<NAME id="P19" start="1598" end="1617" text="Marguerite Lachance" TYPE="DOCTOR" comment="" />
+<LOCATION id="P20" start="1621" end="1646" text="Kitsilano Family Practice" TYPE="ORGANIZATION" comment="" />
+<NAME id="P21" start="1828" end="1839" text="R. Oyelaran" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1863" end="1873" text="2066-02-01" TYPE="DATE" comment="" />
+<NAME id="P23" start="1896" end="1904" text="tvandenb" TYPE="USERNAME" comment="" />
+<CONTACT id="P24" start="1910" end="1922" text="10.31.77.140" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

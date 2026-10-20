@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>******  FAX  ******
+TO: Eastgate Community Pharmacy   Fax (918) 555-0455
+FROM: Dr. May Oyelaran, PharmD, Inpatient Pharmacy, Cedarmoor Regional Hospital
+Ph (918) 555-0430    Date 11/11/2061    Pages: 2
+
+Patient: Legend Ward   DOB 3/14/2031   MRN CR-5518203
+
+COVER MESSAGE
+- Pt readmitted today, CHF flare again (last adm. 5/11).
+- Please send us fill history for last 6 mo: carvedilol, furosemide, spironolactone, sacubitril/valsartan, ferrous sulfate
+- we also need any fills of oxycodone/acetaminophen (Percocet) - on his list since 2048, not sure if still taking
+- last rx # we have: RX-7740312
+- friend Kash Obi brought the bottles to the ER in a ziplock; says "L-Dub" is how the pt wants to be called. Chart name is still Legend for now
+- Mom (Glory Ward) says he stopped everything around the 14th.
+
+PLS NOTE: no one will answer the pharmacy line after hrs, the ward phone is x6612.
+
+Thank you,
+May Oyelaran (yes May is my first name, I am not asking for a date)
+***Confidential***
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="24" end="51" text="Eastgate Community Pharmacy" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P1" start="58" end="72" text="(918) 555-0455" TYPE="FAX" comment="" />
+<NAME id="P2" start="83" end="95" text="May Oyelaran" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="105" end="123" text="Inpatient Pharmacy" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P4" start="125" end="152" text="Cedarmoor Regional Hospital" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P5" start="156" end="170" text="(918) 555-0430" TYPE="PHONE" comment="" />
+<DATE id="P6" start="179" end="189" text="11/11/2061" TYPE="DATE" comment="" />
+<NAME id="P7" start="212" end="223" text="Legend Ward" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="230" end="239" text="3/14/2031" TYPE="DATE" comment="" />
+<ID id="P9" start="246" end="256" text="CR-5518203" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P10" start="322" end="326" text="5/11" TYPE="DATE" comment="" />
+<DATE id="P11" start="535" end="539" text="2048" TYPE="DATE" comment="" />
+<ID id="P12" start="587" end="597" text="RX-7740312" TYPE="IDNUM" comment="" />
+<NAME id="P13" start="607" end="615" text="Kash Obi" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="666" end="671" text="L-Dub" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="727" end="733" text="Legend" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="749" end="759" text="Glory Ward" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="795" end="803" text="the 14th" TYPE="DATE" comment="" />
+<CONTACT id="P18" start="882" end="887" text="x6612" TYPE="PHONE" comment="" />
+<NAME id="P19" start="901" end="913" text="May Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="919" end="922" text="May" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

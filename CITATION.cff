@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Inkguard"
+type: software
+authors:
+  - family-names: "Wajahat"
+    given-names: "Alize"
+version: "0.25.0"
+date-released: "2026-10-19"
+license: Apache-2.0
+repository-code: "https://github.com/inkguard-app/inkguard"
+doi: "10.5281/zenodo.23464777"
+keywords:
+  - de-identification
+  - protected health information
+  - HIPAA Safe Harbor
+  - clinical notes
+  - natural language processing
+  - privacy
+  - research data
+abstract: >-
+  Helps remove patient identifiers from typed clinical documents (Word,
+  text-based PDF, Excel, CSV, plain text) on the user's own computer, and
+  records what it did. Each patient's notes are read together; identifiers
+  listed by the HIPAA Safe Harbor method are redacted, including in document
+  metadata, comments, tracked changes and hidden sheets. Every file received
+  is sorted into one of three folders (redacted with no flags, redacted with
+  flagged words, not processed), with an audit trail,
+  citations and a feedback report. Runs offline; a command-line tool with a small desktop
+  window. Every output requires human review. Provided as is; not legal
+  advice, not a certification, not a medical device, and not yet validated
+  on real clinical records.

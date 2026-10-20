@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER VISIT SUMMARY
+Maple Bend Family Medicine - Family Medicine
+Patient: Journey Rich      DOB: 03/09/2038 (28 y.o.)      MRN 7720-315
+Visit date: 03/29/2066      Provider: Aster Quinn, MD      Rooming: Cash Monroe, MA
+Visit type: Postnatal visit
+
+Dear Journey,
+Thank you for coming in with baby Story (Story Rich, born 02/15/2066). Here is what we talked about today.
+
+WHAT WE DID TODAY
+- Checked your blood pressure and weight, and did a physical exam.
+- Depression screening: your score was reassuring. Tell us if you start feeling down.
+- Episiotomy site is healing well.
+
+YOUR MEDICATIONS
+- Take the birth control pill as discussed. (nothing else new)
+- ***
+Medication list as of 02/14/2066 (copied forward): prenatal vitamin - continue. [STALE - pt delivered]
+
+FOLLOW UP
+- Return in 6 mos for a yearly check, or sooner for problems.
+- Your A1c will be rechecked at that visit (prediabetes). 
+- Call (509) 555-0100 for questions. For emergencies call 911.
+
+SOCIAL (from prior note) : lives w/ husband Twelve (Darnell Rich), daughter Story, in rented apt, landlord Royal Haines, FT at Bluebird Call Center. Pts grandmother Odessa is 94 yo and lives with pt's mother Hope Wilkes; great-grandfather Amos is ninety-one and still drives.
+Patient: Journey Rich  &lt;&lt;PATIENT_NAME&gt;&gt;  DOB: **/**/****
+Printed 03/29/2066 by cmonroe
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="46" text="Maple Bend Family Medicine" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="49" end="64" text="Family Medicine" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="74" end="86" text="Journey Rich" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="97" end="107" text="03/09/2038" TYPE="DATE" comment="" />
+<AGE id="P4" start="109" end="111" text="28" TYPE="AGE" comment="" />
+<ID id="P5" start="127" end="135" text="7720-315" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="148" end="158" text="03/29/2066" TYPE="DATE" comment="" />
+<NAME id="P7" start="174" end="185" text="Aster Quinn" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="204" end="215" text="Cash Monroe" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="254" end="261" text="Journey" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="297" end="302" text="Story" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="304" end="314" text="Story Rich" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="321" end="331" text="02/15/2066" TYPE="DATE" comment="" />
+<DATE id="P13" start="686" end="696" text="02/14/2066" TYPE="DATE" comment="" />
+<CONTACT id="P14" start="906" end="920" text="(509) 555-0100" TYPE="PHONE" comment="" />
+<NAME id="P15" start="1007" end="1013" text="Twelve" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1015" end="1027" text="Darnell Rich" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1039" end="1044" text="Story" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1070" end="1082" text="Royal Haines" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="1090" end="1110" text="Bluebird Call Center" TYPE="ORGANIZATION" comment="" />
+<NAME id="P20" start="1128" end="1134" text="Odessa" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="1138" end="1143" text="94 yo" TYPE="AGE" comment="" />
+<NAME id="P22" start="1171" end="1182" text="Hope Wilkes" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1202" end="1206" text="Amos" TYPE="PATIENT" comment="" />
+<AGE id="P24" start="1210" end="1220" text="ninety-one" TYPE="AGE" comment="" />
+<NAME id="P25" start="1248" end="1260" text="Journey Rich" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1304" end="1314" text="03/29/2066" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

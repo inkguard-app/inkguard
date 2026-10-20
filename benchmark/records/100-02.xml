@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Millbrook Regional Medical Center
+Occupational Health Liaison
+Work Status Letter  (page 1 of 1)
+
+Date: August 3rd, 2070
+
+To: Ron Delgado, Shift Supervisor
+Brightwater Linen Supply
+Dock 4, 880 Teasel Road, Dayton, OH 45414
+
+RE: Mr. Dwayne Kessler  (DOB 11/08/2025)   Employee since 2069
+
+Dear Mr. Delgado,
+
+**To whom it may concern**
+
+I am writing this letter on behalf of Mr. Duane Kessler (hes also called "D" at work) who came to our ED on the evening of the twenty-ninth of July with a facial injury. Pt was super chill and cooperative the whole time!!
+
+--&gt; Mr. Kessler was treated and had sutures placed
+--&gt; He should NOT lift more than 20 lbs or drive the delivery truck until 08/10/2070
+--&gt; He may do light duty / dock paperwork starting Monday
+
+In conclusion, the patient's journey with us was a positive one and we wish him a smooth recovery. He has to keep the area dry. Please do not hesitate to contact us with any questions at (937) 555-0100 ext 2231 or fax (937) 555-0166.
+
+Sincerely,
+
+Jenna Okonkwo-Reyes, Medical Assistant (for Dr. Hollis Teague)
+Reviewed/signed: ____________  08/04/2070
+
+cc: patient; chart; Brightwater Linen Supply HR fax (937) 555-0189
+Dwayne T Kessler  MRN 4471-0382  - Page 1 of 1
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="33" text="Millbrook Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="34" end="61" text="Occupational Health Liaison" TYPE="ORGANIZATION" comment="" />
+<DATE id="P2" start="103" end="119" text="August 3rd, 2070" TYPE="DATE" comment="" />
+<NAME id="P3" start="125" end="136" text="Ron Delgado" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="155" end="179" text="Brightwater Linen Supply" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P5" start="180" end="203" text="Dock 4, 880 Teasel Road" TYPE="STREET" comment="" />
+<LOCATION id="P6" start="205" end="211" text="Dayton" TYPE="CITY" comment="" />
+<LOCATION id="P7" start="213" end="215" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P8" start="216" end="221" text="45414" TYPE="ZIP" comment="" />
+<NAME id="P9" start="231" end="245" text="Dwayne Kessler" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="252" end="262" text="11/08/2025" TYPE="DATE" comment="" />
+<DATE id="P11" start="281" end="285" text="2069" TYPE="DATE" comment="" />
+<NAME id="P12" start="292" end="303" text="Mr. Delgado" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="376" end="389" text="Duane Kessler" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="457" end="481" text="the twenty-ninth of July" TYPE="DATE" comment="" />
+<DATE id="P15" start="682" end="692" text="08/10/2070" TYPE="DATE" comment="" />
+<DATE id="P16" start="744" end="750" text="Monday" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="939" end="953" text="(937) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P18" start="958" end="962" text="2231" TYPE="PHONE" comment="" />
+<CONTACT id="P19" start="970" end="984" text="(937) 555-0166" TYPE="FAX" comment="" />
+<NAME id="P20" start="999" end="1018" text="Jenna Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1047" end="1060" text="Hollis Teague" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1093" end="1103" text="08/04/2070" TYPE="DATE" comment="" />
+<LOCATION id="P23" start="1125" end="1149" text="Brightwater Linen Supply" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P24" start="1157" end="1171" text="(937) 555-0189" TYPE="FAX" comment="" />
+<ID id="P25" start="1194" end="1203" text="4471-0382" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

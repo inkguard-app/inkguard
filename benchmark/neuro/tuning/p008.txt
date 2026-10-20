@@ -1,0 +1,26 @@
+PEDIATRIC/ADULT MOYAMOYA PROGRAM — NEW PATIENT
+{{FACILITY|Alder Crescent Children's and Adults Hospital}}
+Patient: {{NAME|Hana Kobayashi-Grant}}   MRN {{MRN|ACH-40192837}}   Seen {{DATE|02/23/2069}}
+
+HPI: 26-year-old woman with recurrent [[transient ischaemic attacks]] — episodes of [[right arm weakness]] and [[dysarthria]] provoked by hyperventilation during exercise. One episode of [[limb-shaking TIA]].
+
+Imaging:
+- [[MRI brain]]: [[ivy sign]] on [[FLAIR]] over the left hemisphere, small [[watershed infarcts]] in the left centrum semiovale on [[DWI]].
+- [[MRA]]: severe stenosis of the [[terminal left ICA]] and proximal [[M1]] and [[A1]].
+- [[DSA]]: bilateral [[moyamoya vasculopathy]], [[Suzuki stage 3]] on the left, [[Suzuki stage 2]] on the right, extensive [[basal collaterals ("puff of smoke")]]. Good-calibre [[superficial temporal artery]] parietal branch bilaterally.
+- [[Acetazolamide-challenge SPECT]]: impaired [[cerebrovascular reserve]] in the left MCA territory.
+- [[RNF213 p.R4810K]] variant negative.
+
+Plan: left [[direct STA-MCA bypass]] combined with [[encephaloduroarteriosynangiosis (EDAS)]]. Continue [[aspirin 81 mg daily]]. Avoid dehydration and hyperventilation.
+
+Dr. {{NAME|Tobias Engström-Weil}}
+cc: GP Dr. {{NAME|Mireille Achterberg}}, {{ADDRESS|38 Pellham Court, Rivensby}}, WA {{ZIP|98361}}
+=====NOTE=====
+OPERATIVE NOTE — {{DATE|04/04/2069}}
+Pt {{NAME|KOBAYASHI-GRANT, HANA}}   MRN {{MRN|ACH-40192837}}
+Procedure: Left [[STA-MCA bypass (end-to-side)]] with [[EDAS]].
+Surgeon {{NAME|T. Engström-Weil}}   Anaesthesia {{NAME|O. Fairbanks}}
+
+Anaesthetic goals: normocapnia (PaCO2 38-42), MAP at baseline, avoid hypotension. [[Doppler]] used to map the [[parietal branch of the STA]] which was harvested over 9 cm under the microscope. Small [[temporal craniotomy]] centred over the [[sylvian fissure]] end. A cortical [[M4 recipient branch]] of 1.1 mm was selected. Temporary occlusion time 24 min. Anastomosis with interrupted [[10-0 nylon sutures]]. [[ICG videoangiography]] showed brisk flow through the bypass; [[intraoperative flowmetry]] 22 mL/min ([[cut flow index]] 0.7). The [[frontal branch of the STA]] was laid onto the arachnoid for [[indirect revascularisation]] (EDAS). Dura opened in strips. Bone flap replaced with a wide groove to avoid compressing the graft.
+EBL 200 mL. Continued [[aspirin 81 mg]] perioperatively.
+Post-op: [[systolic BP 120-150]], avoid tight dressings over the STA, [[CT perfusion]] POD1.

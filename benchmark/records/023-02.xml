@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE -- MEDICAL ONCOLOGY                       Page 1 of 3
+Tamarack Regional Hospital Cancer Care     SZABO-LINDAHL, MARGIT     MRN N-0231-7746     DOB 11/03/1998
+Date of consult: 09/07/2070   Requesting: Dr. de Wit-Pasternak   Consultant: Kiran Bhattacharya-Reilly, MD
+
+REASON: adjuvant therapy after sigmoid colectomy 8/3 for colon cancer (path stage per report, see Tamarack path).
+HPI: Ms. Szabo-Lindahl is a 71 yo F, dx malignant neoplasm of colon 07/13/2070, s/p colectomy. Recovering. Appetite fair. Seen w/ husband Torbjorn who lves w/ her at 2290 Wintergreen Ct, Madison, WI 53711. Their children live abroad: daughter Ilse Lindahl-Moreau (14 rue des Tanneurs, 69002 Lyon, France) and son Ferenc in Brisbane, Australia. Sister Zsuzsanna Szabó, Piac utca 22. II/5, 4025 Debrecen, Hungary, is her emergency contact abroad: tel +36 52 555 0147.
+PMH: asthna, chronic sinusitis, chronic pain, migraine, opioid dependence (hx, 2037), overdose 11/10/2064, wrist fracture 8/66, CKD stage 2, DM2, HTN, hyperlipidemia on simvastatin.
+MEDS: simvastatin 10 mg (listd; stopped? chart says active until 04/06/2071 [future date, template artifact]); lisinopril 10, HCTZ 25 (both endeed 1/22/2062, still on template list).
+ASSESSMENT: adjuvant FOLFOX (leucovorn + oxaliplatin) reasonable; renal dosing caution, eGFR ~65. Neuropathy risk; fall risk (Morse) addressed. First cycle planned today 09/07: 10 mL oxaliplatin 5 mg/mL, leucovorin 100 mg, given w/o incident.
+PLAN: cycle q2 weeks x 12; labs beofre each; port? decline. RN care coordinator Gwendolyn Aberdeen, 608-555-0188.
+
+--- pasted from 09/07 template, WRONG CHART --- 
+CONSULT NOTE -- MEDICAL ONCOLOGY. Pt: DAVENPORT, LEONARD MRN N-0229-1105 DOB 5/21/1996  74 yo M, prostate CA, PSA 22, bone mets. Plan: leuprolide.  --- end ---
+
+Electronically signed K. Bhattacharya-Reilly MD 09/07/2070 17:12.  Last edited by kbreilly 9/8/2070 09:14 from 10.20.4.55
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="67" end="93" text="Tamarack Regional Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="110" end="131" text="SZABO-LINDAHL, MARGIT" TYPE="PATIENT" comment="" />
+<ID id="P2" start="140" end="151" text="N-0231-7746" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="160" end="170" text="11/03/1998" TYPE="DATE" comment="" />
+<DATE id="P4" start="188" end="198" text="09/07/2070" TYPE="DATE" comment="" />
+<NAME id="P5" start="217" end="233" text="de Wit-Pasternak" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="248" end="273" text="Kiran Bhattacharya-Reilly" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="328" end="331" text="8/3" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="377" end="385" text="Tamarack" TYPE="ORGANIZATION" comment="" />
+<NAME id="P9" start="398" end="415" text="Ms. Szabo-Lindahl" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="421" end="423" text="71" TYPE="AGE" comment="" />
+<DATE id="P11" start="461" end="471" text="07/13/2070" TYPE="DATE" comment="" />
+<NAME id="P12" start="531" end="539" text="Torbjorn" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="559" end="578" text="2290 Wintergreen Ct" TYPE="STREET" comment="" />
+<LOCATION id="P14" start="580" end="587" text="Madison" TYPE="CITY" comment="" />
+<LOCATION id="P15" start="589" end="591" text="WI" TYPE="STATE" comment="" />
+<LOCATION id="P16" start="592" end="597" text="53711" TYPE="ZIP" comment="" />
+<NAME id="P17" start="636" end="655" text="Ilse Lindahl-Moreau" TYPE="PATIENT" comment="" />
+<LOCATION id="P18" start="657" end="676" text="14 rue des Tanneurs" TYPE="STREET" comment="" />
+<LOCATION id="P19" start="678" end="683" text="69002" TYPE="ZIP" comment="" />
+<LOCATION id="P20" start="684" end="688" text="Lyon" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="690" end="696" text="France" TYPE="COUNTRY" comment="" />
+<NAME id="P22" start="706" end="712" text="Ferenc" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="716" end="724" text="Brisbane" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="726" end="735" text="Australia" TYPE="COUNTRY" comment="" />
+<NAME id="P25" start="744" end="759" text="Zsuzsanna Szabó" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="761" end="779" text="Piac utca 22. II/5" TYPE="STREET" comment="" />
+<LOCATION id="P27" start="781" end="785" text="4025" TYPE="ZIP" comment="" />
+<LOCATION id="P28" start="786" end="794" text="Debrecen" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="796" end="803" text="Hungary" TYPE="COUNTRY" comment="" />
+<CONTACT id="P30" start="842" end="857" text="+36 52 555 0147" TYPE="PHONE" comment="" />
+<DATE id="P31" start="938" end="942" text="2037" TYPE="DATE" comment="" />
+<DATE id="P32" start="954" end="964" text="11/10/2064" TYPE="DATE" comment="" />
+<DATE id="P33" start="981" end="985" text="8/66" TYPE="DATE" comment="" />
+<DATE id="P34" start="1106" end="1116" text="04/06/2071" TYPE="DATE" comment="" />
+<DATE id="P35" start="1188" end="1197" text="1/22/2062" TYPE="DATE" comment="" />
+<DATE id="P36" start="1394" end="1399" text="09/07" TYPE="DATE" comment="" />
+<NAME id="P37" start="1547" end="1565" text="Gwendolyn Aberdeen" TYPE="DOCTOR" comment="" />
+<CONTACT id="P38" start="1567" end="1579" text="608-555-0188" TYPE="PHONE" comment="" />
+<DATE id="P39" start="1598" end="1603" text="09/07" TYPE="DATE" comment="" />
+<NAME id="P40" start="1669" end="1687" text="DAVENPORT, LEONARD" TYPE="PATIENT" comment="" />
+<ID id="P41" start="1692" end="1703" text="N-0229-1105" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P42" start="1708" end="1717" text="5/21/1996" TYPE="DATE" comment="" />
+<AGE id="P43" start="1719" end="1721" text="74" TYPE="AGE" comment="" />
+<NAME id="P44" start="1814" end="1836" text="K. Bhattacharya-Reilly" TYPE="DOCTOR" comment="" />
+<DATE id="P45" start="1840" end="1850" text="09/07/2070" TYPE="DATE" comment="" />
+<NAME id="P46" start="1874" end="1882" text="kbreilly" TYPE="USERNAME" comment="" />
+<DATE id="P47" start="1883" end="1891" text="9/8/2070" TYPE="DATE" comment="" />
+<CONTACT id="P48" start="1903" end="1913" text="10.20.4.55" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

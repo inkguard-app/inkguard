@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE
+07/19/2082   RN Corey Platt   Infusion Suite chair 6
+Pt Winifred Bright aka winniebee_79 (her words, for the tablet) arrived 07/19/2082 09:40 w/ Desmond. Monthly rehab visit. BP 124/76. no pain. Pump alarm log pasted:
+  &gt;&gt;&gt; ALARM 10:12 pump IP-2204-91B occlusion, nurse Platt, patient WBRIGHT
+Pt says granddaughter Willow Nakamura gets picked up at school by plate VT HXN 204 at 3:15.
+All fine. Next 08/2082. Report to Dr. Oyelaran pager 4417.
+Corey P. RN
+</TEXT>
+<TAGS>
+<DATE id="P0" start="13" end="23" text="07/19/2082" TYPE="DATE" comment="" />
+<NAME id="P1" start="29" end="40" text="Corey Platt" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="43" end="57" text="Infusion Suite" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P3" start="64" end="65" text="6" TYPE="ROOM" comment="" />
+<NAME id="P4" start="69" end="84" text="Winifred Bright" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="89" end="101" text="winniebee_79" TYPE="USERNAME" comment="" />
+<DATE id="P6" start="138" end="148" text="07/19/2082" TYPE="DATE" comment="" />
+<NAME id="P7" start="158" end="165" text="Desmond" TYPE="PATIENT" comment="" />
+<ID id="P8" start="254" end="265" text="IP-2204-91B" TYPE="DEVICE" comment="" />
+<NAME id="P9" start="283" end="288" text="Platt" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="298" end="305" text="WBRIGHT" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="328" end="343" text="Willow Nakamura" TYPE="PATIENT" comment="" />
+<ID id="P12" start="378" end="388" text="VT HXN 204" TYPE="VEHICLE" comment="" />
+<DATE id="P13" start="413" end="420" text="08/2082" TYPE="DATE" comment="" />
+<NAME id="P14" start="436" end="444" text="Oyelaran" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="451" end="455" text="4417" TYPE="PHONE" comment="" />
+<NAME id="P16" start="457" end="465" text="Corey P." TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

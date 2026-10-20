@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY -- Harbor Pines Medical Center, ED Observation
+Name: Elias Frost      MRN: LBW-90-44127      Adm: 4/2/2086    D/C: 4/3/2086
+
+&gt;&gt;&gt; pasted from ED note:
+ED NOTE  Pt: FROST, ELIAS  age 77  4 cm lac L eyebrow, sutured x6, orthostatic hypotension. Seen by Dr. Baptiste. Pt's son Justice at bedside 7 pm.
+
+Hospital course: Overnight obs uneventful, BP improved with fluids 118/70. CPAP used. Wife Hope stayed in chair. Pt asks that Medicare card not be photocopied; ID on file 4WK6-TT3-MM41.
+
+Diagnoses: facial laceration; orthostatic hypotension; stress/hx of abuse by partner (resolved, per chart 2083) -- pt denies any abuse now, wife is "my rock".
+Meds at d/c: acetaminophen 325 mg q6h prn (until sutures out), simvastatin 10 mg. Hold anything BP lowering.
+Follow up: Dr. Nandini Rajagopalan-Whitfield, behavioral health, in 1 wk. Sutures out 4/23.
+Contact: 218-555-0129.
+Neighbour Ambrose Pettigrew will drive them home.
+
+(old, still here) Active problems: Unemployed. Not in labor force. Limited social contact.
+--- 
+Electronically signed by Teodoro Baptiste, MD on 04/03/2086 10:05
+Last edited by tbaptiste from 192.168.14.7
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="21" end="48" text="Harbor Pines Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="71" end="82" text="Elias Frost" TYPE="PATIENT" comment="" />
+<ID id="P2" start="93" end="105" text="LBW-90-44127" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="116" end="124" text="4/2/2086" TYPE="DATE" comment="" />
+<DATE id="P4" start="133" end="141" text="4/3/2086" TYPE="DATE" comment="" />
+<NAME id="P5" start="181" end="193" text="FROST, ELIAS" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="199" end="201" text="77" TYPE="AGE" comment="" />
+<NAME id="P7" start="272" end="280" text="Baptiste" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="291" end="298" text="Justice" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="408" end="412" text="Hope" TYPE="PATIENT" comment="" />
+<ID id="P10" start="488" end="501" text="4WK6-TT3-MM41" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P11" start="610" end="614" text="2083" TYPE="DATE" comment="" />
+<NAME id="P12" start="787" end="816" text="Nandini Rajagopalan-Whitfield" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="858" end="862" text="4/23" TYPE="DATE" comment="" />
+<CONTACT id="P14" start="873" end="885" text="218-555-0129" TYPE="PHONE" comment="" />
+<NAME id="P15" start="897" end="914" text="Ambrose Pettigrew" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1059" end="1075" text="Teodoro Baptiste" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1083" end="1093" text="04/03/2086" TYPE="DATE" comment="" />
+<NAME id="P18" start="1115" end="1124" text="tbaptiste" TYPE="USERNAME" comment="" />
+<CONTACT id="P19" start="1130" end="1142" text="192.168.14.7" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Rosedale Lakes Endocrine Centre
+November 20, 2063
+
+To whom it may concern / Kestrel Bakehouse
+Attn: Human Resources
+
+Dear Mrs Marsh, Dear [PATIENT],
+
+Re: Ngozi Adebayo-Marsh, DOB 09/03/2008, employee # KB-2210
+
+I am writing at the patient's request. Ms. Adebayo-Marsh is a 55 year old baker whom I have followed since 2060. She has well controlled asthma, hyperlipidemia, prediabetes and a history of a heart attack in October 2061. She is stable and fit to work.
+
+I recommend: (1) she avoid prolonged exposure to flour dust where possible, a mask during mixing; (2) she carry her albuterol inhaler at all times; (3) shifts of no more than 8 hours.  Her labs from 11/13/2063 were reasonable.  She was also seen by the dentist on the 20th, so please excuse her from work that day.
+
+There is no need to contact her family, her mother Chinwe Adebayo lives overseas and has no role in her care.
+
+Yours sincerely,
+
+Priyanka Venkataraman, MD
+Endocrinology
+cc: pt; Samuel Achterberg, fax (416) 555-0142
+Electronically signed 11/20/2063 09:31
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="Rosedale Lakes Endocrine Centre" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="32" end="49" text="November 20, 2063" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="76" end="93" text="Kestrel Bakehouse" TYPE="ORGANIZATION" comment="" />
+<NAME id="P3" start="126" end="131" text="Marsh" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="154" end="173" text="Ngozi Adebayo-Marsh" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="179" end="189" text="09/03/2008" TYPE="DATE" comment="" />
+<ID id="P6" start="202" end="209" text="KB-2210" TYPE="IDNUM" comment="" />
+<NAME id="P7" start="254" end="267" text="Adebayo-Marsh" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="273" end="275" text="55" TYPE="AGE" comment="" />
+<PROFESSION id="P9" start="285" end="290" text="baker" TYPE="PROFESSION" comment="" />
+<DATE id="P10" start="318" end="322" text="2060" TYPE="DATE" comment="" />
+<DATE id="P11" start="419" end="431" text="October 2061" TYPE="DATE" comment="" />
+<DATE id="P12" start="664" end="674" text="11/13/2063" TYPE="DATE" comment="" />
+<DATE id="P13" start="733" end="737" text="20th" TYPE="DATE" comment="" />
+<NAME id="P14" start="832" end="846" text="Chinwe Adebayo" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="910" end="931" text="Priyanka Venkataraman" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="958" end="975" text="Samuel Achterberg" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="981" end="995" text="(416) 555-0142" TYPE="FAX" comment="" />
+<DATE id="P18" start="1018" end="1028" text="11/20/2063" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"AFTER VISIT SUMMARY"  (for you to keep!)
+Delmar Internal Medicine at St. Aurelian Medical Center
+Visit date: Thursday, September 3rd, 2082
+Prepared by: Mackenzie Ruiz, medical assistant (volunteer shift)
+
+Dear Mrs. Gebreyes, Dear Mrs. Gebriyes, Dear [PATIENT],
+
+Thank you for coming in today with your husband, Mr. Tekle Mehari, and your daughter Rahel. Almaz was super chill and so brave today, we all loved her smile!
+
+~~ WHAT WE DID TODAY ~~
+- We checked your BP: 111/81 (good!!)
+- Your weight was 70.5 kg
+- Pain score 1 out of 10
+- Your kidney blood tests (creatinine 2.0, eGFR 40.1) are about the same as in July, a little better actually
+-&gt; Dr. Thandiwe Mokoena says your breathing from the COPD is the main problem right now
+
+~~ YOUR MEDICINES (please keep taking) ~~
+- clopidogrel 75 mg once a day
+- metoprolol succinate 100 mg once a day
+- simvastatin 20 mg at night (the 10 mg was stopped in February, ignore the old paper)
+- nitroglycerin spray if chest pain, up to 3 times
+- fluticasone and albuterol are from the old list (stopped long ago, ignore)
+
+~~ WHAT HAPPENS NEXT ~~
+1. Dr. Mokoena will write a letter to Hearthstone Hospice so a nurse can come to your home at 1840 Delmar Boulevard, Apt 6C. They call within 2 days.
+2. Your family was asked who should be the main contact: you said your son Daniel in Seattle for decisions, daughter Rahel Mehari for day to day.
+3. Please call us if worse breathing: (314) 555-0140.
+
+In conclusion, Mrs. Gebreyes's journey over the last 8 years has been one of courage and we are honored to be on it with her. She is 76 years young!
+
+Also in your folder: a card for your neighbor Mrs. Eleanor Vance-Brody who drives you, and a phone sheet for your landlord Mr. Ostrowski (heat is out again??).
+GEBREYES, ALMAZ T   MRN 0612-884   DOB 04/17/2006   (page 2 of 2)
+Printed 09/03/2082 14:55 by mruiz from 192.168.31.7
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="42" end="66" text="Delmar Internal Medicine" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="70" end="97" text="St. Aurelian Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="110" end="139" text="Thursday, September 3rd, 2082" TYPE="DATE" comment="" />
+<NAME id="P3" start="153" end="167" text="Mackenzie Ruiz" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="216" end="224" text="Gebreyes" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="236" end="244" text="Gebriyes" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="316" end="328" text="Tekle Mehari" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="348" end="353" text="Rahel" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="355" end="360" text="Almaz" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="614" end="618" text="July" TYPE="DATE" comment="" />
+<NAME id="P10" start="652" end="668" text="Thandiwe Mokoena" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="903" end="911" text="February" TYPE="DATE" comment="" />
+<NAME id="P12" start="1095" end="1102" text="Mokoena" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="1126" end="1145" text="Hearthstone Hospice" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P14" start="1182" end="1203" text="1840 Delmar Boulevard" TYPE="STREET" comment="" />
+<NAME id="P15" start="1313" end="1319" text="Daniel" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="1323" end="1330" text="Seattle" TYPE="CITY" comment="" />
+<NAME id="P17" start="1355" end="1367" text="Rahel Mehari" TYPE="PATIENT" comment="" />
+<CONTACT id="P18" start="1422" end="1436" text="(314) 555-0140" TYPE="PHONE" comment="" />
+<NAME id="P19" start="1459" end="1467" text="Gebreyes" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="1572" end="1574" text="76" TYPE="AGE" comment="" />
+<NAME id="P21" start="1640" end="1659" text="Eleanor Vance-Brody" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1716" end="1725" text="Ostrowski" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1749" end="1766" text="GEBREYES, ALMAZ T" TYPE="PATIENT" comment="" />
+<ID id="P24" start="1773" end="1781" text="0612-884" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P25" start="1788" end="1798" text="04/17/2006" TYPE="DATE" comment="" />
+<DATE id="P26" start="1823" end="1833" text="09/03/2082" TYPE="DATE" comment="" />
+<CONTACT id="P27" start="1854" end="1866" text="192.168.31.7" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

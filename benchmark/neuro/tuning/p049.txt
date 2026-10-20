@@ -1,0 +1,16 @@
+NICU NEUROSURGERY CONSULT
+{{FACILITY|Bramblewood Women's and Infants Hospital}} NICU
+Baby girl {{NAME|Okeke-Strand}} (twin A), DOB {{DATE|11/03/2070}}, MRN {{MRN|BWI-70-221904}}; consult {{DATE|11/24/2070}}
+Parents {{NAME|Adaeze Okeke}} and {{NAME|Leif Strand}}; twin B {{NAME|Saoirse Okeke-Strand}} also in NICU
+Neonatologist Dr. {{NAME|Philomena Gutiérrez-Hale}}; neurosurgery Dr. {{NAME|Bertil Achebe-Vance}}
+
+Born at [[26 weeks 3 days gestational age]] (corrected GA now [[29w3d]]), BW 820 g. [[Antenatal steroids]] complete, [[magnesium sulfate for neuroprotection]] given. [[Respiratory distress syndrome]] on [[CPAP]]; [[patent ductus arteriosus]] closed with [[acetaminophen]].
+[[Cranial ultrasound]] day 3: bilateral [[germinal matrix haemorrhage]]; left [[grade III IVH]] ([[Papile classification]]) and right [[grade IV IVH]] ([[periventricular haemorrhagic infarction]]). Now progressive [[post-haemorrhagic ventricular dilatation]]: [[ventricular index]] 4 mm above the [[Levene 97th centile]], [[anterior horn width]] 10 mm, [[thalamo-occipital distance]] 28 mm. [[Head circumference]] increasing 1.6 cm/week, [[anterior fontanelle]] full, [[sutures splayed]]. Apnoeas increasing.
+Plan: [[ventricular access device (Ommaya/Rickham reservoir)]] for [[serial ventricular taps]] 10 mL/kg; alternative [[ventriculosubgaleal shunt]]; definitive [[VP shunt]] when weight over 2 kg and CSF protein under 1.5 g/L. Consider [[DRIFT]] (drainage, irrigation and fibrinolytic therapy) not available here.
+=====NOTE=====
+OP NOTE — {{DATE|11/26/2070}} — Baby girl {{NAME|Okeke-Strand}} twin A — {{MRN|BWI-70-221904}}
+Right frontal [[Rickham reservoir]] placed at [[Kocher's point]] under [[ultrasound guidance]] through the anterior fontanelle lateral corner; catheter length 3.5 cm. CSF xanthochromic, protein 3.2 g/L. 8 mL/kg removed. Skin closed with [[5-0 Monocryl]], [[Dermabond]] applied. [[Head ultrasound]] post-op: catheter tip in the right [[frontal horn]], no new haemorrhage. Anaesthesia Dr. {{NAME|Yvette Marchand-Oduya}}: [[sevoflurane]] induction, [[fentanyl 1 mcg/kg]], [[caudal block]] not applicable; [[normothermia]] with warming mattress; glucose maintained.
+Plan: daily [[reservoir taps]] 10 mL/kg guided by [[anterior fontanelle tension]], [[head circumference]] and [[ventricular index]] on [[cranial ultrasound]] twice weekly.
+=====NOTE=====
+NICU DAY-OF-LIFE 68 — {{DATE|01/10/2071}} — twin A {{NAME|Okeke-Strand}}
+CGA [[36w1d]], weight 2.14 kg. Daily taps for 6 weeks, still dependent (stopping taps → fontanelle bulges). CSF protein 1.1 g/L, cell count normal, cultures negative. → [[VP shunt]] tomorrow: [[Medtronic Strata NSC valve]] set to [[performance level 1.0]] (low) given small ventricles risk vs. [[Codman Hakim]] alternative; [[antibiotic-impregnated catheters (Bactiseal)]]. [[Retinopathy of prematurity]] stage 2 — ophthalmology following. Hearing screen: [[ABR]] pass. [[Head circumference]] stable 1 cm/week on taps. [[Anterior fontanelle]] soft between taps. [[Ventricular index]] stable above the 97th centile. [[Periventricular leukomalacia]] not seen on [[cranial ultrasound]]. [[General Movements Assessment]] at 3 months corrected; [[early intervention]] referral. MRI at term-equivalent age planned. Twin B {{NAME|Saoirse}} ready for discharge home with parents.

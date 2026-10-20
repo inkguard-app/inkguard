@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT - sent to patient (portal + letter)
+01/05/2078   Eastbank Community Health Center
+Dear Mr. Gebremehdin,
+
+Your tests from today:
+HbA1c 6.1% (prediabetes range, steady). Fasting glucose 96. Total cholesterol 135, LDL 62.6 - very good. 
+S: you feel ok, back pain 3/10, not sleeping so well (GAD-7 3, improved from 11).
+O: wt 81.5 kg, BMI 29.5, BP 110/88.
+A: prediabetes stable; weight down about 2 kg since last year.
+P: keep walking. Repeat A1c in 1 year. We reviewd all your meds (just ibuprofen as needed, no others).
+
+If you want a interpreter for the call, ask for Hanna or anyone. Call (614) 555-0100. 
+Sincerely, Anselm Rhodes-Mbeki MD    (dictated 1/5, signed 01/06/2078)
+cc: Selam Gebremedhin (wife), M. Duquesnoy
+</TEXT>
+<TAGS>
+<DATE id="P0" start="55" end="65" text="01/05/2078" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="68" end="100" text="Eastbank Community Health Center" TYPE="ORGANIZATION" comment="" />
+<NAME id="P2" start="106" end="121" text="Mr. Gebremehdin" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="586" end="591" text="Hanna" TYPE="DOCTOR" comment="" />
+<CONTACT id="P4" start="608" end="622" text="(614) 555-0100" TYPE="PHONE" comment="" />
+<NAME id="P5" start="636" end="655" text="Anselm Rhodes-Mbeki" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="672" end="675" text="1/5" TYPE="DATE" comment="" />
+<DATE id="P7" start="684" end="694" text="01/06/2078" TYPE="DATE" comment="" />
+<NAME id="P8" start="700" end="717" text="Selam Gebremedhin" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="726" end="738" text="M. Duquesnoy" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

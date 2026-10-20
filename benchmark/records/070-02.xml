@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HIGHLAND PARK MEDICAL CENTER - LAB RESULT COMMENT TO PATIENT
+05/26/2093
+
+DEAR MR WISNEWSKI-REYES, DEAR [PATIENT NAME],
+
+YOUR BLOOD TEST FROM 05/23/2093 (YOUR YEARLY CHECK-UP) IS BACK. YOU ARE 28 YEARS OLD, SO WE EXPECT GOOD NUMBERS, AND YOURS ARE:
+- WHITE BLOOD CELL COUNT 8.0 (NORMAL)
+- HEMOGLOBIN 15.2 (NORMAL)
+- BLOOD PRESSURE AT THE VISIT WAS 125/94, THE BOTTOM NUMBER IS A LITTLE HIGH. PLEASE RECHECK AT HOME. 
+- WEIGHT 84.8 KG, BMI 27.2
+- YOUR ANXIETY SCORE (GAD-7) WAS 2, WHICH IS LOW. 
+
+DR EVERETT NAIDOO SAYS: "GOOD NEWS TOMEK!" (I ADDED THE NAME, NAIDOO DICTATED "TOMAS"). NO CHANGES TO MEDICATIONS. PLEASE COME BACK IN 1 YEAR OR SOONER IF BP STAYS HIGH.
+
+IF YOU HAVE QUESTIONS CALL THE LAB LINE (585) 555-0166 AND SAY YOUR MRN CM-2065-77812. OUR PATIENT PORTAL IS https://benefits.nyconnect.example/u/tomekwr (SORRY, THAT IS THE BENEFITS LINK, NOT THE PORTAL).
+
+(HANDWRITTEN ON THE BACK, SCANNED BY MISTAKE: "RFC RFC-0033871 - KIDS SUNNY + JAX - GRANDMA HALINA NINETY-FOUR - TOMEK DOB 3/27")
+
+SINCERELY,
+THANDIWE MOLOI, RN, FOR DR NAIDOO
+CC: LORRAINE ABIODUN-KEATS, LCSW    DICTATED 5/25/93
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="28" text="HIGHLAND PARK MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="61" end="71" text="05/26/2093" TYPE="DATE" comment="" />
+<NAME id="P2" start="81" end="96" text="WISNEWSKI-REYES" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="141" end="151" text="05/23/2093" TYPE="DATE" comment="" />
+<AGE id="P4" start="192" end="194" text="28" TYPE="AGE" comment="" />
+<NAME id="P5" start="498" end="512" text="EVERETT NAIDOO" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="530" end="535" text="TOMEK" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="557" end="563" text="NAIDOO" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="574" end="579" text="TOMAS" TYPE="PATIENT" comment="" />
+<CONTACT id="P9" start="706" end="720" text="(585) 555-0166" TYPE="PHONE" comment="" />
+<ID id="P10" start="738" end="751" text="CM-2065-77812" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P11" start="775" end="819" text="https://benefits.nyconnect.example/u/tomekwr" TYPE="URL" comment="" />
+<ID id="P12" start="924" end="935" text="RFC-0033871" TYPE="IDNUM" comment="" />
+<NAME id="P13" start="943" end="948" text="SUNNY" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="951" end="954" text="JAX" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="965" end="971" text="HALINA" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="972" end="983" text="NINETY-FOUR" TYPE="AGE" comment="" />
+<NAME id="P17" start="986" end="991" text="TOMEK" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="996" end="1000" text="3/27" TYPE="DATE" comment="" />
+<NAME id="P19" start="1015" end="1029" text="THANDIWE MOLOI" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1042" end="1048" text="NAIDOO" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1053" end="1075" text="LORRAINE ABIODUN-KEATS" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1094" end="1101" text="5/25/93" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

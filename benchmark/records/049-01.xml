@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAKESHORE FAMILY MEDICINE  -  REFERRAL
+Date: 01/03/2080
+To: Dr. Hyun-woo Baek, Harbor Dental Surgery Center
+Fax (218) 555-0187
+Re: Daniel Volk  DOB 11/02/2050  MRN 4471-209
+(chart still shows Dmitri Volkov on old ins card, name chnge done thru court, see file 69-FA-79-1184)
+
+Dear Dr. Baek,
+
+29 yo M, estab pt here, annual wellness today. Refer for gingivits + prob caries x several mo. bleeds w brushing. Lasst cleaning "a couple yrs" per pt, actualy &gt;3 yrs.
+PMH: seizure d/o since infancy (pt says "outgrew it", NOT per chart, still on file, no AED currently), adol idiopathic scoliosis, hx etoh use (resolved 2076 per pt), stress.
+Meds: none. NKDA.
+SH: lives alone Duluth, gf Tessa Lindqvist. works forklift operator at Northshore Cold Storage LLC full time since 2073. Brother Pavel drives him, no car.
+Vitals wt 78.2 kg BMI 28.0 BP 111/73. Depression scrn neg, drug scrn neg.
+pls eval + treat, gingivectomy if needed. Please call if sz hx matters for sedation - nurse Joelle Tran has his ph (218) 555-0163.
+
+Thx
+M. Abara MD
+Electronically signed by Marguerite Abara, MD on 01/03/2080 16:42
+Page 1 of 1 - ABARA, MARGUERITE - cc: Dr. Abarra (self)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="25" text="LAKESHORE FAMILY MEDICINE" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="45" end="55" text="01/03/2080" TYPE="DATE" comment="" />
+<NAME id="P2" start="64" end="77" text="Hyun-woo Baek" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="79" end="107" text="Harbor Dental Surgery Center" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P4" start="112" end="126" text="(218) 555-0187" TYPE="FAX" comment="" />
+<NAME id="P5" start="131" end="142" text="Daniel Volk" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="148" end="158" text="11/02/2050" TYPE="DATE" comment="" />
+<ID id="P7" start="164" end="172" text="4471-209" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="192" end="205" text="Dmitri Volkov" TYPE="PATIENT" comment="" />
+<ID id="P9" start="260" end="273" text="69-FA-79-1184" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="285" end="289" text="Baek" TYPE="DOCTOR" comment="" />
+<AGE id="P11" start="292" end="294" text="29" TYPE="AGE" comment="" />
+<LOCATION id="P12" start="668" end="674" text="Duluth" TYPE="CITY" comment="" />
+<NAME id="P13" start="679" end="694" text="Tessa Lindqvist" TYPE="PATIENT" comment="" />
+<PROFESSION id="P14" start="702" end="719" text="forklift operator" TYPE="PROFESSION" comment="" />
+<LOCATION id="P15" start="723" end="750" text="Northshore Cold Storage LLC" TYPE="ORGANIZATION" comment="" />
+<DATE id="P16" start="767" end="771" text="2073" TYPE="DATE" comment="" />
+<NAME id="P17" start="781" end="786" text="Pavel" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="973" end="984" text="Joelle Tran" TYPE="DOCTOR" comment="" />
+<CONTACT id="P19" start="996" end="1010" text="(218) 555-0163" TYPE="PHONE" comment="" />
+<NAME id="P20" start="1017" end="1025" text="M. Abara" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1054" end="1070" text="Marguerite Abara" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1078" end="1088" text="01/03/2080" TYPE="DATE" comment="" />
+<NAME id="P23" start="1133" end="1143" text="Dr. Abarra" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

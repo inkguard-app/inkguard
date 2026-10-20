@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 2290 | note_type=TELEPHONE ENCOUNTER | author=Hope Rich RN
+TELEPHONE ENCOUNTER  08/14/2072
+Pt: Miricle Frost  (DOB 05/19/2067, 5 y.o. F)  MRN FC-0482913
+Caller: mother, Justice Frost, cell (570) 555-0147
+Taken by: Hope Rich, RN   Routed to: Dr. Lake Armitage
+
+- reason for call: right ear pain x 2 days, tugging at it, woke up crying
+- temp 101.2 at home per mom, no vomiting, eating ok, drinking ok
+- denies discharge. no rash
+- sibling Sky had a cold last week (the 12 yo bro), going to school fine
+- last ear infection was in 2067 so mom is worried it is "back again"
+- hx: otitis media, resolved
+- no allergies known (NKDA)
+- offered same-day, mom says she can come in this afternoon after her shift at Hollis Lane Bakery
+- booked in the walk-in slot MIRACLE-SLOT 15:30 w/ Dr. Armitage
+- advised acetaminophen chewable per weight, 160 mg (wt 19 kg at last visit), not asprin
+- return precautions: stiff neck, worse pain, fever &gt;104, swelling behind ear -&gt; ED
+
+Mom spells it J-U-S-T-I-C-E, the clerk had "Justis" in the chart. Fixed.
+Pt's school is Riverbend Elementary, note for school is not needed (summer camp till 08/21/2072).
+Callback if not here by 16:00: home 570-555-0198  pager 4471
+Electronically signed by Hope Rich, RN on 08/14/2072 11:42
+</TEXT>
+<TAGS>
+<DATE id="P0" start="84" end="94" text="08/14/2072" TYPE="DATE" comment="" />
+<NAME id="P1" start="99" end="112" text="Miricle Frost" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="119" end="129" text="05/19/2067" TYPE="DATE" comment="" />
+<AGE id="P3" start="131" end="132" text="5" TYPE="AGE" comment="" />
+<ID id="P4" start="146" end="156" text="FC-0482913" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P5" start="173" end="186" text="Justice Frost" TYPE="PATIENT" comment="" />
+<CONTACT id="P6" start="193" end="207" text="(570) 555-0147" TYPE="PHONE" comment="" />
+<NAME id="P7" start="218" end="227" text="Hope Rich" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="249" end="262" text="Lake Armitage" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="442" end="445" text="Sky" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="472" end="474" text="12" TYPE="AGE" comment="" />
+<DATE id="P11" start="533" end="537" text="2067" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="711" end="729" text="Hollis Lane Bakery" TYPE="ORGANIZATION" comment="" />
+<NAME id="P13" start="785" end="793" text="Armitage" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="982" end="995" text="J-U-S-T-I-C-E" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1012" end="1018" text="Justis" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="1056" end="1076" text="Riverbend Elementary" TYPE="ORGANIZATION" comment="" />
+<DATE id="P17" start="1126" end="1136" text="08/21/2072" TYPE="DATE" comment="" />
+<CONTACT id="P18" start="1175" end="1187" text="570-555-0198" TYPE="PHONE" comment="" />
+<CONTACT id="P19" start="1195" end="1199" text="4471" TYPE="PHONE" comment="" />
+<NAME id="P20" start="1225" end="1234" text="Hope Rich" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1242" end="1252" text="08/14/2072" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

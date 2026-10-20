@@ -1,0 +1,23 @@
+TRAUMA BAY NEUROSURGERY NOTE
+{{FACILITY|Thornbury Memorial Hospital}} — {{DATE|06/09/2076}} 15:20
+PT: {{NAME|Callum Ferreira-Doyle}}, 34 M, MRN {{MRN|TMH-44718205}}
+
+Struck on the left temple by a cricket ball. Brief LOC, then [[lucid interval]] of ~2 h, then progressive drowsiness and vomiting. Arrival [[GCS 11 (E3V3M5)]], declining to [[GCS 8 (E2V2M4)]] within 20 min. [[Left pupil 6 mm fixed]], right 3 mm reactive. [[Right hemiparesis]]. [[Bradycardia]] and [[hypertension]].
+
+[[CT head]]: left temporal [[acute extradural haematoma]], [[biconvex lens-shaped]] collection, max thickness 32 mm, volume ~55 mL by [[ABC/2]], [[swirl sign]] (active bleeding), overlying [[squamous temporal bone fracture]] crossing the groove of the [[middle meningeal artery]]. [[Midline shift]] 9 mm. Basal cisterns compressed. [[Rotterdam CT score 4]]. [[Marshall diffuse injury]] category not applicable (mass lesion over 25 mL → evacuated mass lesion).
+
+Plan: immediate [[left temporal craniotomy]] for evacuation of EDH. [[Tranexamic acid 1 g]] given (within 3 h, [[CRASH-3]]). [[Mannitol 1 g/kg]]. Intubated for airway protection; [[rapid sequence induction]]; [[PaCO2]] 35.
+
+Neurosurgery registrar {{NAME|Oona Lachapelle}}; consultant Mr. {{NAME|Desmond Arkwright}} notified 15:24 and attending in theatre.
+Next of kin: partner {{NAME|Sabine Ferreira}} {{PHONE|555-209-6634}}
+=====NOTE=====
+OPERATION NOTE
+{{NAME|FERREIRA-DOYLE, CALLUM}}  {{MRN|TMH-44718205}}  {{DATE|06/09/2076}}
+Surgeon: {{NAME|D. Arkwright}}
+
+[[Question-mark incision]] left temporal. [[Temporalis muscle]] reflected. Fracture line visible. [[Craniotomy]] 8 x 7 cm with [[craniotome]], extended inferiorly with [[Leksell rongeur]] to the [[middle fossa floor]]. Clot (~60 mL) evacuated with suction and irrigation. Bleeding from the anterior branch of the [[middle meningeal artery]] coagulated; [[foramen spinosum]] bleeding not encountered. [[Dural tack-up sutures]] placed circumferentially and centrally. Dura intact; not opened (no subdural blood on [[intraoperative ultrasound]]). [[Surgicel]] to bone edges, [[bone wax]]. Flap replaced with [[titanium miniplates]]. [[Subgaleal drain]].
+Pupils equalised at end of case (3 mm bilaterally).
+Post-op: extubate when [[GCS]] allows; repeat [[CT head]] at 6 h; [[levetiracetam 500 mg BID]] 7 days.
+=====NOTE=====
+WARD ROUND D2 {{DATE|06/11/2076}} — {{NAME|C. Ferreira-Doyle}} — {{MRN|TMH-44718205}}
+[[GCS 15]]. Pupils PERL 3 mm. Mild [[right pronator drift]] resolving, power 5-/5. Speech: mild [[anomia]] (dominant temporal) improving. 6 h CT: complete evacuation, small [[contusion]] left temporal pole, no recurrence. [[Glasgow Outcome Scale-Extended]] predicted 7-8. Wound clean. [[Post-concussion symptoms]] education. [[Driving]] advice: no driving 6 months after craniotomy for EDH ([[epilepsy risk]]). [[Audiology]] for [[haemotympanum]] noted on otoscopy left; [[conductive hearing loss]] suspected from [[ossicular disruption]]. [[Facial nerve HB I]]. Discharge D4 with [[paracetamol]] and [[ondansetron]] PRN.

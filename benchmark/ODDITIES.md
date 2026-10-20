@@ -1,0 +1,546 @@
+# Oddities the writing agents invented
+
+Each is a way an identifier can end up somewhere software would not look.
+Gathered from the identity cards; one line per oddity, with its case.
+
+- **001** — court case number from a protective-order banner pasted into a nursing note
+- **001** — patient surname hyphenated, then truncated by a fixed-width field
+- **001** — ex-husband named in a do-not-disclose alert that also lists his workplace
+- **002** — Word comment/tracked-change text leaked into body with reviewer initials asking how the surname is spelled
+- **002** — fitness-band sync log pasted into portal message with GPS coordinates and device serial
+- **002** — Polish diacritics dropped or transliterated inconsistently (Krakow/Kraków, Lodz/Łódź)
+- **002** — surnames that are ordinary words used as clinician name and also as plain words (Page, Frost) as traps
+- **003** — school locker number and combination written in a medication list because rescue medicine was kept there
+- **003** — patient and family have ordinary-word names (Hope, Mercy, Charity, Bright) plus a cat named after the surname
+- **003** — spreadsheet-export row IDs and column labels (patient_name) wrapping the note text
+- **003** — memorial-fund web page address and funeral-home name in a death note
+- **004** — surname spelled out in the dictation using phonetic alphabet words (Tango Alpha November Golf Echo November), transcribed literally
+- **004** — dictation commands (new paragraph, period, comma) transcribed as words
+- **004** — landlord named in a note about a fall-risk home safety check, with his company and unit number
+- **004** — speech recognition turned a husband's employer into a common phrase
+- **005** — Brazilian CPF national ID number written in a US admission note
+- **005** — telephone interpreter operator first name and interpreter ID recorded in the history
+- **005** — Portuguese sentence of patient machine-translated word for word into the note, including a relative's name
+- **005** — patient's address in Portuguese-style format (Rua, apto, CEP) beside a US address
+- **006** — confidential-care release passphrase written into the note so staff can verify the caller
+- **006** — legacy system truncates the name to eight letters with a tilde (MARSH, P~)
+- **006** — patient's initials P.M. read as the time of day 'PM' and her surname almost the month MARCH
+- **006** — ordinary-word names: friend Amber Rose, patient Piper Marsh, nickname Pip
+- **007** — newborn first charted under a temporary name (Baby Girl Strand) and later renamed, both in notes
+- **007** — infant security band number and cord-blood kit number as identifiers
+- **007** — rented breast pump serial number in a lactation line
+- **007** — grandparents' ages given as 94 yo, age 91, ninety-three and OCR 9l
+- **008** — dog tag inscription read aloud on exam: surname, initial, SSN-format number and blood group
+- **008** — surgeon's sticky note transcribed into the dictation with a personal cell number
+- **008** — claims adjuster's insurer-company name and claim number inside a care coordination note
+- **008** — clinician surnames Cook, Hunter and Baker as ordinary-word traps next to the trade 'cook' and 'hunting'
+- **009** — patient name and mother's cell phone written in marker on the auto-injector trainer label, described by nurse
+- **009** — mother's licence plate recorded because car left in ambulance bay
+- **010** — phonetic pronunciation guide of the patient's name typed into the note by the phone interpreter
+- **010** — interpreter first name, id and session number recorded in the encounter
+- **011** — surname spelled aloud in the NATO phonetic alphabet and transcribed
+- **011** — Irish PPS number and Eircode as non-US identifier shapes
+- **011** — dd/mm/yyyy dates mixed with mm/dd/yyyy in the same chart
+- **012** — pill-box app speaks the late mother's first name as its greeting, documented in the note
+- **012** — dictation speaker-profile name and microphone serial in header
+- **012** — patient surname is the ordinary word Early and a clinician is Dr. Strong
+- **012** — wrong-patient fragment pasted at end of fax cover (Rosalie Tindall)
+- **012** — H&P dictation contains 'scratch that, her real name is...' transcribed
+- **013** — recovery-meeting location, day, time and sponsor's phone number written in a portal message
+- **013** — portal message sent from wife's login and signed by the patient
+- **013** — patient date of birth keyed as 1933 in the patient's own portal message and employer letter
+- **014** — glucometer Bluetooth pairing name contains the patient's name and is pasted into a nursing note
+- **014** — veteran service number appears on a hospital wristband sticker described in text
+- **015** — after-visit-summary QR-code link carries the MRN and date of birth in the URL query string
+- **015** — portal e-mail address embeds the birth year
+- **015** — attached photo filename carries the patient's name and a date
+- **016** — dictating physician's own private phone call to his family captured in the transcription, with his child's name and a pickup time
+- **016** — father's age given as 91, ninety-one, 91yo and 9l (OCR)
+- **016** — wrong-chart fragment about another patient (Henri Boudreaux) pasted into care coordination note
+- **017** — belongings inventory in the death note listing bus pass, library card and key-fob numbers
+- **017** — patient's nickname 'Percy' echoes an opioid brand name
+- **017** — voicemail auto-transcript pasted with the caller's number read out in words
+- **017** — tattoo of niece's name and birthdate described on exam
+- **018** — portal URL containing the patient's own username
+- **018** — care coordination note quotes a voicemail where the daughter spells her own surname letter by letter
+- **018** — nurse's note documents a bed-alarm device serial written on the wrist-band sticker over the patient's name
+- **019** — duplicate chart opened under an alias with DOB 01/01/1900 (default), awaiting merge
+- **019** — ages over 89 for the patient's mother written as numerals, words, 'mid-nineties' and '92yo'
+- **019** — patient's CPAP machine serial on the death note belongings line
+- **020** — speech recognition rendered the patient's Polish surname as 'Whisnyevska' and the correction comment itself lives in the Word file
+- **020** — tracked-change deletion still contains another patient's name (Mr. Dunmore)
+- **020** — courier tracking PIN and a foreign passport number pasted into a portal message
+- **021** — spreadsheet row export with a column shift so the mother's phone number sits in the 'weight' column
+- **021** — patient surname 'Summer' is a season; teacher surname 'Frost'; note says 'since Summer' meaning surname
+- **021** — father's work email auto-signature block with a Bluetooth headset serial
+- **022** — court docket number for a protective order pasted into a portal message
+- **022** — payment-app handle containing the patient's surname and birth year
+- **022** — legacy system uppercases everything, including a nickname 'T.J.' that collides with initials of the clinic
+- **022** — emergency contact left as the default word SAME
+- **023** — OCR'd specimen-jar label with accession number and barcode digits pasted into the operative note
+- **023** — whole wrong-patient consult block copied forward with its own MRN and DOB
+- **023** — non-Latin diacritics lost in transit (Torbjörn -> Torbj?rn, Szabó -> Szab\u00f3 escape)
+- **024** — dictation audio file name containing the surname and date mentioned in the text
+- **024** — dictation phone-in PIN and job number read aloud by the physician at the start of the dictation
+- **024** — surnames that are ordinary words (Case, Strong, Bishop, Chance, Lund) mixed with their lowercase ordinary use in the same sentence
+- **025** — employer HR form read aloud over phone: badge number, radio call sign and shift-bid number as identifiers
+- **025** — voicemail greeting transcribed by phone system with name and phone number spelled out in words
+- **025** — age written with letter O for zero (9O) and 'nonagenarian' as an age
+- **025** — nursing telephone note routed to a dentist cc and Department set to Cardiology Clinic (wrong list item)
+- **025** — neighbour's name misspelled and landlord dispute pasted into a clinical addendum
+- **026** — patronymic naming: patient addressed by her father's given name (Tesfaye) and by husband's name (Mrs Haile), flagged in a tracked-change comment
+- **026** — immigration alien registration number written on a transplant consent and copied into a discharge summary
+- **026** — interpreter-line ID and interpreter first name recorded as identifiers
+- **026** — glucose-sensor serial and home Wi-Fi network name in patient instructions
+- **026** — forwarded SMS thread from case worker with van licence plate, phone signature and IP address
+- **026** — Word tracked-change deletions and comments leaking into the text with names inside them
+- **027** — spreadsheet row export with ids in CSV columns, bullet-point body with embedded quotes
+- **027** — doorbell-camera video file name containing street address and date
+- **027** — licence plate of an assailant and a police report number dictated by the patient
+- **027** — note pasted from another unit's 0700 note naming the same patient in a different room with a PCN allergy
+- **027** — default phone (000) 000-0000 and unfilled <<EMERG_CONTACT>> and {EMPLOYER} placeholders
+- **027** — MRN with two digits swapped in the consult note
+- **028** — speech recognition turned the child's name into a drug name (Lipitor) and the dentist's name into 'Castle Yanos'
+- **028** — father's food-truck business named after the child's nickname (Lippy's Dumplings)
+- **028** — consent scan file name carrying patient name and a two-digit-year date
+- **028** — great-grandmother's age as 'ninety four', '94 yr old', 'nonagenarian'
+- **028** — weekday stated wrongly (Tuesday for a Monday)
+- **028** — dictated digits spaced out as '0 8 4 5' and phone number spoken as words
+- **028** — operative-note template used for a hygiene scaling with Anesthetist: *** left
+- **029** — patient name also given in Cyrillic as on passport
+- **029** — secretary initials MG marked as a name beside M. Gray
+- **029** — wrong-patient line (Mairead O'Donoghue) pasted from template
+- **029** — letter template with both [REFERRER] and Mrs Havrilenko salutation left in
+- **029** — EDD stale in pasted paragraph, corrected in text
+- **030** — phone lock-screen text and gym locker number in ED belongings inventory, plus patient's home Wi-Fi network name
+- **030** — patient safe-contact instruction: letters to workplace, not home, with nickname on envelope
+- **030** — wrong patient's allergy line (Odell Fanning) inside copy-forward
+- **030** — nurse's note quotes label on a ziplock bag 'BILLIE'S MEDS'
+- **031** — dog named with the family surname
+- **031** — child's name on an inhaler spacer label with classroom name
+- **031** — school bus driver first name and route number given by parent
+- **031** — mother's portal auto-reply with unfilled placeholders
+- **031** — patient's own two phone numbers: old one still ringing
+- **032** — dictating doctor 'scratch that' re grandmother's surname, transcribed anyway
+- **032** — fax cover sheet with dd/mm and mm/dd dates mixed, a time stamp 02:15 on a date, 'Boxing Day' and 'Christmas Eve'
+- **032** — booking with a wrong year (2059) for a dental appointment
+- **032** — provider number of the consultant given in school letter
+- **032** — mother's veterinary employer and a dog's pain tablet mentioned
+- **033** — spreadsheet-export column shift: patient name sits in the UNIT column and unit in the NAME column
+- **033** — bed whiteboard label pasted into nursing note
+- **033** — cord-blood bank kit tracking number inside a discharge comment
+- **033** — surname is an ordinary word (Early) and a clinician surname is Paine
+- **034** — daycare teacher's personal Instagram handle in letter signature
+- **034** — incident-report number of a daycare form cited as reason for letter
+- **034** — great-grandmother's age written 4 ways (94, ninety-four, 9-4, age 94 yrs)
+- **034** — landlord named in note because of a heating complaint paragraph
+- **035** — pharmacy label barcode text pasted as note text with surname and fill date
+- **035** — brand-name trap list (EpiPen, Claritin) and eponym trap list (Neer, Hawkins-Kennedy, Jobe, Parkinson's) in one note
+- **035** — patient surname Sage also a herb and a colleague Marrow is also a word
+- **036** — speech recognition turned a pager number into a date
+- **036** — fax confidentiality footer carrying sender's home fax
+- **036** — licence plate dictated as spoken letters
+- **036** — insurance ID read aloud with dashes dictated as the word dash
+- **037** — patient's gamertag used as sign-off on portal message
+- **037** — radiology report shows technologist's Windows file path with username
+- **037** — clinician's native-language greeting plus patient's name
+- **037** — DICOM accession number in the middle of a sentence
+- **038** — Word tracked-change author names and comment authors appear as people in the text
+- **038** — deleted tracked text still contains the old address
+- **038** — ALL CAPS system strips fadas so O Briain loses accent and apostrophe
+- **038** — identifiers from four countries (Ireland, Germany, Canada, Australia) in one referral
+- **038** — old address 14 Cappagh Park, Doughiska, Galway H91 K4N2 survives in deleted tracked text; wrong-patient 'O BRIEN, Desmond' near-name pasted in discharge summary
+- **039** — portal password-hint with mother's maiden name typed into message
+- **039** — caller-ID line from voicemail transcription pasted into message
+- **039** — spreadsheet cell with note text split mid-word across two rows
+- **039** — surname Royal and clinician surnames Hart and Strong are ordinary words
+- **039** — AVS prints wrong weekday for visit date; voicemail transcript with caller ID pasted into AVS
+- **040** — landlord's text-message thread pasted into care coordination note with phone signature and IP address
+- **040** — neighbour's dog name equals patient's son name
+- **040** — ride-voucher number used as account
+- **040** — dictator says 'strike that, her sister's name'
+- **040** — template placeholder <<PATIENT_NAME>> in auto-reply left unmarked; wrong phone digits corrected mid-dictation
+- **041** — memorial fundraising web page URL and cemetery section/lot pasted into a death note
+- **041** — stuffed toy giraffe named with the patient's surname (child's joke) listed among belongings
+- **041** — date of birth written day-first in an ED operative note header while the rest of the chart is month-first
+- **041** — stale 'Allergies' field that held the patient's name; Polish grandmother's name misspelled in a pasted-in contact block
+- **042** — patient surname 'Early' is an ordinary word, used in the same sentences as 'early morning awakening' and 'Early' as a sign-off
+- **042** — patient's portal username is his own first-name-plus-birth-year and gets pasted into the body of a message as 'logged in as'
+- **042** — nursing note headed by the patient's neighbour's sticker label (wrong-patient sticker, annotated 'wrong sticker')
+- **043** — belongings inventory transcribes the engraving inside the patient's wedding ring: both spouses' initials and the wedding date
+- **043** — wrong-patient fragment: a line about a 61 yo man with his own MRN and DOB dragged into the cardiology consult
+- **043** — landlord text message pasted into social history, with sender number and lockbox code (to be written in consult note)
+- **044** — tracked-change deletion in a Word document still contains the previous patient's name that the template had auto-filled
+- **044** — dictation commands typed literally ('new paragraph', 'period', 'scratch that')
+- **044** — pharmacy label text pasted into a portal message with the Rx number, pharmacist's name and the bottle's fill date
+- **045** — caller-verification answers (mother's maiden name, last four digits of SSN) written into a care-coordination note
+- **045** — a safe-contact instruction names the former partner as a person who must not be given information
+- **045** — device serial of a seizure-alert wristband and a bicycle registration number pasted from an incident report
+- **045** — spreadsheet export where the patient name column contains the note author and vice versa for one row
+- **046** — child's family nickname is the name of his food allergen (PEANUT) and the nickname appears in the allergy field
+- **046** — school authorised-pick-up list with a spoken code word (a password to release the child) and the names of non-relatives
+- **046** — legacy system folded every field to upper case, so 'MAYA' / 'MR' / ordinary words in caps look like names
+- **047** — unmarked traps: Parkinson's disease, Hodgkin lymphoma, Bell's palsy, brand names Flonase Zyrtec Tylenol Motrin Advil Augmentin Amoxil
+- **047** — surname Price (hygienist) with explicit aside; landlord named Wheeler with an amusement-ride joke
+- **047** — on-call code word 'hope' spoken to phone line (not a name)
+- **047** — teen portal message asking that father's email on file not be used, with alternative school email
+- **047** — wrong provider selected from list, contradicted in free text
+- **048** — unmarked wrong birth date format 17-NOV-2028 and 8/26/92
+- **048** — home COVID test kit serial and car plate while husband waited
+- **048** — sunday dental appointment flagged by dictation as a mistaken date
+- **048** — patient's address change with husband name not to be used on mail
+- **048** — initials M.A.B. as file sign-off
+- **049** — court name-change docket number quoted in chart as an ID
+- **049** — name written on dental X-ray film sleeve is the OLD name
+- **049** — wrong-patient line dragged in by copy-forward
+- **050** — Patient's hyphenated surname split across a line break in a fax header
+- **050** — Specimen jar barcode text encodes initials + DOB (NAM080309-P2)
+- **050** — Volunteer 'essay' rewrites DOB as 'the ninth of March, two thousand eight'
+- **050** — Hand-copied sticky note with patient's home Wi-Fi network name containing her surname
+- **051** — child's portal login username is her chosen name (skyblu_63) and the portal message is signed with it
+- **051** — row export wrapper line carrying PT_NAME in LAST, FIRST M format before the note text
+- **051** — brother's gamer tag x183474 used as his only name in family history and on a school pickup form
+- **051** — pet cat named Page shares a surname with the paediatrician Dr. Page
+- **052** — speech recognition turned the landlord's name into a street address-like phrase
+- **052** — pharmacy rx number and a customer loyalty number pasted into medication list
+- **052** — dog named with family surname (Pickle Pruitt) in social history
+- **052** — wife's employer badge number dictated in words
+- **052** — DOB default 01/01/1900 in AVS footer; allergies field contains wife's name; unfilled [PATIENT] salutation
+- **053** — pet dog named with ex-partner's surname, given as portal security answer
+- **053** — dental lab case label carries patient initials and birth date
+- **053** — portal message signature block with old married name and old email
+- **054** — Patient's emotional-support parrot is named 'Royal Jr' in triage (pet with patient's name)
+- **054** — Parking-validation stub with licence plate stapled into ED note, transcribed by volunteer
+- **054** — Patient's word-name Royal appears as ordinary adjective ('royal pain') in same note (not marked)
+- **054** — Wristband printed for a different patient pasted into triage line
+- **055** — home BP cuff paired to Wi-Fi whose network name is the patient's portal username (NovaB38_5G) recorded in the monitoring instructions
+- **055** — safety alias (Ms. Quince) for voicemail and mail because of a partner-abuse concern, recorded in the AVS and in a registration banner
+- **055** — ages over 89 for the grandmother written five ways (92, ninety-two, 92yo, aged 92, 92 y/o)
+- **055** — radiology comparison line dragged in from another patient's study with name, MRN and date
+- **056** — surname Hope is an ordinary word used both as name and as the verb in the same sentence
+- **056** — Swedish and Polish diacritics and postal formats in family addresses
+- **056** — dictating doctor spells out coroner case number in words
+- **056** — tracked-change/comment markup leaking through names
+- **056** — wrong-patient fragment (Bishop, Elaine) in operative note; ECG filename with patient surname
+- **057** — gender-neutral chosen first name that is a bird; patient changed to chosen name, old name survives in device registration and insurer file
+- **057** — CPAP device serial number and licence plate typed into the allergies field
+- **057** — insurer letter that is auto-addressed to the former name with 'Dear Ms. Weiss-' truncated
+- **058** — Surname 'Frost' and wife 'Hope' are ordinary words; weather sentence ('first frost', 'hope to') in same note is not marked
+- **058** — Date of birth given differently by patient at call (11/14/2008) and by wife (Nov 4th 2009)
+- **058** — Landlord's text message thread pasted with phone signature and Wi-Fi name 'FrostFamilyHope'
+- **058** — Volunteer essay refers to patient as 'Mr. F. (Elias)' and wife as 'Mrs. F. (the lovely Hope)'
+- **059** — father's name Sven autocorrected to the number word Seven in some notes and kept as Sven in others
+- **059** — father's Swedish personnummer pasted into the telephone note instead of a phone number
+- **059** — dates in six formats including dd/mm/yyyy that reads as a different US date, 12.07.2067 German style, ISO 2067-07-12 and '12 July 2067'
+- **059** — daycare teacher called Mr. Bright and the child described as bright and in a bright room
+- **060** — child writes portal message from mother's account; signs off with nickname Ollie and a drawing description
+- **060** — surname Frost used as ordinary word (frost / frostbite) in same note
+- **060** — possessive Bram's and Frosts' as plural-possessive
+- **061** — automatic voicemail transcript containing caller-ID name registered to former name
+- **061** — grandmother's age written several ways: ninety four, 94yo, nine-four, 90s
+- **061** — pharmacy label still in former name, quoted in note
+- **062** — Brother is named Wednesday: name vs weekday in same sentence (name = PATIENT, weekday = DATE)
+- **062** — Wrong-patient line copied forward: Dashiell Okonkwo-Pryce with DOB and MRN
+- **062** — Confidential contraceptive line (Levora) in chart with parent-contact field filled by template, contradicted in free text
+- **062** — Student essay turns school locker number and combination into 'fun fact'
+- **063** — free-text ride-service booking confirmation pasted into the nursing note because of the transport barrier, with ride code, driver first name and licence plate
+- **063** — fax cover sheet footer still carrying the previous recipient's name and fax number
+- **063** — brother's nickname A1 and the patient's own name element Tre (III) used as ordinary words and numerals elsewhere (tre, a1c)
+- **063** — CPAP modem serial and cloud account username in the AVS home-device section
+- **064** — medication list has the patient's Wi-Fi network name (Dufresne_Home_5G) because pharmacist pasted the tele-monitoring setup
+- **064** — speech recognition renders the mother's age as a date
+- **064** — bypass graft tattoo-like scar mnemonic: patient jokes his sternotomy scar spells initials 'LD'
+- **064** — wrong template line 'lives with his wife and two children' contradicts chart; ext. and pager numbers
+- **065** — automated wellness-visit reminder phoned to the patient after death, quoted in an addendum
+- **065** — death note lists next-of-kin in three countries with differently formatted phone numbers and postcodes
+- **065** — sister's surname is the feminine form of patient's former surname
+- **066** — Surname Page vs 'page the surgeon' / 'turn the page' / 'pager' ordinary uses in same note
+- **066** — Sign-off nickname 'Dez' and initials 'D.P.' used for patient and for surgeon with same initials
+- **066** — Smartwatch fall-alarm GPS coordinates pasted into note
+- **066** — Patient portal login URL contains his username and a session IP
+- **067** — son's name Kxng autocorrected to King in one note and Kxng elsewhere; his gamer tag kxng_t24 given as phone-contact name
+- **067** — landlord's company name embedded in an eviction-risk comment with the unit number
+- **067** — nephew named Mi4 (digit in name) listed as emergency contact next to a phone number whose last digits look like his name
+- **067** — criminal record case number carried in the social history from a probation form
+- **067** — patient signs portal message with his username and a typo of it
+- **068** — passport number pasted into a letter to insurer
+- **068** — dictation hears 'Ostrowski' as 'oh strobe ski'
+- **068** — date written as French dd.mm.yyyy and Polish dd.mm.yyyy in family addresses
+- **068** — due date and baby's birthday given as 'the 22nd' with month implied
+- **069** — newborn wristband text carries mother's MRN with Baby Boy Frost
+- **069** — interpreter language-line operator ID in note
+- **069** — surname that is a weather word used as ordinary word in same note
+- **070** — Ages over 89 for relatives written as '94', 'NINETY-FOUR', '94YO', '9-4', 'IN HER NINETIES' within one note set
+- **070** — Food-pantry card number and clients' child names written on the back of a lab-result letter
+- **070** — Patient nickname 'TOMEK' spoken by child as 'Tomek-papa' in a quote
+- **070** — Landlord's eviction notice number typed into the allergies field
+- **071** — clinician with the patient's own surname (Gabriel Chase, no relation) in the same ED note, plus 'chase' as an ordinary verb
+- **071** — dates in eight formats within one telephone note: 3/4, 03/04/71, 4/16 02:15, the 14th, mid-March, last Thursday, Christmas Eve, a bare year
+- **071** — pharmacy rx number and refill-line recording id pasted into the telephone encounter
+- **071** — brand names (Lyrica, Cymbalta, Lovenox, Aleve, Tylenol) and eponymous signs (Homans sign, Raynaud phenomenon, Bell palsy) deliberately left unmarked
+- **072** — clinic parking-validation sticker with licence plate pasted into care coordination note
+- **072** — nickname Daisy is also a word and a wildflower mentioned in the same note
+- **072** — epinephrine auto-injector serial number read aloud on the phone
+- **072** — dictation hears the oncologist's Maori first name 'Ngaire' as 'Nigel'
+- **073** — portal message auto-signature carries a fitness-tracker serial, a yarn-shop business named after her maiden name, and a bank account number pasted in by mistake
+- **073** — nurse addendum where the patient spells out her new and old surnames letter by letter, transcribed as written
+- **073** — age written as 9O (OCR) for the mother, plus another patient wrong-chart fragment in the referral
+- **074** — Radiology report whose impression section is written as a school-style essay conclusion naming the patient
+- **074** — Tracked-change deletion in a letter keeps the OLD wrong patient name visible
+- **074** — Death note records the patient's last words including her sister's phone number
+- **074** — Surname-words in note: Page and Frost used both as names and as ordinary words (page of notes, frost)
+- **075** — Bluetooth pairing name of the phone used with the event monitor app ('Summer's Galaxy') logged in a device audit line
+- **075** — scanner barcode accession text auto-inserted into radiology report as a name-like token
+- **075** — patient's maiden name Lake used as a plain word elsewhere ('the lake house')
+- **076** — daycare pickup passcode and teacher name written into a care coordination note
+- **076** — speech recognition rendered the doctor's name inside a letter signature line ('Quamme Ozzy') and a spoken self-correction 'Mr. Ren scratch that Mr. Wren'
+- **076** — fax cover sheet by an MA wrapping pasted pages from three dates, including a whole page from another patient
+- **076** — default DOB 01/01/1900 and Age 0 left in a template header
+- **076** — extension number written as a phone extension only
+- **077** — verbal telephone passcode word agreed with the patient pasted into the note
+- **077** — court name-change order number and the clerk's name copied from a scanned PDF
+- **077** — same street written in Romanian, Austrian and US formats across notes
+- **077** — clinician dictating Portuguese salutation and a Polish colleague's name misheard
+- **078** — Gamer tag used as sign-off on a portal message while patient is dying
+- **078** — Possessive form of surname used as a title (STORY'S CHART) and as a genuine ordinary word (the story of the illness)
+- **078** — Nurse named Hope and a surname Will in the same sentence as the verbs hope and will
+- **078** — Death note quoting the patient's final message typed in all caps containing girlfriend's name and a street address
+- **079** — voicemail greeting transcribed by the phone system including both spouses' names and the household Wi-Fi name offered for telehealth
+- **079** — lab specimen tube label printed with newborn nickname instead of patient
+- **079** — husband's nickname is a number (Twelve) and also appears as the digit 12 for his sports jersey
+- **080** — operating-theatre whiteboard line (room, initials, procedure, time, case barcode) dictated aloud into an operative report
+- **080** — Word comment and tracked-change text with reviewer initials leaked into the body with a dated author stamp
+- **080** — wife's employer is a credit union with a place-like name used as an aside
+- **080** — note says 'Parkinson's? NO that is his uncle' (eponymous trap, uncle unnamed)
+- **080** — MRN with two digits swapped in nursing note (0091-6360)
+- **081** — spreadsheet export where the row-key column concatenates initials and date of birth (MV20070322)
+- **081** — patient's home Wi-Fi network name that contains her husband's first name and surname in a portal message
+- **081** — licence plate typed in a fax cover message about a handicap-parking form
+- **081** — lab comment with almost no identifiers on purpose (true negative case)
+- **082** — Patient answers telephone as her late mother's name Agnes Lindqvist and the nurse charts it
+- **082** — OCR reads W as VV in the patient's name on a scanned wristband
+- **082** — Fall-alarm GPS coordinates charted as the patient's location
+- **082** — Husband's age 91 written six different ways in one care coordination note
+- **083** — Swedish personnummer on a bottle label from home pharmacy brought to reconciliation
+- **083** — pharmacy tech whose chosen name contains a digit (Mi4) written as 'Mia' and 'Mi4' in different places
+- **083** — eponymous traps (Hashimoto thyroiditis, Morse Fall Scale) next to clinician surname Baker and drug brand names
+- **083** — non-US addresses in three countries inside a family contacts block
+- **084** — veterinary prescription for the family dog (dog's name carries the family surname, vet, vet clinic, Rx number) found in a human medication reconciliation list
+- **084** — security note recording the car licence plate left in an ambulance bay, with a second misspelt plate from a form
+- **084** — wristband name misprinted by registration (Fieldz) and quoted in the note
+- **084** — allergy field filled with the patient's own name
+- **084** — portal login name and URL written in a med list
+- **085** — infant ID bracelet number copied into the mother's nursing note
+- **085** — daughter's name Mai is also the Vietnamese word for the month May and the English word is substituted by autocorrect
+- **085** — landlord's voice-to-text message pasted into care coordination note
+- **085** — CPAP machine serial typed in an ED note
+- **085** — patient gives her birth year as 1941 to a nurse
+- **085** — default Age: 0 and masked DOB in care coordination header
+- **086** — Dates in the same note in 12 formats including month-day with clock 4/16 02:15, Norwegian dd.mm.yyyy, and Nigerian-style 14th of Aug
+- **086** — Discharge summary template field Allergies: filled with the patient's name
+- **086** — Climbing gym membership number pasted into the discharge instructions
+- **086** — Tracked-change comment thread where volunteer asks if 'Ada' is a nickname or a drug
+- **087** — fax cover template banner still carries previous recipient's name and fax number
+- **087** — son's streaming handle recorded in social history
+- **087** — business named after the family (Fields & Sons Landscaping) and patient nicknamed after his surname (Fieldsy)
+- **087** — OCR-style read of son's name A1 as Al
+- **088** — carrier auto-transcribed voicemail from the son pasted into a death note, with caller-ID name, phone number, date, airport gate
+- **088** — husband's age typed '9 1' in the registry and written three ways (91, ninety-one, 9 1) in the same letter
+- **088** — 'acts 60' quoted by husband (an age given as a joke)
+- **088** — patient's insurance-card name differs (Almaz Gebreyes Mehari)
+- **088** — Tigrinya word for father (Abba) used as a name in a voicemail
+- **089** — patient surname Bell sits next to the unmarked eponym Bell's palsy, and Frost next to ordinary 'frost' on the steps
+- **089** — friend named Hope used as an ordinary word and as a name in the same sentence
+- **089** — insurer claim number split across a line break
+- **089** — brand names (Ibu, Yaz, Natazia, Liletta) left in the med list on purpose, not marked
+- **090** — Pharmacist pager number and extension written as 'page 4471 then press 214' split across a line break
+- **090** — Vehicle plate pasted from a parking permit scan inside the medication list
+- **090** — Device serial of the home BP cuff recorded as a medication
+- **090** — Patient portal URL containing her username (owhitlock) in a lab comment
+- **091** — grandson's legal chosen name is the alphanumeric x183474, carried as former name Dylan Carter on a pasted proxy form
+- **091** — wandering-alert bracelet inscription (name, phone, bracelet id) and GPS coordinates from a geofence alert pasted into a telephone note
+- **091** — patient named Pleasant with surname Will, so 'pleasant' and 'will' appear both as names and ordinary words (pleasant affect, will follow up)
+- **091** — caregiver text message thread with phone signature
+- **092** — school lunch-account number and PIN written into a school letter, then flagged by a Word comment
+- **092** — school bus route number, stop and driver's name given in a letter
+- **092** — child recorded under two surnames (mother's Brook, father's Park) with father's name in two orders
+- **092** — speech-recognition garble of the dictating locum's name quoted in the signature block
+- **092** — wrong-patient allergy deletion in tracked changes naming another child
+- **092** — parent addresses and phones in Canada, UK, South Korea formats
+- **093** — EHR prefill expanded the old first name with the new sex ('Emmeline Page is a 26 y.o. male') in one sentence
+- **093** — insurer rejection quoting the member's former name and the sex-field mismatch
+- **093** — the word 'page' used as a verb (page on-call) next to the surname Page, not marked
+- **093** — pager number and extension in the call-back line
+- **093** — sign-offs by initials only (-E.P., IB) kept as names
+- **094** — Family-drafted obituary text pasted into the death note with service date, funeral home and survivors
+- **094** — Business named after patient: Rourke & Sons Plumbing, written in a note as an ordinary phrase 'the plumbing business'
+- **094** — Tattoo of son's name and birth date described on exam
+- **094** — Landlord's text-message thread about back rent pasted into SW consult with phone signature
+- **095** — Akan day-name (Kofi, Friday-born) used as nickname and also confused with the weekday in the note
+- **095** — Ghana Post digital address code (GA-038-5421) in a relative's address
+- **095** — memorial donation page URL and scholarship fund named after the patient in a death note
+- **095** — donor organ id number in the operative note
+- **095** — patient's name is a virtue word (Justice) and wife's is Mercy, used as ordinary words too
+- **096** — radiology report describes a dog-tag chain lying over the chest on the chest film with legible name, service number and nickname engraved
+- **096** — patient's own nickname Lucky and surname Chance both ordinary words: the same words used as plain words in the text (Mere chance, Chance of falling, not very lucky) as true negatives
+- **096** — high-school volunteer first name only recorded as the preparer
+- **097** — parcel tracking number on a mailed retainer box addressed to the former name pasted into the H&P
+- **097** — landlord's text message about a leak quoted as social history, with phone signature
+- **098** — voicemail caller-ID read out letter by letter: B R I G H T L Y L E
+- **098** — volunteer wrote the lab result as a haiku containing the patient's nickname
+- **098** — clinic name (Brightwater) contains the patient's surname; surname also an ordinary adjective
+- **099** — child's drawing file name containing her name attached to a school email
+- **099** — walk-in slot code MIRACLE-SLOT in scheduler (ordinary word use, not a name)
+- **099** — fax confidentiality footer prefilled with previous recipient's name
+- **099** — name rendered M1racle by OCR of a wristband label
+- **100** — dictating surgeon spells patient surname with NATO phonetic alphabet and it is transcribed
+- **100** — portal message signed with an old Hotmail-style username and a pasted car-wash loyalty number
+- **100** — employer supervisor addressed with both Ron Delgado and Mr. Delgado; ED course says doctor "Tea Gue" for Teague
+- **101** — intake interpreter-phone ID number and the interpreter's first name transcribed into the ED note
+- **101** — cath-lab sticker with the patient's former name left on a stent implant card
+- **102** — caller spells his surname in NATO alphabet (Papa Alpha Golf Echo) and it is transcribed
+- **102** — patient initials Z.P. and nickname Big Z used in a seizure-alert wristband engraving
+- **102** — surname Page collides with the word 'page' (pager / page 2 of 3)
+- **103** — patient's own voicemail greeting transcribed by hospice nurse with name and phone number
+- **103** — son's chosen name is a numeral word and also appears as the ordinary number twelve in the same sentence
+- **103** — pharmacy will-call bag label text pasted into the death note
+- **104** — fax cover sheet whose pasted radiology report carries the fax machine header of a different clinic's fax with that clinic's name and number
+- **104** — portal message typed by patient's granddaughter and signed with her gamer tag in addition to his name
+- **104** — Eircode and Canadian postal code written for relatives abroad
+- **105** — sympathy card text and obituary URL pasted into the death note
+- **105** — funeral-home pickup tag number written into the pronouncement
+- **105** — coworkers' crew sign-off (employer name) used as a signature
+- **106** — patient pasted her caregiver portal password into the message body
+- **106** — volunteer rewrote DOB as 'the second of March, nineteen fifty-seven'
+- **106** — age written as 'in her 106th year' (wrong) and 'one hundred and five'
+- **107** — patient's surname Ward is also the hospital word ward in the same sentence
+- **107** — wrong-chart fragment (Delmar Hobbs) pasted into a pharmacy student's SOAP note
+- **107** — belongings tag carrying the chosen nickname L-Dub
+- **107** — radiologist's speech-recognition turns the name Will Marchetti into Will Marshall-Eddy
+- **108** — dictation microphone left open captures a visitor introducing himself and giving a licence plate, transcribed into the note
+- **108** — email address dictated as words and transcribed phonetically
+- **109** — patient's portal signature block includes a chosen email display name, Wi-Fi network name and a school-run pickup code
+- **109** — endoscopy report footer prints the specimen jar barcode with the former surname
+- **110** — radiograph with burned-in annotation text carrying name, MRN and date
+- **110** — baby's pre-naming alias 'Baby Boy Perera' still on older paperwork
+- **110** — grandmother's Swedish greeting and Sri Lankan/Swedish addresses in non-US formats
+- **110** — Dr. Bell collides with Bell's palsy (not marked)
+- **110** — dates in DD/MM/YYYY format mixed into a US-style record
+- **111** — partner's chosen name is the alphanumeric x183474, also appearing as a ward bed-board code
+- **111** — patient's portal login handle equals her surname plus initial
+- **111** — dictation says 'her story' as an ordinary word right beside surname Story
+- **111** — licence plate WA BLU-3382 contains a friend's first name
+- **112** — cord blood bank kit number and a hospital wristband barcode string pasted into the discharge summary
+- **112** — telephone encounter drags in a line about a different patient (Lorraine Pruitt) with her DOB
+- **112** — landlord's name and property-management firm given as cause of stress and as a contact for heating complaints
+- **113** — patient's chosen portal display name is his former Polish name while the chart name is the anglicised one
+- **113** — nursing-home bed wristband colour and a hand-written GPS pin from a wandering alert pasted into the ED note
+- **114** — NAME ALERT sticker transcribed into note naming a different patient with the same surname and her room
+- **114** — newborn named Ocean (word name) and documented as 'Baby Ocean' and 'Baby Girl Frost' in the same note
+- **114** — student note uses possessive 'Frost's' and 'Ms. F.'
+- **115** — military dog tag text (name, service number, blood type) copied into an operative note during prep
+- **115** — portal message to patient addressed with nickname A1 and emoji
+- **115** — patient's grandfather's age ninety-four written five ways in one note
+- **115** — surname Cash used as ordinary word in same sentence (cash payment)
+- **116** — pharmacist's note uses 'page' as verb and 'Page' as surname and 'Teal' (colour) as partner surname on the same list
+- **116** — medication list line where drug brand name Camila is also the first name of an unrelated listed contact
+- **116** — reconciliation list pasted from a pharmacy label scanner includes the patient's name read backwards
+- **117** — CPAP device serial and licence plate typed by patient into portal message as a 'password hint'
+- **117** — header carries the former name while the body uses the current name (pasted old demographics block)
+- **117** — hospice death note lists the pager number of the on-call chaplain as a patient contact
+- **118** — kidney-diet recipe card pasted into the note, credited by name to the patient's aunt
+- **118** — word name Blessing used both as the patient's name and as the ordinary word 'blessing' in the same message
+- **118** — relatives' ages over 89 written as 94, ninety-three and 'in her 90s'
+- **119** — Ghana Post GPS digital address code (GA-123-4567) as next-of-kin location
+- **119** — home-monitoring sheet records Wi-Fi network name Mensah_Family_5G
+- **119** — international phone numbers with +233, +44, +49 prefixes written in several spacing styles
+- **119** — wife named Patience and son Gift appear beside ordinary uses of 'patience' and 'gift' in the same note
+- **120** — glucose meter pairing log pasted into note includes home Wi-Fi network name derived from the surname
+- **120** — lab requisition lists the nickname Tank in the first-name field
+- **120** — possessive and initials forms (Love's, R.E.L., RL) of an ordinary-word surname
+- **121** — mail-merge letter used legacy pre-change surname and was routed c/o the neighbour
+- **121** — fall-alarm GPS coordinates and neighbour's Wi-Fi network name (contains surname) recorded in ED death note
+- **121** — PACS header shows old legal name as primary with AKA current name
+- **121** — patient gives different DOB and address (digit transposition) at different contacts
+- **121** — wrong-patient fragment (Ivor Pennington-Lisle) left in radiology template
+- **122** — tracked-change comment carrying a son's WhatsApp number and a Dutch phone format
+- **122** — volunteer wrote the patient's name phonetically in Dutch as 'Mevrouw Fan der Mulen' in a heading
+- **122** — discharge summary rendered with tracked-change author initials and a deleted wrong-patient room
+- **123** — staff member whose chosen name is a numeral-letter string (x183474) used as DOCTOR, USERNAME and sign-off
+- **123** — patient's own first name Royal used as a door sign and as a word
+- **124** — Neighbour's surname spelled phonetically by MA on triage sticker and again by patient in portal
+- **124** — Tenancy letter number and landlord's text message pasted into portal message
+- **124** — Mother's age written as 91, ninety-one, 91yo and 'nineteen-ninety-one' by dictation
+- **124** — A shoe-box police report number mentioned as an incident number
+- **125** — interpreter badge id and sponsor church recorded inside the care coordination note's allergy field
+- **125** — patient legally changed name on resettlement; Tigrinya birth name persists in the resettlement paperwork pasted into note
+- **125** — impossible date 6/31 given by patient as birthday
+- **126** — smartwatch ECG share link with the patient's surname embedded in the URL pasted into the ED triage note
+- **126** — operative-note template for the wrong specialty (knee arthroscopy) selected for a dental filling, header carries surgeon from wrong list
+- **126** — parking validation plate transcribed by a volunteer
+- **127** — salutation template never changed with a misspelled surname (Dear Mr. Wynter)
+- **127** — two staff with the same word first name (Lake) distinguished on a fax cover
+- **127** — family dog with the family surname named in a referral letter
+- **127** — mother's age written four ways across notes (92, ninety-three, 94, 95)
+- **128** — Sister has same name as a contraceptive brand (Camila) - brand not marked, sister marked
+- **128** — Patient's surname Frost used also as ordinary weather word in same note
+- **128** — Grandmother's address in Krakow with Polish street format, father's in Pune India
+- **128** — Tracked-change text where deleted old name still appears in the note
+- **129** — patient's own portal message includes phone-keyboard autocomplete that replaced his name with a place name
+- **129** — insurance card photo caption pasted into nursing note with card holder name of the stepfather
+- **129** — pre-visit questionnaire answers transcribed with school locker combination and a gamer tag
+- **130** — patient's chosen name 'Toby' recorded as 'Preferred: Toby K.' alongside legal hyphenated surname; school hall-pass number in note
+- **130** — landlord's eviction notice text pasted with case number and a Wi-Fi network name written on a sticky note photo description
+- **130** — volunteer drew an ASCII family tree with names
+- **131** — patient's own first name explained as 'river as in the water, not the actor'
+- **131** — salutation template left unchanged addressing the employer's surname as a person (Dear Mr. Halvorsen)
+- **131** — patient asks to be called by first name because surname is his mother's name
+- **131** — dictation joke where the staff name Justice is heard as the ordinary word
+- **132** — Surname Will is also a modal verb: 'Will will need clearance'
+- **132** — Nickname Buck used as name
+- **132** — Business named after patient: Hollis & Will Hardware
+- **132** — Doctor sign-off by initials only 'EsM/dd'
+- **133** — ride-share receipt and bus pass number pasted into telephone encounter as transport documentation
+- **133** — grandmother's age written seven ways (91, ninety-one, 9l, 91yo, age 91 yrs, ninety-one-year-old, 90s)
+- **133** — patient claims penicillin allergy but chart shows penicillin tolerated
+- **134** — emergency contact first name 'Hope' and clinic surname 'Page' and 'Wills' are ordinary words; 'Frost' also used as weather word in same note
+- **134** — AVS with a QR-code caption that prints the MRN and DOB as alt text
+- **135** — family dog named with the family surname
+- **135** — car seat and sock-monitor serials as DEVICE
+- **135** — staff scribe named Mi4 with a digit
+- **135** — default phone (000) 000-0000 left in AVS, marked PHONE
+- **135** — patient portal reply mixes auto-reply and nurse reply in one body
+- **136** — Patient's age-93 fellow resident given as the emergency contact
+- **136** — Wrong-patient SOAP fragment: Delbert Fairchild, DOB 02/11/1950 copied forward
+- **136** — Age of resident written as ninety-three, 93yo, 'nine-three' and '93 y/o'
+- **136** — Bed number used as location
+- **137** — DOB written in Dutch day-month order (03-09-2041) identical in meaning to US 09/03/2041 but opposite reading
+- **137** — Dutch citizen service number pasted into free text field labelled Allergies
+- **137** — international address block with Dutch postcode format and floor suffix
+- **138** — patient's surname Bright and daughter's given name Story are ordinary words; sign-off 'Stay Bright!' by a volunteer
+- **138** — oncology infusion pump alarm log pasted with device serial and the patient's nickname typed as a username
+- **138** — granddaughter's school pickup instruction with a licence plate
+- **139** — surname that is an adverb (Early) with joke and a dictation line explaining it is not the adverb
+- **139** — son known by a numeral nickname Twelve
+- **139** — wrong-patient line dragged in from a template (Roy Smithers)
+- **139** — salutation placeholder 'Dear Dr. [NAME]' unfilled
+- **139** — default pharmacy phone (000) 000-0000 marked PHONE
+- **140** — Canadian postal code and +1 phone in US chart
+- **140** — Date written as 2063.11.16 (ISO-like with dots) and Nigerian 16/11/63
+- **140** — Passenger name spelled by autocorrect to 'Chitty'
+- **140** — Licence plate from a car-door accident story
+- **141** — surname Page collides with 'Page 2 of 3' footers, pager verb and 'page the neurologist'; only the surname is marked
+- **141** — patient's chosen-name request typed into the triage chief-complaint field
+- **141** — note with very few identifiers by design (true negatives)
+- **142** — default DOB 00/00/0000 in page-2 footer
+- **142** — age over 89 written several ways in a letter to an insurer: ninety-one? no, patient is 60; but mother quoted as 'ninety-four', '94 yo', '94y' (a relative's age)
+- **142** — insurer letter with claim number split across a line break
+- **142** — volunteer replaced the patient's name with 'Mr. L.' and spelled the date as words
+- **143** — physician surname Graves coinciding with an eponymous disease, with note text distinguishing the two
+- **143** — patient name Peace is a word and also ends a message as a sign-off and in 'peace of mind'
+- **143** — portal letter addressed to married name; a different Kuol with default DOB 1/1/1900 named in a lab comment
+- **143** — pasted stale 2074 medication list block inside the reconciliation
+- **143** — brand names Percocet Liletta Tylenol Advil Benadryl left unmarked
+- **144** — Radiology report lists device serial of cardiac catheter sheath and the patient's CPAP serial together
+- **144** — Licence plate written in ED note as read by police over phone, with NATO letters
+- **144** — Pager number written 'pager 5509' and in words

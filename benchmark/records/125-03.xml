@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE - ONCOLOGY NURSE NAVIGATION INTAKE
+Date: 03/14/71   Time 10:05   RN: Beatrix Lindqvist, RN
+Pt: Jonas Abbey / Yonas Tesfaye (alias on old record)  70 y/o male   Rm Infusion 3   MRN 7710-4426
+
+S: Pt came with wife Selam Abbey and daughter Lidya Abbey. Pt state "I am 69" (chart 70), says born 1999. Wife correct him: born June 2000. He deny any heart problem though chart show ischemic heart disease since 2062 and he take metoprolol, clopidogrel, simvastatin... says he stopped "the little pills" himself. Pt says he never drink alcohol, wife say he drank in 2059-2062.
+Wife tells us he work before at Northfield Cold Storage as forklift operator until 2064. Now not working. Lives with wife and son Henok Abbey at 7 Larkspur Terrace, Saint Paul.
+Sponsor family friend Gwen Ostrander from Grace Lutheran Church drive them. Phone for scheduling 651-555-0172.
+O: BP 118/74, pulse 66, afebrile. Wt 88 kg. Walks independent. Pain 2/10 abdomen. Rich diet low in fiber at home, pt say.
+A: new colon cancer, teaching about colonoscopy result and staging done. Pt anxious. Asked about port and chemo "Eloxatin". Explained doctor will decide.
+P: Pt to see Dr Hryshko on the 21st. Navigator Dana Rich to call. Written teaching given. Appt reminder card: Mr Abbey 3/21 09:30.
+Resettlement paperwork pasted from scan: "Case RC-42-31209 Name: Yonas Abebe Tesfaye DOB 17/06/2000 arrival 05 JUN 2042"
+</TEXT>
+<TAGS>
+<DATE id="P0" start="54" end="62" text="03/14/71" TYPE="DATE" comment="" />
+<NAME id="P1" start="82" end="99" text="Beatrix Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="108" end="119" text="Jonas Abbey" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="122" end="135" text="Yonas Tesfaye" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="159" end="161" text="70" TYPE="AGE" comment="" />
+<LOCATION id="P5" start="176" end="186" text="Infusion 3" TYPE="ROOM" comment="" />
+<ID id="P6" start="193" end="202" text="7710-4426" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P7" start="225" end="236" text="Selam Abbey" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="250" end="261" text="Lidya Abbey" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="289" end="291" text="70" TYPE="AGE" comment="" />
+<DATE id="P10" start="304" end="308" text="1999" TYPE="DATE" comment="" />
+<DATE id="P11" start="333" end="342" text="June 2000" TYPE="DATE" comment="" />
+<DATE id="P12" start="417" end="421" text="2062" TYPE="DATE" comment="" />
+<DATE id="P13" start="571" end="575" text="2059" TYPE="DATE" comment="" />
+<DATE id="P14" start="576" end="580" text="2062" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="614" end="637" text="Northfield Cold Storage" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P16" start="641" end="658" text="forklift operator" TYPE="PROFESSION" comment="" />
+<DATE id="P17" start="665" end="669" text="2064" TYPE="DATE" comment="" />
+<NAME id="P18" start="712" end="723" text="Henok Abbey" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="727" end="745" text="7 Larkspur Terrace" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="747" end="757" text="Saint Paul" TYPE="CITY" comment="" />
+<NAME id="P21" start="781" end="795" text="Gwen Ostrander" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="801" end="822" text="Grace Lutheran Church" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P23" start="856" end="868" text="651-555-0172" TYPE="PHONE" comment="" />
+<NAME id="P24" start="1162" end="1169" text="Hryshko" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="1177" end="1181" text="21st" TYPE="DATE" comment="" />
+<NAME id="P26" start="1193" end="1202" text="Dana Rich" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1265" end="1269" text="3/21" TYPE="DATE" comment="" />
+<ID id="P28" start="1324" end="1335" text="RC-42-31209" TYPE="IDNUM" comment="" />
+<NAME id="P29" start="1342" end="1361" text="Yonas Abebe Tesfaye" TYPE="PATIENT" comment="" />
+<DATE id="P30" start="1366" end="1376" text="17/06/2000" TYPE="DATE" comment="" />
+<DATE id="P31" start="1385" end="1396" text="05 JUN 2042" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

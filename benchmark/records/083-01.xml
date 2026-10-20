@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE - transition of care (acute -&gt; home health)
+Lakeview Primary Care   |   Date: 04/07/2087 (Tue)   |   Author: Dove Larsen, RN care coordinator
+Pt: Marigold Sjöberg   DOB 08/30/2020   66 yo F   MRN LP-0558021
+- Source: d/c packet from Northshore Community Hospital, faxed. Dx not legible on my copy - ask pt
+- Home health: BlueHeron Home Health, visits 04/07/2087 thru 04/11/2087, RN Ocean Pike. Ocean to call ahead.
+- Home: 1407 Larch Hollow Rd, Duluth, MN 55805. Lives w/ husband Arlo.
+- Contacts:
+  - son Kasper Sjoberg, Storgatan 14, 411 38 Göteborg, Sverige, tel +46 31 555 01 47
+  - dtr Joy Hale, 22 Cherry Tree Lane, Manchester M20 4QR, UK, +44 161 555 0192
+  - sister Rosalind Nair, Flat 4B, Rose Villa, Koregaon Park, Pune 411001, India
+- Meds at d/c: levothyroxine 75 mcg (Synthroid brand per bottle), no other new meds. Hashimoto thyroiditis hx. Acetaminophen (Tylenol) prn.
+- Med discrepancy: pt's bottle from home pharmacy Linden Apotek label shows personnummer 20200830-1234 and says 100 mcg. We have 75 on file. -&gt; pharmacist Justice Baker to reconcile
+- Safety: neighbours report shouting/violence in the building (not pt's household per pt). SW Bless Adjei to call. Pt prefers cell (218) 555-0163
+- Pt "Marigold" - not to be called Mrs. Sjöberg by phone, husband picks up
+- Follow up with Dr. Lark Hedlund on 04/14/2087
+- Signed Dove Larsen RN 04/07/2087 11:12
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="67" end="88" text="Lakeview Primary Care" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="101" end="111" text="04/07/2087" TYPE="DATE" comment="" />
+<DATE id="P2" start="113" end="116" text="Tue" TYPE="DATE" comment="" />
+<NAME id="P3" start="132" end="143" text="Dove Larsen" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="169" end="185" text="Marigold Sjöberg" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="192" end="202" text="08/30/2020" TYPE="DATE" comment="" />
+<AGE id="P6" start="205" end="207" text="66" TYPE="AGE" comment="" />
+<ID id="P7" start="219" end="229" text="LP-0558021" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P8" start="256" end="285" text="Northshore Community Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P9" start="344" end="365" text="BlueHeron Home Health" TYPE="ORGANIZATION" comment="" />
+<DATE id="P10" start="374" end="384" text="04/07/2087" TYPE="DATE" comment="" />
+<DATE id="P11" start="390" end="400" text="04/11/2087" TYPE="DATE" comment="" />
+<NAME id="P12" start="405" end="415" text="Ocean Pike" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="417" end="422" text="Ocean" TYPE="DOCTOR" comment="" />
+<LOCATION id="P14" start="446" end="466" text="1407 Larch Hollow Rd" TYPE="STREET" comment="" />
+<LOCATION id="P15" start="468" end="474" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P16" start="476" end="478" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P17" start="479" end="484" text="55805" TYPE="ZIP" comment="" />
+<NAME id="P18" start="503" end="507" text="Arlo" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="529" end="543" text="Kasper Sjoberg" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="545" end="557" text="Storgatan 14" TYPE="STREET" comment="" />
+<LOCATION id="P21" start="559" end="565" text="411 38" TYPE="ZIP" comment="" />
+<LOCATION id="P22" start="566" end="574" text="Göteborg" TYPE="CITY" comment="" />
+<LOCATION id="P23" start="576" end="583" text="Sverige" TYPE="COUNTRY" comment="" />
+<CONTACT id="P24" start="589" end="605" text="+46 31 555 01 47" TYPE="PHONE" comment="" />
+<NAME id="P25" start="614" end="622" text="Joy Hale" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="624" end="643" text="22 Cherry Tree Lane" TYPE="STREET" comment="" />
+<LOCATION id="P27" start="645" end="655" text="Manchester" TYPE="CITY" comment="" />
+<LOCATION id="P28" start="656" end="663" text="M20 4QR" TYPE="ZIP" comment="" />
+<LOCATION id="P29" start="665" end="667" text="UK" TYPE="COUNTRY" comment="" />
+<CONTACT id="P30" start="669" end="685" text="+44 161 555 0192" TYPE="PHONE" comment="" />
+<NAME id="P31" start="697" end="710" text="Rosalind Nair" TYPE="PATIENT" comment="" />
+<LOCATION id="P32" start="712" end="746" text="Flat 4B, Rose Villa, Koregaon Park" TYPE="STREET" comment="" />
+<LOCATION id="P33" start="748" end="752" text="Pune" TYPE="CITY" comment="" />
+<LOCATION id="P34" start="753" end="759" text="411001" TYPE="ZIP" comment="" />
+<LOCATION id="P35" start="761" end="766" text="India" TYPE="COUNTRY" comment="" />
+<LOCATION id="P36" start="957" end="970" text="Linden Apotek" TYPE="ORGANIZATION" comment="" />
+<ID id="P37" start="996" end="1009" text="20200830-1234" TYPE="IDNUM" comment="" />
+<NAME id="P38" start="1062" end="1075" text="Justice Baker" TYPE="DOCTOR" comment="" />
+<NAME id="P39" start="1183" end="1194" text="Bless Adjei" TYPE="DOCTOR" comment="" />
+<CONTACT id="P40" start="1220" end="1234" text="(218) 555-0163" TYPE="PHONE" comment="" />
+<NAME id="P41" start="1241" end="1249" text="Marigold" TYPE="PATIENT" comment="" />
+<NAME id="P42" start="1275" end="1282" text="Sjöberg" TYPE="PATIENT" comment="" />
+<NAME id="P43" start="1331" end="1343" text="Lark Hedlund" TYPE="DOCTOR" comment="" />
+<DATE id="P44" start="1347" end="1357" text="04/14/2087" TYPE="DATE" comment="" />
+<NAME id="P45" start="1367" end="1378" text="Dove Larsen" TYPE="DOCTOR" comment="" />
+<DATE id="P46" start="1382" end="1392" text="04/07/2087" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

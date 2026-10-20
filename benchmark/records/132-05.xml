@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Care coordination note - 03/27/2092
+
+Pt seen at urgent care for sinus congestion, viral. No antibiotics.
+
+Pasted from last note: The patient is a 85 yo M, Alzheimers, lives at 7 Harrow Bend, Asheville NC, niece manages meds. Hospice evaluation June 2091 - not enrolled now. Dental cleaning done 3/20/2092.
+
+Plan: GAD-7 was 12 on 1/3/2092, recheck next visit. Neighbor Mr Plum checks mail. Call niece, not the patient.
+- Dr Strand-Mbecki
+</TEXT>
+<TAGS>
+<DATE id="P0" start="25" end="35" text="03/27/2092" TYPE="DATE" comment="" />
+<AGE id="P1" start="146" end="148" text="85" TYPE="AGE" comment="" />
+<LOCATION id="P2" start="176" end="189" text="7 Harrow Bend" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="191" end="200" text="Asheville" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="201" end="203" text="NC" TYPE="STATE" comment="" />
+<DATE id="P5" start="244" end="253" text="June 2091" TYPE="DATE" comment="" />
+<DATE id="P6" start="295" end="304" text="3/20/2092" TYPE="DATE" comment="" />
+<DATE id="P7" start="329" end="337" text="1/3/2092" TYPE="DATE" comment="" />
+<NAME id="P8" start="371" end="375" text="Plum" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="423" end="436" text="Strand-Mbecki" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

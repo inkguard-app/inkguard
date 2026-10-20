@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE NOTE
+Appalachian Oral Surgery Associates          03/01/2092
+"Patient Details"
+Name: Tobiah Kerrigan-Osei   (Preferred: Toby)   Age: 16     MRN: 4402-1187
+DOB: 04/19/2075
+Guardian present: mother, Delphine Kerrigan
+Surgeon: Dr. Wendell Achterberg   Assistant: Luca Ferreira (HS volunteer, observing only!!)
+
+**PRE-OP DX:** Torus palatinus; bone loss from earlier tooth loss (02/17/2092 visit).
+**POST-OP DX:** same
+**PROCEDURE:** -&gt; excision of maxillary torus palatinus -&gt; grafting of periodontal bone defect -&gt; desensitising medicament applied -&gt; dental surgical procedure, post op care
+
+S: Pt came in w/ mom, who said hes "been nervouse all week". Pt was super chill tho, vibes good, listened to music on his earbuds until the numbing kicked in.
+O: BP normal for him, wt 57 kg. Local anesthesia only.
+Description: Flap raised over the midline palate. Torus removed w/ bur and chisel, smoothed. Defect grafted w/ particulate bone, membrane placed, closed w/ 4-0 sutures. EBL minimal. No complications.
+A: uncomplicated.
+P: Soft diet, ibuprofen NOT needed per surgeon, acetaminophen chew tabs. Return in 1 wk for denture fit (03/07/2092). Mom Delfine was given the written sheet and stepdad Rudy will drive.
+
+In conclusion, the patients journey through this surgery was smooth and the whole team did amazing, esp. Dr. Acterberg.
+
+Electronically signed by Wendell Achterberg, DDS on 03/01/2092 15:47
+Last edited by lferreira on 03/02/2092 08:14 from 192.168.1.40
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="15" end="50" text="Appalachian Oral Surgery Associates" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="60" end="70" text="03/01/2092" TYPE="DATE" comment="" />
+<NAME id="P2" start="95" end="115" text="Tobiah Kerrigan-Osei" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="130" end="134" text="Toby" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="143" end="145" text="16" TYPE="AGE" comment="" />
+<ID id="P5" start="155" end="164" text="4402-1187" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="170" end="180" text="04/19/2075" TYPE="DATE" comment="" />
+<NAME id="P7" start="207" end="224" text="Delphine Kerrigan" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="238" end="256" text="Wendell Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="270" end="283" text="Luca Ferreira" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="385" end="395" text="02/17/2092" TYPE="DATE" comment="" />
+<DATE id="P11" start="1137" end="1147" text="03/07/2092" TYPE="DATE" comment="" />
+<NAME id="P12" start="1154" end="1161" text="Delfine" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1202" end="1206" text="Rudy" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1329" end="1338" text="Acterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1366" end="1384" text="Wendell Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1393" end="1403" text="03/01/2092" TYPE="DATE" comment="" />
+<NAME id="P17" start="1425" end="1434" text="lferreira" TYPE="USERNAME" comment="" />
+<DATE id="P18" start="1438" end="1448" text="03/02/2092" TYPE="DATE" comment="" />
+<CONTACT id="P19" start="1460" end="1472" text="192.168.1.40" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

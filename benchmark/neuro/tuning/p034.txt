@@ -1,0 +1,20 @@
+NEUROSURGERY H&P — AWAKE CRANIOTOMY CANDIDATE
+{{FACILITY|Ravenscourt Brain Tumor Center}}
+{{NAME|Ludovica Ferraro-Quayle}}, 39 F, MRN {{MRN|RBT-90130066}}, {{DATE|05/06/2062}}
+H&P by {{NAME|Marcus Delahunt}}, NP; attending neurosurgeon Dr. {{NAME|Anja Wolstenholme}}
+
+Right-handed lawyer, presented with [[focal aware seizures]] — episodes of [[speech arrest]] and right face tingling for 10-30 s. Neuro exam normal; no [[aphasia]] between events.
+[[MRI brain]]: 4.2 cm non-enhancing left [[inferior frontal gyrus]] / [[pars opercularis]] mass with [[T2-FLAIR mismatch sign]] absent, calcifications on [[SWI]] and CT, cortical involvement — suggestive of [[oligodendroglioma]]. [[MR spectroscopy]]: elevated [[choline/NAA ratio]], no lactate peak. [[DSC perfusion]]: [[rCBV 2.1]] (borderline). [[fMRI]]: expressive language activation abuts the posterior tumour margin ([[Broca area]]). [[DTI]]: [[arcuate fasciculus]] displaced posteriorly-inferiorly; [[frontal aslant tract]] traverses the lesion.
+Karnofsky 90. Meds: [[levetiracetam 750 mg BID]].
+Plan: [[awake craniotomy]] with [[asleep-awake-asleep technique]], [[direct cortical stimulation]] and [[subcortical mapping]] for language; [[neuronavigation]].
+=====NOTE=====
+NEUROANESTHESIA NOTE — AWAKE CRANIOTOMY — {{DATE|05/20/2062}}
+{{NAME|FERRARO-QUAYLE, L.}} {{MRN|RBT-90130066}}
+Anesthesiologist Dr. {{NAME|Ezra Blomqvist}}; CRNA {{NAME|Tallulah Weatherby}}, CRNA
+Preop: [[ASA 2]], airway Mallampati 1. [[Scalp block]] with [[ropivacaine 0.5% and epinephrine]] — [[supraorbital]], [[supratrochlear]], [[zygomaticotemporal]], [[auriculotemporal]], [[greater and lesser occipital nerves]]. Asleep phase: [[propofol 50-100 mcg/kg/min]] and [[remifentanil 0.05-0.1 mcg/kg/min]], [[laryngeal mask airway (i-gel 4)]], spontaneous ventilation. [[Arterial line]] right radial. [[Dexmedetomidine 0.3 mcg/kg/h]] during the awake phase. LMA removed after dural opening; patient awake, cooperative within 12 min. One [[stimulation-induced focal seizure]] (right face twitching) at cortical stimulation 4 mA — terminated with [[ice-cold Ringer's solution]] on the cortex; no [[propofol bolus]] needed. [[Mannitol 0.5 g/kg]] given for brain relaxation. Re-asleep with LMA for closure. Total [[TIVA]] time 4 h 10 min. [[PONV]]: [[ondansetron]], [[dexamethasone 8 mg]].
+=====NOTE=====
+OPERATIVE NOTE — {{DATE|05/20/2062}} — {{NAME|L. Ferraro-Quayle}}
+Surgeon {{NAME|A. Wolstenholme}}; neuromonitoring {{NAME|Hugo Pemberton-Sall}}, CNIM; speech-language pathologist {{NAME|Rhiannon Adeyemi}}, CCC-SLP (intraoperative language testing); [[Brainlab]] navigation specialist {{NAME|Corbin Ashdown}} present.
+Left [[frontotemporal craniotomy]]. [[Ojemann bipolar stimulator]] 60 Hz, 1 ms biphasic, starting 2 mA, maximum 5 mA; [[afterdischarges]] monitored with a [[strip electrode electrocorticography]]. Positive language sites (speech arrest on [[counting]] and [[picture naming]]) identified 6 mm posterior to the tumour in the [[ventral premotor cortex]]; [[negative mapping]] over the tumour. Resection with [[CUSA]] and [[subpial dissection]], stopping at the [[frontal aslant tract]] when [[subcortical stimulation]] produced [[hesitation]] and [[initiation deficit]] at 3 mA. [[MEP]] stable. [[Intraoperative MRI]]: ~92% resection of [[T2-FLAIR abnormality]].
+Pathology: [[oligodendroglioma, IDH-mutant and 1p/19q-codeleted, CNS WHO grade 2]]. [[CDKN2A/B]] intact.
+Plan: [[supplementary motor area]]-type mutism risk counselled; RT + [[PCV (procarbazine, lomustine, vincristine)]] vs observation discussed; [[vorasidenib]] trial eligibility.

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX COVER SHEET
+Harbor Street Family Practice  -  Health Information Management
+Date: 03/14/2061                  Number of pages (including cover): 14
+
+TO:      Didsbury Park Surgery, Manchester, United Kingdom
+ATTN:    Dr. Oluwaseun Bakare, new patient registration
+FAX:     +44 161 555 0192         PHONE: +44 161 555 0190
+FROM:    Hannah Prewitt, RN, for Dr. Mateus Figueiredo
+FAX:     (978) 555-0144
+
+RE:      Ngozi Eze  (formerly Ngozi Halvorsen, Ngosi Halvorsen on some pages)
+DOB:     03/05/2010  &lt;- this is wrong in our system, correct is 05/03/2010 (day and month swapped, UK format?). Please accept the UK way.
+Release authorization no. HIM-REL-60-2291, signed 12/02/2060.
+
+MESSAGE: Dear Dr Bakare, as requested by the patient, we enclose the summary. Patient was last seen here 09/19/2060 for IUD removal; she missed the follow up on 10/24/2060 (no show) and did not answer 3 calls, so we are not sure of her new address. Letter to 7 Wickersham Close came back. We were told by sister Ifeoma that she now lives at Flat 4, 31 Harcourt Road, Manchester M14 6QT. Enclosed also: colonoscopy 02/15/2060 - one small polyp, pathology tubular adenoma low grade (repeat in 5 years), labs 02/08/2060, pregnancy and pre-eclampsia summary 2058. Allergies: not recorded - ask patient. Please do not send anything to her former husband Erik Halvorsen or to Corvid Analytics - patient request.
+
+Pre-eclampsia is the diagnosis, not "free-clampsia" as the old note have.
+
+CONFIDENTIALITY: documents are intended only for [NAME] the named recipient... If you are not the intended recipient call (978) 555-0140.
+Sent by user hprewitt from 10.31.8.20.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="16" end="45" text="Harbor Street Family Practice" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="86" end="96" text="03/14/2061" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="162" end="183" text="Didsbury Park Surgery" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P3" start="185" end="195" text="Manchester" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="197" end="211" text="United Kingdom" TYPE="COUNTRY" comment="" />
+<NAME id="P5" start="225" end="241" text="Oluwaseun Bakare" TYPE="DOCTOR" comment="" />
+<CONTACT id="P6" start="277" end="293" text="+44 161 555 0192" TYPE="FAX" comment="" />
+<CONTACT id="P7" start="309" end="325" text="+44 161 555 0190" TYPE="PHONE" comment="" />
+<NAME id="P8" start="335" end="349" text="Hannah Prewitt" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="363" end="380" text="Mateus Figueiredo" TYPE="DOCTOR" comment="" />
+<CONTACT id="P10" start="390" end="404" text="(978) 555-0144" TYPE="FAX" comment="" />
+<NAME id="P11" start="415" end="424" text="Ngozi Eze" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="436" end="451" text="Ngozi Halvorsen" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="453" end="468" text="Ngosi Halvorsen" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="493" end="503" text="03/05/2010" TYPE="DATE" comment="" />
+<DATE id="P15" start="548" end="558" text="05/03/2010" TYPE="DATE" comment="" />
+<ID id="P16" start="648" end="663" text="HIM-REL-60-2291" TYPE="IDNUM" comment="" />
+<DATE id="P17" start="672" end="682" text="12/02/2060" TYPE="DATE" comment="" />
+<DATE id="P18" start="790" end="800" text="09/19/2060" TYPE="DATE" comment="" />
+<DATE id="P19" start="846" end="856" text="10/24/2060" TYPE="DATE" comment="" />
+<LOCATION id="P20" start="944" end="962" text="7 Wickersham Close" TYPE="STREET" comment="" />
+<NAME id="P21" start="997" end="1003" text="Ifeoma" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="1026" end="1050" text="Flat 4, 31 Harcourt Road" TYPE="STREET" comment="" />
+<LOCATION id="P23" start="1052" end="1062" text="Manchester" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="1063" end="1070" text="M14 6QT" TYPE="ZIP" comment="" />
+<DATE id="P25" start="1099" end="1109" text="02/15/2060" TYPE="DATE" comment="" />
+<DATE id="P26" start="1191" end="1201" text="02/08/2060" TYPE="DATE" comment="" />
+<DATE id="P27" start="1239" end="1243" text="2058" TYPE="DATE" comment="" />
+<NAME id="P28" start="1334" end="1348" text="Erik Halvorsen" TYPE="PATIENT" comment="" />
+<LOCATION id="P29" start="1355" end="1371" text="Corvid Analytics" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P30" start="1589" end="1603" text="(978) 555-0140" TYPE="PHONE" comment="" />
+<NAME id="P31" start="1618" end="1626" text="hprewitt" TYPE="USERNAME" comment="" />
+<CONTACT id="P32" start="1632" end="1642" text="10.31.8.20" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

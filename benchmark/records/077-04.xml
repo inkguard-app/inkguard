@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE        Marsh, Lena   MRN 0618-2297
+Author: Adaeze Eze, RN        Date 10/19/2071      Time 4/16 02:15 (system, entered late)
+
+Dental visit today 10/19/2071 with Dr. Baek at Northshore Community Dental Clinic: consult and report done, plan for care, patient tolerate. Referral from 10/05/2071. Her sugars were check before (ok per dentist).
+
+--- earlier notes pasted below for reference ---
+PASTED from 12/22/2066 (Dr Camargo):
+Pt name: Lena Brandl Pt afraid ex-husband Conrad Brandl return. Call only +1 218 555 0127.  Daughter?? no. Sister Kosmina Dumitrescu in Romania, ph +40 264 555 019, email ilinca.brandl@example.net.
+
+&gt;&gt; AUDIT: user aeze opened chart 10/19/2071 from 10.44.2.9 reason "wrong patient?" 
+ Pt: DELACROIX, MARISOL 33F  0618-2279 for prenatal ed, interpreter Spanish --  not for this chart
+
+Plan (me): needs transport Thursday to the Duluth Pantry Co-op where she volunteer, social isolation was in 2069 - 2070 better now. Diabetes teaching: nurse call next month. Records: pt ask we send old Austria records to nobody, she said "it is closed", clinic in Graz Ambulatorium Liebenau-Sued fax +43 316 555 0148 never answer our request REQ-2071-0912 since September. I mark as closed.
+Pt prefers be called Lena; do NOT use Ilinca on mail or wristband. Name on the old paperwork "ILINCA DUMITRESCU-BRANDL" is her, pls merge.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="30" end="41" text="Marsh, Lena" TYPE="PATIENT" comment="" />
+<ID id="P1" start="48" end="57" text="0618-2297" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="66" end="76" text="Adaeze Eze" TYPE="DOCTOR" comment="" />
+<DATE id="P3" start="93" end="103" text="10/19/2071" TYPE="DATE" comment="" />
+<DATE id="P4" start="114" end="118" text="4/16" TYPE="DATE" comment="" />
+<DATE id="P5" start="168" end="178" text="10/19/2071" TYPE="DATE" comment="" />
+<NAME id="P6" start="184" end="192" text="Dr. Baek" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="196" end="230" text="Northshore Community Dental Clinic" TYPE="ORGANIZATION" comment="" />
+<DATE id="P8" start="304" end="314" text="10/05/2071" TYPE="DATE" comment="" />
+<DATE id="P9" start="425" end="435" text="12/22/2066" TYPE="DATE" comment="" />
+<NAME id="P10" start="459" end="470" text="Lena Brandl" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="492" end="505" text="Conrad Brandl" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="524" end="539" text="+1 218 555 0127" TYPE="PHONE" comment="" />
+<NAME id="P13" start="564" end="582" text="Kosmina Dumitrescu" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="586" end="593" text="Romania" TYPE="COUNTRY" comment="" />
+<CONTACT id="P15" start="598" end="613" text="+40 264 555 019" TYPE="PHONE" comment="" />
+<CONTACT id="P16" start="621" end="646" text="ilinca.brandl@example.net" TYPE="EMAIL" comment="" />
+<NAME id="P17" start="664" end="668" text="aeze" TYPE="USERNAME" comment="" />
+<DATE id="P18" start="682" end="692" text="10/19/2071" TYPE="DATE" comment="" />
+<CONTACT id="P19" start="698" end="707" text="10.44.2.9" TYPE="IPADDR" comment="" />
+<NAME id="P20" start="738" end="756" text="DELACROIX, MARISOL" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="757" end="759" text="33" TYPE="AGE" comment="" />
+<ID id="P22" start="762" end="771" text="0618-2279" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P23" start="860" end="868" text="Thursday" TYPE="DATE" comment="" />
+<LOCATION id="P24" start="876" end="895" text="Duluth Pantry Co-op" TYPE="ORGANIZATION" comment="" />
+<DATE id="P25" start="941" end="945" text="2069" TYPE="DATE" comment="" />
+<DATE id="P26" start="948" end="952" text="2070" TYPE="DATE" comment="" />
+<LOCATION id="P28" start="1097" end="1101" text="Graz" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="1102" end="1128" text="Ambulatorium Liebenau-Sued" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P30" start="1133" end="1149" text="+43 316 555 0148" TYPE="FAX" comment="" />
+<ID id="P31" start="1175" end="1188" text="REQ-2071-0912" TYPE="IDNUM" comment="" />
+<DATE id="P32" start="1195" end="1204" text="September" TYPE="DATE" comment="" />
+<NAME id="P33" start="1245" end="1249" text="Lena" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="1262" end="1268" text="Ilinca" TYPE="PATIENT" comment="" />
+<NAME id="P35" start="1318" end="1342" text="ILINCA DUMITRESCU-BRANDL" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

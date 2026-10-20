@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>SANDIA RIDGE CANCER CENTER - CONSULT NOTE (Hematology/Oncology)
+Date: 08/06/2091 (Monday)        Consultant: Clementine Achebe, MD     Fellow: Wren Kapoor
+Patient: TEAGUE, JAXXON M     DOB 04/22/2035     56 y/o M     MRN 067-52930
+Referred by: primary care (yearly visit 07/28/2091)
+
+REASON: Hgb trending down (16.4 06/29/2086 -&gt; 12.8 07/28/2091). Hx of anemia since 08/2072.
+
+HPI
+- 56yo man, RA dx 01/04/2082, naproxen 500 since then, methotrexate 2082 to 07/18/2086 (stopped)
+- Prediabetes, obesity (wt 93.1 kg, stable), htn and metabolic syndrome since 06/12/2083
+- Denies black stools, blood in stool. Colonoscopy 05/19/2090 - report not in our chart, requested
+- Tired "more than usual", legs heavy. Thinks it's the long haul routes.
+
+SOCIAL (long, family heavy)
+- Married to Justice Teague (age 53), 29 yrs. Her sister Dove Okoye lives nearby
+- Children: son King Teague (typed King, spelled Kxng, gamer tag kxng_t24), 24, lives out of state; daughter Blue Teague, 17, senior in high school. Nephew Mi4 Teague is emergency contact, (505) 555-0114
+- Rents 2207 Cottonwood Avenue, Unit 3B, Albuquerque; landlord Rich Gould (Gould Property Holdings) raising the rent, pt worried about eviction. A rich man, per pt.
+- Neighbor Fenwick Crane drives him when truck is down.
+- Works for Greenleaf Haulage (CDL driver, long-haul trucker). Before: Halo Freight Systems, left 06/2083
+- Past: misuse of drugs (2075 to 04/25/2082), in recovery; hx of criminal record (2057, probation case CR-2057-00412); intimate partner abuse (he was the victim) 07/31/2083 resolved 10/30/2083. Substance and safety screens neg 07/28/2091.
+
+ASSESSMENT
+Normocytic-ish anemia, possibly chronic disease vs occult GI loss on NSAID vs marrow. No B symptoms.
+PLAN
+- CBC with diff, retic, iron studies, B12, folate, SPEP, smear
+- Get colonoscopy report from outside
+- Stop naproxen, use acetaminophen; tell rheum
+- RTC 2 weeks. Pt agrees. Wife to be called at 505-555-0187
+
+Electronically signed Clementine Achebe, MD 08/06/2091 15:40
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="26" text="SANDIA RIDGE CANCER CENTER" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="70" end="80" text="08/06/2091" TYPE="DATE" comment="" />
+<DATE id="P2" start="82" end="88" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P3" start="109" end="126" text="Clementine Achebe" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="143" end="154" text="Wren Kapoor" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="164" end="180" text="TEAGUE, JAXXON M" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="189" end="199" text="04/22/2035" TYPE="DATE" comment="" />
+<AGE id="P7" start="204" end="206" text="56" TYPE="AGE" comment="" />
+<ID id="P8" start="221" end="230" text="067-52930" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="271" end="281" text="07/28/2091" TYPE="DATE" comment="" />
+<DATE id="P10" start="316" end="326" text="06/29/2086" TYPE="DATE" comment="" />
+<DATE id="P11" start="335" end="345" text="07/28/2091" TYPE="DATE" comment="" />
+<DATE id="P12" start="367" end="374" text="08/2072" TYPE="DATE" comment="" />
+<AGE id="P13" start="383" end="385" text="56" TYPE="AGE" comment="" />
+<DATE id="P14" start="399" end="409" text="01/04/2082" TYPE="DATE" comment="" />
+<DATE id="P15" start="449" end="453" text="2082" TYPE="DATE" comment="" />
+<DATE id="P16" start="457" end="467" text="07/18/2086" TYPE="DATE" comment="" />
+<DATE id="P17" start="556" end="566" text="06/12/2083" TYPE="DATE" comment="" />
+<DATE id="P18" start="618" end="628" text="05/19/2090" TYPE="DATE" comment="" />
+<NAME id="P19" start="781" end="795" text="Justice Teague" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="801" end="803" text="53" TYPE="AGE" comment="" />
+<NAME id="P21" start="825" end="835" text="Dove Okoye" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="865" end="876" text="King Teague" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="914" end="922" text="kxng_t24" TYPE="USERNAME" comment="" />
+<AGE id="P24" start="925" end="927" text="24" TYPE="AGE" comment="" />
+<NAME id="P25" start="958" end="969" text="Blue Teague" TYPE="PATIENT" comment="" />
+<AGE id="P26" start="971" end="973" text="17" TYPE="AGE" comment="" />
+<NAME id="P27" start="1005" end="1015" text="Mi4 Teague" TYPE="PATIENT" comment="" />
+<CONTACT id="P28" start="1038" end="1052" text="(505) 555-0114" TYPE="PHONE" comment="" />
+<LOCATION id="P29" start="1061" end="1092" text="2207 Cottonwood Avenue, Unit 3B" TYPE="STREET" comment="" />
+<LOCATION id="P30" start="1094" end="1105" text="Albuquerque" TYPE="CITY" comment="" />
+<NAME id="P31" start="1116" end="1126" text="Rich Gould" TYPE="PATIENT" comment="" />
+<LOCATION id="P32" start="1128" end="1151" text="Gould Property Holdings" TYPE="ORGANIZATION" comment="" />
+<NAME id="P33" start="1229" end="1242" text="Fenwick Crane" TYPE="PATIENT" comment="" />
+<LOCATION id="P34" start="1286" end="1303" text="Greenleaf Haulage" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P35" start="1317" end="1334" text="long-haul trucker" TYPE="PROFESSION" comment="" />
+<LOCATION id="P36" start="1345" end="1365" text="Halo Freight Systems" TYPE="ORGANIZATION" comment="" />
+<DATE id="P37" start="1372" end="1379" text="06/2083" TYPE="DATE" comment="" />
+<DATE id="P38" start="1405" end="1409" text="2075" TYPE="DATE" comment="" />
+<DATE id="P39" start="1413" end="1423" text="04/25/2082" TYPE="DATE" comment="" />
+<DATE id="P40" start="1462" end="1466" text="2057" TYPE="DATE" comment="" />
+<ID id="P41" start="1483" end="1496" text="CR-2057-00412" TYPE="IDNUM" comment="" />
+<DATE id="P42" start="1542" end="1552" text="07/31/2083" TYPE="DATE" comment="" />
+<DATE id="P43" start="1562" end="1572" text="10/30/2083" TYPE="DATE" comment="" />
+<DATE id="P44" start="1607" end="1617" text="07/28/2091" TYPE="DATE" comment="" />
+<CONTACT id="P45" start="1932" end="1944" text="505-555-0187" TYPE="PHONE" comment="" />
+<NAME id="P46" start="1968" end="1985" text="Clementine Achebe" TYPE="DOCTOR" comment="" />
+<DATE id="P47" start="1990" end="2000" text="08/06/2091" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

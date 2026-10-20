@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROCEDURE NOTE - OFFICE  (template OP_NOTE_MINOR v3)
+Patient: Brenna Kowalczyk-Aldous   DOB: 09/22/2040   MRN: 4471-0829
+Date of procedure: 01/06/2091
+Dept: Orthopedic Surgery   Location: Riverbend Family Medicine, Procedure Rm 2
+Surgeon: Dr. Pilar Esquivel   Assist: ***   Anesthesia: none
+
+PREOP DX: pt request IUD removal, wants to conceive. Mirena placed 08/01/2090.
+PROCEDURE: removal of intrauterine contraceptive device (Mirenna LNG-IUS)
+
+50 yo F, hx multiple early losses (2077, 2082, 2089), prediabetes, BMI 28. Preconception counselling done prior to proc, written consent signed + scanned. Timeout done w/ Colleen Abernathy RN.
+Lithotomy. Speculum placed, cx visualised, strings seen at os. Grasped w/ ring forcep, gentle traction, device came out intack, arms ok. Minimal spotting. No cx lac. Pt tolerated procdure well. EBL &lt;5 ml.
+DEVICE: Mirena LOT/serial TU0099-4471 (sticker pasted in chart)
+
+PLAN: start folic acid, no NSAIDs prn, urine hCG home test in 4 wks or sooner if late. rtc 3 wks. Return precautions given. Pt asks that nobody call her ex-husband Dale Aldous - phone is (937) 555-0163 NOT his.
+
+Electronically signed by Pilar Esquivel, MD on 01/06/2091 11:42
+Last edited by cabernathy on 1/6/2091 13:05 from 10.44.12.208
+KOWALCZYK-ALDOUS, BRENNA  MRN 4471-0829  DOB 09/22/2040  Page 2 of 2
+</TEXT>
+<TAGS>
+<NAME id="P0" start="62" end="85" text="Brenna Kowalczyk-Aldous" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="93" end="103" text="09/22/2040" TYPE="DATE" comment="" />
+<ID id="P2" start="111" end="120" text="4471-0829" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="140" end="150" text="01/06/2091" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="157" end="175" text="Orthopedic Surgery" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P5" start="188" end="213" text="Riverbend Family Medicine" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P6" start="215" end="229" text="Procedure Rm 2" TYPE="ROOM" comment="" />
+<NAME id="P7" start="243" end="257" text="Pilar Esquivel" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="359" end="369" text="08/01/2090" TYPE="DATE" comment="" />
+<AGE id="P9" start="446" end="448" text="50" TYPE="AGE" comment="" />
+<NAME id="P10" start="617" end="634" text="Colleen Abernathy" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="870" end="881" text="TU0099-4471" TYPE="DEVICE" comment="" />
+<NAME id="P12" start="1073" end="1084" text="Dale Aldous" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1146" end="1160" text="Pilar Esquivel" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1168" end="1178" text="01/06/2091" TYPE="DATE" comment="" />
+<NAME id="P15" start="1200" end="1210" text="cabernathy" TYPE="USERNAME" comment="" />
+<DATE id="P16" start="1214" end="1222" text="1/6/2091" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="1234" end="1246" text="10.44.12.208" TYPE="IPADDR" comment="" />
+<NAME id="P18" start="1247" end="1271" text="KOWALCZYK-ALDOUS, BRENNA" TYPE="PATIENT" comment="" />
+<ID id="P19" start="1277" end="1286" text="4471-0829" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P20" start="1292" end="1302" text="09/22/2040" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

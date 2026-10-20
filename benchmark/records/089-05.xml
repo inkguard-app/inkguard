@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>From: juniper frost &lt;j.frost.vt@example.org&gt;
+Sent: 07/30/2086 6:48 AM
+Subject: Re: visit summary
+
+hi, thank you for last week (Monday), my BP was fine and the nurse said I'm doing great. 2 things: 1) the summary STILL says Faith Bell at the top and also says I have "ibu" and Yaz and Natazia, i dont take any of those, dont even remember Yaz (that was 5 yrs ago?). 2) my DOB. it printed 11/14/1933 which would make me 152 haha. its 11/04/2033. 
+
+My friend Hope Lasalle says i should go see a neuro again, hope it is nothing. I have not had any head issues since the ice thing in December. I can't make the 15th thing -- I'm moving to Burlington next month, address after Sept 1: 9 Lakeshore Terrace, Burlington, VT 05401. Please DONT send anything to my old place or to walter. thanks juniper
+Phone (802) 555-0152 until then
+</TEXT>
+<TAGS>
+<CONTACT id="P0" start="21" end="43" text="j.frost.vt@example.org" TYPE="EMAIL" comment="" />
+<DATE id="P1" start="51" end="61" text="07/30/2086" TYPE="DATE" comment="" />
+<DATE id="P2" start="127" end="133" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P3" start="223" end="233" text="Faith Bell" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="387" end="397" text="11/14/1933" TYPE="DATE" comment="" />
+<AGE id="P5" start="418" end="421" text="152" TYPE="AGE" comment="" />
+<DATE id="P6" start="432" end="442" text="11/04/2033" TYPE="DATE" comment="" />
+<NAME id="P7" start="456" end="468" text="Hope Lasalle" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="579" end="587" text="December" TYPE="DATE" comment="" />
+<DATE id="P9" start="606" end="610" text="15th" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="634" end="644" text="Burlington" TYPE="CITY" comment="" />
+<DATE id="P11" start="671" end="677" text="Sept 1" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="679" end="698" text="9 Lakeshore Terrace" TYPE="STREET" comment="" />
+<LOCATION id="P13" start="700" end="710" text="Burlington" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="712" end="714" text="VT" TYPE="STATE" comment="" />
+<LOCATION id="P15" start="715" end="720" text="05401" TYPE="ZIP" comment="" />
+<NAME id="P16" start="770" end="776" text="walter" TYPE="PATIENT" comment="" />
+<CONTACT id="P17" start="799" end="813" text="(802) 555-0152" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

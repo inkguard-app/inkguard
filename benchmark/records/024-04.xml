@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER VISIT SUMMARY                                     Willamette Crest Medical Center Endoscopy Unit
+Name: Dolores Ann Case     Date of visit: 05/09/2079     Provider: Dr. Samantha Lund
+
+Thank you for coming in today, Mrs. Case. Today you had a colonoscopy, which is a camera examination of the large bowel, because a polyp was found at your last screening on February 10th, last year. The doctor removed that polyp in a procedure that took about thirty minutse, you were comfortable, and the result was good: the area looked healthy and no other polyps were seen. The polyp was sent to the laboratory and we will mail you the report, usually within ten days.
+
+What to expect. You may feel some gas or bloating for several hours. A small amount of blood in the stool in the first day is normal. Please do not drvie until the next morning. You can restqrt your normal diet, but avoid alcohol today. Continue your heart medicines as before, including clopidogrel, unless told otherwise.
+
+Call us or go to the emergency department if you have severe belly pain, fever above one hundred and one, heavy bleeding, or black stools. Our nurse line is 541-555-0140, extension 3.
+
+Your next colonoscopy will probably be due in three to five years, depending on the laboratory report. Please keep your appointmnet with Dr. Park in about one month.
+
+Instructions reviewed with Mrs. Case and her husband.  Dictated but not read.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="56" end="87" text="Willamette Crest Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="109" end="125" text="Dolores Ann Case" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="145" end="155" text="05/09/2079" TYPE="DATE" comment="" />
+<NAME id="P3" start="174" end="187" text="Samantha Lund" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="225" end="229" text="Case" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="362" end="375" text="February 10th" TYPE="DATE" comment="" />
+<CONTACT id="P7" start="1145" end="1157" text="541-555-0140" TYPE="PHONE" comment="" />
+<NAME id="P8" start="1314" end="1318" text="Park" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1372" end="1376" text="Case" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

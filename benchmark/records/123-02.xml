@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|enc_date|enc_type|author|text
+90412|10/14/2080|MED REC / post-discharge visit|x183474|
+Patient: FROST, ROYAL A   MRN: FR-0080-3371   DOB: 04/09/1998
+Accompanied by: Hope Frost (wife) and son Seven
+
+MEDICATION RECONCILIATION - post inpatient (admit 09/29/2080)
+Reconciled by: x183474 (pharm tech, goes by "x183474" on the badge - chosen name, see HR note)
+Supervising RPh: Sky Rich, PharmD
+
+CONTINUE
+- carvedilol 25 mg PO BID
+- furosemide 40 mg PO daily
+- lisinopril 20 mg PO daily
+- donepezil 23 mg PO nightly
+- nitroglycerin 0.4 mg SL spray prn chest pain
+- hydrocortisone 1% cream prn (old, wife says he stopped itching)
+
+STOP / REMOVED
+- metoprolol succinate 100 mg - DUPLICATE beta blocker w/ carvedilol, d/c'd. Wife has thrown the bottle out. confirmed
+- naproxen - off since 08/2077, still in the pill box!! removed. NSAID + HF = no
+- tacrine - old, stopped 2077
+
+NOTES
+- Rich in sodium diet per wife (soups). Counselled
+- Pillbox filled by Hope on Sundays
+- Pharmacy: Larkspur Corner Drug, fax (570) 555-0188, rx # RX-4470-2291
+- Wife asked to say "Mr. Frost" not "Royal" at the counter, he startles
+- Cardiology f/u with Dr. Kxng Adeyemi next week; will bring list
+
+Frost was calm today, ate a cookie. No falls since discharge.
+-x183474
+</TEXT>
+<TAGS>
+<DATE id="P0" start="43" end="53" text="10/14/2080" TYPE="DATE" comment="" />
+<NAME id="P1" start="85" end="92" text="x183474" TYPE="USERNAME" comment="" />
+<NAME id="P2" start="103" end="117" text="FROST, ROYAL A" TYPE="PATIENT" comment="" />
+<ID id="P3" start="125" end="137" text="FR-0080-3371" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="145" end="155" text="04/09/1998" TYPE="DATE" comment="" />
+<NAME id="P5" start="172" end="182" text="Hope Frost" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="198" end="203" text="Seven" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="255" end="265" text="09/29/2080" TYPE="DATE" comment="" />
+<NAME id="P8" start="282" end="289" text="x183474" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="379" end="387" text="Sky Rich" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="788" end="795" text="08/2077" TYPE="DATE" comment="" />
+<DATE id="P11" start="871" end="875" text="2077" TYPE="DATE" comment="" />
+<NAME id="P12" start="954" end="958" text="Hope" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="982" end="1002" text="Larkspur Corner Drug" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P14" start="1008" end="1022" text="(570) 555-0188" TYPE="FAX" comment="" />
+<ID id="P15" start="1029" end="1041" text="RX-4470-2291" TYPE="IDNUM" comment="" />
+<NAME id="P16" start="1067" end="1072" text="Frost" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1079" end="1084" text="Royal" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1140" end="1152" text="Kxng Adeyemi" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1181" end="1186" text="Frost" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="1244" end="1251" text="x183474" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

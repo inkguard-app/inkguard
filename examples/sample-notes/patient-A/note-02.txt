@@ -1,0 +1,22 @@
+AFTER VISIT SUMMARY                                  Sound Crossing Endocrine Associates
+Patient: Tadeusz Wieczorek     Date of visit: April 18, 2081
+Provider: Dr. Siobhan Achterberg-Moyo     Dept: Endocrinology
+MyChart-style portal username: twieczorek.tac
+
+<b>Dear {FIRST_NAME},</b>  &nbsp; thank you for coming in today. Here is what we discussed.
+
+S (what you told us): You feel well. Pain is 0 out of 10 today (it was two years ago 2/10). You were let go from your job on April 17 and are feeling stressed but sleeping ok. You said things at home calmer now.
+O (what we found): Weight 101.0 kg (down from 109.1 kg in 2079). BMI 28.2. BP 121/77. Total cholesterol 191.7 and LDL 104.7, higher than 2078 (129.6 and 46.2). Anxiety score 1 (very low).
+A (what we think): Weight loss is good. Cholesterol went up a bit, we will watch it. No sign of thyroid trouble, no Graves' or Hashimoto's disease.
+P (what happens next):
+ [x] Repeat cholesterol in 3 months
+ [ ] Start medicine - not needed now
+ [x] Dental visit - we referred you to Dr. Ruth Salgado at Harrow Point Dental
+ [x] Keep walking 30 min/day. Brand name drinks like Gatorade are not needed.
+Next visit: July 2081 or sooner. Questions? Call (253) 555-0170 and ask for the nurse, or page the on-call doctor after hours.
+
+Mailing address on file: 3907 Orchard Quay Drive, Unit 12, Tacoma, WA 98402
+Emergency contact: hypertension
+Phone: (253) 555-0191   Email: t.wieczorek.tac@fogmail.example
+Age: 0   DOB: 01/01/1900  (default - pls verify)  
+Printed by rtamsin 04/18/2081 15:31

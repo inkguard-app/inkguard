@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER VISIT SUMMARY
+Westbrook Regional Heart Hospital - Cardiology Clinic
+Patient: Desmond Marsh      MRN: MH-203391      Visit date: Monday, July 31, 2062
+Provider seen: Dr. Sung-min Ito  &lt;-- wrong provider picked from the list, you saw Dr. Lane
+Dear @PATIENT_FIRST@, thank you for coming in today.
+
+WHY YOU CAME
+You came to go over the results of your heart pictures (angiogram) and abnormal findings on diagnostic imaging of the heart and coronary circulation.
+
+WHAT WE FOUND
+Dr. Lane showed you that three of the blood vessels that feed your heart are narrowed. The vessel on the front of the heart is the worst. Because of this and your heart attack in June 2061, Dr. Lane recommends a bypass operation, also called a cabbage (C A B G). Dr. Naomi Page the heart surgeon agreed. Your surgery is set for Monday 8/14 at Westbrook Regional Heart Hospital. Your wife Corinne can stay in the room.
+
+YOUR RESULTS TODAY
+- Cholesterol (total) 118.7 and LDL 35.3 - very good, the pills are working
+- A1c 5.6 - normal, no diabetes
+- Hemoglobin 13.6 and white count 7.6 - normal
+- Kidney tests: creatinine 2.9, eGFR 11.3 - these are LOW and we do not know why. A kidney doctor will see you before surgery. Drink water, do not take ibuprofen, naproxen (Aleve) or any pain pills like that.
+- Weight 110.7 kg, BMI 37.7
+- Blood pressure 135/81
+
+YOUR MEDICINES (please bring the bottles)
+- Plavix (clopidogrel) 75 mg - once a day. STOP 5 days before surgery, that is 8/9
+- Zocor (simvastatin) 20 mg - at night
+- Toprol XL (metoprolol succinate) 100 mg - morning
+- Aspirin 81 mg - keep taking
+- Lisinopril 40 mg - HOLD until the kidney doctor says
+- Nitrolingual spray - 1 spray under tongue if chest pain, may repeat x2 five minutes apart, call 911
+- Do NOT take Effient or Brilinta, they are on an old list
+- Atorvastatin 80 - stop, you are on Zocor
+
+APPOINTMENTS
+- 8/03 2:30 PM surgeon visit, Dr. Page, 4th floor
+- 8/10 pre-admission testing 8:00 AM (nothing to eat after midnight 8/13)
+- Kidney doctor: we will call you, number we have is 937-555-0118. If this is wrong call (937) 555-0166 ext 21, or pager 937-555-0170.
+- Cardiac rehab to follow after surgery
+
+CALL US OR GO TO THE ER IF
+- chest pain over 15 minutes (not 50 - sorry, speech typing) 
+- face droop, weak arm, trouble speaking - call 911
+
+YOUR PORTAL
+Log on to https://portal.westbrookheart.example/login with your username dmarsh1989. Your wife can be added as proxy.
+
+Reviewed with patient by Dana Tran RN 07/31/2062 11:20. Printed copy given. Patient signature: ___________  Date: ____
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="53" text="Westbrook Regional Heart Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="56" end="73" text="Cardiology Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="83" end="96" text="Desmond Marsh" TYPE="PATIENT" comment="" />
+<ID id="P3" start="107" end="116" text="MH-203391" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="134" end="155" text="Monday, July 31, 2062" TYPE="DATE" comment="" />
+<NAME id="P5" start="175" end="187" text="Sung-min Ito" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="242" end="246" text="Lane" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="483" end="487" text="Lane" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="658" end="667" text="June 2061" TYPE="DATE" comment="" />
+<NAME id="P9" start="673" end="677" text="Lane" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="746" end="756" text="Naomi Page" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="807" end="818" text="Monday 8/14" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="822" end="855" text="Westbrook Regional Heart Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P13" start="867" end="874" text="Corinne" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="1455" end="1458" text="8/9" TYPE="DATE" comment="" />
+<DATE id="P15" start="1855" end="1859" text="8/03" TYPE="DATE" comment="" />
+<NAME id="P16" start="1887" end="1891" text="Page" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1905" end="1909" text="8/10" TYPE="DATE" comment="" />
+<DATE id="P18" start="1971" end="1975" text="8/13" TYPE="DATE" comment="" />
+<CONTACT id="P19" start="2030" end="2042" text="937-555-0118" TYPE="PHONE" comment="" />
+<CONTACT id="P20" start="2066" end="2080" text="(937) 555-0166" TYPE="PHONE" comment="" />
+<CONTACT id="P21" start="2098" end="2110" text="937-555-0170" TYPE="PHONE" comment="" />
+<CONTACT id="P22" start="2317" end="2360" text="https://portal.westbrookheart.example/login" TYPE="URL" comment="" />
+<NAME id="P23" start="2380" end="2390" text="dmarsh1989" TYPE="USERNAME" comment="" />
+<NAME id="P24" start="2451" end="2460" text="Dana Tran" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="2464" end="2474" text="07/31/2062" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Maumee Bend Health Partners                    Encounter date: 01/14/2083   Time: 09:20
+Patient: Wilhelmina Santangelo   DOB: 06/21/2038   MRN: 02-558314
+Caller: patient, calling from (419) 555-0177    Taken by: Rafael Quist, MA     Routed to: Dr. Bellweather
+
+This is dictated by the doctor after a short phone call with the patient and is dictated but not read, so please forgive the transcription.
+
+Reason for call: the patient, who is 44, had a gingivectomy on 01/13/2083 at Glass City Dental Collective with Dr. Dlamini, and called the morning after because the gum is still bleeding a little, with swelling. She has been rinsing as told. She is not taking any blood thinner. Her last ibuprofen was in 2081; she now takes acetaminophen.
+
+Her weight at the 12/30/2082 wellness visit was 77.0 kg, BMI 27.4, blood pressure 137/82, and she was referred for the dental work at that visit. The bronchitis from 12/02/2082 has cleared.
+
+She wanted me to know that she cannot get a ride to the follow up as Mr. Fenwick has moved to Cleveland to live with his daughter Constance. She has a ride voucher but cannot find the number. I said Ms. Achterberg would call. Her mother Rosalind is back in the picture and may drive her, but should not be given test results.
+
+Advice: gauze pressure 15 minutes, cold pack, soft diet, head up when sleeping. Go to Toledo Riverside Emergency Department if bleeding does not stop or if fever. Callback number confirmed as (419) 555-0117 -- no wait, (419) 555-0177, the first was a typo of the nurse.
+Wilhemina also said her son Ezekial has a fever, advised pediatric clinic.
+
+Landlord update: she says Mr. Duarte Whitfield has now given notice, new address pending, she will call back. Mail to 1409 Marlowe Avenue, Apt 3C until then.
+
+Message left on voicemail 01/14/2083 11:05 by Pauline Achterberg: "Hi Billie, it is Pauline from Maumee Bend..."
+Electronically signed by Corazon Bellweather 01/15/2083 07:50.  Dictated but not read.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="47" text="Maumee Bend Health Partners" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="83" end="93" text="01/14/2083" TYPE="DATE" comment="" />
+<NAME id="P2" start="117" end="138" text="Wilhelmina Santangelo" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="146" end="156" text="06/21/2038" TYPE="DATE" comment="" />
+<ID id="P4" start="164" end="173" text="02-558314" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P5" start="204" end="218" text="(419) 555-0177" TYPE="PHONE" comment="" />
+<NAME id="P6" start="232" end="244" text="Rafael Quist" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="268" end="279" text="Bellweather" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="459" end="461" text="44" TYPE="AGE" comment="" />
+<DATE id="P9" start="485" end="495" text="01/13/2083" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="499" end="527" text="Glass City Dental Collective" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="537" end="544" text="Dlamini" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="727" end="731" text="2081" TYPE="DATE" comment="" />
+<DATE id="P13" start="781" end="791" text="12/30/2082" TYPE="DATE" comment="" />
+<DATE id="P14" start="929" end="939" text="12/02/2082" TYPE="DATE" comment="" />
+<NAME id="P15" start="1027" end="1034" text="Fenwick" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="1048" end="1057" text="Cleveland" TYPE="CITY" comment="" />
+<NAME id="P17" start="1084" end="1093" text="Constance" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1157" end="1167" text="Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1191" end="1199" text="Rosalind" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="1367" end="1404" text="Toledo Riverside Emergency Department" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P21" start="1473" end="1487" text="(419) 555-0117" TYPE="PHONE" comment="" />
+<CONTACT id="P22" start="1500" end="1514" text="(419) 555-0177" TYPE="PHONE" comment="" />
+<NAME id="P23" start="1551" end="1560" text="Wilhemina" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1579" end="1586" text="Ezekial" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1657" end="1673" text="Duarte Whitfield" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="1745" end="1772" text="1409 Marlowe Avenue, Apt 3C" TYPE="STREET" comment="" />
+<DATE id="P27" start="1812" end="1822" text="01/14/2083" TYPE="DATE" comment="" />
+<NAME id="P28" start="1832" end="1850" text="Pauline Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1856" end="1862" text="Billie" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1870" end="1877" text="Pauline" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="1924" end="1943" text="Corazon Bellweather" TYPE="DOCTOR" comment="" />
+<DATE id="P32" start="1944" end="1954" text="01/15/2083" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

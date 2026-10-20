@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP)         Gaspee Pediatric Associates        08/17/2072
+Pt Saoirse M Kilcullen   MRN KC-0066-2150   12 yo F   Well child visit
+
+S: Here with mom Fionnuala. New paragraph. No complaints period. Summer soccer is going great comma coach Mr. Ferreira says shes the fastest on the squad period. Sleeping nine hours period. Eating a normal diet comma allergic to tree nuts but no recent exposure period. Starts middle school in September at Ashgrove Middle School comma a little nervous period. Her father Barnaby lives across town comma she goes there on weekends period.
+
+HEADSS and CRAFFT screening done alone with patient: negative for substance use period. PHQ nine score normal comma she is happy period
+
+O: Wt 47.6 kg, BMI 19.7, BP 127/74, HR 76. Pain 2 out of 10 left knee comma after soccer comma resolves with rest period. Exam new paragraph HEENT clear, heart regular, lungs clear, abdomen soft, tanner two, spine straight period
+
+A: Healthy twelve year old girl period Mild left knee overuse pain period
+
+P: Vaccines due period tetanus comma HPV comma meningococcal comma scheduled for 09/07/2072 and the second 09/28/2072 period. Medication reconciliation done: fexofenadine daily comma epinephrine auto injector twice stocked at school and at home period Anticipatory guidance given on screen time comma helmets comma sun safety period. Dental recall due, last cleaning 2069 period. Follow up 08/2073 or sooner period.
+
+Parking lot incident note from front desk: mom's car, plate RI 4KT-229, was hit while parked, driver left a note with number 401-555-0178. 
+
+Dictated by Dr. Okonkwo-Reyes. Electronically signed 08/17/2072 17:20. 
+Last edited by aokonkwo from 10.44.12.9. Portal: https://portal.gaspeepeds.example/p/kilcullen
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="29" end="56" text="Gaspee Pediatric Associates" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="64" end="74" text="08/17/2072" TYPE="DATE" comment="" />
+<NAME id="P2" start="78" end="97" text="Saoirse M Kilcullen" TYPE="PATIENT" comment="" />
+<ID id="P3" start="104" end="116" text="KC-0066-2150" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P4" start="119" end="121" text="12" TYPE="AGE" comment="" />
+<NAME id="P5" start="164" end="173" text="Fionnuala" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="257" end="265" text="Ferreira" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="441" end="450" text="September" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="454" end="476" text="Ashgrove Middle School" TYPE="ORGANIZATION" comment="" />
+<NAME id="P9" start="519" end="526" text="Barnaby" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="966" end="972" text="twelve" TYPE="AGE" comment="" />
+<DATE id="P11" start="1111" end="1121" text="09/07/2072" TYPE="DATE" comment="" />
+<DATE id="P12" start="1137" end="1147" text="09/28/2072" TYPE="DATE" comment="" />
+<DATE id="P13" start="1397" end="1401" text="2069" TYPE="DATE" comment="" />
+<DATE id="P14" start="1420" end="1427" text="08/2073" TYPE="DATE" comment="" />
+<ID id="P15" start="1507" end="1517" text="RI 4KT-229" TYPE="VEHICLE" comment="" />
+<CONTACT id="P16" start="1572" end="1584" text="401-555-0178" TYPE="PHONE" comment="" />
+<NAME id="P17" start="1604" end="1617" text="Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1641" end="1651" text="08/17/2072" TYPE="DATE" comment="" />
+<NAME id="P19" start="1675" end="1683" text="aokonkwo" TYPE="USERNAME" comment="" />
+<CONTACT id="P20" start="1689" end="1699" text="10.44.12.9" TYPE="IPADDR" comment="" />
+<CONTACT id="P21" start="1709" end="1754" text="https://portal.gaspeepeds.example/p/kilcullen" TYPE="URL" comment="" />
+</TAGS>
+</deIdi2b2>

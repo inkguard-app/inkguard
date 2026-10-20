@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL MESSAGE
+From: Marisol Paige &lt;marisolpage77@inbox-mail.net&gt;
+To: Dr. Okafor's office
+Sent: Tuesday, August 12, 2059 9:41 PM
+Subject: new teeth!!
+
+hi dr okafor, its marisol. the dentures from sunrise were put in on the 9th (denture lab label on the box said DL-59-2214 MP 8/14/16, thats my initials and my birthday lol). they hurt on the left side and i cant eat my husband Gideon's tamales :( can u call me thurs or fri, i work nothing now so any time. my number is (661) 555-0194 but i changed it last week so dont use the old one (661) 555-0117 thats my sisters.
+
+also the pharmacy keeps calling me Mrs Rudd. can u fix that. i have not been a Rudd since 2058 i am Mrs Page now, Page like a page in a book.
+
+security question answer you asked me to put so u know its me: first pet = Biscuit Rudd (yes the dog kept the name, my ex's, dont ask) -- Biscuit Rudd
+
+thanks!!
+--
+Marisol Page (formerly Marisol Rudd)
+77 Larkspur Court Unit 4, Bakersfield, CA
+Sent from my iPhone  &lt;marisol.rudd2051@oldmail-mx.net&gt;
+</TEXT>
+<TAGS>
+<NAME id="P0" start="29" end="42" text="Marisol Paige" TYPE="PATIENT" comment="" />
+<CONTACT id="P1" start="44" end="72" text="marisolpage77@inbox-mail.net" TYPE="EMAIL" comment="" />
+<NAME id="P2" start="82" end="88" text="Okafor" TYPE="DOCTOR" comment="" />
+<DATE id="P3" start="104" end="128" text="Tuesday, August 12, 2059" TYPE="DATE" comment="" />
+<NAME id="P4" start="165" end="171" text="okafor" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="177" end="184" text="marisol" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="231" end="234" text="9th" TYPE="DATE" comment="" />
+<ID id="P7" start="270" end="280" text="DL-59-2214" TYPE="IDNUM" comment="" />
+<DATE id="P8" start="284" end="291" text="8/14/16" TYPE="DATE" comment="" />
+<NAME id="P9" start="386" end="392" text="Gideon" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="479" end="493" text="(661) 555-0194" TYPE="PHONE" comment="" />
+<CONTACT id="P11" start="545" end="559" text="(661) 555-0117" TYPE="PHONE" comment="" />
+<NAME id="P12" start="618" end="622" text="Rudd" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="658" end="662" text="Rudd" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="669" end="673" text="2058" TYPE="DATE" comment="" />
+<NAME id="P15" start="683" end="687" text="Page" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="693" end="697" text="Page" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="860" end="872" text="Biscuit Rudd" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="886" end="898" text="Marisol Page" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="909" end="921" text="Marisol Rudd" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="923" end="947" text="77 Larkspur Court Unit 4" TYPE="STREET" comment="" />
+<LOCATION id="P21" start="949" end="960" text="Bakersfield" TYPE="CITY" comment="" />
+<LOCATION id="P22" start="962" end="964" text="CA" TYPE="STATE" comment="" />
+<CONTACT id="P23" start="987" end="1018" text="marisol.rudd2051@oldmail-mx.net" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

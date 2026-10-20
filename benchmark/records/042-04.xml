@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY (SOAP)
+Patient: ___________     DOB: **/**/****     MRN: E-0093817
+EARLY, HUNTER
+Admit: 09/01/2079    Discharge: 09/03/2079    Unit: Crisis Stabilization Unit
+Attending: Dr. Ayesha Karimi
+
+S: 57-year-old man, voluntary admission after hearing gunfire near his apartment 08/31 and developing insomnia, hypervigilance and panic. Was seen same day at his annual physical where "reports of violence in the environment" was documented. Prior psychiatric hx: adjustment disorder seen by me 08/26/2078; GAD-7 3 then. No prior admissions, no suicide attempts. Denies SI/HI throughout. Alcohol light, no drug use. Mr. Early is married, lives in a third-floor apartment, previously worked as a forklift operator, now not working. He has been staying "early to bed" but not sleeping. Collateral from wife Margie: "he's not himself since the shooting."
+
+O: Vitals stable. BP 115/98 on admit, 138/90 on 9/2, 121/84 at discharge. Wt 78.1 kg. Fasting glucose 121.5. MSE at discharge: calm, linear, mood "better", affect brighter. No psychosis. Insight and judgment good. Slept 6 hrs night of 9/2. Attended 4 groups. No PRNs, no restraint or seclusion.
+
+A: Acute stress reaction to community violence, resolving; adjustment disorder; social isolation. Hypertension, prediabetes/T2DM and metabolic syndrome per PCP. Low acute risk of harm to self or others.
+
+P:
+- Discharge home with wife 09/03/2079 11:00.
+- Follow-up Okonkwo LCSW within 7 days, psychiatry (me) in 2 wks. Housing authority letter re: safety requested.
+- Meds: no psychotropics started. Continue PCP meds (no changes).
+- Sleep hygiene. Crisis line given: 988.
+- Letter to PCP: cc Dr. Lindqvist, fax (570) 555-0150.
+
+Dictated by Dr. Karimi; Ayesha Karimi MD
+Electronically signed 09/03/2079 12:05
+Note routed to: Teodor Lindqvist; R. Okonkwo LCSW
+</TEXT>
+<TAGS>
+<ID id="P0" start="75" end="84" text="E-0093817" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="85" end="98" text="EARLY, HUNTER" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="106" end="116" text="09/01/2079" TYPE="DATE" comment="" />
+<DATE id="P3" start="131" end="141" text="09/03/2079" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="151" end="176" text="Crisis Stabilization Unit" TYPE="DEPARTMENT" comment="" />
+<NAME id="P5" start="192" end="205" text="Ayesha Karimi" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="210" end="212" text="57" TYPE="AGE" comment="" />
+<DATE id="P7" start="288" end="293" text="08/31" TYPE="DATE" comment="" />
+<DATE id="P8" start="502" end="512" text="08/26/2078" TYPE="DATE" comment="" />
+<NAME id="P9" start="627" end="632" text="Early" TYPE="PATIENT" comment="" />
+<PROFESSION id="P10" start="702" end="719" text="forklift operator" TYPE="PROFESSION" comment="" />
+<NAME id="P11" start="812" end="818" text="Margie" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="908" end="911" text="9/2" TYPE="DATE" comment="" />
+<DATE id="P13" start="1095" end="1098" text="9/2" TYPE="DATE" comment="" />
+<DATE id="P14" start="1390" end="1400" text="09/03/2079" TYPE="DATE" comment="" />
+<NAME id="P15" start="1420" end="1427" text="Okonkwo" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1652" end="1661" text="Lindqvist" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="1667" end="1681" text="(570) 555-0150" TYPE="FAX" comment="" />
+<NAME id="P18" start="1700" end="1706" text="Karimi" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1708" end="1721" text="Ayesha Karimi" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1747" end="1757" text="09/03/2079" TYPE="DATE" comment="" />
+<NAME id="P21" start="1780" end="1796" text="Teodor Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1798" end="1808" text="R. Okonkwo" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

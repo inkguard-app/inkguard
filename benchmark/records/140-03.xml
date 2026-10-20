@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER VISIT SUMMARY
+Halvorsen Valley Orthopaedic Centre                    Visit date: Friday, 26 June 2065
+Patient: Mr Chidi Okonkwo Hale        DOB: 04/02/2017        Phone on file: +1 905 555 0147
+Seen by: Pat Ellison, medical assistant (rooming) and Dr Veselinovic
+
+"What we talked about today"
+- Your hand x-rays show OA (wear-and-tear arthritis) in the finger tips and the base of both thumbs.
+- Today vibes were good, pt was chill and did not want a steroid shot.
+** Start naproxen sodium 220 mg: 1 tablet twice a day with food. Do not take with ibuprofen. **
+- Tell us if you get stomach pain, black stool, or your blood pressure goes up (you were on blood pressure pills in 2061 for a short time).
+- Warm water soaks in the morning. Use the thumb splint at night.
+
+In conclusion, your journey with hand OA has just begun and the plan is simple.
+
+Your next appointment: &lt;&lt;NEXT_APPT&gt;&gt; with Dr Veselinovic in the hand clinic. Call (905) 555-0111 to book. Nurse Margaret Oyelowo can be reached on extension 3320.
+Medications you take: diphenhydramine 25 mg at night, ferrous sulfate 325 mg, vitamin B12 injection, naproxen (NEW).
+Patient portal login name: chidi.okonkwo2017    Account no. HV-ACC-0069314
+[Tracked change by P. Ellison: "Mr Okonkwo" changed to "Mr Okonkwo Hale"]
+Printed 06/26/2065 15:48 from 10.8.3.77
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="55" text="Halvorsen Valley Orthopaedic Centre" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="87" end="107" text="Friday, 26 June 2065" TYPE="DATE" comment="" />
+<NAME id="P2" start="120" end="138" text="Chidi Okonkwo Hale" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="151" end="161" text="04/02/2017" TYPE="DATE" comment="" />
+<CONTACT id="P4" start="184" end="199" text="+1 905 555 0147" TYPE="PHONE" comment="" />
+<NAME id="P5" start="209" end="220" text="Pat Ellison" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="257" end="268" text="Veselinovic" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="683" end="687" text="2061" TYPE="DATE" comment="" />
+<NAME id="P8" start="900" end="911" text="Veselinovic" TYPE="DOCTOR" comment="" />
+<CONTACT id="P9" start="937" end="951" text="(905) 555-0111" TYPE="PHONE" comment="" />
+<NAME id="P10" start="967" end="983" text="Margaret Oyelowo" TYPE="DOCTOR" comment="" />
+<CONTACT id="P11" start="1002" end="1016" text="extension 3320" TYPE="PHONE" comment="" />
+<NAME id="P12" start="1162" end="1179" text="chidi.okonkwo2017" TYPE="USERNAME" comment="" />
+<ID id="P13" start="1195" end="1209" text="HV-ACC-0069314" TYPE="ACCOUNT" comment="" />
+<NAME id="P14" start="1229" end="1239" text="P. Ellison" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1245" end="1252" text="Okonkwo" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1269" end="1281" text="Okonkwo Hale" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="1292" end="1302" text="06/26/2065" TYPE="DATE" comment="" />
+<CONTACT id="P18" start="1314" end="1323" text="10.8.3.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

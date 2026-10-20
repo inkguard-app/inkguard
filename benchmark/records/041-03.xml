@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL - HOSPICE ADMISSION
+Maison Arc-en-Ciel Paediatric Hospice   Admit 07/13/2072 14:20   Room 6
+Name: Zielinski, Tomasz   DOB: 02/19/2065   Age: 7   Sex: M
+MRN CH-0458213  (hosp. hospice id AC-2072-019)
+Referring: Dr Ingrid Vasseur (neuro), St. Aldric Children's Hospital
+Attending: Dr Priya Nambiar   Informant: parents, chart
+
+CC: Admission for hospice care, comfort-focused, per fam. wishes.
+
+HPI: 7yo boy w seizure d/o dx 4/29/67 (ED visit, started clonazepam, stopped 7/22/67). Diazepam 12/14/67 - 8/10/68. Further ED visits 3/23/69 + 6/1/70 (breakthrough GTC w scalp lac, repaired). Hx of sprained R ankle Dec 2067. Last well visit 12/30/71: wt 23.0 kg, BP 100/66, pain 2/10. Declined since spring; fam. met palliative team late May. Pt now not eating much, sleeping &gt; awake, no active seizures x 1wk per mom. Goals of care discussion held 7/10 w both parents + MGM Halina (visiting fm Gdansk, Poland). DNR/DNI signed.
+
+PMH: seizure d/o; strep pharyngitis 8/2065; bronchitis 11/2066 + 1/2070; viral sinusitis 9/15/70.
+Meds: none active. Comfort kit per palliative orders (pls see MAR). NKDA.
+Allergies: Tomasz Zielinski (field mislabeled in template - NKDA confirmd w mother)
+FH: noncontrib. Parents Agnieszka Zielinska + Olatunde Adeyemi; sister Zofia age 4.
+SH: Lives w parents + sib, 27 Rue des Erables, Gatineau QC J8T 4M9. Gr 1 at Ecole Primaire du Ruisseau, teacher Mme Boucher has been visiting. Father dispatcher at Nordhaven Logistics, mom pharmacist. Interpreter not needed (Eng/Fr/Pol). Fam. contact: mom cell 819-555-0173, dad (819) 555-0165 , aunt Folake in Lagos Nigeria calls daily on whatsapp.
+
+ROS: unable, per parents as above.
+PE: T 36.8 HR 96 RR 22 BP 94/58 Wt 22.6 kg. Thin, sleeping, arousable to voice. Fontanelle n/a. HEENT mmm, mild gingival erythema. CV rrr no m. Lungs coarse BS bilat, no distress. Abd soft ND. Neuro: GCS 11, tone incr in LE, no clonus, no seizure activity. Skin: healed scalp scar R parietal ~3cm.
+
+A/P: 7yo with refractory?? seizure disorder in hospice. Comfort focus. Hold all labs. Seizure rescue per palliative (buccal). Pain/dyspnea/secretions PRN per kit. Chaplain offered - accepted. Social work for sibling support. Fam. to stay overnight in room, cot provided. Bereavement program info given in french to mom.
+
+Total time 75 min.
+Dr P. Nambiar e-signed 07/13/2072 17:32   Last edited by pnambiar 7/14/2072 06:50 from 10.44.8.121
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="41" end="78" text="Maison Arc-en-Ciel Paediatric Hospice" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="87" end="97" text="07/13/2072" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="106" end="112" text="Room 6" TYPE="ROOM" comment="" />
+<NAME id="P3" start="119" end="136" text="Zielinski, Tomasz" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="144" end="154" text="02/19/2065" TYPE="DATE" comment="" />
+<AGE id="P5" start="162" end="163" text="7" TYPE="AGE" comment="" />
+<ID id="P6" start="177" end="187" text="CH-0458213" TYPE="MEDICALRECORD" comment="" />
+<ID id="P7" start="207" end="218" text="AC-2072-019" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="234" end="248" text="Ingrid Vasseur" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="258" end="288" text="St. Aldric Children's Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P10" start="303" end="316" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<AGE id="P11" start="418" end="419" text="7" TYPE="AGE" comment="" />
+<DATE id="P12" start="443" end="450" text="4/29/67" TYPE="DATE" comment="" />
+<DATE id="P13" start="490" end="497" text="7/22/67" TYPE="DATE" comment="" />
+<DATE id="P14" start="509" end="517" text="12/14/67" TYPE="DATE" comment="" />
+<DATE id="P15" start="520" end="527" text="8/10/68" TYPE="DATE" comment="" />
+<DATE id="P16" start="547" end="554" text="3/23/69" TYPE="DATE" comment="" />
+<DATE id="P17" start="557" end="563" text="6/1/70" TYPE="DATE" comment="" />
+<DATE id="P18" start="629" end="637" text="Dec 2067" TYPE="DATE" comment="" />
+<DATE id="P19" start="655" end="663" text="12/30/71" TYPE="DATE" comment="" />
+<DATE id="P20" start="747" end="755" text="late May" TYPE="DATE" comment="" />
+<DATE id="P21" start="863" end="867" text="7/10" TYPE="DATE" comment="" />
+<NAME id="P22" start="889" end="895" text="Halina" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="909" end="915" text="Gdansk" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="917" end="923" text="Poland" TYPE="COUNTRY" comment="" />
+<DATE id="P25" start="979" end="985" text="8/2065" TYPE="DATE" comment="" />
+<DATE id="P26" start="998" end="1005" text="11/2066" TYPE="DATE" comment="" />
+<DATE id="P27" start="1008" end="1014" text="1/2070" TYPE="DATE" comment="" />
+<DATE id="P28" start="1032" end="1039" text="9/15/70" TYPE="DATE" comment="" />
+<NAME id="P29" start="1126" end="1142" text="Tomasz Zielinski" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1223" end="1242" text="Agnieszka Zielinska" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="1245" end="1261" text="Olatunde Adeyemi" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="1270" end="1275" text="Zofia" TYPE="PATIENT" comment="" />
+<AGE id="P33" start="1280" end="1281" text="4" TYPE="AGE" comment="" />
+<LOCATION id="P34" start="1310" end="1328" text="27 Rue des Erables" TYPE="STREET" comment="" />
+<LOCATION id="P35" start="1330" end="1338" text="Gatineau" TYPE="CITY" comment="" />
+<LOCATION id="P36" start="1339" end="1341" text="QC" TYPE="STATE" comment="" />
+<LOCATION id="P37" start="1342" end="1349" text="J8T 4M9" TYPE="ZIP" comment="" />
+<LOCATION id="P38" start="1359" end="1385" text="Ecole Primaire du Ruisseau" TYPE="ORGANIZATION" comment="" />
+<NAME id="P39" start="1399" end="1406" text="Boucher" TYPE="PATIENT" comment="" />
+<PROFESSION id="P40" start="1433" end="1443" text="dispatcher" TYPE="PROFESSION" comment="" />
+<LOCATION id="P41" start="1447" end="1466" text="Nordhaven Logistics" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P42" start="1472" end="1482" text="pharmacist" TYPE="PROFESSION" comment="" />
+<CONTACT id="P43" start="1544" end="1556" text="819-555-0173" TYPE="PHONE" comment="" />
+<CONTACT id="P44" start="1562" end="1576" text="(819) 555-0165" TYPE="PHONE" comment="" />
+<NAME id="P45" start="1584" end="1590" text="Folake" TYPE="PATIENT" comment="" />
+<LOCATION id="P46" start="1594" end="1599" text="Lagos" TYPE="CITY" comment="" />
+<LOCATION id="P47" start="1600" end="1607" text="Nigeria" TYPE="COUNTRY" comment="" />
+<AGE id="P48" start="1973" end="1974" text="7" TYPE="AGE" comment="" />
+<NAME id="P49" start="2311" end="2321" text="P. Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P50" start="2331" end="2341" text="07/13/2072" TYPE="DATE" comment="" />
+<NAME id="P51" start="2365" end="2373" text="pnambiar" TYPE="USERNAME" comment="" />
+<DATE id="P52" start="2374" end="2383" text="7/14/2072" TYPE="DATE" comment="" />
+<CONTACT id="P53" start="2395" end="2406" text="10.44.8.121" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

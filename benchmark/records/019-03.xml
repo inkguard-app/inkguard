@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER -- Addiction Medicine
+Date/time: 11/28/2074 0905        Taken by: Evan Thorsby RN
+Pt name: Priscilla Varga   DOB: 01/01/1900  (DEFAULT, see below)  MRN: QH-0071-9930
+- Call from sister Katalin Doyle, cb (360) 555-0188, re pt's ED visit last night 11/27 for OD (ED reg'd pt under alias "Pris Vargas" b/c no ID on her; dup chart created w/ default DOB, MRN above. REAL MRN QH-0066-5142. Merge req submitted to HIM.)
+- Sister states pt is stable on floor, awake. Wants to know "how many times is this now." Told her I can't discuss. She said pt's friend Beatrix Oyelaran found her.
+- Ms. Varga's mom, who is mid-nineties and lives w/ sister now, "was not told yet". sister says "she's turning ninty-three" -- uncelar, mom was 92 at March 2074 med rec, could be 93 now. Not important.
+- Plan: 1) notify Dr. Jun-ho Baek 2) pt due for rehqb f/u; last rehab session 10/29/2073 (before gap), then no shows 3) encourage hosp SW to see pt
+- Sister asked for the cat to be fed, pet is named "Varga" lol, pt's cat. Will not chart further.
+- Pt's contact numbets updated: home (360) 555-0142 [maybe typo, on file was ...0124], sister ...0188.
+Sig: E. Thorsby RN 11/28/2074 09:40
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="23" end="41" text="Addiction Medicine" TYPE="DEPARTMENT" comment="" />
+<DATE id="P1" start="53" end="63" text="11/28/2074" TYPE="DATE" comment="" />
+<NAME id="P2" start="86" end="98" text="Evan Thorsby" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="111" end="126" text="Priscilla Varga" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="134" end="144" text="01/01/1900" TYPE="DATE" comment="" />
+<ID id="P5" start="173" end="185" text="QH-0071-9930" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="205" end="218" text="Katalin Doyle" TYPE="PATIENT" comment="" />
+<CONTACT id="P7" start="223" end="237" text="(360) 555-0188" TYPE="PHONE" comment="" />
+<DATE id="P9" start="267" end="272" text="11/27" TYPE="DATE" comment="" />
+<NAME id="P10" start="306" end="317" text="Pris Vargas" TYPE="PATIENT" comment="" />
+<ID id="P11" start="391" end="403" text="QH-0066-5142" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P12" start="571" end="587" text="Beatrix Oyelaran" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="605" end="610" text="Varga" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="625" end="637" text="mid-nineties" TYPE="AGE" comment="" />
+<AGE id="P15" start="710" end="721" text="ninty-three" TYPE="AGE" comment="" />
+<AGE id="P16" start="743" end="745" text="92" TYPE="AGE" comment="" />
+<DATE id="P17" start="749" end="759" text="March 2074" TYPE="DATE" comment="" />
+<AGE id="P18" start="778" end="780" text="93" TYPE="AGE" comment="" />
+<NAME id="P19" start="823" end="834" text="Jun-ho Baek" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="879" end="889" text="10/29/2073" TYPE="DATE" comment="" />
+<NAME id="P21" start="1001" end="1006" text="Varga" TYPE="PATIENT" comment="" />
+<CONTACT id="P22" start="1084" end="1098" text="(360) 555-0142" TYPE="PHONE" comment="" />
+<DATE id="P23" start="1169" end="1179" text="11/28/2074" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

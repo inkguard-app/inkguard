@@ -1,0 +1,23 @@
+EMERGENCY DEPARTMENT — FALL IN NONAGENARIAN
+{{FACILITY|Quarry Lane Regional Medical Center}} ED   {{DATE|07/19/2066}} 06:10
+{{NAME|Thaddeus Wakefield-Ngum}}, {{AGE|97}} M, MRN {{MRN|QLR-1102879}}
+ED physician Dr. {{NAME|Corinna Fairbairn}}; resident Dr. {{NAME|Augusto Benitez-Hall}}
+
+Found on the bathroom floor at his assisted-living facility ({{FACILITY|Morningside Terrace Senior Living}}) by staff; unknown downtime (~4 h). On [[warfarin]] for [[mechanical mitral valve]]. History of [[Parkinson disease]] and [[orthostatic hypotension]].
+[[GCS 13 (E3V4M6)]], new confusion per staff (baseline: oriented, uses a walker), right temporal haematoma, no focal motor deficit, [[pupils equal and reactive]]. [[Cogwheel rigidity]] and [[resting tremor]] (baseline). [[4AT delirium screen]] 6.
+[[INR 3.4]]. CK 1840 ([[rhabdomyolysis]] mild). Na 132.
+[[CT head without contrast]]: left [[acute-on-chronic subdural haematoma]], 11 mm, [[midline shift]] 4 mm; small right frontal [[contusion]]. [[CT C-spine]]: degenerative, no acute fracture ([[Canadian C-spine rule]] mandates imaging over age 65). [[Pelvis X-ray]]: no hip fracture.
+Plan: [[INR reversal]] with [[4-factor prothrombin complex concentrate 25 units/kg]] and [[vitamin K 10 mg IV]] — discussed with cardiology given mechanical valve (balance thromboembolic risk); repeat [[CT head]] in 6 h; neurosurgery consult; [[levetiracetam]] not routinely; IV fluids for rhabdo; admit to [[hospitalist]] with neurosurgery co-management. [[Goals of care]]: patient previously completed a [[POLST]] — full treatment but no intubation. Son {{NAME|Rupert Wakefield-Ngum}} {{PHONE|555-640-2289}} (healthcare proxy).
+=====NOTE=====
+NEUROSURGERY CONSULT — {{DATE|07/19/2066}} — {{NAME|T. Wakefield-Ngum}}, {{AGE|97}} — {{MRN|QLR-1102879}}
+Fellow Dr. {{NAME|Siobhan Achterberg-Lowe}}; attending Dr. {{NAME|Klaus Imbert-Sow}}
+History as per ED (copied): found on the bathroom floor at his assisted-living facility, unknown downtime, on warfarin for a mechanical mitral valve, Parkinson disease, orthostatic hypotension.
+Exam: [[GCS 14]] after warming and fluids. No [[pronator drift]]. [[Markwalder grade 1]].
+CT 6 h: stable SDH, no expansion after reversal.
+Recommendation: non-operative — the SDH is modest and he is improving; surgery only for neurological decline. Consider [[middle meningeal artery embolization]] if the chronic component enlarges, as it allows earlier [[anticoagulation]] resumption. Restart [[heparin infusion]] (no bolus) at 72 h if repeat CT stable, bridging to [[warfarin]] at day 7 (mechanical valve). Hold [[aspirin]]. [[CT head]] repeat at 1 week and 4 weeks. [[Neuro checks q2h]], [[SBP under 160]], [[platelet count]] and [[INR]] daily. [[Seizure]] precautions; [[EEG]] if fluctuating mental status (non-convulsive seizures in elderly SDH). [[Delirium prevention bundle]]. [[DVT prophylaxis]] with [[sequential compression devices]].
+=====NOTE=====
+HOSPITALIST PROGRESS NOTE — HD3 — {{DATE|07/21/2066}}
+{{NAME|Thaddeus Wakefield-Ngum}} ({{AGE|97}} M)
+Author Dr. {{NAME|Wilhelmina Adeyinka}}; NP {{NAME|Corey Valdés}}
+HPI per ED, copied forward: found on the bathroom floor at his assisted-living facility after an unknown downtime; on warfarin for a mechanical mitral valve; Parkinson disease; orthostatic hypotension.
+Interval: [[hyperactive delirium]] overnight — pulling at lines; non-pharmacologic measures, [[melatonin 3 mg]]; avoid [[haloperidol]] (Parkinson disease) → [[quetiapine 12.5 mg]] PRN. [[Carbidopa/levodopa 25/100 mg TID]] continued on time ("[[Parkinson medications on time]]"). Orthostatic vitals: 132/70 supine → 98/58 standing — [[neurogenic orthostatic hypotension]]; started [[midodrine 2.5 mg TID]], [[compression stockings]]; [[droxidopa]] if refractory. CK trending down 610. Repeat CT 72 h stable → [[unfractionated heparin]] started, aPTT goal 50-70 s. PT: [[Tinetti]] 12/28 — high fall risk; [[freezing of gait]] at doorways; [[Timed Up and Go]] 28 s. Case management {{NAME|Ophelia Narayanan}}, RN: return to {{FACILITY|Morningside Terrace Senior Living}} with home health vs [[skilled nursing facility]].

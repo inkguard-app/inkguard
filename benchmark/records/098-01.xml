@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>**TELEPHONE ENCOUNTER**
+Date of call: 01/07/2062   Dept: Endocrinology @ Brightwater Endocrine Associates
+Patient: Winifred Bright  DOB: 08/22/2001  MRN 5530-4217
+Call taken by: Destiny Holloway, MA  (with Caleb Tran, volunteer, shadowing)
+
+-&gt; Reason: pt returning call re: lab results from 01/06/2062
+-&gt; Called back at (740) 555-0163, Vm picked up, auto-voice said "you have reached B R I G H T space L Y L E" so I think its the husbands phone? left msg to call the clinic
+-&gt; Pt called back 2:40 pm, was super chill and very polite, vibes were good
+
+**"Results given"**
+Per Dr. Okonkwo-Reyes: total cholesterol is 304, LDL is 180.5 which is HIGH. glucose 91.9 OK, kidney number (eGFR) 67.1 fine. Dr. wants to start a cholesterol pill (simvastatin 10 mg) and pt should come in to discuss. BP last time was 122/78 which is fine.
+
+Pt verbalized understanding. She said "call me Winnie, everybody does", I wrote it in her chart. She is 60 y.o. and said she is nervous about pills because her sister Corinne Hatch had muscle pain on one. Told her to write down questions. She also askd if we need her husband Lyal Bright to come, told her no.
+
+In conclusion, the patient's journey today was one of listening and learning, and she was very greatful for the call.
+
+Appt made for 01/27/2062 9:15 w/ Dr. Okonkwo-Reyes. Pt confirmed her adress is still 2214 Alder Hollow Rd, Marietta, OH 45750.
+
+Electronically signed by Destiny Holloway, MA on 01/07/2062 15:02
+Reviewed: pending Dr. Okonkwo-Reyes  [Comment by Priya Natarajan: please spell out "pt" less, and dont use "vibes" in a chart]
+</TEXT>
+<TAGS>
+<DATE id="P0" start="38" end="48" text="01/07/2062" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="57" end="70" text="Endocrinology" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="73" end="105" text="Brightwater Endocrine Associates" TYPE="HOSPITAL" comment="" />
+<NAME id="P3" start="115" end="130" text="Winifred Bright" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="137" end="147" text="08/22/2001" TYPE="DATE" comment="" />
+<ID id="P5" start="153" end="162" text="5530-4217" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="178" end="194" text="Destiny Holloway" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="206" end="216" text="Caleb Tran" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="291" end="301" text="01/06/2062" TYPE="DATE" comment="" />
+<CONTACT id="P9" start="320" end="334" text="(740) 555-0163" TYPE="PHONE" comment="" />
+<NAME id="P10" start="579" end="592" text="Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<AGE id="P11" start="933" end="935" text="60" TYPE="AGE" comment="" />
+<NAME id="P12" start="996" end="1009" text="Corinne Hatch" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1105" end="1116" text="Lyal Bright" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="1273" end="1283" text="01/27/2062" TYPE="DATE" comment="" />
+<NAME id="P15" start="1296" end="1309" text="Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<LOCATION id="P16" start="1344" end="1364" text="2214 Alder Hollow Rd" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="1366" end="1374" text="Marietta" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="1376" end="1378" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="1379" end="1384" text="45750" TYPE="ZIP" comment="" />
+<NAME id="P20" start="1412" end="1428" text="Destiny Holloway" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1436" end="1446" text="01/07/2062" TYPE="DATE" comment="" />
+<NAME id="P22" start="1475" end="1488" text="Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="1502" end="1517" text="Priya Natarajan" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

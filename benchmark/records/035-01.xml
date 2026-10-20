@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ORTHOPAEDIC CONSULT -- Whitcomb Valley Medical Center
+Pt: SAGE, EVERETT L   MRN PH-2290417   DOB 05/17/2040   Date of consult: 10/31/2085
+Requested by: Dr. Leontyne Achebe-Marsh (PCP)   Seen by: Dr. Ingrid Solberg, Orthopaedics
+
+Reason:
+- R shoulder pain x ~2 wks, worse overhead and at nite
+- pt is a 45 y/o man, works freight handling, forklift operator at Kestrel Freight Handling
+
+HPI:
+- onset around mid-October, "felt it pull" lifting a pallet jack handle on the 14th
+- no numbness, no neck pain, no fall, no prior shoulder surgery
+- tried ice + heat, OTC creams (Cortizone, Bengay) w/ minimal relief
+- sleeps on L side only, wakes 3/4 nights per wk
+- denies fever, wt loss
+
+PMH:
+- chronic sinusitis, prediabetes, obesity (BMI 31), anemia 
+- anaphylaxis to wasp stings -- carries EpiPen (NDA020800 0.3 mg), loratadine daily (Claritin)
+- family hx: uncle w Parkinson's disease, cousin w Hodgkin lymphoma, mother had Bell's palsy at 50 -- none relevant today 
+
+Exam:
+- no deformity, no atrophy. TTP over greater tuberosity
+- Neer + , Hawkins-Kennedy +, Jobe (empty can) pain + weakness 4/5, drop arm test neg, Speed's neg
+- ROM: FF 150, ABD 140, ER 60. Neck exam normal, Spurling neg, no Tinel at wrist
+- NV intact distally, Babinski downgoing
+
+Imp: R rotator cuff tendon injury / tendinopathy, r/o partial tear.
+
+Plan:
+- MRI R shoulder w/o contrast, to be done by 11/15
+- PT referral x 6 wks, no lifting &gt; 10 lb. Work note given 
+- recheck after MRI, sooner if weakness
+- Pt agrees. Seen with resident Dr. Lynn Marrow.
+
+Ingrid Solberg MD   Oct 31, 2085  e-signed 16:55
+Cc: Achebe Marsh
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="23" end="53" text="Whitcomb Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="58" end="73" text="SAGE, EVERETT L" TYPE="PATIENT" comment="" />
+<ID id="P2" start="80" end="90" text="PH-2290417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="97" end="107" text="05/17/2040" TYPE="DATE" comment="" />
+<DATE id="P4" start="127" end="137" text="10/31/2085" TYPE="DATE" comment="" />
+<NAME id="P5" start="156" end="177" text="Leontyne Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="199" end="213" text="Ingrid Solberg" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="215" end="227" text="Orthopaedics" TYPE="DEPARTMENT" comment="" />
+<AGE id="P8" start="302" end="304" text="45" TYPE="AGE" comment="" />
+<PROFESSION id="P9" start="338" end="355" text="forklift operator" TYPE="PROFESSION" comment="" />
+<LOCATION id="P10" start="359" end="383" text="Kestrel Freight Handling" TYPE="ORGANIZATION" comment="" />
+<DATE id="P11" start="405" end="416" text="mid-October" TYPE="DATE" comment="" />
+<DATE id="P12" start="469" end="473" text="14th" TYPE="DATE" comment="" />
+<AGE id="P13" start="937" end="939" text="50" TYPE="AGE" comment="" />
+<DATE id="P14" start="1369" end="1374" text="11/15" TYPE="DATE" comment="" />
+<NAME id="P15" start="1511" end="1522" text="Lynn Marrow" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1525" end="1539" text="Ingrid Solberg" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1545" end="1557" text="Oct 31, 2085" TYPE="DATE" comment="" />
+<NAME id="P18" start="1578" end="1590" text="Achebe Marsh" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

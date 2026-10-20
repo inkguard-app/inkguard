@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER   10/28/2085  09:40   Taken by: Joao Pereira, MA   For: Dr Sutanto
+Pt: matthew brandt  DOB 8/29/2056  MRN 6128-0354  Phone (218) 555-0127
+Reason: culture result
+
+Spoke with wife Camila Brandt bcause pt at work, he give permission verbal on Monday to speak to her. Culture positive group A strep, same antibiotic is right. Told her continue penicillin whole 10 days. She say he feel better, no fever. She asks if pt can go back work Thursday. Dr Sutanto ok after 24 h of antibiotic - so yes.
+Wife also report granmother Lordes Oliveira "9l years old" (91) fell in Brazil, family worry. Not our patient. Her age said also "ninety one" and "she is in nineties".
+Transport: pt cannot come to clinic, bus pass MT-90-448120 expired. Ride receipt pasted by wife by text:
+-----
+From: camila.brandt77@mailbox-demo.net   To: clinic text line   Sent from iPhone
+"Ride to Northshore clinic 10/26 driver Tomasz car plate JBX 3095 total $14.20 - please reimburse program"
+-----
+Told wife social worker will call. Message to Dr Sutanto sent, routed to Joao Pereira. Pt's Theo cough? not asked.
+Last edited by jpereira 10/28/2085 09:58 from 10.4.77.31
+</TEXT>
+<TAGS>
+<DATE id="P0" start="22" end="32" text="10/28/2085" TYPE="DATE" comment="" />
+<NAME id="P1" start="52" end="64" text="Joao Pereira" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="79" end="86" text="Sutanto" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="91" end="105" text="matthew brandt" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="111" end="120" text="8/29/2056" TYPE="DATE" comment="" />
+<ID id="P5" start="126" end="135" text="6128-0354" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P6" start="143" end="157" text="(218) 555-0127" TYPE="PHONE" comment="" />
+<NAME id="P7" start="198" end="211" text="Camila Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="260" end="266" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P9" start="452" end="460" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P10" start="539" end="554" text="Lordes Oliveira" TYPE="PATIENT" comment="" />
+<ID id="P11" start="725" end="737" text="MT-90-448120" TYPE="IDNUM" comment="" />
+<CONTACT id="P12" start="796" end="828" text="camila.brandt77@mailbox-demo.net" TYPE="EMAIL" comment="" />
+<DATE id="P13" start="898" end="903" text="10/26" TYPE="DATE" comment="" />
+<NAME id="P14" start="911" end="917" text="Tomasz" TYPE="PATIENT" comment="" />
+<ID id="P15" start="928" end="936" text="JBX 3095" TYPE="VEHICLE" comment="" />
+<NAME id="P16" start="1033" end="1040" text="Sutanto" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1057" end="1069" text="Joao Pereira" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1076" end="1080" text="Theo" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1114" end="1122" text="jpereira" TYPE="USERNAME" comment="" />
+<DATE id="P20" start="1123" end="1133" text="10/28/2085" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1145" end="1155" text="10.4.77.31" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

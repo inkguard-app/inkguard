@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EASTBANK PAEDIATRIC ASSOCIATES - AFTER VISIT SUMMARY
+Name: River Lindqvist     Date of visit: 10/25/2068   
+Age: 2 years   DOB: 11/2/2065  (nearly three!)
+
+What happened at today's visit  (2-year well check)
+- Weighed 14.3 kg, BMI 16.3, BP 108/82, pain score 2
+- Dr Lowe and nurse Dove Mbeki checked ears, chest and growth
+- Viral sinusitis since 09/09/2068 is now over (cleared by 2 Oct)
+- Growing well. River is a bright girl and loves the colour yellow
+
+To do before next visit:
+- Hearing test result from Lakeshore ENT and Audiology - still waiting, ask Saga Berg
+- Dental visit
+- Keep sharing reading time in all 3 languages!
+
+Sleep tip: bedtime routine starting at about 7:30, same every night; the first one we ever discussed was on Christmas Eve 2065 when you came in at 7 weeks old (not a typo)
+
+Where the family is: 3314 Stillwater Lane, Apt 5, Minneapolis MN 5546 -- ZIP missing a digit?
+Phone numbers on file: (612) 555-0119 (mum), (612) 555-0191 (dad, digits might be swapped)
+Portal: sign in as river.baby.lindq
+
+Next well visit in April 2069. Call us on (612) 555-0100.
+Autumn Lowe, MD, Eastbank Paediatric Associates
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="30" text="EASTBANK PAEDIATRIC ASSOCIATES" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="59" end="74" text="River Lindqvist" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="94" end="104" text="10/25/2068" TYPE="DATE" comment="" />
+<AGE id="P3" start="113" end="114" text="2" TYPE="AGE" comment="" />
+<DATE id="P4" start="128" end="137" text="11/2/2065" TYPE="DATE" comment="" />
+<NAME id="P5" start="266" end="270" text="Lowe" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="281" end="291" text="Dove Mbeki" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="347" end="357" text="09/09/2068" TYPE="DATE" comment="" />
+<DATE id="P8" start="382" end="387" text="2 Oct" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="509" end="536" text="Lakeshore ENT and Audiology" TYPE="ORGANIZATION" comment="" />
+<NAME id="P10" start="558" end="567" text="Saga Berg" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="740" end="758" text="Christmas Eve 2065" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="826" end="853" text="3314 Stillwater Lane, Apt 5" TYPE="STREET" comment="" />
+<LOCATION id="P13" start="855" end="866" text="Minneapolis" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="867" end="869" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P15" start="870" end="874" text="5546" TYPE="ZIP" comment="" />
+<CONTACT id="P16" start="922" end="936" text="(612) 555-0119" TYPE="PHONE" comment="" />
+<CONTACT id="P17" start="944" end="958" text="(612) 555-0191" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1009" end="1025" text="river.baby.lindq" TYPE="USERNAME" comment="" />
+<DATE id="P19" start="1046" end="1056" text="April 2069" TYPE="DATE" comment="" />
+<CONTACT id="P20" start="1069" end="1083" text="(612) 555-0100" TYPE="PHONE" comment="" />
+<NAME id="P21" start="1085" end="1096" text="Autumn Lowe" TYPE="DOCTOR" comment="" />
+<LOCATION id="P22" start="1102" end="1132" text="Eastbank Paediatric Associates" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

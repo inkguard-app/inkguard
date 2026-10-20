@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PRAIRIE LINE MEDICAL CENTRE   AFTER-VISIT SUMMARY (PRINTED FOR PATIENT)
+BRIGHT, MARIGOLD A  (Goldie)      DOB 11/17/2028      MRN MB 7714-3320
+Visit: 08/10/2092, Sunday - ANNUAL WELLNESS EXAM with Dr. Oyelowo-Kane      Age: 63
+
+Dear Mrs. Bright,    &lt;- (this and the line below are from the letter template)
+Dear [PATIENT NAME],
+
+Thank you for coming in today. This summary was dictated after your visit and I have not read it back. 
+
+Your results: your blood sugar average test (HbA1c) is 6.3 percent, nearly the same as last year (08/05/2091), still in the prediabetes range. Your blood pressure was low-normal and you stopped taking lisinopril, which is what we expect from the last visit. Your mood and worry questionnaire was reassuring. You told Chinwe the nurse that you sleep poorly. Your cholesterol numbers were checked last year and we will repeat them next time.
+
+We reviewed your medicines (medication reconciliation was completed). Current list: acetaminophen only when needed. Naproxen for your ankle was STOPPED on 02/10/2092 (you will see it on the old copy-forward list: "naproxen 220 mg twice daily" - ignore).
+
+Referrals: Dental. Your gums bled when brushing. A dentist appointment with Dr. Lars Thorvaldsen at Linn Street Dental is on Monday, August 24. Hmm, the 24th is a Sunday, so the printout may be wrong; the receptionist will confirm. Their number is 319-555-0113.
+
+We also screened for safety at home and for alcohol and drug use: all negative. If you ever want to talk to someone privately, call our social worker Beatrix Lindqvist at 319-555-0126.
+
+Take care, Dr. H. Oyelowo-Kane 
+Questions? Message through the portal (https://my.prairieline.example, login mbright2028) or call (319) 555-0100.
+Printed by tjorgens 08/10/2092 11:48 from 172.16.9.77  Page 1 of 1
+</TEXT>
+<TAGS>
+<NAME id="P0" start="72" end="90" text="BRIGHT, MARIGOLD A" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="93" end="99" text="Goldie" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="110" end="120" text="11/17/2028" TYPE="DATE" comment="" />
+<ID id="P3" start="130" end="142" text="MB 7714-3320" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="150" end="160" text="08/10/2092" TYPE="DATE" comment="" />
+<DATE id="P5" start="162" end="168" text="Sunday" TYPE="DATE" comment="" />
+<NAME id="P6" start="201" end="213" text="Oyelowo-Kane" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="224" end="226" text="63" TYPE="AGE" comment="" />
+<NAME id="P8" start="238" end="244" text="Bright" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="532" end="542" text="08/05/2091" TYPE="DATE" comment="" />
+<NAME id="P10" start="751" end="757" text="Chinwe" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="1030" end="1040" text="02/10/2092" TYPE="DATE" comment="" />
+<NAME id="P12" start="1210" end="1226" text="Lars Thorvaldsen" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="1230" end="1248" text="Linn Street Dental" TYPE="ORGANIZATION" comment="" />
+<DATE id="P14" start="1255" end="1261" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P15" start="1263" end="1272" text="August 24" TYPE="DATE" comment="" />
+<DATE id="P16" start="1283" end="1287" text="24th" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="1378" end="1390" text="319-555-0113" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1543" end="1560" text="Beatrix Lindqvist" TYPE="DOCTOR" comment="" />
+<CONTACT id="P19" start="1564" end="1576" text="319-555-0126" TYPE="PHONE" comment="" />
+<NAME id="P20" start="1594" end="1609" text="H. Oyelowo-Kane" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="1650" end="1680" text="https://my.prairieline.example" TYPE="URL" comment="" />
+<NAME id="P22" start="1688" end="1699" text="mbright2028" TYPE="USERNAME" comment="" />
+<CONTACT id="P23" start="1709" end="1723" text="(319) 555-0100" TYPE="PHONE" comment="" />
+<NAME id="P24" start="1736" end="1744" text="tjorgens" TYPE="USERNAME" comment="" />
+<DATE id="P25" start="1745" end="1755" text="08/10/2092" TYPE="DATE" comment="" />
+<CONTACT id="P26" start="1767" end="1778" text="172.16.9.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

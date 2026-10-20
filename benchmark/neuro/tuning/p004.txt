@@ -1,0 +1,31 @@
+NEURO-OTOLOGY CONSULTATION
+
+{{FACILITY|Emberly Ear & Skull Base Institute}}
+Patient: {{NAME|Konrad Weber}}   Age: 57   MRN: {{MRN|EESB-551209}}
+Date: {{DATE|09/03/2066}}
+Referring: Dr. {{NAME|Nadia Pellegrino-Shaw}}
+
+History: 18-month progressive right-sided hearing loss, [[tinnitus]], and intermittent imbalance. No facial weakness.
+
+Examination: [[Weber test]] lateralises to the LEFT (the better-hearing ear), [[Rinne test]] positive bilaterally (AC>BC), consistent with right [[sensorineural hearing loss]]. [[Facial nerve function House-Brackmann grade I]]. [[Corneal reflex]] intact. [[Romberg]] negative, mild difficulty with [[tandem gait]]. No [[nystagmus]] in primary gaze; [[head impulse test]] shows a corrective saccade to the right.
+
+Mr. {{NAME|Weber}} wanted to know whether his tumour is related to [[Weber syndrome]]; I explained that is a [[midbrain stroke syndrome]] with an [[ipsilateral oculomotor nerve palsy]] and [[contralateral hemiparesis]] and has nothing to do with his diagnosis, and that the "[[Weber]]" in his exam was a [[tuning-fork test]].
+
+Audiogram: right [[pure tone average]] 48 dB, [[word recognition score]] 64% ([[AAO-HNS class C]]). Left normal.
+
+MRI [[internal auditory canal protocol]] with [[T1 post-gadolinium]] and [[CISS sequence]]: 1.9 cm right [[vestibular schwannoma]], [[Koos grade III]], extending to the [[fundus of the IAC]], touching but not compressing the [[brainstem]]. No [[hydrocephalus]].
+
+Options discussed: observation with serial MRI, [[Gamma Knife radiosurgery 12 Gy to the 50% isodose]], or microsurgery via [[retrosigmoid approach]]. Given [[serviceable hearing]] marginal and tumour growth of 2 mm/yr, he favours radiosurgery.
+
+Dr. {{NAME|Hollis Marchetti}}, Neurotology
+=====NOTE=====
+GAMMA KNIFE TREATMENT SUMMARY
+Pt: {{NAME|WEBER, KONRAD}}  ID {{MRN|EESB-551209}}  Tx date {{DATE|10/19/2066}}
+Planning physician {{NAME|D. Rasmussen-Achebe}}, physicist {{NAME|L. Ferreira}}
+
+Platform: [[Leksell Gamma Knife Icon]], frameless [[thermoplastic mask]] with [[CBCT co-registration]] and [[intrafraction motion management]].
+Target: right [[vestibular schwannoma]], volume 2.1 cc.
+Prescription: [[12 Gy to the 50% isodose line]], [[conformity index]] 0.96, [[gradient index]] 2.7. 14 isocentres, 4 mm and 8 mm collimators.
+[[Cochlea]] mean dose 3.8 Gy (goal less than 4 Gy). [[Brainstem]] max point dose 11.6 Gy. [[Facial nerve]] course along anterior-superior IAC.
+Treatment time 52 min. No acute complications.
+Follow-up MRI 6 months; audiogram 6 months; counselled about transient [[pseudoprogression]] / [[central loss of enhancement]] and risk of [[delayed hearing loss]], [[trigeminal neuropathy]], and rare [[facial weakness]].

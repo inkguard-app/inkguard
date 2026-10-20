@@ -1,0 +1,1384 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__TITLE__</title>
+<style>
+
+/* Calm, low-fatigue palette: warm paper, soft ink, desaturated hues.
+   ONE hue means "leaves as a placeholder" (muted indigo); every other mark
+   is distinguished by BOTH colour and line style, so nothing depends on
+   colour alone. */
+:root{
+  --bg:#f5f3ee; --surface:#ffffff; --surface-2:#faf9f6; --line:#e3ded3; --line-2:#d6d0c3;
+  --ink:#2b2a27; --muted:#6c675d; --faint:#9a958a;
+  --accent:#4a5a8c; --accent-ink:#ffffff; --focus:#3f6fb5;
+  --rm-tint:#dfe3f4; --rm-line:#8089c2; --rm-block:#59618f; --rm-block-ink:#f4f5fb;
+  --mine-tint:#f3e5de; --mine-line:#b98269;
+  --q-tint:#f6eed8; --q-line:#b38d3c;
+  --rare-line:#9a7bb0; --rare-tint:#f2ecf6;
+  --gen-line:#7fa088; --gen-tint:#e9f1eb;
+  --lds-line:#9b968c;
+  --ok:#5f8a6a; --warn:#a0772e; --bad:#a45a4c;
+  --shadow:0 1px 2px rgba(40,36,28,.06),0 4px 16px rgba(40,36,28,.06);
+  --note-size:17px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#17181b; --surface:#1f2125; --surface-2:#24262b; --line:#32353b; --line-2:#3c3f46;
+    --ink:#e6e4de; --muted:#a39f95; --faint:#7d796f;
+    --accent:#8e9ad6; --accent-ink:#15161a; --focus:#8fb2ec;
+    --rm-tint:#2b3050; --rm-line:#8d96d4; --rm-block:#646da8; --rm-block-ink:#f2f3fa;
+    --mine-tint:#422e27; --mine-line:#d49d86;
+    --q-tint:#3b331f; --q-line:#d4b062;
+    --rare-line:#b99ad0; --rare-tint:#33293b;
+    --gen-line:#8db99a; --gen-tint:#233229;
+    --lds-line:#8a867e;
+    --ok:#8cc29a; --warn:#d8b066; --bad:#df8f7f;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#17181b; --surface:#1f2125; --surface-2:#24262b; --line:#32353b; --line-2:#3c3f46;
+  --ink:#e6e4de; --muted:#a39f95; --faint:#7d796f;
+  --accent:#8e9ad6; --accent-ink:#15161a; --focus:#8fb2ec;
+  --rm-tint:#2b3050; --rm-line:#8d96d4; --rm-block:#646da8; --rm-block-ink:#f2f3fa;
+  --mine-tint:#422e27; --mine-line:#d49d86;
+  --q-tint:#3b331f; --q-line:#d4b062;
+  --rare-line:#b99ad0; --rare-tint:#33293b;
+  --gen-line:#8db99a; --gen-tint:#233229;
+  --lds-line:#8a867e;
+  --ok:#8cc29a; --warn:#d8b066; --bad:#df8f7f;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25);
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font:14.5px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit}
+.btn{border:1px solid var(--line-2);background:var(--surface);border-radius:8px;padding:6px 12px;cursor:pointer;
+  transition:background .12s,border-color .12s}
+.btn:hover{border-color:var(--faint)}
+.btn:focus-visible,.step:focus-visible,.navnote:focus-visible,mark:focus-visible,.s:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+.btn.primary:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:transparent;border-color:transparent}
+.btn.ghost:hover{background:var(--surface-2);border-color:var(--line)}
+.btn.small{padding:3px 9px;font-size:13px}
+kbd{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;border:1px solid var(--line-2);border-bottom-width:2px;
+  border-radius:5px;padding:0 5px;background:var(--surface-2);color:var(--muted)}
+
+/* ---------- top bar ---------- */
+.top{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:16px;flex-wrap:wrap;
+  padding:10px 20px;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--line)}
+.brand{font-weight:650;letter-spacing:.1px}
+.who{color:var(--muted)}
+.who b{color:var(--ink);font-weight:600}
+.prog{display:flex;align-items:center;gap:10px;flex:1 1 220px;max-width:420px}
+.bar{flex:1;height:6px;background:var(--line);border-radius:6px;overflow:hidden;max-width:360px}
+.bar>span{display:block;height:100%;width:0;background:var(--ok);border-radius:6px;transition:width .3s}
+.prog small{color:var(--muted);white-space:nowrap}
+.tools{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-left:auto}
+.warnline{padding:7px 20px;font-size:13px;color:var(--muted);border-bottom:1px solid var(--line);background:var(--surface-2)}
+.warnline b{color:var(--ink)}
+.warnline.lds{color:var(--ink);background:var(--rare-tint)}
+
+/* ---------- layout ---------- */
+.layout{display:grid;grid-template-columns:250px minmax(0,1fr) 300px;gap:0;min-height:calc(100vh - 110px)}
+nav#side{border-right:1px solid var(--line);padding:12px 10px 40px;overflow:auto;max-height:calc(100vh - 110px);position:sticky;top:96px}
+main{padding:18px 28px 80px;min-width:0}
+aside#panel{border-left:1px solid var(--line);padding:14px 14px 60px;overflow:auto;max-height:calc(100vh - 110px);position:sticky;top:96px}
+
+.pgroup{margin-bottom:4px}
+.phead{display:flex;align-items:center;justify-content:space-between;width:100%;border:0;background:none;
+  padding:6px 8px;border-radius:7px;cursor:pointer;text-align:left}
+.phead:hover{background:var(--surface-2)}
+.phead .pl{font-weight:600}
+.pill{font-size:11.5px;color:var(--muted);background:var(--surface-2);border:1px solid var(--line);
+  border-radius:20px;padding:0 8px;white-space:nowrap}
+.pill.done{color:var(--ok);border-color:color-mix(in srgb,var(--ok) 40%,var(--line))}
+.navnote{display:flex;align-items:center;gap:8px;width:100%;border:0;background:none;text-align:left;
+  padding:5px 8px 5px 22px;border-radius:7px;cursor:pointer;color:var(--muted)}
+.navnote:hover{background:var(--surface-2);color:var(--ink)}
+.navnote.cur{background:var(--surface);color:var(--ink);box-shadow:inset 3px 0 0 var(--accent)}
+.dot{width:9px;height:9px;border-radius:50%;border:1.5px solid var(--faint);flex:none}
+.dot.part{border-color:var(--warn);background:linear-gradient(90deg,var(--warn) 50%,transparent 50%)}
+.dot.done{border-color:var(--ok);background:var(--ok)}
+.dot.blocked{border-color:var(--bad);background:transparent;border-style:dashed}
+
+/* ---------- note header ---------- */
+.notehead{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:0 auto 12px;max-width:78ch}
+.where{font-weight:600;font-size:15.5px}
+.where small{color:var(--muted);font-weight:400;margin-left:6px}
+.steps{display:flex;align-items:center;gap:6px;margin-left:auto}
+.step{border:1px solid var(--line-2);background:var(--surface);border-radius:20px;padding:5px 12px;cursor:pointer;
+  color:var(--muted);display:flex;gap:6px;align-items:center}
+.step .n{display:inline-grid;place-items:center;width:18px;height:18px;border-radius:50%;background:var(--line);
+  color:var(--muted);font-size:11.5px;font-weight:700}
+.step.on{border-color:var(--accent);color:var(--ink)}
+.step.on .n{background:var(--accent);color:var(--accent-ink)}
+.step.seen .n::after{content:"✓";font-size:10px}
+.step.seen .n{font-size:0}
+.arrow{color:var(--faint)}
+
+.banner{max-width:78ch;margin:0 auto 12px;border-radius:10px;padding:10px 14px;font-size:14px;display:none;
+  border:1px solid var(--line);background:var(--surface-2)}
+.banner.show{display:block}
+.banner.q{border-color:color-mix(in srgb,var(--q-line) 45%,var(--line));background:var(--q-tint)}
+.banner.blocked{border-color:color-mix(in srgb,var(--bad) 40%,var(--line))}
+
+/* ---------- the note ---------- */
+.note{max-width:78ch;margin:0 auto;background:var(--surface);border:1px solid var(--line);border-radius:14px;
+  box-shadow:var(--shadow);padding:28px 34px;font-size:var(--note-size);line-height:1.75;white-space:pre-wrap;
+  overflow-wrap:anywhere;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+.note.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:calc(var(--note-size) - 1.5px)}
+.note.blackout{background:color-mix(in srgb,var(--surface) 96%,var(--rm-tint))}
+.lookhint{max-width:78ch;margin:0 auto 10px;color:var(--muted);font-size:13px}
+
+/* removal: see-through */
+mark.u{background:var(--rm-tint);color:inherit;border-radius:4px;padding:1px 1px;
+  box-shadow:inset 0 -2px 0 var(--rm-line);cursor:pointer}
+mark.u.mine{background:var(--mine-tint);box-shadow:inset 0 -2px 0 var(--mine-line),0 0 0 1px var(--mine-line)}
+mark.u.unsure{box-shadow:inset 0 -2px 0 var(--rm-line);background-image:repeating-linear-gradient(135deg,transparent 0 5px,
+  color-mix(in srgb,var(--rm-line) 14%,transparent) 5px 7px)}
+/* removal: blacked out */
+.blk{display:inline-block;background:var(--rm-block);color:var(--rm-block-ink);border-radius:5px;padding:0 7px;
+  font-size:.74em;font-weight:650;letter-spacing:.6px;line-height:1.55;vertical-align:.08em;cursor:pointer;
+  user-select:none;-webkit-user-select:none}
+.blk.mine{background:color-mix(in srgb,var(--mine-line) 82%,var(--rm-block))}
+.blk.yr{background:transparent;color:var(--ink);box-shadow:inset 0 -2px 0 var(--rm-line);font-size:1em;
+  font-weight:inherit;letter-spacing:0;padding:0 2px}
+/* secondary marks */
+.s{border-radius:3px}
+.s.q{background:var(--q-tint);box-shadow:inset 0 -2px 0 0 var(--q-line);cursor:pointer;
+  text-decoration:underline dashed var(--q-line);text-underline-offset:5px;text-decoration-thickness:1.5px}
+.s.q.ok{background:transparent;box-shadow:none;text-decoration:underline dotted var(--faint);text-underline-offset:5px}
+.s.rare{outline:1.5px solid var(--rare-line);outline-offset:1px;background:var(--rare-tint);cursor:pointer}
+.s.rare.ok{outline-style:dotted;background:transparent}
+.s.gen{text-decoration:underline dotted var(--gen-line);text-decoration-thickness:2px;text-underline-offset:5px;cursor:help}
+.s.genv{background:var(--gen-tint);border-radius:4px;padding:0 3px;box-shadow:inset 0 -2px 0 var(--gen-line)}
+.s.lds{text-decoration:underline dotted var(--lds-line);text-underline-offset:5px;cursor:help}
+.s.kept{text-decoration:line-through;text-decoration-color:var(--rm-line);text-decoration-thickness:1.5px;
+  color:var(--muted);cursor:pointer}
+.focus{outline:2px solid var(--focus)!important;outline-offset:2px}
+
+/* ---------- panel ---------- */
+.ph{font-size:12px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;color:var(--muted);margin:14px 4px 6px}
+.ph:first-child{margin-top:2px}
+.item{display:flex;align-items:flex-start;gap:8px;padding:7px 8px;border-radius:8px;cursor:pointer;border:1px solid transparent}
+.item:hover{background:var(--surface-2);border-color:var(--line)}
+.item.focus{outline:none!important;border-color:var(--focus);background:var(--surface-2)}
+.sw{width:14px;height:14px;border-radius:4px;flex:none;margin-top:3px}
+.sw.rm{background:var(--rm-tint);box-shadow:inset 0 -2px 0 var(--rm-line)}
+.sw.mine{background:var(--mine-tint);box-shadow:inset 0 0 0 1.5px var(--mine-line)}
+.sw.q{background:var(--q-tint);box-shadow:inset 0 -2px 0 var(--q-line)}
+.sw.rare{background:var(--rare-tint);box-shadow:inset 0 0 0 1.5px var(--rare-line)}
+.sw.gen{background:var(--gen-tint);box-shadow:inset 0 -2px 0 var(--gen-line)}
+.sw.lds{background:transparent;box-shadow:inset 0 -2px 0 var(--lds-line)}
+.sw.kept{background:transparent;box-shadow:inset 0 0 0 1.5px var(--faint)}
+.it{flex:1;min-width:0}
+.it .t{font-weight:560;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.it .d{font-size:12.5px;color:var(--muted)}
+.it .d b{color:var(--ink);font-weight:600}
+.state{font-size:11.5px;border-radius:20px;padding:0 7px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.state.need{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 45%,var(--line))}
+.state.done{color:var(--ok);border-color:color-mix(in srgb,var(--ok) 45%,var(--line))}
+.legend{display:grid;grid-template-columns:auto 1fr;gap:5px 8px;font-size:12.5px;color:var(--muted);margin:4px 4px 0}
+.legend .sw{margin-top:2px}
+.empty{color:var(--faint);font-size:13px;padding:4px 8px}
+
+/* ---------- popover, dialogs, toast ---------- */
+#pop{position:absolute;z-index:40;background:var(--surface);border:1px solid var(--line-2);border-radius:12px;
+  box-shadow:var(--shadow);padding:12px;min-width:250px;max-width:340px;font-size:14px}
+#pop .pt{font-weight:650;margin-bottom:2px}
+#pop .pd{color:var(--muted);font-size:13px;margin-bottom:10px}
+#pop .row{display:flex;gap:6px;flex-wrap:wrap}
+#pop .grid{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+#pop .grid .btn{text-align:left;display:flex;justify-content:space-between;gap:8px}
+dialog{border:1px solid var(--line-2);border-radius:14px;background:var(--surface);color:var(--ink);
+  box-shadow:var(--shadow);padding:22px 24px;max-width:560px;width:calc(100% - 32px)}
+dialog::backdrop{background:rgba(20,18,14,.35)}
+dialog h2{margin:0 0 8px;font-size:19px}
+dialog p{margin:6px 0 12px;color:var(--muted)}
+dialog label{display:block;margin:12px 0 4px;font-weight:600}
+dialog input[type=text]{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--line-2);border-radius:8px;
+  background:var(--surface-2);color:var(--ink)}
+dialog .check{display:flex;gap:10px;align-items:flex-start;font-weight:400;color:var(--ink)}
+dialog .foot{display:flex;justify-content:flex-end;gap:8px;margin-top:18px}
+.stats{display:grid;grid-template-columns:1fr auto;gap:4px 16px;font-size:14px;background:var(--surface-2);
+  border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+.stats span:nth-child(even){font-weight:650;text-align:right}
+.keys{position:fixed;bottom:0;left:0;right:0;padding:6px 20px;font-size:12.5px;color:var(--muted);
+  background:color-mix(in srgb,var(--bg) 92%,transparent);border-top:1px solid var(--line);backdrop-filter:blur(6px);
+  display:flex;gap:16px;flex-wrap:wrap;z-index:15}
+#toast{position:fixed;left:50%;bottom:48px;transform:translateX(-50%) translateY(20px);opacity:0;
+  background:var(--ink);color:var(--bg);padding:8px 14px;border-radius:10px;font-size:13.5px;transition:all .2s;z-index:60;
+  pointer-events:none;max-width:90vw}
+#toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+
+/* ---------- resolve mode ---------- */
+.dcard{max-width:78ch;margin:0 auto 14px;background:var(--surface);border:1px solid var(--line);border-radius:14px;
+  box-shadow:var(--shadow);padding:16px 20px}
+.dcard .ctx{white-space:pre-wrap;font-size:var(--note-size);line-height:1.7;margin:8px 0 12px;color:var(--ink)}
+.dcard .meta{font-size:13px;color:var(--muted)}
+.dcard.done{opacity:.72}
+.choice{display:flex;gap:8px;flex-wrap:wrap}
+.choice .btn.sel{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+
+/* ---------- small screens ---------- */
+@media (max-width:1100px){
+  .layout{grid-template-columns:220px minmax(0,1fr)}
+  aside#panel{grid-column:2;border-left:0;border-top:1px solid var(--line);max-height:none;position:static}
+}
+@media (max-width:760px){
+  .layout{grid-template-columns:minmax(0,1fr)}
+  nav#side{position:static;max-height:220px;border-right:0;border-bottom:1px solid var(--line)}
+  aside#panel{grid-column:1}
+  main{padding:14px 16px 90px}
+  .note{padding:18px 16px}
+  .top{padding:10px 16px;position:static}
+  nav#side{top:auto}
+  .keys{display:none}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+/* ---------- additions: doctor's view, unsure, locks, alerts ---------- */
+:root{--doc-tint:#dcefed;--doc-line:#4f8d8a;--doc-block:#3f7d7a}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--doc-tint:#1f3a39;--doc-line:#79bdb8;--doc-block:#4f9994}}
+:root[data-theme="dark"]{--doc-tint:#1f3a39;--doc-line:#79bdb8;--doc-block:#4f9994}
+mark.u.uns{background:var(--q-tint);box-shadow:inset 0 -2px 0 var(--q-line)}
+mark.u.split{box-shadow:inset 0 -2px 0 var(--mine-line),0 0 0 1px color-mix(in srgb,var(--mine-line) 55%,transparent)}
+mark.u.open{background:var(--q-tint);box-shadow:inset 0 -2px 0 var(--q-line);outline:1.5px dashed var(--q-line);outline-offset:1px}
+mark.u.doc{background:var(--doc-tint);box-shadow:inset 0 -2px 0 var(--doc-line),0 0 0 1px var(--doc-line)}
+.blk.uns,.blk.open{background:color-mix(in srgb,var(--q-line) 80%,var(--rm-block))}
+.blk.doc{background:var(--doc-block)}
+.blk.split{background:color-mix(in srgb,var(--mine-line) 70%,var(--rm-block))}
+.s.pend{outline:2px dashed var(--focus);outline-offset:1px;border-radius:3px;background:color-mix(in srgb,var(--focus) 10%,transparent)}
+.sw.uns{background:var(--q-tint);box-shadow:inset 0 0 0 1.5px var(--q-line)}
+.sw.doc{background:var(--doc-tint);box-shadow:inset 0 0 0 1.5px var(--doc-line)}
+.sw.split{background:var(--mine-tint);box-shadow:inset 0 -2px 0 var(--mine-line)}
+.lock{font-size:11px;color:var(--muted);margin-left:4px}
+.votes{display:flex;gap:4px;flex-wrap:wrap;margin-top:3px}
+.vote{font-size:11px;border-radius:20px;padding:0 7px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.vote.remove{color:var(--rm-line);border-color:color-mix(in srgb,var(--rm-line) 50%,var(--line))}
+.vote.keep{color:var(--ok);border-color:color-mix(in srgb,var(--ok) 45%,var(--line))}
+.vote.unsure{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 45%,var(--line))}
+.item .acts{display:flex;gap:4px;margin-top:6px;flex-wrap:wrap}
+.alertline{max-width:78ch;margin:0 auto 10px;border-radius:10px;padding:8px 12px;font-size:13.5px;
+  background:var(--surface-2);border:1px solid var(--line);color:var(--muted)}
+.alertline b{color:var(--ink)}
+.violation{padding:9px 20px;font-size:13.5px;background:color-mix(in srgb,var(--bad) 14%,var(--bg));
+  border-bottom:1px solid color-mix(in srgb,var(--bad) 40%,var(--line));color:var(--ink)}
+.filter{display:flex;gap:8px;align-items:center;font-size:13px;color:var(--muted);padding:2px 8px 10px}
+.pill.open{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 45%,var(--line))}
+.dot.open{border-color:var(--warn);background:transparent;box-shadow:inset 0 0 0 2px var(--warn)}
+.acc{width:100%;border-collapse:collapse;font-size:14px;margin:6px 0 10px}
+.acc th,.acc td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line)}
+.acc th{font-size:12px;color:var(--muted);font-weight:650;text-transform:uppercase;letter-spacing:.5px}
+.acc td.n{text-align:right;font-variant-numeric:tabular-nums}
+dialog.wide{max-width:760px}
+.qlist{margin:6px 0 0;padding-left:18px;color:var(--muted);font-size:13.5px}
+.withheld{opacity:.55}
+.fbsec{margin:12px 0}
+.fbsec .ph{margin:0 0 6px}
+.rate,.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.rate .muted{margin-left:8px}
+.muted{color:var(--muted);font-size:13px}
+#fbdlg .btn[aria-pressed=true]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent);font-weight:650}
+#fbdlg textarea{width:100%;font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line-2);border-radius:8px;
+  background:var(--surface-2);color:var(--ink);resize:vertical;box-sizing:border-box}
+.fbrev{border:1px solid var(--line);border-radius:10px;padding:8px 10px;margin:6px 0}
+.fbrev .check{margin:0 0 4px}
+</style>
+</head>
+<body>
+<p class="verify-notice" role="note" style="margin:0;padding:6px 16px;font-size:12px;color:#555;background:#f6f1f2;border-bottom:1px solid #e5d5d9">Inkguard is an automated tool. It can make mistakes, including misreading context. A person must check every output before it is used.</p>
+<header class="top">
+  <div class="brand" id="brand">Review</div>
+  <div class="who">In development, not part of the 0.25.0 release.</div>
+  <div class="who" id="who"></div>
+  <div class="prog"><div class="bar"><span id="barfill"></span></div><small id="progtext"></small></div>
+  <div class="tools">
+    <button class="btn ghost small" id="smaller" title="Smaller text" aria-label="Smaller text">A−</button>
+    <button class="btn ghost small" id="larger" title="Larger text" aria-label="Larger text">A+</button>
+    <button class="btn ghost small" id="mono" title="Fixed-width text, for notes laid out in columns">Columns</button>
+    <button class="btn ghost small" id="theme" title="Light or dark" aria-label="Switch light or dark">◐</button>
+    <button class="btn ghost small" id="fbbtn" title="Feedback for the Inkguard maintainers (V)">Feedback</button>
+    <button class="btn ghost small" id="helpbtn" title="How this works (?)">Help</button>
+    <button class="btn small" id="accbtn" title="Accuracy report (A)" hidden>Accuracy</button>
+    <button class="btn small" id="savebtn" title="Save your progress to a file">Save progress</button>
+    <input type="file" id="importfile" accept=".json,application/json" hidden>
+    <button class="btn small" id="importbtn" title="Continue from a saved progress file">Open saved</button>
+    <button class="btn primary small" id="signbtn">Sign off</button>
+  </div>
+</header>
+<div class="warnline" id="warnline"><b>This page contains patient notes.</b> Keep it on this computer. Nothing on it is sent anywhere; your work is saved in this browser and in the files you save.</div>
+<div id="violations"></div>
+<div class="layout">
+  <nav id="side" aria-label="Patients and notes"></nav>
+  <main id="main">
+    <div class="notehead" id="notehead">
+      <div class="where" id="where"></div>
+      <div class="steps" id="steps">
+        <button class="step" data-look="see" title="Space"><span class="n">1</span>See-through</button>
+        <span class="arrow">→</span>
+        <button class="step" data-look="blackout" title="Space"><span class="n">2</span>Blacked out</button>
+      </div>
+      <button class="btn primary" id="confirm" title="Enter">Confirm note</button>
+    </div>
+    <div class="lookhint" id="lookhint"></div>
+    <div class="banner" id="banner"></div>
+    <div id="notealerts"></div>
+    <article class="note" id="note" aria-live="polite"></article>
+  </main>
+  <aside id="panel" aria-label="Items in this note"></aside>
+</div>
+<div class="keys" id="keys"></div>
+<div id="pop" hidden role="dialog"></div>
+<div id="toast" role="status"></div>
+
+<dialog id="signdlg">
+  <h2 id="signtitle">Sign off</h2>
+  <p id="signintro"></p>
+  <div class="stats" id="signstats"></div>
+  <label for="signname">Type your full name</label>
+  <input type="text" id="signname" autocomplete="off" spellcheck="false">
+  <label class="check"><input type="checkbox" id="signcheck"><span id="signstatement"></span></label>
+  <p class="muted">Feedback for the Inkguard maintainers is optional. <button class="btn ghost small" id="signfbbtn">Add feedback</button></p>
+  <div class="foot">
+    <button class="btn" id="signcancel">Not yet</button>
+    <button class="btn primary" id="signok" disabled>Sign off and save file</button>
+  </div>
+</dialog>
+
+<dialog id="helpdlg">
+  <h2 id="helptitle">How this review works</h2>
+  <p id="helpintro"></p>
+  <div class="legend" id="helplegend"></div>
+  <p style="margin-top:14px" id="helpkeys"></p>
+  <div class="foot"><button class="btn primary" id="helpclose">Got it</button></div>
+</dialog>
+
+<dialog id="fbdlg" class="wide">
+  <h2>Feedback for the Inkguard maintainers</h2>
+  <div id="fbbody"></div>
+  <div class="foot"><button class="btn primary" id="fbclose">Done</button></div>
+</dialog>
+
+<dialog id="accdlg" class="wide">
+  <h2>Accuracy report</h2>
+  <p>Measured against the final version you are building: the best reference there is, not an absolute truth. It updates as you decide.</p>
+  <div id="accbody"></div>
+  <div class="foot"><button class="btn primary" id="accclose">Close</button></div>
+</dialog>
+
+<script>const DATA = __DATA__;</script>
+<script>
+"use strict";
+(function(){
+const $ = (s, el) => (el || document).querySelector(s);
+const $$ = (s, el) => [...(el || document).querySelectorAll(s)];
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const MODE = DATA.mode;                               // "review" | "doctor"
+const DOC = MODE === "doctor";
+const NOTES = DATA.notes, BY = {};
+NOTES.forEach(n => { BY[n.id] = n; });
+// The doctor's saved state belongs to exactly these reviewer files: a page
+// rebuilt from revised files starts fresh instead of reusing old rulings.
+const FILES_TAG = DOC ? ":" + DATA.batches.map(b => b.reviewer_files.R1.slice(0, 12) + b.reviewer_files.R2.slice(0, 12)).join(".") : "";
+const KEY = "phi-review:v3:" + DATA.batch + ":" + DATA.reviewer.id + FILES_TAG;
+const PREF = "phi-review:prefs";
+const TYPE_LABEL = {PERSON:"Name", DATE_TIME:"Date", LOCATION:"Place", PHONE_NUMBER:"Phone", FAX_NUMBER:"Fax",
+  EMAIL_ADDRESS:"Email", US_SSN:"SSN", MRN:"Record number", HEALTH_PLAN_ID:"Plan ID", ACCOUNT_NUMBER:"Account",
+  LICENSE_NUMBER:"License", VEHICLE_ID:"Vehicle ID", DEVICE_ID:"Device ID", URL:"Web address", IP_ADDRESS:"IP address",
+  UNIQUE_ID:"ID number", EMPLOYER:"Employer", FACILITY:"Place of care", AGE:"Age 90+", OTHER_IDENTIFIER:"Other identifier",
+  BIOMETRIC_ID:"Biometric", FULL_FACE_PHOTO:"Photo"};
+const ADD_CHOICES = [["name","Name"],["date","Date"],["place","Place"],["contact","Phone or email"],["id","ID number"],["other","Other"]]
+  .concat(DOC ? [] : [["unsure","Not sure — the doctor decides"]]);
+const REASON = {name_left_in:"a word on the name lists, left in", possible_person:"used like a person here",
+  lowercase_name:"a name written in lowercase", unknown_word:"a word none of its vocabularies explain",
+  unknown_acronym:"capitals nothing explains — possibly initials", unknown_code:"letters and digits shaped like an ID",
+  long_number:"a long number nothing explains", other_script:"text in another script",
+  initial_by_name:"a lone initial beside a removed name", date_left_in:"a day and month left in",
+  place_left_in:"a town left in", held:"the tool leaned towards a name here but left it in"};
+const VOTE_WORD = {remove:"removed", keep:"kept", unsure:"not sure"};
+
+/* ------------------------------------------------------------ words */
+// Marking snaps to whole words: letters and digits joined by inner
+// punctuation ("415-555-0199", "o'brien"). The release snaps the same way.
+const WORD = /[\p{L}\p{N}_@]+(?:[\-'’.\/][\p{L}\p{N}_@]+)*/gu;
+function snapRange(text, s, e){
+  let lo = null, hi = null, from = Math.max(0, s), to = Math.min(text.length, e);
+  // Words never hold white space: search from the white space around the span.
+  while (from > 0 && !/\s/.test(text[from - 1])) from--;
+  while (to < text.length && !/\s/.test(text[to])) to++;
+  const part = text.slice(from, to);
+  for (const m of part.matchAll(WORD)){
+    const a = from + m.index, b = a + m[0].length;
+    if (b <= s || a >= e) continue;
+    lo = lo === null ? a : Math.min(lo, a); hi = hi === null ? b : Math.max(hi, b);
+  }
+  return lo === null ? null : [lo, hi];
+}
+function wordCount(t){ return (t.match(WORD) || []).length; }
+function minSeconds(t){ return Math.max(3, wordCount(t) / 15); }
+
+/* ------------------------------------------------------------ state */
+function blank(){
+  return DOC
+    ? {kind:"phi-review-doctor", version:1, role:"doctor", pages:DATA.batch, reviewer:"DOC",
+       reviewer_name:DATA.reviewer.name, software_version:DATA.software_version,
+       started_at:new Date().toISOString(), notes:{}, signed_off:null}
+    : {kind:"phi-review-decisions", version:1, role:"reviewer", batch:DATA.batch, reviewer:DATA.reviewer.id,
+       reviewer_name:DATA.reviewer.name, software_version:DATA.software_version,
+       started_at:new Date().toISOString(), notes:{}, signed_off:null};
+}
+function load(){
+  try { const raw = localStorage.getItem(KEY);
+    if (raw){ const s = JSON.parse(raw); if (s && s.kind === blank().kind && (s.batch === DATA.batch || s.pages === DATA.batch)) return s; }
+  } catch (e) {}
+  return blank();
+}
+let S = load();
+function save(){ S.saved_at = new Date().toISOString(); try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} }
+function ns(id){
+  if (!S.notes[id]) S.notes[id] = DOC
+    ? {looks:{see:false, blackout:false}, opened:false, seconds:0, rulings:{}, decided_at:{}, add:[], withhold:false}
+    : {looks:{see:false, blackout:false}, confirmed_at:null, seconds:0, keep:[], unsure:[], add:[], answers:{}};
+  return S.notes[id];
+}
+let prefs = {size:17, mono:false, theme:"", openOnly:false};
+try { Object.assign(prefs, JSON.parse(localStorage.getItem(PREF) || "{}")); } catch (e) {}
+function savePrefs(){ try { localStorage.setItem(PREF, JSON.stringify(prefs)); } catch (e) {} }
+function applyPrefs(){
+  document.documentElement.style.setProperty("--note-size", prefs.size + "px");
+  if (prefs.theme) document.documentElement.setAttribute("data-theme", prefs.theme);
+  else document.documentElement.removeAttribute("data-theme");
+  const n = $("#note"); if (n) n.classList.toggle("mono", !!prefs.mono);
+  $("#mono").setAttribute("aria-pressed", prefs.mono ? "true" : "false");
+}
+
+/* ------------------------------------------------------------ helpers */
+function toast(msg){ const t = $("#toast"); t.textContent = msg; t.classList.add("show");
+  clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove("show"), 3200); }
+function download(obj, name){
+  const blob = new Blob([JSON.stringify(obj, null, 1)], {type:"application/json"});
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name;
+  document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+}
+function ready(n){ return n.status === "ready"; }
+function placeholder(entity){ return DATA.placeholders[entity] || "[REDACTED]"; }
+function mergeEntity(a, b){ return (a === "PERSON" || b === "PERSON") ? "PERSON" : (a === b ? a : "OTHER_IDENTIFIER"); }
+function stretch(n, s, e){
+  n.generalized.forEach(g => { if (s < g.end && g.start < e){ s = Math.min(s, g.start); e = Math.max(e, g.end); } });
+  return [s, e];
+}
+function now(){ return new Date().toISOString(); }
+
+/* ---- review mode: what this reviewer's note looks like ---- */
+function rNeeds(n, st){
+  return {q: n.questions.filter(x => !st.answers[x.id]).length, r: n.rare.filter(x => !st.answers[x.id]).length,
+          looks: !(st.looks.see && st.looks.blackout)};
+}
+function rConfirmable(n, st){ const k = rNeeds(n, st); return ready(n) && !k.looks && !k.q && !k.r; }
+function rChanged(id){
+  const st = ns(id);
+  st.looks.blackout = (look === "blackout");           // the leaving view must be seen again
+  const wasConfirmed = !!st.confirmed_at; st.confirmed_at = null;
+  const wasSigned = !!S.signed_off; S.signed_off = null;
+  if (wasSigned) toast("Changed after signing off — confirm this note again, then sign off again.");
+  else if (wasConfirmed) toast("Changed after confirming — look at it again and confirm.");
+  save();
+}
+function snapAdd(n, a){ const sn = snapRange(n.text, a.start, a.end); return sn ? stretch(n, sn[0], sn[1]) : null; }
+
+/* ---- doctor mode ---- */
+function dFinal(it, st){ return st.rulings[it.key] || it.default; }
+function dOpen(n, st){ return (n.items || []).filter(it => it.bucket && !st.rulings[it.key]).length; }
+function dChanged(id){
+  const st = ns(id);
+  if (S.signed_off){ S.signed_off = null; toast("Changed after signing — sign again when you are done."); }
+  st.looks.blackout = (look === "blackout");
+  save();
+}
+function isSplit(it){ return it.votes.R1 !== it.votes.R2; }
+
+/* ------------------------------------------------------------ units */
+function mergeUnits(parts, n){
+  parts.sort((a, b) => a.s - b.s || b.e - a.e);
+  const out = [];
+  for (const p of parts){
+    const last = out[out.length - 1];
+    if (last && p.s < last.e){ last.e = Math.max(last.e, p.e); last.members.push(p); last.entity = mergeEntity(last.entity, p.entity); continue; }
+    out.push({s:p.s, e:p.e, entity:p.entity, members:[p]});
+  }
+  out.forEach(u => {
+    u.unsureOnly = u.members.every(m => m.unsure);
+    u.label = (u.members.length === 1 && u.members[0].src === "engine" && !u.members[0].touched) ? u.members[0].shows
+            : (u.members.length === 1 && u.members[0].src === "engine" && u.members[0].unsureLayer) ? "[NAME]"
+            : placeholder(u.entity);
+    const kinds = new Set(u.members.map(m => m.cls || ""));
+    u.cls = ["doc", "open", "uns", "mine", "split"].find(k => kinds.has(k)) || "";
+  });
+  return out;
+}
+function units(n, st){
+  const parts = [];
+  if (!DOC){
+    const keep = new Set(st.keep), uns = new Set(st.unsure);
+    n.removals.forEach(r => { if (!keep.has(r.id)) parts.push({s:r.start, e:r.end, entity:r.entity, shows:r.shows,
+      src:"engine", ref:r.id, cls: uns.has(r.id) ? "uns" : "", unsureLayer: r.unsure}); });
+    st.add.forEach((a, i) => { const sp = snapAdd(n, a); if (!sp) return;
+      parts.push({s:sp[0], e:sp[1], entity:DATA.add_types[a.type] || "OTHER_IDENTIFIER", src:"mine", ref:"a" + i,
+                  cls: a.type === "unsure" ? "uns" : "mine"}); });
+    n.questions.forEach(q => { const ans = st.answers[q.id]; if (ans === "remove" || ans === "unsure"){
+      const [s, e] = stretch(n, q.start, q.end); parts.push({s, e, entity:q.entity, src:"answer", ref:q.id, cls: ans === "unsure" ? "uns" : "mine"}); } });
+  } else {
+    (n.items || []).forEach(it => { if (dFinal(it, st) !== "remove") return;
+      const open = it.bucket && !st.rulings[it.key];
+      parts.push({s:it.start, e:it.end, entity:it.entity, shows:it.shows, src: it.source === "engine" ? "engine" : "review",
+        ref:"i:" + it.key, cls: open ? "open" : (isSplit(it) ? "split" : ""), unsureLayer: it.layer === "uncertain"}); });
+    st.add.forEach((a, i) => { const sp = snapAdd(n, a); if (!sp) return;
+      parts.push({s:sp[0], e:sp[1], entity:DATA.add_types[a.type] || "OTHER_IDENTIFIER", src:"doc", ref:"d" + i, cls:"doc"}); });
+  }
+  return mergeUnits(parts, n);
+}
+function secondary(n, st){
+  const out = [];
+  if (!DOC){
+    const keep = new Set(st.keep);
+    n.removals.forEach(r => { if (keep.has(r.id)) out.push({s:r.start, e:r.end, cls:"kept", ref:r.id}); });
+    n.questions.forEach(q => { const a = st.answers[q.id]; if (a !== "remove" && a !== "unsure")
+      out.push({s:q.start, e:q.end, cls: a === "fine" ? "q ok" : "q", ref:q.id}); });
+    n.rare.forEach(f => out.push({s:f.start, e:f.end, cls: st.answers[f.id] ? "rare ok" : "rare", ref:f.id}));
+  } else {
+    (n.items || []).forEach(it => { if (dFinal(it, st) === "keep") out.push({s:it.start, e:it.end, cls:"kept", ref:"i:" + it.key}); });
+    n.rare.forEach(f => out.push({s:f.start, e:f.end, cls:"rare ok", ref:"x:" + f.id}));
+  }
+  n.generalized.forEach((g, i) => out.push({s:g.start, e:g.end, cls:"gen", ref:"g" + i, shows:g.shows}));
+  n.kept.forEach((k, i) => out.push({s:k.start, e:k.end, cls:"lds", ref:"k" + i}));
+  if (pending && pending.id === curId) out.push({s:pending.s, e:pending.e, cls:"pend", ref:"pend"});
+  return out;
+}
+
+/* ------------------------------------------------------------ render */
+let curId = null, look = "see", focusRef = null, pending = null;
+const ORDER = [];
+DATA.patients.forEach(p => p.notes.forEach(id => ORDER.push(id)));
+
+function renderRun(text, from, to, sec){
+  const cuts = new Set([from, to]);
+  sec.forEach(x => { if (x.e > from && x.s < to){ cuts.add(Math.max(from, x.s)); cuts.add(Math.min(to, x.e)); } });
+  const pts = [...cuts].sort((a, b) => a - b);
+  let html = "";
+  for (let i = 0; i < pts.length - 1; i++){
+    const a = pts[i], b = pts[i + 1]; if (a >= b) continue;
+    const on = sec.filter(x => x.s <= a && x.e >= b);
+    const seg = text.slice(a, b);
+    if (!on.length){ html += '<span data-s="' + a + '">' + esc(seg) + "</span>"; continue; }
+    const gen = on.find(x => x.cls === "gen");
+    if (gen && look === "blackout"){
+      if (a === gen.s) html += '<span class="s genv" data-ref="' + gen.ref + '" title="Generalized under Safe Harbor">' + esc(gen.shows) + "</span>";
+      continue;
+    }
+    const cls = on.map(x => x.cls).join(" ");
+    const pick = on.find(x => x.cls === "pend") || on.find(x => x.cls.startsWith("q") && !x.cls.includes("ok"))
+      || on.find(x => x.cls.startsWith("rare") && !x.cls.includes("ok")) || on.find(x => x.cls === "kept") || on[0];
+    html += '<span class="s ' + cls + '" data-s="' + a + '" data-ref="' + pick.ref + '">' + esc(seg) + "</span>";
+  }
+  return html;
+}
+function renderNote(){
+  const n = BY[curId], st = ns(curId), el = $("#note");
+  el.classList.toggle("blackout", look === "blackout");
+  el.classList.toggle("mono", !!prefs.mono);
+  el.classList.toggle("withheld", DOC && !!st.withhold);
+  if (!ready(n)){ el.innerHTML = '<span class="empty">This note is not shown. The tool could not process it safely, so it will not be released. It is listed in the batch report.</span>'; return; }
+  const us = units(n, st), sec = secondary(n, st), text = n.text;
+  let html = "", pos = 0;
+  us.forEach((u, i) => {
+    html += renderRun(text, pos, u.s, sec.filter(x => x.cls !== "kept" || !(x.s < u.e && u.s < x.e)));
+    const refs = u.members.map(m => m.ref).join(" ");
+    const title = (TYPE_LABEL[u.entity] || "Identifier") + " — leaves as " + u.label;
+    if (look === "see"){
+      html += '<mark class="u ' + u.cls + '" data-s="' + u.s + '" data-ref="' + refs + '" title="' + esc(title) + '">' + esc(text.slice(u.s, u.e)) + "</mark>";
+    } else {
+      const bracket = /^\[.*\]$/.test(u.label);
+      html += '<span class="blk ' + u.cls + (bracket ? "" : " yr") + '" data-ref="' + refs + '" title="' + esc(title) + '">' +
+        esc(bracket ? u.label.slice(1, -1) : u.label) + "</span>";
+    }
+    pos = Math.max(pos, u.e);
+  });
+  html += renderRun(text, pos, text.length, sec);
+  el.innerHTML = html;
+  if (focusRef) highlightFocus();
+}
+function renderHead(){
+  const n = BY[curId], st = ns(curId), p = DATA.patients[n.patient];
+  const k = p.notes.indexOf(curId) + 1;
+  $("#where").innerHTML = esc(p.label) + "<small>Note " + k + " of " + p.notes.length + "</small>";
+  $$(".step").forEach(b => { b.classList.toggle("on", b.dataset.look === look); b.classList.toggle("seen", !!st.looks[b.dataset.look]); b.disabled = !ready(n); });
+  const c = $("#confirm");
+  if (!DOC){
+    c.disabled = !rConfirmable(n, st);
+    c.textContent = st.confirmed_at ? "Confirmed ✓" : "Confirm note";
+    const need = rNeeds(n, st), bits = [];
+    if (need.looks) bits.push("both looks"); if (need.q) bits.push(need.q + " question" + (need.q > 1 ? "s" : ""));
+    if (need.r) bits.push(need.r + " rare-disease flag" + (need.r > 1 ? "s" : ""));
+    c.title = st.confirmed_at ? "Confirmed" : (bits.length && ready(n) ? "Still needed: " + bits.join(", ") : "Enter");
+  } else {
+    const open = dOpen(n, st);
+    c.disabled = false;
+    c.textContent = open ? open + " to decide" : "Next open note →";
+    c.title = "Enter: the next note with open items";
+  }
+  $("#lookhint").textContent = !ready(n) ? "" : look === "see"
+    ? (DOC ? "See-through. Tinted words leave as placeholders; dashed ones wait for you; struck-through ones stay in." :
+       "Look 1 · See-through. Everything the tool will remove is tinted but readable. Click a word or drag across words to mark them.")
+    : "Blacked out. This is the note exactly as it will leave. Read it as a stranger would: could anything here point to the patient?";
+  const b = $("#banner"); b.className = "banner"; b.innerHTML = "";
+  if (!ready(n)){ b.className = "banner show blocked"; b.textContent = "Not releasable: " + (n.block_reason || "the tool stopped on this note") + "."; }
+  else if (!DOC){
+    const need = rNeeds(n, st);
+    if (need.q || need.r){ b.className = "banner show q";
+      b.innerHTML = "<b>The tool is asking you about " + (need.q + need.r) + " thing" + (need.q + need.r > 1 ? "s" : "") +
+        " in this note.</b> They are marked with a dashed underline or an outline. Answer each before confirming."; }
+  } else {
+    const open = dOpen(n, st);
+    if (st.withhold){ b.className = "banner show blocked"; b.textContent = "You are withholding this note: it will not be released."; }
+    else if (open){ b.className = "banner show q"; b.innerHTML = "<b>" + open + " item" + (open > 1 ? "s" : "") +
+      " in the unsure bucket.</b> Dashed words: decide keep or remove (panel on the right, or X / R)."; }
+  }
+  const al = DOC ? (n.alerts || []) : [];
+  $("#notealerts").innerHTML = al.length ? '<div class="alertline"><b>For a quick look:</b> ' + al.map(esc).join(" ") + "</div>" : "";
+}
+function voteChips(it){
+  return '<div class="votes">' + ["R1", "R2"].map(r => '<span class="vote ' + it.votes[r] + '">Reviewer ' + r[1] + ": " + VOTE_WORD[it.votes[r]] + "</span>").join("") + "</div>";
+}
+function itemHTML(ref, sw, t, d, state, extra){
+  const stCls = ["answer", "check", "decide"].includes(state) ? "need" : (state ? "done" : "");
+  return '<div class="item" data-ref="' + ref + '" tabindex="0"><span class="sw ' + sw + '"></span><div class="it"><div class="t">' +
+    esc(t.replace(/\s+/g, " ")) + '</div><div class="d">' + d + "</div>" + (extra || "") + "</div>" +
+    (state ? '<span class="state ' + stCls + '">' + esc(state) + "</span>" : "") + "</div>";
+}
+function renderPanel(){
+  const n = BY[curId], st = ns(curId), P = $("#panel");
+  if (!ready(n)){ P.innerHTML = legendHTML(); return; }
+  let h = "";
+  if (!DOC){
+    const qs = n.questions.map(q => ({ref:q.id, sw: st.answers[q.id] === "remove" ? "mine" : (st.answers[q.id] === "unsure" ? "uns" : "q"),
+      t:n.text.slice(q.start, q.end), d:REASON[q.reason] || "the tool is unsure",
+      st: st.answers[q.id] ? ({remove:"removed", fine:"fine", unsure:"not sure"}[st.answers[q.id]]) : "answer"}));
+    const fl = n.rare.map(f => ({ref:f.id, sw:"rare", t:n.text.slice(f.start, f.end),
+      d:"Rare disease" + (f.also.length ? " — also here: " + f.also.join(", ") : ""), st: st.answers[f.id] ? (st.answers[f.id] === "unsure" ? "not sure" : "checked") : "check"}));
+    if (qs.length || fl.length){ h += '<div class="ph">Needs your decision</div>'; qs.concat(fl).forEach(x => { h += itemHTML(x.ref, x.sw, x.t, esc(x.d), x.st); }); }
+    h += '<div class="ph">Removed by the tool · ' + n.removals.length + "</div>";
+    if (!n.removals.length) h += '<div class="empty">Nothing.</div>';
+    n.removals.forEach(r => {
+      const kept = st.keep.includes(r.id), uns = st.unsure.includes(r.id);
+      h += itemHTML(r.id, kept ? "kept" : (uns ? "uns" : "rm"), n.text.slice(r.start, r.end),
+        (TYPE_LABEL[r.entity] || "Identifier") + " → <b>" + esc(r.shows) + "</b>" + (r.certain ? '<span class="lock" title="The tool is certain">🔒 certain</span>' : ""),
+        kept ? "kept" : (uns ? "not sure" : ""));
+    });
+    if (st.add.length){ h += '<div class="ph">Your marks · ' + st.add.length + "</div>";
+      st.add.forEach((a, i) => { h += itemHTML("a" + i, a.type === "unsure" ? "uns" : "mine", n.text.slice(a.start, a.end),
+        (a.type === "unsure" ? "Not sure — the doctor decides" : (TYPE_LABEL[DATA.add_types[a.type]] || "Other")) + (a.propagated_from ? " · copied from another note" : ""), ""); }); }
+  } else {
+    const items = n.items || [];
+    const bucket = items.filter(it => it.bucket), split = items.filter(it => !it.bucket && isSplit(it));
+    const bothKeep = items.filter(it => !it.bucket && it.votes.R1 === "keep" && it.votes.R2 === "keep");
+    const bothRemove = items.filter(it => !it.bucket && it.votes.R1 === "remove" && it.votes.R2 === "remove");
+    const label = it => (TYPE_LABEL[it.entity] || "Identifier") + ({engine:" · found by the tool", question:" · the tool asked", mark:" · marked by a reviewer", rare:" · rare disease"}[it.source] || "") +
+      (it.certain ? '<span class="lock">🔒 certain</span>' : "");
+    const row = (it, sw) => { const fin = dFinal(it, st), r = st.rulings[it.key];
+      return itemHTML("i:" + it.key, sw, n.text.slice(it.start, it.end), label(it), it.bucket && !r ? "decide" : (fin === "keep" ? "stays in" : "removed"), voteChips(it)); };
+    h += '<div class="ph">Unsure bucket · ' + bucket.filter(it => !st.rulings[it.key]).length + " open of " + bucket.length + "</div>";
+    if (!bucket.length) h += '<div class="empty">Nothing for you to decide here.</div>';
+    bucket.forEach(it => { h += row(it, st.rulings[it.key] ? (dFinal(it, st) === "keep" ? "kept" : "rm") : "q"); });
+    if (split.length){ h += '<div class="ph">Reviewers disagreed · ' + split.length + "</div>"; split.forEach(it => { h += row(it, dFinal(it, st) === "keep" ? "kept" : "split"); }); }
+    if (bothKeep.length){ h += '<div class="ph">Kept by both reviewers · ' + bothKeep.length + "</div>"; bothKeep.forEach(it => { h += row(it, dFinal(it, st) === "keep" ? "kept" : "rm"); }); }
+    if (bothRemove.length){ h += '<div class="ph">Removed by both · ' + bothRemove.length + "</div>";
+      bothRemove.forEach(it => { h += row(it, "rm"); }); }
+    if (st.add.length){ h += '<div class="ph">Your marks · ' + st.add.length + "</div>";
+      st.add.forEach((a, i) => { h += itemHTML("d" + i, "doc", n.text.slice(a.start, a.end), (TYPE_LABEL[DATA.add_types[a.type]] || "Other") + (a.propagated_from ? " · copied from another note" : ""), ""); }); }
+    h += '<div class="ph">This note</div><div class="item" data-act="withhold" tabindex="0"><span class="sw kept"></span><div class="it"><div class="t">' +
+      (st.withhold ? "Release this note after all" : "Withhold this note") + '</div><div class="d">' +
+      (st.withhold ? "It is being withheld." : "Keep it out of the release entirely (W).") + "</div></div></div>";
+    const secs = n.seconds || {};
+    h += '<div class="empty">Reviewer time on this note: ' + Math.round(secs.R1 || 0) + " s and " + Math.round(secs.R2 || 0) + " s.</div>";
+  }
+  if (n.generalized.length){ h += '<div class="ph">Generalized</div>';
+    n.generalized.forEach((g, i) => { h += itemHTML("g" + i, "gen", n.text.slice(g.start, g.end), (g.kind === "ZIP" ? "ZIP" : "Age") + " → <b>" + esc(g.shows) + "</b>", ""); }); }
+  if (n.kept.length){ h += '<div class="ph">Kept by the Limited Data Set</div>';
+    n.kept.forEach((k, i) => { h += itemHTML("k" + i, "lds", n.text.slice(k.start, k.end), esc(TYPE_LABEL[k.entity] || k.entity), ""); }); }
+  h += legendHTML();
+  P.innerHTML = h;
+  if (focusRef) highlightFocus();
+}
+function legendHTML(){
+  const rows = DOC
+    ? [["rm","Removed (both reviewers, or the tool and both)"],["split","Removed, but the reviewers disagreed"],["q","Unsure bucket — you decide (dashed)"],
+       ["doc","Your mark"],["kept","Stays in (struck through)"],["rare","Rare disease"],["gen","Generalized (ZIP to 3 digits, age to 90+)"]]
+    : [["rm","Will be removed (tinted, readable)"],["mine","Your mark"],["uns","Not sure — the doctor decides"],["q","The tool asks you (dashed)"],
+       ["rare","Rare disease — check the combination"],["gen","Generalized (ZIP to 3 digits, age to 90+)"],["kept","You chose to keep"]];
+  if (DATA.profile === "limited_data_set") rows.push(["lds", "Kept by the Limited Data Set"]);
+  return '<div class="ph">Key</div><div class="legend">' + rows.map(r => '<span class="sw ' + r[0] + '"></span><span>' + r[1] + "</span>").join("") + "</div>";
+}
+function noteState(id){
+  const n = BY[id], st = ns(id);
+  if (!ready(n)) return "blocked";
+  if (!DOC) return st.confirmed_at ? "done" : ((st.looks.see || st.looks.blackout) ? "part" : "");
+  if (dOpen(n, st)) return "open";
+  return st.opened ? "done" : "";
+}
+function renderSide(){
+  let h = "";
+  if (DOC) h += '<label class="filter"><input type="checkbox" id="openonly"' + (prefs.openOnly ? " checked" : "") + "> Only notes with open items</label>";
+  DATA.patients.forEach(p => {
+    const ids = p.notes;
+    const states = ids.map(noteState);
+    if (DOC && prefs.openOnly && !states.includes("open") && !ids.includes(curId)) return;
+    const done = states.filter(s => s === "done" || s === "blocked").length, open = states.filter(s => s === "open").length;
+    const isOpen = ids.includes(curId);
+    h += '<div class="pgroup"><button class="phead" data-p="' + p.index + '"><span class="pl">' + esc(p.label) + '</span><span class="pill' +
+      (open ? " open" : (done === ids.length ? " done" : "")) + '">' + (open ? open + " open" : done + "/" + ids.length) + "</span></button>";
+    if (isOpen) ids.forEach((id, k) => {
+      const s = noteState(id);
+      h += '<button class="navnote' + (id === curId ? " cur" : "") + '" data-id="' + id + '"><span class="dot ' + s + '"></span>Note ' + (k + 1) +
+        (s === "blocked" ? " · not releasable" : "") + (DOC && ns(id).withhold ? " · withheld" : "") + "</button>";
+    });
+    h += "</div>";
+  });
+  $("#side").innerHTML = h;
+  const cur = $(".navnote.cur"); if (cur) cur.scrollIntoView({block:"center"});
+}
+function renderProgress(){
+  const readyIds = ORDER.filter(id => ready(BY[id]));
+  let done, text;
+  if (!DOC){ done = readyIds.filter(id => ns(id).confirmed_at).length; text = done + " of " + readyIds.length + " notes confirmed"; }
+  else {
+    let total = 0, open = 0; readyIds.forEach(id => { const n = BY[id]; total += (n.items || []).filter(it => it.bucket).length; open += dOpen(n, ns(id)); });
+    done = total - open; const opened = readyIds.filter(id => ns(id).opened).length;
+    text = done + "/" + total + " decided · " + opened + "/" + readyIds.length + " opened";
+    $("#progtext").title = done + " of " + total + " unsure items decided; " + opened + " of " + readyIds.length + " notes opened";
+    $("#barfill").style.width = (total ? 100 * done / total : 100) + "%";
+    $("#progtext").textContent = text; $("#signbtn").textContent = S.signed_off ? "Signed off ✓" : "Sign off"; return;
+  }
+  $("#barfill").style.width = (readyIds.length ? 100 * done / readyIds.length : 100) + "%";
+  $("#progtext").textContent = text;
+  $("#signbtn").textContent = S.signed_off ? "Signed off ✓" : "Sign off";
+}
+function renderAll(){ renderHead(); renderNote(); renderPanel(); renderSide(); renderProgress(); }
+
+/* ------------------------------------------------------------ navigation */
+function openNote(id, lk){
+  hidePop(); pending = null; curId = id; focusRef = null;
+  const st = ns(id);
+  look = lk || (st.looks.see && !st.looks.blackout ? "blackout" : "see");
+  if (ready(BY[id])){ st.looks[look] = true; if (DOC) st.opened = true; save(); }
+  renderAll(); window.scrollTo({top:0});
+}
+function setLook(lk){ if (!ready(BY[curId])) return; look = lk; ns(curId).looks[lk] = true; save(); hidePop(); renderHead(); renderNote(); renderSide(); }
+function visible(id){ return !(DOC && prefs.openOnly) || noteState(id) === "open" || id === curId; }
+function step(d){
+  let i = ORDER.indexOf(curId);
+  for (let k = 0; k < ORDER.length; k++){ i += d; if (i < 0 || i >= ORDER.length) return; if (visible(ORDER[i])) { openNote(ORDER[i]); return; } }
+}
+function nextWhere(pred){
+  const i = ORDER.indexOf(curId);
+  for (let k = 1; k <= ORDER.length; k++){ const id = ORDER[(i + k) % ORDER.length]; if (pred(id)) return id; }
+  return null;
+}
+function confirmNote(){
+  if (DOC){
+    const nx = nextWhere(id => noteState(id) === "open");
+    if (nx) openNote(nx); else { renderAll(); toast("Nothing left in the unsure bucket. Look through anything you like, then sign off."); }
+    return;
+  }
+  const n = BY[curId], st = ns(curId);
+  if (!rConfirmable(n, st)){ renderHead(); const t = $("#confirm").title; toast(t.startsWith("Still") ? t : "Look at both views first."); return; }
+  if (!st.confirmed_at){
+    st.confirmed_at = now(); save();
+    const need = minSeconds(n.text);
+    if ((st.seconds || 0) < need) toast("Confirmed. A second look is always welcome.");
+  }
+  const nx = nextWhere(id => ready(BY[id]) && !ns(id).confirmed_at);
+  if (nx) openNote(nx); else { renderAll(); toast("Every note is confirmed. Sign off when you are ready."); }
+}
+
+/* ------------------------------------------------------------ items & popover */
+function refsAt(el){ return (el.dataset.ref || "").split(" ").filter(Boolean); }
+function itemOrder(){
+  const n = BY[curId], st = ns(curId), list = [];
+  if (!ready(n)) return [];
+  if (!DOC){
+    n.questions.forEach(q => list.push({ref:q.id, s:q.start})); n.rare.forEach(f => list.push({ref:f.id, s:f.start}));
+    n.removals.forEach(r => list.push({ref:r.id, s:r.start})); st.add.forEach((a, i) => list.push({ref:"a" + i, s:a.start}));
+  } else {
+    (n.items || []).forEach(it => list.push({ref:"i:" + it.key, s:it.start, pri: it.bucket && !st.rulings[it.key] ? 0 : 1}));
+    st.add.forEach((a, i) => list.push({ref:"d" + i, s:a.start, pri:1}));
+  }
+  list.sort((a, b) => (a.pri || 0) - (b.pri || 0) || a.s - b.s);
+  return list.map(x => x.ref);
+}
+function moveFocus(d){
+  const list = itemOrder(); if (!list.length) return;
+  let i = list.indexOf(focusRef); i = i < 0 ? (d > 0 ? 0 : list.length - 1) : (i + d + list.length) % list.length;
+  focusRef = list[i]; highlightFocus(true);
+}
+function highlightFocus(scroll){
+  $$(".focus").forEach(e => e.classList.remove("focus"));
+  if (!focusRef) return;
+  let first = null;
+  $$("#note [data-ref]").forEach(e => { if (refsAt(e).includes(focusRef)){ e.classList.add("focus"); first = first || e; } });
+  const it = $('#panel .item[data-ref="' + focusRef + '"]'); if (it){ it.classList.add("focus"); if (scroll) it.scrollIntoView({block:"nearest"}); }
+  if (scroll && first) first.scrollIntoView({block:"center", behavior:"smooth"});
+}
+function hidePop(){ const p = $("#pop"); p.hidden = true; p.innerHTML = ""; }
+function placePop(anchor, rect){
+  const p = $("#pop"); p.hidden = false;
+  const r = rect || anchor.getBoundingClientRect(), w = p.offsetWidth, h = p.offsetHeight;
+  let left = r.left + window.scrollX, top = r.bottom + window.scrollY + 8;
+  left = Math.min(left, window.scrollX + document.documentElement.clientWidth - w - 12);
+  if (r.bottom + h + 16 > window.innerHeight) top = r.top + window.scrollY - h - 8;
+  p.style.left = Math.max(8, left) + "px"; p.style.top = Math.max(8, top) + "px";
+}
+function itemByRef(n, ref){ return (n.items || []).find(it => "i:" + it.key === ref); }
+function describe(ref){
+  const n = BY[curId], st = ns(curId);
+  if (!DOC){
+    if (ref[0] === "r"){ const r = n.removals.find(x => x.id === ref); if (!r) return null;
+      const kept = st.keep.includes(ref), uns = st.unsure.includes(ref);
+      const acts = [];
+      if (r.certain) acts.push([uns ? "Back to removed" : "Not sure — the doctor decides", "unsure", "U"]);
+      else { acts.push([kept ? "Remove it again" : "Keep this word — not patient information", "keep", "X"]);
+             acts.push([uns ? "Back to removed" : "Not sure — the doctor decides", "unsure", "U"]); }
+      return {title:(TYPE_LABEL[r.entity] || "Identifier") + (kept ? " — you chose to keep it" : uns ? " — sent to the doctor" : " — removed by the tool"),
+        desc: r.certain ? "The tool is certain of this one (found by its label or its exact format), so it can't be kept. If you doubt it, send it to the doctor."
+          : kept ? "It stays in only if the other reviewer also keeps it, or the doctor agrees."
+          : "Leaves as " + r.shows + (r.unsure ? ". The tool was unsure; it removed it to be safe." : "."), acts}; }
+    if (ref[0] === "a"){ const a = st.add[+ref.slice(1)]; if (!a) return null;
+      return {title:"Your mark — " + (a.type === "unsure" ? "not sure" : (TYPE_LABEL[DATA.add_types[a.type]] || "Other")),
+        desc: a.propagated_from ? "Copied from another note of this patient." : (a.type === "unsure" ? "Removed until the doctor decides." : "Removed because you marked it."),
+        acts:[["Undo my mark", "undo", "X"]]}; }
+    if (ref[0] === "q"){ const q = n.questions.find(x => x.id === ref); if (!q) return null; const ans = st.answers[ref];
+      return {title: q.kind === "tool_unsure" ? "The tool is unsure" : "The tool does not understand this word",
+        desc:(REASON[q.reason] || "") + (ans ? " · you answered: " + ({remove:"remove", fine:"fine", unsure:"not sure"}[ans]) : ""),
+        acts:[["Remove it", "remove", "R"], ["It's fine — leave it", "fine", "F"], ["Not sure — the doctor decides", "unsure", "U"]]}; }
+    if (ref[0] === "f"){ const f = n.rare.find(x => x.id === ref); if (!f) return null;
+      return {title:"Rare disease", desc:"A rare diagnosis is not an identifier by itself, but next to a town, an age or a job it can point to one patient." +
+        (f.also.length ? " Also in this note: " + f.also.join(", ") + "." : "") + " If a nearby detail would identify the patient, mark it.",
+        acts:[["Checked — the combination does not identify", "ok", "F"], ["Not sure — the doctor decides", "unsure", "U"]]}; }
+  } else {
+    if (ref.startsWith("i:")){ const it = itemByRef(n, ref); if (!it) return null; const fin = dFinal(it, st);
+      const src = {engine:"Found by the tool", question:"The tool asked about it", mark:"Marked by " + (it.who || []).map(r => "reviewer " + r[1]).join(" and "), rare:"Rare disease a reviewer was unsure of"}[it.source];
+      const acts = [];
+      if (!it.locked) acts.push(["Keep — not patient information", "keep", "X"]);
+      acts.push(["Remove", "remove", "R"]);
+      return {title:(TYPE_LABEL[it.entity] || "Identifier") + " · " + (fin === "keep" ? "stays in" : "removed"),
+        desc: src + ". Reviewer 1: " + VOTE_WORD[it.votes.R1] + "; reviewer 2: " + VOTE_WORD[it.votes.R2] + "." +
+          (it.certain ? " The tool is certain of it, so it can't be kept; you can withhold the note instead." :
+           it.locked ? " Both reviewers removed it, so it stays removed." : ""), acts}; }
+    if (ref[0] === "d"){ const a = st.add[+ref.slice(1)]; if (!a) return null;
+      return {title:"Your mark — " + (TYPE_LABEL[DATA.add_types[a.type]] || "Other"), desc:"Removed because you marked it.", acts:[["Undo my mark", "undo", "X"]]}; }
+    if (ref.startsWith("x:")) return {title:"Rare disease", desc:"Both reviewers checked this combination.", acts:[]};
+  }
+  if (ref[0] === "g"){ const g = n.generalized[+ref.slice(1)];
+    return {title:"Generalized under Safe Harbor", desc:(g.kind === "ZIP" ? "A ZIP code keeps its first three digits" : "An age of 90 or more becomes ‘90 or older’") + ": leaves as " + g.shows + ".", acts:[]}; }
+  if (ref[0] === "k") return {title:"Kept by the Limited Data Set", desc:"This profile keeps dates, ZIP codes and towns. If it would identify the patient here, mark it.", acts:[]};
+  return null;
+}
+function openItem(ref, anchor){
+  const d = describe(ref); if (!d) return;
+  focusRef = ref; highlightFocus();
+  const p = $("#pop");
+  p.innerHTML = '<div class="pt">' + esc(d.title) + '</div><div class="pd">' + esc(d.desc) + '</div><div class="row">' +
+    d.acts.map(a => '<button class="btn small" data-act="' + a[1] + '" data-ref="' + ref + '">' + esc(a[0]) + " <kbd>" + a[2] + "</kbd></button>").join("") + "</div>";
+  placePop(anchor);
+}
+function toggle(list, v){ const i = list.indexOf(v); if (i >= 0) list.splice(i, 1); else list.push(v); }
+function act(what, ref){
+  const n = BY[curId], st = ns(curId);
+  if (!DOC){
+    if (what === "keep" && ref[0] === "r"){
+      const r = n.removals.find(x => x.id === ref); if (!r || r.certain) return;
+      const i = st.unsure.indexOf(ref); if (i >= 0) st.unsure.splice(i, 1);
+      toggle(st.keep, ref);
+      if (st.keep.includes(ref) && r.entity === "PERSON") toast("Kept. The tool had read this as a name.");
+    } else if (what === "unsure" && ref[0] === "r"){
+      const i = st.keep.indexOf(ref); if (i >= 0) st.keep.splice(i, 1); toggle(st.unsure, ref);
+    } else if (what === "undo" && ref[0] === "a"){ st.add.splice(+ref.slice(1), 1); focusRef = null; }
+    else if (["remove", "fine", "ok", "unsure"].includes(what) && (ref[0] === "q" || ref[0] === "f")){
+      if (st.answers[ref] === what){ hidePop(); renderAll(); return; }
+      st.answers[ref] = what;
+    } else return;
+    rChanged(curId);
+  } else {
+    if (what === "withhold"){ st.withhold = !st.withhold; }
+    else if (ref && ref.startsWith("i:")){
+      const it = itemByRef(n, ref); if (!it) return;
+      if (what === "keep" && it.locked){ toast(it.certain ? "The tool is certain of this identifier; it can't be kept. Withhold the note if needed." : "Both reviewers removed this; it stays removed."); return; }
+      if (what !== "keep" && what !== "remove") return;
+      if (!it.bucket && what === it.default){ delete st.rulings[it.key]; delete st.decided_at[it.key]; }
+      else { st.rulings[it.key] = what; st.decided_at[it.key] = now(); }
+    } else if (what === "undo" && ref && ref[0] === "d"){ st.add.splice(+ref.slice(1), 1); focusRef = null; }
+    else return;
+    dChanged(curId);
+  }
+  hidePop(); renderAll();
+}
+function keyAct(k){
+  if (DOC && k === "w"){ act("withhold"); return; }
+  if (!focusRef) return;
+  const t = focusRef;
+  if (!DOC){
+    if (k === "x" && t[0] === "r") act("keep", t);
+    else if (k === "x" && t[0] === "a") act("undo", t);
+    else if (k === "u" && (t[0] === "r" || t[0] === "q" || t[0] === "f")) act("unsure", t);
+    else if (k === "r" && t[0] === "q") act("remove", t);
+    else if (k === "f" && t[0] === "q") act("fine", t);
+    else if (k === "f" && t[0] === "f") act("ok", t);
+  } else {
+    if (k === "x" && t.startsWith("i:")) act("keep", t);
+    else if (k === "r" && t.startsWith("i:")) act("remove", t);
+    else if (k === "x" && t[0] === "d") act("undo", t);
+  }
+}
+
+/* ------------------------------------------------------------ marking whole words */
+function textBase(t){
+  const el = t.parentElement && t.parentElement.closest("[data-s]"); if (!el) return null;
+  let base = +el.dataset.s; const w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT); let x;
+  while ((x = w.nextNode()) && x !== t) base += x.length;
+  return base;
+}
+function pointOffset(node, off){
+  if (!node) return null;
+  if (node.nodeType === 3){ const b = textBase(node); return b === null ? null : b + off; }
+  const kids = node.childNodes;
+  if (off < kids.length){ const w = document.createTreeWalker(kids[off], NodeFilter.SHOW_TEXT); const t = w.nextNode(); if (t) return textBase(t); }
+  const w = document.createTreeWalker(node, NodeFilter.SHOW_TEXT); let last = null, x; while ((x = w.nextNode())) last = x;
+  if (last){ const b = textBase(last); return b === null ? null : b + last.length; }
+  return null;
+}
+function selectionSpan(){
+  const sel = window.getSelection(); if (!sel || sel.isCollapsed || !sel.rangeCount) return null;
+  const r = sel.getRangeAt(0);
+  if (!$("#note").contains(r.commonAncestorContainer)) return null;
+  const s = pointOffset(r.startContainer, r.startOffset), e = pointOffset(r.endContainer, r.endOffset);
+  if (s === null || e === null || e <= s) return null;
+  const sn = snapRange(BY[curId].text, s, e);
+  return sn ? {s:sn[0], e:sn[1], rect:r.getBoundingClientRect()} : null;
+}
+function clickSpan(ev){
+  let node = null, off = 0;
+  if (document.caretRangeFromPoint){ const r = document.caretRangeFromPoint(ev.clientX, ev.clientY); if (r){ node = r.startContainer; off = r.startOffset; } }
+  else if (document.caretPositionFromPoint){ const p = document.caretPositionFromPoint(ev.clientX, ev.clientY); if (p){ node = p.offsetNode; off = p.offset; } }
+  const o = pointOffset(node, off); if (o === null) return null;
+  const text = BY[curId].text;
+  const sn = snapRange(text, Math.max(0, o - 1), Math.min(text.length, o + 1));
+  if (!sn || !(sn[0] <= o && o <= sn[1])) return null;
+  return {s:sn[0], e:sn[1], rect:{left:ev.clientX, right:ev.clientX, top:ev.clientY - 10, bottom:ev.clientY + 10}};
+}
+function covered(n, st, s, e){ return units(n, st).some(u => u.s <= s && u.e >= e); }
+function openMarker(span){
+  const n = BY[curId], st = ns(curId);
+  if (covered(n, st, span.s, span.e)){ toast("Those words are already removed."); return; }
+  pending = {id:curId, s:span.s, e:span.e};
+  renderNote();
+  const p = $("#pop"), t = n.text.slice(span.s, span.e);
+  p.innerHTML = '<div class="pt">Mark as patient information</div><div class="pd">“' + esc(t.length > 70 ? t.slice(0, 67) + "…" : t) +
+    '” — whole words, exactly as the other reviewers will see them. What is it?</div><div class="grid">' +
+    ADD_CHOICES.map((c, i) => '<button class="btn small" data-add="' + c[0] + '">' + esc(c[1]) + " <kbd>" + (i + 1) + "</kbd></button>").join("") + "</div>";
+  placePop(null, span.rect);
+}
+function addMark(type){
+  if (!pending) return;
+  const n = BY[curId], st = ns(curId), sp = pending; pending = null;
+  st.add.push({start:sp.s, end:sp.e, type, at: now()});
+  let copied = 0;
+  const word = n.text.slice(sp.s, sp.e);
+  if (type === "name" && word.length >= 3 && /^\p{Lu}/u.test(word)){
+    const rx = new RegExp("(?<![\\p{L}\\p{N}_'’-])" + word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "(?![\\p{L}\\p{N}_’-])", "gu");
+    DATA.patients[n.patient].notes.forEach(id => {
+      const m2 = BY[id]; if (!ready(m2)) return; const st2 = ns(id); let m;
+      while ((m = rx.exec(m2.text))){
+        const s = m.index, e = s + word.length;
+        if (id === curId && s === sp.s) continue;
+        if (covered(m2, st2, s, e)) continue;
+        st2.add.push({start:s, end:e, type:"name", propagated_from:curId, at: now()}); copied++;
+      }
+    });
+  }
+  window.getSelection().removeAllRanges();
+  if (DOC) dChanged(curId); else rChanged(curId);
+  hidePop(); renderAll();
+  toast(copied ? "Marked — and in " + copied + " other place" + (copied > 1 ? "s" : "") + " in this patient's notes." : "Marked. It will be removed.");
+}
+
+/* ------------------------------------------------------------ accuracy (doctor) */
+function pct(a, b){ return b ? (Math.round(1000 * a / b) / 10) + "%" : "—"; }
+function accuracyFor(ids){
+  const t = {final:0, toolRemoved:0, toolConfirmed:0, toolFound:0, r1:0, r1ok:0, r2:0, r2ok:0, agree:0, items:0, dmarks:0, open:0, opened:0, notes:0,
+             c1:0, u1:0, s1:0, c2:0, u2:0, s2:0};
+  ids.forEach(id => { const n = BY[id]; if (!ready(n)) return; const st = ns(id); t.notes++; t.opened += st.opened ? 1 : 0;
+    (n.items || []).forEach(it => { const fin = dFinal(it, st) === "remove"; t.items++; t.agree += it.votes.R1 === it.votes.R2 ? 1 : 0;
+      if (it.bucket && !st.rulings[it.key]) t.open++;
+      if (it.source === "engine"){ t.toolRemoved++; t.toolConfirmed += fin ? 1 : 0; }
+      if (fin){ t.final++; t.toolFound += it.source === "engine" ? 1 : 0; }
+      const v1 = it.votes.R1 !== "keep", v2 = it.votes.R2 !== "keep";
+      t.r1 += v1 ? 1 : 0; t.r1ok += v1 && fin ? 1 : 0; t.r2 += v2 ? 1 : 0; t.r2ok += v2 && fin ? 1 : 0;
+      const toolAct = it.source === "engine" ? "remove" : "keep";
+      [["R1", "1"], ["R2", "2"]].forEach(([r, k]) => { const v = it.votes[r];
+        if (v === "unsure") t["s" + k]++;
+        else if (v !== toolAct){ t["c" + k]++; if ((v === "remove") === fin) t["u" + k]++; } }); });
+    t.dmarks += st.add.length; t.final += st.add.length; });
+  return t;
+}
+function accuracyTable(t){
+  return '<table class="acc"><tr><th>Their version</th><th>Removed</th><th>Right (precision)</th><th>Found (recall)</th></tr>' +
+    '<tr><td>The tool alone</td><td class="n">' + t.toolRemoved + '</td><td class="n">' + pct(t.toolConfirmed, t.toolRemoved) + '</td><td class="n">' + pct(t.toolFound, t.final) + "</td></tr>" +
+    '<tr><td>Reviewer 1</td><td class="n">' + t.r1 + '</td><td class="n">' + pct(t.r1ok, t.r1) + '</td><td class="n">' + pct(t.r1ok, t.final) + "</td></tr>" +
+    '<tr><td>Reviewer 2</td><td class="n">' + t.r2 + '</td><td class="n">' + pct(t.r2ok, t.r2) + '</td><td class="n">' + pct(t.r2ok, t.final) + "</td></tr></table>" +
+    '<table class="acc"><tr><th>Their own changes</th><th>Made</th><th>Upheld</th><th>Sent to you</th></tr>' +
+    '<tr><td>Reviewer 1</td><td class="n">' + t.c1 + '</td><td class="n">' + pct(t.u1, t.c1) + '</td><td class="n">' + t.s1 + "</td></tr>" +
+    '<tr><td>Reviewer 2</td><td class="n">' + t.c2 + '</td><td class="n">' + pct(t.u2, t.c2) + '</td><td class="n">' + t.s2 + "</td></tr></table>" +
+    '<div class="stats"><span>Identifiers in the final version</span><span>' + t.final + "</span><span>Found only by you</span><span>" + t.dmarks +
+    "</span><span>Reviewers agreed</span><span>" + pct(t.agree, t.items) + "</span><span>Unsure items still open</span><span>" + t.open +
+    "</span><span>Notes you opened</span><span>" + t.opened + " of " + t.notes + "</span></div>";
+}
+function renderAccuracy(){
+  let h = accuracyTable(accuracyFor(ORDER));
+  const e = DATA.estimate || {};
+  h += "<p>" + (e.estimable ? "<b>Estimated identifiers both reviewers missed: " + e.estimated_missed_by_both + "</b> (95% interval " + e.interval_95[0] + "–" + e.interval_95[1] +
+    "), from how much their finds overlap. Your pass comes after this." : esc(e.note || "")) + "</p>";
+  (DATA.batches || []).forEach(b => {
+    const q = b.quality || {}; const rv = q.reviewers || {};
+    h += '<h3 style="margin:14px 0 4px;font-size:15px">Batch ' + b.number + ' · review quality</h3><ul class="qlist">' +
+      ["R1", "R2"].map(r => { const x = rv[r] || {}; return "<li>Reviewer " + r[1] + ": " + (x.too_fast || 0) + " of " + (x.notes || 0) +
+        " notes confirmed in less than the expected reading time; kept " + (x.kept || 0) + " tool removals (" + (x.kept_names || 0) + " read as names); " + (x.unsure || 0) + " sent to you.</li>"; }).join("") +
+      (q.alerts || []).map(a => "<li>" + esc(a) + "</li>").join("") + ((q.violations || []).length ? "" : "") + "</ul>";
+  });
+  $("#accbody").innerHTML = h;
+}
+
+/* ------------------------------------------------------------ file seal */
+// HMAC-SHA-256 over the exported file, with a key made for this page only.
+// It makes a file edited outside the page detectable at the release. Plain
+// JavaScript, so it works the same from a local file in every browser.
+const SHA_K = new Uint32Array([0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0x0fc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x06ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2]);
+function sha256(bytes){
+  const H = new Uint32Array([0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19]);
+  const l = bytes.length, n = ((l + 9 + 63) >> 6) << 6, m = new Uint8Array(n);
+  m.set(bytes); m[l] = 0x80;
+  const dv = new DataView(m.buffer);
+  dv.setUint32(n - 8, Math.floor(l / 0x20000000)); dv.setUint32(n - 4, (l * 8) >>> 0);
+  const w = new Uint32Array(64);
+  const rot = (x, k) => (x >>> k) | (x << (32 - k));
+  for (let i = 0; i < n; i += 64){
+    for (let t = 0; t < 16; t++) w[t] = dv.getUint32(i + 4 * t);
+    for (let t = 16; t < 64; t++){
+      const a = w[t - 15], b = w[t - 2];
+      w[t] = w[t - 16] + (rot(a, 7) ^ rot(a, 18) ^ (a >>> 3)) + w[t - 7] + (rot(b, 17) ^ rot(b, 19) ^ (b >>> 10));
+    }
+    let a = H[0], b = H[1], c = H[2], d = H[3], e = H[4], f = H[5], g = H[6], h = H[7];
+    for (let t = 0; t < 64; t++){
+      const t1 = (h + (rot(e, 6) ^ rot(e, 11) ^ rot(e, 25)) + ((e & f) ^ (~e & g)) + SHA_K[t] + w[t]) | 0;
+      const t2 = ((rot(a, 2) ^ rot(a, 13) ^ rot(a, 22)) + ((a & b) ^ (a & c) ^ (b & c))) | 0;
+      h = g; g = f; f = e; e = (d + t1) | 0; d = c; c = b; b = a; a = (t1 + t2) | 0;
+    }
+    H[0] += a; H[1] += b; H[2] += c; H[3] += d; H[4] += e; H[5] += f; H[6] += g; H[7] += h;
+  }
+  const out = new Uint8Array(32), odv = new DataView(out.buffer);
+  for (let i = 0; i < 8; i++) odv.setUint32(4 * i, H[i]);
+  return out;
+}
+function hmacHex(keyHex, text){
+  const key = new Uint8Array(64);
+  key.set(keyHex.match(/../g).map(x => parseInt(x, 16)));
+  const msg = new TextEncoder().encode(text);
+  const inner = new Uint8Array(64 + msg.length), outer = new Uint8Array(64 + 32);
+  for (let i = 0; i < 64; i++){ inner[i] = key[i] ^ 0x36; outer[i] = key[i] ^ 0x5c; }
+  inner.set(msg, 64); outer.set(sha256(inner), 64);
+  return [...sha256(outer)].map(x => x.toString(16).padStart(2, "0")).join("");
+}
+function sealExport(obj){
+  if (!DATA.seal) return obj;
+  const payload = JSON.stringify(obj);
+  return {kind:obj.kind, sealed_payload:payload, seal:hmacHex(DATA.seal, payload)};
+}
+
+/* ------------------------------------------------------------ feedback for the Inkguard maintainers */
+// Optional and short. Reviewers' feedback goes with their file to the
+// doctor; the doctor edits it, adds their own, and decides whether the
+// release writes a report the clinic then sends itself.
+const ISSUES = [["over","It removed too much"],["under","It missed something"],["click","Something didn't respond to a click"],
+  ["keys","Keys didn't do what I expected"],["reading","Hard to read"],["slow","Slow"],["unclear","Instructions unclear"]];
+const NFLAGS = [["over","Removed too much here"],["under","Missed something here"],["page","Page problem here"]];
+function fbState(){
+  if (DOC){ if (!plainObj(S.vendor)) S.vendor = {share:true, rating:null, issues:[], text:"", reviewers:{}}; return S.vendor; }
+  if (!plainObj(S.feedback)) S.feedback = {rating:null, issues:[], text:""};
+  return S.feedback;
+}
+let fbToasted = false;
+function fbChanged(){
+  if (S.signed_off){ S.signed_off = null; renderProgress();
+    if (!fbToasted){ toast("Changed after signing — sign off again when you're ready."); fbToasted = true; } }
+  save();
+}
+function renderFeedback(){
+  const f = fbState(), h = [];
+  if (DOC) h.push('<label class="check"><input type="checkbox" id="fbshare"' + (f.share ? " checked" : "") + '> Prepare a report for the Inkguard maintainers with this release</label>');
+  h.push('<div class="fbsec"><div class="ph">Overall</div><div class="rate">' + [1, 2, 3, 4, 5].map(r =>
+    '<button class="btn small" data-rate="' + r + '" aria-pressed="' + (f.rating === r) + '">' + r + "</button>").join("") + '<span class="muted">1 poor · 5 very good</span></div></div>');
+  if (curId && ready(BY[curId])){
+    const nf = ns(curId).fb || {};
+    const theirs = DOC ? ["R1", "R2"].filter(r => BY[curId].fb && BY[curId].fb[r] && Object.values(BY[curId].fb[r]).some(Boolean))
+      .map(r => "Reviewer " + r[1] + ": " + NFLAGS.filter(x => BY[curId].fb[r][x[0]]).map(x => x[1].toLowerCase()).join(", ")) : [];
+    h.push('<div class="fbsec"><div class="ph">This note</div><div class="chips">' + NFLAGS.map(([k, l]) =>
+      '<button class="btn small" data-nflag="' + k + '" aria-pressed="' + !!nf[k] + '">' + l + "</button>").join("") + "</div>" +
+      (theirs.length ? '<div class="muted" style="margin-top:6px">' + esc(theirs.join(" · ")) + "</div>" : "") + "</div>");
+  }
+  h.push('<div class="fbsec"><div class="ph">Anything that got in the way?</div><div class="chips">' + ISSUES.map(([k, l]) =>
+    '<button class="btn small" data-issue="' + k + '" aria-pressed="' + f.issues.includes(k) + '">' + l + "</button>").join("") + "</div></div>");
+  h.push('<div class="fbsec"><div class="ph">In your own words</div><textarea id="fbtext" rows="4" maxlength="4000" placeholder="For example: removed drug names; missed a nickname; dragging didn&#39;t select.">' +
+    esc(f.text || "") + "</textarea></div>");
+  if (DOC){
+    const rows = [];
+    (DATA.batches || []).forEach(b => ["R1", "R2"].forEach(r => {
+      const fb = (b.feedback || {})[r]; if (!fb) return;
+      const key = b.batch + ":" + r, ed = f.reviewers[key] || {};
+      const txt = "text" in ed ? ed.text : (fb.text || "");
+      const flagged = NOTES.filter(n => n.batch === b.batch && n.fb && n.fb[r] && Object.values(n.fb[r]).some(Boolean)).length;
+      rows.push('<div class="fbrev"><label class="check"><input type="checkbox" data-rinc="' + key + '"' + (ed.include === false ? "" : " checked") +
+        "> Include reviewer " + r[1] + (DATA.batches.length > 1 ? " (batch " + b.number + ")" : "") + '</label><div class="muted">' +
+        (fb.rating ? "Rating " + fb.rating + "/5 · " : "") +
+        esc((fb.issues || []).map(k => (ISSUES.find(x => x[0] === k) || [k, k])[1]).join(", ") || "nothing ticked") +
+        (flagged ? " · " + flagged + " note" + (flagged > 1 ? "s" : "") + " flagged" : "") +
+        '</div><textarea data-rtext="' + key + '" rows="3" maxlength="4000">' + esc(txt) + "</textarea></div>");
+    }));
+    h.push('<div class="fbsec"><div class="ph">From the reviewers</div>' + (rows.join("") || '<div class="muted">No feedback from the reviewers.</div>') + "</div>");
+    h.push('<p class="muted">The report also carries the accuracy numbers, counts by type of what was added or kept in review, and time per note. ' +
+      "Numbers and your edited comments only: words from the notes are taken out automatically. The release writes it as a file; you read it and send it yourself.</p>");
+  } else {
+    h.push('<p class="muted">Optional, and short is fine. It goes with your file to the doctor, who decides what is shared. Words from the notes are taken out automatically.</p>');
+  }
+  $("#fbbody").innerHTML = h.join("");
+}
+function openFeedback(){ renderFeedback(); $("#fbdlg").showModal(); }
+
+/* ------------------------------------------------------------ sign-off, save, open */
+function exportState(){
+  if (!DOC) return S;
+  const out = {kind:S.kind, version:1, role:"doctor", pages:DATA.batch, reviewer:"DOC", reviewer_name:S.reviewer_name, software_version:S.software_version,
+    started_at:S.started_at, saved_at:S.saved_at, signed_off:S.signed_off, vendor:plainObj(S.vendor) ? S.vendor : null, batches:{}};
+  DATA.batches.forEach(b => { out.batches[b.batch] = {reviewer_files:b.reviewer_files, notes:{}}; });
+  Object.entries(S.notes).forEach(([id, st]) => { const n = BY[id]; if (!n) return; out.batches[n.batch].notes[n.nid] = st; });
+  return out;
+}
+function importState(s){
+  if (!DOC) return s;
+  // Work on batches the file does not cover is kept; the file's batches are replaced.
+  const covered = new Set(Object.keys(s.batches || {}));
+  const out = {...blank(), ...s, notes:{}}; delete out.batches;
+  Object.entries(S.notes).forEach(([id, st]) => { if (!covered.has(id.split(":")[0])) out.notes[id] = st; });
+  Object.entries(s.batches || {}).forEach(([bid, sec]) => Object.entries(sec.notes || {}).forEach(([nid, st]) => { out.notes[bid + ":" + nid] = st; }));
+  out.pages = DATA.batch; return out;
+}
+function fileName(){ return DOC ? "doctor-" + DATA.batches.map(b => b.number).join("-") + "-" + DATA.batch.slice(0, 8) + ".json"
+                                : "decisions-" + DATA.batch + "-" + DATA.reviewer.id + ".json"; }
+function saveFile(){ save(); download(sealExport(exportState()), fileName()); toast("Saved " + fileName() + ". Keep it on this computer."); }
+function openSign(){
+  const readyIds = ORDER.filter(id => ready(BY[id]));
+  let left, stats;
+  if (DOC){
+    const t = accuracyFor(ORDER); left = t.open;
+    const withheld = readyIds.filter(id => ns(id).withhold).length;
+    stats = [["Unsure items still open", t.open], ["Your marks", t.dmarks], ["Notes you opened", t.opened + " of " + t.notes], ["Notes withheld", withheld]];
+  } else {
+    left = readyIds.filter(id => !ns(id).confirmed_at).length;
+    const adds = readyIds.reduce((a, id) => a + ns(id).add.length, 0), keeps = readyIds.reduce((a, id) => a + ns(id).keep.length, 0);
+    const uns = readyIds.reduce((a, id) => a + ns(id).unsure.length + ns(id).add.filter(x => x.type === "unsure").length + Object.values(ns(id).answers).filter(v => v === "unsure").length, 0);
+    const mins = Math.round(readyIds.reduce((a, id) => a + (ns(id).seconds || 0), 0) / 60);
+    stats = [["Notes confirmed", (readyIds.length - left) + " of " + readyIds.length], ["Your marks", adds], ["Words you chose to keep", keeps], ["Sent to the doctor", uns], ["Time", mins + " min"]];
+  }
+  $("#signstats").innerHTML = stats.map(s => "<span>" + esc(String(s[0])) + "</span><span>" + esc(String(s[1])) + "</span>").join("");
+  $("#signintro").textContent = left ? "There is still work left (" + left + "). You can sign off once everything is done." :
+    (DOC ? "Your file joins both reviewers' files at the release. The three signatures count equally." : "Your file goes to the doctor together with the other reviewer's file. Neither of you sees the other's marks.");
+  $("#signstatement").textContent = DATA.attestation;
+  $("#signname").value = ""; $("#signcheck").checked = false; $("#signok").disabled = true; $("#signok").dataset.left = left;
+  $("#signdlg").showModal();
+}
+function nameOk(){ return $("#signname").value.trim().replace(/\s+/g, " ").toLowerCase() === DATA.reviewer.name.trim().replace(/\s+/g, " ").toLowerCase(); }
+function updateSign(){ $("#signok").disabled = !(+$("#signok").dataset.left === 0 && nameOk() && $("#signcheck").checked); }
+function doSign(){
+  S.signed_off = {at: now(), typed_name: $("#signname").value.trim(), statement: DATA.attestation};
+  save(); $("#signdlg").close(); saveFile(); renderProgress();
+}
+function plainObj(x){ return !!x && typeof x === "object" && !Array.isArray(x); }
+function shapeOk(s){
+  const noteOk = st => plainObj(st) && (!st.add || Array.isArray(st.add)) &&
+    (DOC ? (!st.rulings || plainObj(st.rulings)) && (!st.decided_at || plainObj(st.decided_at))
+         : (!st.keep || Array.isArray(st.keep)) && (!st.unsure || Array.isArray(st.unsure)) && (!st.answers || plainObj(st.answers)));
+  if (DOC) return plainObj(s.batches) && Object.values(s.batches).every(b => plainObj(b) && plainObj(b.notes) && Object.values(b.notes).every(noteOk));
+  return plainObj(s.notes) && Object.values(s.notes).every(noteOk);
+}
+function importFile(f){
+  const rd = new FileReader();
+  rd.onload = () => {
+    let s;
+    try {
+      const raw = JSON.parse(rd.result);
+      if (DATA.seal){
+        // A file changed outside this page is not opened here: signing it
+        // would seal the change as if the page had made it.
+        if (!raw || typeof raw.sealed_payload !== "string" || raw.seal !== hmacHex(DATA.seal, raw.sealed_payload)){
+          toast("This file can't be opened here. Please use the file this page saved."); return; }
+        s = JSON.parse(raw.sealed_payload);
+      } else s = raw.sealed_payload ? JSON.parse(raw.sealed_payload) : raw;
+    } catch (e){ toast("That file could not be read."); return; }
+    const mine = DOC ? (s.kind === "phi-review-doctor" && s.role === "doctor" && plainObj(s.batches) && Object.keys(s.batches).length > 0 &&
+                        Object.entries(s.batches).every(([bid, sec]) => { const b = DATA.batches.find(x => x.batch === bid);
+                          return b && plainObj(sec) && plainObj(sec.reviewer_files) && sec.reviewer_files.R1 === b.reviewer_files.R1 && sec.reviewer_files.R2 === b.reviewer_files.R2; }))
+                     : (s.kind === "phi-review-decisions" && s.batch === DATA.batch && s.reviewer === DATA.reviewer.id);
+    if (!mine){ toast(DOC ? "That file belongs to other batches, or was made against other reviewer files." : "That file belongs to another batch or another person."); return; }
+    if (!shapeOk(s)){ toast("That file is damaged; your current work is unchanged."); return; }
+    S = importState(s); save(); openNote(curId); toast("Opened your saved progress.");
+  };
+  rd.readAsText(f);
+}
+
+/* ------------------------------------------------------------ wiring */
+function wire(){
+  $("#who").innerHTML = (DOC ? "Batch" + (DATA.batches.length > 1 ? "es " : " ") + "<b>" + DATA.batches.map(b => b.number).join(", ") + "</b> · Doctor · " :
+    "Batch <b>" + DATA.number + "</b> of " + DATA.of + " · Reviewer " + DATA.reviewer.id.slice(1) + " · ") + "<b>" + esc(DATA.reviewer.name) + "</b> · " +
+    (DATA.profile === "limited_data_set" ? "Limited Data Set" : "Safe Harbor");
+  $("#brand").textContent = DOC ? "Doctor's review" : "Review";
+  if (DOC) $("#accbtn").hidden = false;
+  if (DOC && DATA.not_included){ $("#warnline").innerHTML += " <b>" + DATA.not_included + " file" + (DATA.not_included > 1 ? "s were" : " was") +
+    " set aside</b> (images or formats this review doesn't read). They are not de-identified and not part of this release; the release map lists them."; }
+  if (DATA.profile === "limited_data_set"){ const w = $("#warnline"); w.classList.add("lds");
+    w.innerHTML += " <b>Limited Data Set:</b> dates, ZIP codes and towns stay in this profile. Look hardest at names beside them."; }
+  if (DOC){
+    // Facts about files, never about people.
+    const v = []; (DATA.batches || []).forEach(b => ((b.quality || {}).violations || []).forEach(x => v.push("Batch " + b.number + ", " + x.reviewer.toLowerCase() + ": " +
+      ({kept_certain_identifier:"the file keeps an identifier the tool marks as certain", reading_time:"most notes were confirmed in less than the expected reading time",
+      file_mismatch:"the file does not match the one its page saved"}[x.reason] || x.reason))));
+    if (v.length) $("#violations").innerHTML = '<div class="violation"><b>A fresh review is needed before release.</b> ' + v.map(esc).join(" · ") + ".</div>";
+  }
+  $("#keys").innerHTML = "<span><kbd>←</kbd>/<kbd>→</kbd> notes</span><span><kbd>↑</kbd>/<kbd>↓</kbd> items</span><span><kbd>Space</kbd> switch look</span>" +
+    (DOC ? "<span><kbd>Enter</kbd> next open note</span><span><kbd>X</kbd> keep · <kbd>R</kbd> remove · <kbd>W</kbd> withhold</span><span><kbd>A</kbd> accuracy</span>"
+         : "<span><kbd>Enter</kbd> confirm</span><span><kbd>X</kbd> keep · <kbd>U</kbd> not sure · <kbd>R</kbd>/<kbd>F</kbd> answer</span>") +
+    "<span>click a word or drag, then a number</span><span><kbd>V</kbd> feedback</span><span><kbd>?</kbd> help</span>";
+  $("#helpintro").textContent = DOC
+    ? "You see everything: both looks, what the tool removed, what each reviewer did, and the unsure bucket. Decide every item in the bucket (dashed), " +
+      "remove anything more you like, and withhold any note you don't want released. Two reviewers removing something is final, and identifiers the tool is " +
+      "certain of can't be kept; everything else is yours to decide. Your signature is the third, equal to theirs."
+    : "Every note gets two looks. Look 1 shows what the tool will remove, tinted but readable. Look 2 shows the note blacked out, exactly as it will leave. " +
+      "Answer the tool's questions, mark anything it missed by clicking a word or dragging across words, and confirm. Anything you are unsure of, send to the doctor. " +
+      "The other reviewer does the same on their own; neither of you sees the other's marks.";
+  $("#helpkeys").innerHTML = $("#keys").innerHTML.replace(/<\/span><span>/g, " · ").replace(/<\/?span>/g, "");
+  $("#helplegend").innerHTML = legendHTML().replace('<div class="ph">Key</div>', "");
+  document.addEventListener("click", e => {
+    const t = e.target;
+    const add = t.closest("[data-add]"); if (add){ addMark(add.dataset.add); return; }
+    const a = t.closest("[data-act]"); if (a){ act(a.dataset.act, a.dataset.ref); return; }
+    const nv = t.closest(".navnote"); if (nv){ openNote(nv.dataset.id); return; }
+    const ph = t.closest(".phead"); if (ph){ const p = DATA.patients[+ph.dataset.p];
+      openNote(p.notes.find(id => DOC ? noteState(id) === "open" : (ready(BY[id]) && !ns(id).confirmed_at)) || p.notes[0]); return; }
+    const stp = t.closest(".step"); if (stp){ setLook(stp.dataset.look); return; }
+    if (t.id === "openonly"){ prefs.openOnly = t.checked; savePrefs(); renderSide(); return; }
+    const it = t.closest(".item"); if (it){ const ref = it.dataset.ref; focusRef = ref; highlightFocus(true);
+      const inNote = $$("#note [data-ref]").find(el => refsAt(el).includes(ref)); openItem(ref, inNote || it); return; }
+    if (!t.closest("#pop") && !t.closest("#note")){ hidePop(); pending = null; renderNote(); }
+  });
+  $("#note").addEventListener("mouseup", e => {
+    if (e.button !== 0) return;
+    setTimeout(() => {
+      const sel = window.getSelection();
+      if (sel && !sel.isCollapsed){ const sp = selectionSpan(); if (sp) openMarker(sp); return; }
+      const mk = e.target.closest("[data-ref]");
+      if (mk && !mk.classList.contains("gen") && !(mk.classList.contains("lds"))){
+        const refs = refsAt(mk);
+        const pick = refs.find(r => r.startsWith("i:") && (itemByRef(BY[curId], r) || {}).bucket) || refs.find(r => r[0] === "a" || r[0] === "d") ||
+          refs.find(r => r[0] === "q") || refs.find(r => r[0] === "f") || refs.find(r => r !== "pend") || refs[0];
+        if (pick && pick !== "pend"){ openItem(pick, mk); return; }
+      }
+      const sp = clickSpan(e); if (sp) openMarker(sp);
+    }, 0);
+  });
+  $("#confirm").addEventListener("click", confirmNote);
+  $("#smaller").addEventListener("click", () => { prefs.size = Math.max(14, prefs.size - 1); savePrefs(); applyPrefs(); });
+  $("#larger").addEventListener("click", () => { prefs.size = Math.min(24, prefs.size + 1); savePrefs(); applyPrefs(); });
+  $("#mono").addEventListener("click", () => { prefs.mono = !prefs.mono; savePrefs(); applyPrefs(); });
+  $("#theme").addEventListener("click", () => { const dark = prefs.theme ? prefs.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+    prefs.theme = dark ? "light" : "dark"; savePrefs(); applyPrefs(); });
+  $("#helpbtn").addEventListener("click", () => $("#helpdlg").showModal());
+  $("#fbbtn").addEventListener("click", openFeedback);
+  $("#fbclose").addEventListener("click", () => $("#fbdlg").close());
+  $("#signfbbtn").addEventListener("click", () => { $("#signdlg").close(); openFeedback(); });
+  $("#fbdlg").addEventListener("click", e => {
+    const f = fbState(), t = e.target;
+    const rb = t.closest("[data-rate]"); if (rb){ const r = +rb.dataset.rate; f.rating = f.rating === r ? null : r; fbChanged(); renderFeedback(); return; }
+    const ib = t.closest("[data-issue]"); if (ib){ toggle(f.issues, ib.dataset.issue); fbChanged(); renderFeedback(); return; }
+    const nb = t.closest("[data-nflag]");
+    if (nb && curId){ const st = ns(curId); st.fb = plainObj(st.fb) ? st.fb : {}; st.fb[nb.dataset.nflag] = !st.fb[nb.dataset.nflag];
+      if (!Object.values(st.fb).some(Boolean)) delete st.fb; fbChanged(); renderFeedback(); }
+  });
+  $("#fbdlg").addEventListener("change", e => { const f = fbState(), t = e.target;
+    if (t.id === "fbshare"){ f.share = t.checked; fbChanged(); }
+    else if (t.dataset.rinc){ const ed = f.reviewers[t.dataset.rinc] = f.reviewers[t.dataset.rinc] || {}; ed.include = t.checked; fbChanged(); } });
+  $("#fbdlg").addEventListener("input", e => { const f = fbState(), t = e.target;
+    if (t.id === "fbtext"){ f.text = t.value.slice(0, 4000); fbChanged(); }
+    else if (t.dataset.rtext){ const ed = f.reviewers[t.dataset.rtext] = f.reviewers[t.dataset.rtext] || {}; ed.text = t.value.slice(0, 4000); fbChanged(); } });
+  $("#helpclose").addEventListener("click", () => $("#helpdlg").close());
+  $("#accbtn").addEventListener("click", () => { renderAccuracy(); $("#accdlg").showModal(); });
+  $("#accclose").addEventListener("click", () => $("#accdlg").close());
+  $("#savebtn").addEventListener("click", saveFile);
+  $("#importbtn").addEventListener("click", () => $("#importfile").click());
+  $("#importfile").addEventListener("change", e => { if (e.target.files[0]) importFile(e.target.files[0]); e.target.value = ""; });
+  $("#signbtn").addEventListener("click", openSign);
+  $("#signcancel").addEventListener("click", () => $("#signdlg").close());
+  $("#signname").addEventListener("input", updateSign);
+  $("#signcheck").addEventListener("change", updateSign);
+  $("#signok").addEventListener("click", doSign);
+  document.addEventListener("keydown", e => {
+    if (e.target.closest("input, textarea, dialog[open]") || e.metaKey || e.ctrlKey || e.altKey) return;
+    const k = e.key.length === 1 ? e.key.toLowerCase() : e.key;
+    if (!$("#pop").hidden && pending && /^[1-9]$/.test(k) && +k <= ADD_CHOICES.length){ e.preventDefault(); addMark(ADD_CHOICES[+k - 1][0]); return; }
+    if (k === "Escape"){ hidePop(); pending = null; renderNote(); return; }
+    if (k === " "){ e.preventDefault(); setLook(look === "see" ? "blackout" : "see"); }
+    else if (k === "Enter"){ e.preventDefault(); confirmNote(); }
+    else if (k === "ArrowRight" || k === "n" || k === "]"){ e.preventDefault(); step(1); }
+    else if (k === "ArrowLeft" || k === "p" || k === "["){ e.preventDefault(); step(-1); }
+    else if (k === "ArrowDown" || k === "j"){ e.preventDefault(); moveFocus(1); }
+    else if (k === "ArrowUp" || k === "k"){ e.preventDefault(); moveFocus(-1); }
+    else if (k === "b" && DOC){ confirmNote(); }
+    else if (k === "a" && DOC){ renderAccuracy(); $("#accdlg").showModal(); }
+    else if (k === "m"){ const sp = selectionSpan(); if (sp) openMarker(sp); else toast("Click a word or drag across words first."); }
+    else if (k === "?"){ $("#helpdlg").showModal(); }
+    else if (k === "v"){ openFeedback(); }
+    else if ("xrfuw".includes(k)){ keyAct(k); }
+  });
+  let lastAct = Date.now(), tick = 0;
+  ["mousemove", "keydown", "scroll", "click", "touchstart"].forEach(ev => addEventListener(ev, () => { lastAct = Date.now(); }, {passive:true}));
+  setInterval(() => {
+    if (!curId || document.visibilityState !== "visible" || Date.now() - lastAct > 60000) return;
+    ns(curId).seconds = (ns(curId).seconds || 0) + 1;
+    if (++tick % 15 === 0) save();
+  }, 1000);
+  addEventListener("beforeunload", save);
+}
+
+applyPrefs();
+wire();
+const fresh = !S.saved_at;
+const first = DOC ? (ORDER.find(id => noteState(id) === "open") || ORDER[0])
+                  : (ORDER.find(id => ready(BY[id]) && !ns(id).confirmed_at) || ORDER[0]);
+openNote(first);
+if (fresh) setTimeout(() => $("#helpdlg").showModal(), 250);
+})();
+</script>
+</body>
+</html>

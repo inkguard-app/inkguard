@@ -1,0 +1,18 @@
+STROKE CODE — ED → STROKE UNIT ADMISSION H&P
+{{FACILITY|Fallowfield Medical Center}}
+{{NAME|Benedict Horner}}, 58 M, MRN {{MRN|FMC-3307728}}, {{DATE|12/05/2077}}
+H&P by {{NAME|Luz Ortega-Brandt}}, NP; stroke attending Dr. {{NAME|Ivo Kristiansen}}
+
+Sudden vertigo, vomiting, hoarseness, difficulty swallowing and left facial pain after a chiropractic neck manipulation 2 days ago. Unable to walk.
+Exam: left [[Horner syndrome]] ([[ptosis]], [[miosis]], [[anhidrosis]] of the left face) — and, yes, the patient is Mr. {{NAME|Horner}}; documentation should read "[[left oculosympathetic palsy (Horner syndrome)]]" to avoid ambiguity. Left [[loss of pain and temperature sensation in the face]], right [[loss of pain and temperature in the body]] ([[crossed sensory loss]]), left [[palatal weakness]] with [[uvula deviation to the right]], [[hoarseness]] (left vocal cord paresis), absent left [[gag reflex]], left [[limb ataxia]] ([[dysmetria]] on finger-nose), [[gait ataxia]], [[right-beating horizontal-torsional nystagmus]] (not [[direction-changing nystagmus]]). No limb weakness. [[NIHSS 4]] (ataxia, sensory, dysarthria) — underestimates posterior circulation severity.
+Impression: left [[lateral medullary syndrome (Wallenberg syndrome)]] secondary to suspected [[left vertebral artery dissection]].
+Imaging: [[MRI DWI]]: acute infarct in the left [[dorsolateral medulla]]. [[CTA head and neck]]: [[left V4 segment dissection]] with [[flame-shaped tapering]] and [[intramural haematoma]] on [[T1 fat-saturated black-blood MRI]]. [[PICA]] not opacified.
+Plan: [[NPO]], [[SLP swallow evaluation]], [[fibreoptic endoscopic evaluation of swallowing (FEES)]], [[aspirin 325 mg]] then [[aspirin 81 mg]] (antiplatelet vs anticoagulation per CADISS), BP permissive.
+=====NOTE=====
+SPEECH-LANGUAGE PATHOLOGY — {{DATE|12/06/2077}} — {{NAME|B. Horner}} {{MRN|FMC-3307728}}
+SLP {{NAME|Philippa Osei-Lindgren}}, MS, CCC-SLP.
+[[FEES]]: [[silent aspiration]] of thin liquids, pooling in the left [[pyriform sinus]], [[reduced pharyngeal squeeze]] left, [[Penetration-Aspiration Scale]] 8 for thin, 3 for nectar-thick. [[Upper oesophageal sphincter dysfunction]].
+Recommendations: NPO except ice chips; [[nasogastric tube]] feeds; [[head turn to the left]] and [[chin tuck]] manoeuvres; [[Mendelsohn manoeuvre]] training; [[VitalStim NMES]] considered; repeat FEES 1 week. [[Functional Oral Intake Scale]] 1. [[Laryngeal elevation]] reduced; [[vocal fold paresis]] left confirmed on [[laryngoscopy]]. [[Aspiration pneumonia]] precautions, [[oral care protocol]].
+=====NOTE=====
+DISCHARGE TO ACUTE REHAB — {{DATE|12/15/2077}} — {{NAME|B. Horner}}
+[[Wallenberg syndrome]] improving: diet [[IDDSI level 5 minced and moist]], [[mildly thick liquids]]; [[gait ataxia]] with walker; left [[Horner syndrome]] persistent (expected); hiccups ([[singultus]]) resolved with [[baclofen 5 mg TID]]. [[mRS 3]]. [[Aspirin 81 mg]] and [[atorvastatin 40 mg]]. Avoid [[cervical manipulation]]. [[Crossed sensory loss]] persists; [[neuropathic facial pain]] treated with [[gabapentin 300 mg TID]]. Case manager {{NAME|Deshawn Pruitt-Albright}}, RN, arranged transfer to {{FACILITY|Riverside Acute Rehabilitation Institute}}. [[Repeat CTA]] at 3 months to assess [[vertebral dissection]] healing.

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT - sent to patient via portal
+Re: results from 12/14/2074
+
+Dear Mr. Frost,
+
+Your blood sugar test (A1c) was a little high but stable, in the pre diabetes range, and your cholesterol is at goal. Your white count and hemoglobin were fine. No changes to your medicines. Your next visit is as scheduled. To see all your results sign in at https://myhealth.cimarronvalley.example/p/lfrost1997
+
+If you have any questions call the office. 
+
+Kayleigh (MA) for Dr. Fairweather  /  12/16/2074
+Logged from workstation 192.168.14.207
+</TEXT>
+<TAGS>
+<DATE id="P0" start="65" end="75" text="12/14/2074" TYPE="DATE" comment="" />
+<NAME id="P1" start="86" end="91" text="Frost" TYPE="PATIENT" comment="" />
+<CONTACT id="P2" start="353" end="405" text="https://myhealth.cimarronvalley.example/p/lfrost1997" TYPE="URL" comment="" />
+<NAME id="P3" start="452" end="460" text="Kayleigh" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="474" end="485" text="Fairweather" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="490" end="500" text="12/16/2074" TYPE="DATE" comment="" />
+<CONTACT id="P6" start="525" end="539" text="192.168.14.207" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

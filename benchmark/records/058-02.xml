@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HARBOR PINES MEDICAL CENTER -- EMERGENCY DEPARTMENT
+ED NOTE            Acct HP-2086-040233     MRN LBW-90-44127
+Arrival 04/02/2086 18:12      Pt: FROST, ELIAS   age 77
+Source of hx: pt, wife Hope Frost, and the EMS run sheet. Chart says DOB 11/04/2008.
+
+"IN CONCLUSION, THE PATIENT'S JOURNEY BEGAN ON THE STAIRS" -- volunteer triage entry by Jasper Lindqvist (HS volunteer), left in by mistake, see below.
+- &gt;&gt; Mr. F. (Elias) fell at home, hit face on the radiator, bleeding++ 
+- &gt;&gt; Mrs. F. (the lovely Hope) held a towel to it, super calm 
+- &gt;&gt; pt was "chill but dizzy, vibes off" 
+
+S: fall at 17 Quillback Lane, Unit B, standing up from the couch quickly. No LOC per wife, though pt unsure. Takes simvastatin, wife says "and the three BP pills"(lisinopril, amlodipine, HCTZ stopped Feb 2081, per chart) -- not on them now. Son Justice Frost arriving, lives Superior.
+Lives in rental. Employer none (retired, was at Gannet Hollow Hardware as a hardware store manager).
+
+O: BP 98/54, HR 76. 4 cm lac L eyebrow/forehead. Neuro grossly intact. Orthostatics + (drop 28).
+A: Facial laceration, orthostatic hypotension, fall. Tdap up to date? unknown.
+P: Irrigated, closed with 6 sutures, tetanus given. Obs overnight for dizziness / sleep apnea monitoring. Acetaminophen for pain. Sutures out in ~ 3 wks. Social work to see re: stress at home.
+
+Seen by Dr. Teodoro Baptiste and RN Gwen Aldous.
+Signed Teodoro Baptiste MD 04/02/2086 22:41   (typed by dictation: "Dr. Baptist" sic)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="HARBOR PINES MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="76" end="90" text="HP-2086-040233" TYPE="ACCOUNT" comment="" />
+<ID id="P2" start="99" end="111" text="LBW-90-44127" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="120" end="130" text="04/02/2086" TYPE="DATE" comment="" />
+<NAME id="P4" start="146" end="158" text="FROST, ELIAS" TYPE="PATIENT" comment="" />
+<AGE id="P5" start="165" end="167" text="77" TYPE="AGE" comment="" />
+<NAME id="P6" start="191" end="201" text="Hope Frost" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="241" end="251" text="11/04/2008" TYPE="DATE" comment="" />
+<NAME id="P8" start="342" end="358" text="Jasper Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="419" end="424" text="Elias" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="503" end="507" text="Hope" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="595" end="620" text="17 Quillback Lane, Unit B" TYPE="STREET" comment="" />
+<DATE id="P12" start="784" end="792" text="Feb 2081" TYPE="DATE" comment="" />
+<NAME id="P13" start="829" end="842" text="Justice Frost" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="859" end="867" text="Superior" TYPE="CITY" comment="" />
+<LOCATION id="P15" start="917" end="939" text="Gannet Hollow Hardware" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P16" start="945" end="967" text="hardware store manager" TYPE="PROFESSION" comment="" />
+<NAME id="P17" start="1353" end="1369" text="Teodoro Baptiste" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1377" end="1388" text="Gwen Aldous" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1397" end="1413" text="Teodoro Baptiste" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1417" end="1427" text="04/02/2086" TYPE="DATE" comment="" />
+<NAME id="P21" start="1462" end="1469" text="Baptist" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Lakehead Behavioral Wellness Center
+TELEPHONE ENCOUNTER (virtual) - SOAP
+Date 12/13/2084   Time 08:55   Taken by: Kayleigh Dunmore, MA
+Pt: Elias Frost  DOB 11/14/2008 (pt said, chart says 11/4 -- wife later said Nov 4th 2009, whatever)  MRN LBW-90-44127
+
+S: 76 yo male called in, his wife Hope on the other line, spoke for him. Pt c/o burning w urination x 2 days, going every hour, "feels like glass". Denies fever. Says his sleep mask machine (CPAP) is fine. Hope says "he hasn't been himself since the first frost, hope this is not another stress thing". (Hope = wife, not hoping, lol -- KD)
+Pt was upset because their landlord Corliss Vandermeer is raising rent and they are stressed, neighbour Ambrose Pettigru (Mr P) has been bringing meals.
+
+O: no vitals, virtual. Voice clear, oriented, a little irritable. 
+
+A: probable cystitis (UTI), age 76 male so needs urine culture. Anxiety/stress re housing.
+
+P: Dr. Rajagopalan-Whitfield reviewed over chat. Sent to urgent care tomorrow for UA and culture, she will e-prescribe abx after. Pt/wife read back instructions. Call-back number (218) 555-0129, alt (218) 555-0133 (Hope cell).
+Also reminded: bring med list, CPAP serial.
+Note signed K. Dunmore MA 12/13/2084 09:20, cosign pending Dr. Rajagopalan-Whitfield
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="35" text="Lakehead Behavioral Wellness Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="78" end="88" text="12/13/2084" TYPE="DATE" comment="" />
+<NAME id="P2" start="114" end="130" text="Kayleigh Dunmore" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="139" end="150" text="Elias Frost" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="156" end="166" text="11/14/2008" TYPE="DATE" comment="" />
+<DATE id="P5" start="188" end="192" text="11/4" TYPE="DATE" comment="" />
+<DATE id="P6" start="212" end="224" text="Nov 4th 2009" TYPE="DATE" comment="" />
+<ID id="P7" start="241" end="253" text="LBW-90-44127" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P8" start="258" end="260" text="76" TYPE="AGE" comment="" />
+<NAME id="P9" start="289" end="293" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="461" end="465" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="559" end="563" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="591" end="593" text="KD" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="631" end="649" text="Corliss Vandermeer" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="699" end="715" text="Ambrose Pettigru" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="717" end="721" text="Mr P" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="849" end="851" text="76" TYPE="AGE" comment="" />
+<NAME id="P17" start="916" end="937" text="Rajagopalan-Whitfield" TYPE="DOCTOR" comment="" />
+<CONTACT id="P19" start="1088" end="1102" text="(218) 555-0129" TYPE="PHONE" comment="" />
+<CONTACT id="P20" start="1108" end="1122" text="(218) 555-0133" TYPE="PHONE" comment="" />
+<NAME id="P21" start="1124" end="1128" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1192" end="1202" text="K. Dunmore" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1206" end="1216" text="12/13/2084" TYPE="DATE" comment="" />
+<NAME id="P24" start="1243" end="1264" text="Rajagopalan-Whitfield" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

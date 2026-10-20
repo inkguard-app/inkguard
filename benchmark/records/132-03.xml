@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>RESULT NOTE - TO PATIENT   01/06/2092
+Dear Mr Will,
+
+Your blood tests from January 4th are back. Cholesterol 159.7 and LDL 96.9: both good, lower than last year. Kidney function (eGFR 74.7) is stable. Glucose was 65.1 which is a little on the low side; please eat something before your next blood draw. No change to your tablets.
+
+Will will attend recheck in 3 months? Please call us on 828-555-0150 with questions.
+
+Best,
+Lorraine Oyelaran, NP
+</TEXT>
+<TAGS>
+<DATE id="P0" start="27" end="37" text="01/06/2092" TYPE="DATE" comment="" />
+<NAME id="P1" start="46" end="50" text="Will" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="75" end="86" text="January 4th" TYPE="DATE" comment="" />
+<NAME id="P3" start="331" end="335" text="Will" TYPE="PATIENT" comment="" />
+<CONTACT id="P4" start="387" end="399" text="828-555-0150" TYPE="PHONE" comment="" />
+<NAME id="P5" start="423" end="440" text="Lorraine Oyelaran" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

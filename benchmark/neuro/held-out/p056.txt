@@ -1,0 +1,15 @@
+NEUROENDOVASCULAR PROCEDURE NOTE
+{{FACILITY|Aldermere Regional Neurovascular Center}} — {{DATE|10/22/2072}}
+{{NAME|Perpetua Oyelaran-Swift}}, 64 F, MRN {{MRN|ARN-7710283}}
+Operator Dr. {{NAME|Casimir Wójcik-Thane}}; fellow Dr. {{NAME|Leilani Kahananui}}; RT(R)(VI) {{NAME|Brent Calloway}}; [[Stryker Neurovascular]] rep {{NAME|Marisol Quenneville}} present
+
+Indication: unruptured 8 mm [[basilar apex aneurysm]], wide neck (5 mm), incorporating both [[P1 origins]], growth of 1.5 mm on surveillance [[MRA]]. [[PHASES]] 7. [[Dual antiplatelet therapy]] 7 days: [[aspirin 81 mg]] + [[ticagrelor 90 mg BID]]; [[VerifyNow PRU]] 48.
+Technique: GA, [[heparin]] (ACT 280 s). Right radial access, [[6F Benchmark guide]] in the dominant left [[vertebral artery V2]]. [[Y-stent-assisted coiling]]: [[Neuroform Atlas stent 3.0 x 21 mm]] from the right [[P1]] into the basilar, and a second [[Neuroform Atlas 3.0 x 15 mm]] from the left P1 through the first stent's interstices. [[Excelsior SL-10 microcatheter]] jailed in the aneurysm. Coils: [[Target 360 Standard 8 mm]], [[Target 360 Soft 6 mm]], [[Target Helical Nano]] x4. Final [[Raymond-Roy class II]] (residual neck). Both [[PCAs]], [[SCAs]] and [[thalamoperforators]] patent on [[3D rotational angiography]] and [[VasoCT]].
+Implant tracking: stent serials for this patient {{ID|NFA-3021-118844}} and {{ID|NFA-3015-118902}}.
+=====NOTE=====
+NEURO ICU OVERNIGHT NOTE — {{DATE|10/23/2072}} — {{NAME|P. Oyelaran-Swift}} — {{MRN|ARN-7710283}}
+NP {{NAME|Graciela Vance-Okoye}}, ACNP
+02:30 new [[left homonymous hemianopia]] and drowsiness. [[NIHSS 4]]. [[Stat MRI DWI]]: punctate diffusion-restricting lesions in the right [[PCA territory]] and right [[thalamus]] — [[thromboembolic complication]]. [[CTA]]: stents patent, no [[in-stent thrombosis]]. [[Ticagrelor]] confirmed given. Plan per Dr. {{NAME|C. Wójcik-Thane}}: [[eptifibatide]] infusion 12 h (no haemorrhage on [[SWI]]), BP 140-160 permissive, [[neuro checks q1h]], repeat [[NIHSS]] AM. Daughter {{NAME|Lydia Swift}} informed.
+=====NOTE=====
+STROKE CLINIC 3 months — {{DATE|01/24/2073}} — {{NAME|P. Oyelaran-Swift}}
+Field cut improved to a small [[left upper quadrantanopia]] on [[Goldmann perimetry]]. [[mRS 1]]. [[MRA]] (TOF) — stent artefact limits assessment; [[DSA]] at 6 months to assess [[Raymond-Roy]] progression. Continue [[DAPT]] to 6 months then [[aspirin 81 mg]] monotherapy. Driving: not until field assessment by ophthalmology at {{FACILITY|Aldermere Eye Associates}}.

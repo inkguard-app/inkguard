@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>note_id,mrn,pt_name,enc_date,author,dept,note_type,text
+"PM-5521","2290-6518","Page, Rhys","06/22/2064","patient (portal)","Care Coordination","Portal message","hi it is rhys page, the filling from Monday is fine but my bite feels high on the left. can I come back. also please update my sex marker, the clinic still print the old name on my meds bottle (pharmacy label says Rebeca). my sister Corinne can see my messages, no one else. I might move south next year so I want copy of my records. thx. R."
+</TEXT>
+<TAGS>
+<ID id="P0" start="67" end="76" text="2290-6518" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="79" end="89" text="Page, Rhys" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="92" end="102" text="06/22/2064" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="124" end="141" text="Care Coordination" TYPE="DEPARTMENT" comment="" />
+<NAME id="P4" start="170" end="179" text="rhys page" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="198" end="204" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P6" start="375" end="381" text="Rebeca" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="394" end="401" text="Corinne" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="500" end="502" text="R." TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

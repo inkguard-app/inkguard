@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL MESSAGE (written by patient)
+From: Peace Kuol (portal user peacekuol_fgo)        To: Dr. Graves's office
+Sent: 07/02/2078 6:41 AM  (Saturday)
+Subject: filling fell out + question about my bills
+
+Hello Dr Graves,
+
+I hope you are well. Yesterday at the dentist (the 1st) they fixed my teeth but a filing came loose again tonight, the one on the left bottom. It dosent hurt but it is rough on my tounge. Do I go back to Lakeside Dental or to you. Please tell me. Dentist was Dr Rose something, she was very kind. I think the name was Rose Adeleke or Rose Adelek.
+
+Also, i recieved a letter from the insurance, Medica-Plus 88-2231-4410, and it is addressed to Peace Kuol-Deng. This is my old name from my marriage. I do not use it now, my name is only Peace Kuol since the divorce on March 4th, 2077. Is that why the lab results came to the wrong portal?
+
+My cousin Achol will help me read the answer. Her phone is (701) 555-0166 if you need to call and I miss the call. I am at work Mon-Fri until 4, at Brightside Laundry (part time).
+
+Thank you very much, for my peace of mind
+God bless, I wish you peace
+Peace
+
+P.S. my address is still 508 Birchwood Lane, Apt 4B, Fargo, ND 58102, not the old one in Oakmont Street.
+Sent from my phone
+
+--- auto reply 07/02/2078 ---
+Thank you for your message. Replies within 2 business days. If this is an emergency, call 911.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="50" end="60" text="Peace Kuol" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="74" end="87" text="peacekuol_fgo" TYPE="USERNAME" comment="" />
+<NAME id="P2" start="104" end="110" text="Graves" TYPE="DOCTOR" comment="" />
+<DATE id="P3" start="126" end="136" text="07/02/2078" TYPE="DATE" comment="" />
+<DATE id="P4" start="147" end="155" text="Saturday" TYPE="DATE" comment="" />
+<NAME id="P5" start="219" end="225" text="Graves" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="279" end="282" text="1st" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="432" end="447" text="Lakeside Dental" TYPE="ORGANIZATION" comment="" />
+<NAME id="P8" start="490" end="494" text="Rose" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="546" end="558" text="Rose Adeleke" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="562" end="573" text="Rose Adelek" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="622" end="646" text="Medica-Plus 88-2231-4410" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P12" start="671" end="686" text="Peace Kuol-Deng" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="795" end="810" text="March 4th, 2077" TYPE="DATE" comment="" />
+<NAME id="P14" start="877" end="882" text="Achol" TYPE="PATIENT" comment="" />
+<CONTACT id="P15" start="926" end="940" text="(701) 555-0166" TYPE="PHONE" comment="" />
+<DATE id="P16" start="995" end="1002" text="Mon-Fri" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="1015" end="1033" text="Brightside Laundry" TYPE="ORGANIZATION" comment="" />
+<NAME id="P18" start="1118" end="1123" text="Peace" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="1150" end="1168" text="508 Birchwood Lane" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="1178" end="1183" text="Fargo" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="1185" end="1187" text="ND" TYPE="STATE" comment="" />
+<LOCATION id="P22" start="1188" end="1193" text="58102" TYPE="ZIP" comment="" />
+<LOCATION id="P23" start="1214" end="1228" text="Oakmont Street" TYPE="STREET" comment="" />
+<DATE id="P24" start="1265" end="1275" text="07/02/2078" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

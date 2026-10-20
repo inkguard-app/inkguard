@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Prairie Children's Hospital - Emergency Department
+EMERGENCY DEPARTMENT NOTE            Date: 2089-01-15  (Saturday)   Triage 19:48
+Name: BROOK, THEODORE M   DOB 2085-05-02   Age 3y 8m   Sex M   MRN CH-2092-4417   AHCIP 4028-17766
+Arrived with: mother (Clare Brook) and maternal grandmother visiting from Bristol, UK
+
+CC: cough and noisy breathing, day 11 of an acute bronchitis, worse tonight.
+
+HPI: Theo is a 3 y.o. boy, usually well, seen by his GP on the 4th (Dr. Siddharth Venkataswamy) who diagnosed acute bronchitis. Mum says the cough was settling then got worse again 2 nights ago, barking at night, no fever today, eating less. Mother has been giving an over the counter cold syrup containing acetaminophen, dextromethorphan and doxylamine, plus Tylenol on top of it by mistake once - dosing reviewed with her at the bedside. No vomiting. No sick contacts at daycare except a cousin. Immunizations up to date per mom, 2088 booster given. No Kawasaki features, no rash, no conjunctival injection, so that is not on the differential. No wheeze history, no asthma, Zyrtec as needed in summer.
+
+Exam: alert, playful, T 37.1, RR 28, SpO2 98% RA, no stridor at rest, scattered coarse crackles, no wheeze, throat mildly red, TMs clear, abdomen soft. Wt 15 kg per mother.
+
+Assessment: persistent acute bronchitis, viral, no pneumonia clinically, no resp distress. Orders: none needed, chest film not indicated. Discussed fluids, honey is not for him as hes under 4... sorry no, honey is ok over 1 year. Return precautions.
+
+Dispo: home with mother. Follow up with Dr. Venkataswamy at Bow River Children's Clinic on the 22nd.
+
+Dictated by: Dr. Bronwen Llewellyn-Pryce (locum, Cardiff trained), speech recog says "Dr. Brawn Win" - ignore.
+Speech recognition errors: "the patient has a tin of nay sail" = nasal; "met for men" is not on his list; "pea ads" = peds.
+Dictated but not read. E-signed 15 Jan 2089 21:30.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="Prairie Children's Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="30" end="50" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="94" end="104" text="2089-01-15" TYPE="DATE" comment="" />
+<DATE id="P3" start="107" end="115" text="Saturday" TYPE="DATE" comment="" />
+<NAME id="P4" start="138" end="155" text="BROOK, THEODORE M" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="162" end="172" text="2085-05-02" TYPE="DATE" comment="" />
+<AGE id="P6" start="179" end="184" text="3y 8m" TYPE="AGE" comment="" />
+<ID id="P7" start="199" end="211" text="CH-2092-4417" TYPE="MEDICALRECORD" comment="" />
+<ID id="P8" start="220" end="230" text="4028-17766" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P9" start="253" end="264" text="Clare Brook" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="305" end="312" text="Bristol" TYPE="CITY" comment="" />
+<LOCATION id="P11" start="314" end="316" text="UK" TYPE="COUNTRY" comment="" />
+<NAME id="P12" start="401" end="405" text="Theo" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="411" end="412" text="3" TYPE="AGE" comment="" />
+<DATE id="P14" start="455" end="462" text="the 4th" TYPE="DATE" comment="" />
+<NAME id="P15" start="468" end="490" text="Siddharth Venkataswamy" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="928" end="932" text="2088" TYPE="DATE" comment="" />
+<NAME id="P17" start="1570" end="1582" text="Venkataswamy" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="1586" end="1613" text="Bow River Children's Clinic" TYPE="ORGANIZATION" comment="" />
+<DATE id="P19" start="1617" end="1625" text="the 22nd" TYPE="DATE" comment="" />
+<NAME id="P20" start="1645" end="1668" text="Bronwen Llewellyn-Pryce" TYPE="DOCTOR" comment="" />
+<LOCATION id="P21" start="1677" end="1684" text="Cardiff" TYPE="CITY" comment="" />
+<NAME id="P22" start="1718" end="1727" text="Brawn Win" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1895" end="1906" text="15 Jan 2089" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

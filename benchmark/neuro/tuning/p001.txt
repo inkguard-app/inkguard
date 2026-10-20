@@ -1,0 +1,42 @@
+NEURO-ONCOLOGY CLINIC LETTER
+
+{{FACILITY|Harrowgate Regional Cancer Institute}}
+Department of Neuro-Oncology
+Date of clinic: {{DATE|14 March 2071}}
+
+Dear Dr. {{NAME|Okonkwo}},
+
+Re: {{NAME|Margaret Cushing}}, MRN {{MRN|HRC-0048213}}
+
+I saw Mrs. {{NAME|Cushing}} today, six weeks after her [[left frontal craniotomy]] with [[awake mapping]] and [[5-ALA fluorescence-guided resection]]. Final pathology confirms [[glioblastoma, IDH-wildtype, CNS WHO grade 4]]. [[MGMT promoter methylated]] by pyrosequencing (mean 34%). [[TERT promoter mutation]] present; [[EGFR amplification]] detected. No [[H3 K27M]] alteration.
+
+Post-operative [[MRI brain with and without gadolinium]] within 48 hours showed a [[gross total resection]] of the enhancing component, with residual [[T2/FLAIR hyperintensity]] along the [[corpus callosum genu]]. There was a small focus of [[restricted diffusion on DWI]] at the posterior resection margin, in keeping with peri-operative ischaemia rather than tumour.
+
+She is neurologically well: [[Karnofsky performance status 80]], mild [[expressive dysphasia]] that is improving, no [[pronator drift]]. Of note, she has no clinical features of [[Cushing syndrome]] despite six weeks of [[dexamethasone 4 mg twice daily]], which we are now tapering to [[2 mg daily]].
+
+Plan: [[Stupp protocol]] — [[radiotherapy 60 Gy in 30 fractions]] with concurrent [[temozolomide 75 mg/m2 daily]], followed by six cycles of adjuvant [[temozolomide 150-200 mg/m2 days 1-5 of 28]]. We discussed [[tumour treating fields (Optune)]]. She will continue [[levetiracetam 500 mg twice daily]] and [[PJP prophylaxis]].
+
+Her husband {{NAME|Desmond}} can be reached on {{PHONE|(555) 310-4472}}.
+
+Yours sincerely,
+Dr. {{NAME|Priya Vantongeren}}, Consultant Neuro-Oncologist
+=====NOTE=====
+RADIATION ONCOLOGY — WEEKLY ON-TREATMENT REVIEW
+Pt: {{NAME|CUSHING, MARGARET}}   MRN {{MRN|HRC-0048213}}   Cycle start {{DATE|03/30/2071}}
+Seen {{DATE|04/22/2071}}
+
+Fraction 18/30 of [[IMRT]] to [[60 Gy]], concurrent [[TMZ 75 mg/m2]]. Tolerating well. [[CTCAE grade 1 fatigue]]. [[Grade 1 radiation dermatitis]] and alopecia in treatment field. Mild nausea controlled with [[ondansetron 8 mg]] pre-dose.
+
+Labs: plt 142, ANC 2.9 — no [[thrombocytopenia]] requiring hold.
+Exam: alert, oriented, speech fluent with occasional [[word-finding difficulty]]. [[Cranial nerves II-XII]] intact. Power 5/5 throughout, no [[pronator drift]], [[finger-nose testing]] normal. No [[papilloedema]] on [[fundoscopy]].
+
+[[Dexamethasone]] weaned off on day 10. On [[levetiracetam 500 mg BID]], no seizures. Continue [[Bactrim DS three times weekly]].
+
+Next review one week. MRI planned 4 weeks after completion to establish a baseline before adjuvant cycles; will interpret using [[RANO criteria]] and watch for [[pseudoprogression]].
+
+{{NAME|T. Abernathy-Lowe}}, RN, on behalf of Dr. {{NAME|Saul Kemeny}}
+=====NOTE=====
+pasted from portal message:
+"hi this is {{NAME|desmond cushing}}, {{NAME|margaret}}'s husband. she had a funny episode last night, right arm twitching for about a minute then she couldn't talk properly for 20 min. she's ok now. should we come in? she's due for cycle 2 of the temozolomide on the {{DATE|3rd}}. my email is {{EMAIL|dcushing.home@example.net}}"
+
+Reply ({{NAME|S. Kemeny}}): In the setting of [[left frontal glioblastoma]] this is likely [[focal motor seizure]] with [[post-ictal aphasia]] ([[Todd phenomenon]]). Increase [[levetiracetam to 1000 mg BID]]; give [[lorazepam 2 mg]] rescue if a seizure lasts over 5 minutes ([[status epilepticus]] threshold). Urgent [[MRI with perfusion]] to exclude [[tumour progression]] versus [[treatment effect]]. Hold [[adjuvant TMZ cycle 2]] pending imaging. Check [[levetiracetam trough level]] and [[CBC with platelets]]. [[Seizure precautions]], no driving for 6 months. Consider [[lacosamide 50 mg BID]] add-on if further events. Booked {{DATE|June 2, 2071}} at {{FACILITY|Harrowgate Imaging Suite B}}.

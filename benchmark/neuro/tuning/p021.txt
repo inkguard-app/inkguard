@@ -1,0 +1,24 @@
+s/p L4-5 TLIF — POD2 PROGRESS NOTE
+{{FACILITY|Ridgeway Lutheran Hospital}} 5 West
+{{NAME|Odalys Brennecke}}  MRN {{MRN|RLH-28830671}}  {{DATE|08/08/2070}}
+
+S: back pain 5/10 incisional, R leg [[radicular pain]] resolved, numbness dorsum R foot improving. Ambulated 60 m with walker. Voiding. +flatus.
+O: afeb, HR 82, BP 128/70. Wound c/d/i, [[Hemovac drain]] 40 mL/24 h → pulled. [[EHL]] 5/5, [[ankle dorsiflexion]] 5/5 bilat, [[L5 dermatome]] sensation mildly ↓ R. [[SLR negative]].
+Imaging: standing XR — [[L4-5 TLIF]] with [[bilateral L4 and L5 pedicle screws (6.5 x 45 mm)]], [[expandable titanium interbody cage]] well positioned anteriorly, [[Meyerding grade I]] residual (preop [[Meyerding grade II]], 34% slip), restored [[segmental lordosis]] 14 degrees. No [[screw breach]] on intraop [[O-arm]] spin.
+A/P: POD2 s/p [[minimally invasive L4-5 TLIF]] for [[degenerative spondylolisthesis]] with [[foraminal stenosis]].
+- d/c [[PCA]], [[oxycodone 5 mg q4h PRN]], [[gabapentin 300 mg TID]], [[methocarbamol 750 mg]]
+- [[LSO brace]] when OOB
+- [[enoxaparin 40 mg daily]] start today
+- PT/OT, d/c home tomorrow if cleared
+— {{NAME|J. Ndiaye-Holm}}, PA-C for Dr. {{NAME|Ilse Marchbanks}}
+=====NOTE=====
+OPERATIVE REPORT
+Pt: {{NAME|Odalys Brennecke}}   MRN {{MRN|RLH-28830671}}   DOS {{DATE|08/06/2070}}
+Surgeon: {{NAME|Ilse Marchbanks}}, MD
+
+PROCEDURE: [[Minimally invasive transforaminal lumbar interbody fusion L4-5]], right-sided approach, [[percutaneous pedicle screw fixation L4-L5]] bilaterally under [[O-arm navigation]], [[right L4-5 facetectomy]], [[decompression of right L4 and L5 nerve roots]].
+
+PREOP: [[L4-5 degenerative spondylolisthesis, Meyerding grade II]], [[dynamic instability]] (6 mm translation on flexion-extension), right [[L4 and L5 radiculopathy]]. [[ODI 46%]].
+
+DETAILS: Prone on [[Jackson table]]. [[Reference frame]] fixed to the right posterior superior iliac spine; O-arm spin; navigated [[Jamshidi needles]] and [[K-wires]] placed into the L4 and L5 pedicles. Right paramedian incision, [[METRx tubular retractor]] 22 mm docked on the L4-5 facet. Complete [[inferior articular process]] and [[superior articular process]] resection, exposure of [[Kambin's triangle]] with [[exiting L4 root]] above and [[traversing L5 root]] medially. Discectomy, endplate preparation with [[rasps and shavers]], trial sizing. [[Expandable titanium cage 10-14 mm]] inserted and expanded to 13 mm, packed with [[local autograft]] and [[demineralised bone matrix]] ([[rhBMP-2]] not used). [[Pedicle screws 6.5 x 45 mm]] placed over K-wires, [[rods]] passed percutaneously, compression applied, [[set screws]] final-tightened. Triggered [[EMG]] thresholds all above 12 mA. Patient's implant serial log number {{ID|RLH-IMP-70-55107}}.
+EBL 120 mL. No complications.

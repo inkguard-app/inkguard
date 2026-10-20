@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE
+Patient: Legend Dax Warde   (AKA L-Dub)    MRN: CR-5518203    DOB: 3/14/2031
+Age: 30     Admitted: 11/11/2061     Date of death: 11/22/2061   Time of death 16:12
+Unit: Ward 6 East, Rm 614
+Pronounced by: Dr. Tre Okafor (covering for Dr. Lindqvist)
+
+- 30 yo M with chronic CHF, recurrent admissions (5/2061, 11/2061), refractory to GDMT, nonadherence, prediabetes, anemia
+- progressive decline since 11/18, cardiogenic shock (hx of shock 11/23/2057)
+- DNR/DNI confirmed 11/20 with patient
+- At bedside: mother Glory Ward and sister Rain Ward; friend Kash Obi in the corridor
+- No pulse, no resp, pupils fixed. Asystole on monitor. Called 16:12
+- Cause: end-stage heart failure.  Manner: natural. ME not required. Autopsy declined by family.
+- Belongings tag: "WARD L - L-DUB - bag 1 of 1" -- returned to mother
+- Funeral home: Greer &amp; Stokes Funeral Chapel, Tulsa
+
+The ward clerk notified Prairie Shield Health and the hospital registrar. The ward is quiet tonight.
+Last edited by tokafor 11/22/2061 17:20 from 10.44.9.30
+</TEXT>
+<TAGS>
+<NAME id="P0" start="20" end="36" text="Legend Dax Warde" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="44" end="49" text="L-Dub" TYPE="PATIENT" comment="" />
+<ID id="P2" start="59" end="69" text="CR-5518203" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="78" end="87" text="3/14/2031" TYPE="DATE" comment="" />
+<AGE id="P4" start="93" end="95" text="30" TYPE="AGE" comment="" />
+<DATE id="P5" start="110" end="120" text="11/11/2061" TYPE="DATE" comment="" />
+<DATE id="P6" start="140" end="150" text="11/22/2061" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="179" end="190" text="Ward 6 East" TYPE="ROOM" comment="" />
+<LOCATION id="P8" start="192" end="198" text="Rm 614" TYPE="ROOM" comment="" />
+<NAME id="P9" start="218" end="228" text="Tre Okafor" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="247" end="256" text="Lindqvist" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="309" end="315" text="5/2061" TYPE="DATE" comment="" />
+<DATE id="P12" start="317" end="324" text="11/2061" TYPE="DATE" comment="" />
+<DATE id="P13" start="409" end="414" text="11/18" TYPE="DATE" comment="" />
+<DATE id="P14" start="447" end="457" text="11/23/2057" TYPE="DATE" comment="" />
+<DATE id="P15" start="479" end="484" text="11/20" TYPE="DATE" comment="" />
+<NAME id="P16" start="519" end="529" text="Glory Ward" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="541" end="550" text="Rain Ward" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="559" end="567" text="Kash Obi" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="769" end="775" text="WARD L" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="778" end="783" text="L-DUB" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="836" end="865" text="Greer &amp; Stokes Funeral Chapel" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P22" start="867" end="872" text="Tulsa" TYPE="CITY" comment="" />
+<LOCATION id="P23" start="898" end="919" text="Prairie Shield Health" TYPE="ORGANIZATION" comment="" />
+<NAME id="P24" start="990" end="997" text="tokafor" TYPE="USERNAME" comment="" />
+<DATE id="P25" start="998" end="1008" text="11/22/2061" TYPE="DATE" comment="" />
+<CONTACT id="P26" start="1020" end="1030" text="10.44.9.30" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

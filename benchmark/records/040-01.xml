@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Maumee Bend Health Partners
+AFTER VISIT SUMMARY
+Patient: Wilhemina Santangelo   DOB: 06/21/2038   Age: 39   MRN: 02-558314
+Visit: 03/02/2078   Provider: Dr. Corazon Bellweather   MA: Rafael Quist
+Address on file: 1409 Marlowe Avenue, Apt 3C, Toledo, Ohio 43607   Phone: (419) 555-0177
+Insurance member ID: OHM-4417-209-8
+
+[Dictated by Dr. Bellweather and typed from the recording. Dictated but not read.]
+
+Mrs. -- sorry, Ms. Santangello is a 39 year old woman who came in today, a Wednesday, for a check up after a bout of acute bronchitis that was first seen here on 02/22/2078. She finished the course of acetaminophen on 03/10/2078 -- no, that is wrong, she tells me she is still taking it, the med list says it stops 03/10, please leave it. Cough is better though she still wakes with it. No fever now. Her COVID illness that began in December 2077 has fully cleared, taste has come back.
+
+Social history, and this is the long part, because a lot has happened. She was laid off from Wexcombe Poultry Processing on 03/01/2078, which is yesterday, after eleven years on the line, started there June 2067. She is understandably stressed. She lives at the Marlowe Avenue address, an apartment, with her son Ezekiel who was born in 2074. Her daughter Marisela lives with Rosalind Santangelo, the patient's mother, on the east side. The father of the children is not involved, that is Terrence Goode, and she did not want him on any forms. Emergency contact: SAME. She has no car and relies on the neighbour, Mr. Obadiah Fenwick, to drive her to appointments, which is a problem I will ask our care coordinator Pauline Achterberg to help with.
+
+Examination today: blood pressure 137 over 78, weight 79.3 kilograms, BMI 28.2, pain one out of ten. Hemoglobin 12.9 and white count 6.7, both acceptable. She takes a vitamin B12 injection which she has had since 2068.
+
+What we did today:
+- Reviewed your blood work (hemoglobin and white count were fine)
+- Talked about stress after losing your job. Please call (419) 555-0100 if you feel low
+- Booked your vaccine visits for 03/23/2078 and 04/20/2078
+- Referred you to Pauline Achterberg for help with rides
+
+Your medicines: vitamin B12 5 mg/mL injection (continue). Acetaminophen 325 mg as needed until the cough settles.
+
+Next visit: 03/23/2078 for vaccine. Call us if you cannot get a ride.
+
+Patient: Wilhelmina Santangelo -- Page 1 of 1   Printed by rquist 03/02/2078 16:05 from 192.168.1.44
+Dictated but not read. Electronically signed by Dr. Corazon Bellweather  03/03/2078 08:12.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="Maumee Bend Health Partners" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="57" end="77" text="Wilhemina Santangelo" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="85" end="95" text="06/21/2038" TYPE="DATE" comment="" />
+<AGE id="P3" start="103" end="105" text="39" TYPE="AGE" comment="" />
+<ID id="P4" start="113" end="122" text="02-558314" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="130" end="140" text="03/02/2078" TYPE="DATE" comment="" />
+<NAME id="P6" start="157" end="176" text="Corazon Bellweather" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="183" end="195" text="Rafael Quist" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="213" end="240" text="1409 Marlowe Avenue, Apt 3C" TYPE="STREET" comment="" />
+<LOCATION id="P9" start="242" end="248" text="Toledo" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="250" end="254" text="Ohio" TYPE="STATE" comment="" />
+<LOCATION id="P11" start="255" end="260" text="43607" TYPE="ZIP" comment="" />
+<CONTACT id="P12" start="270" end="284" text="(419) 555-0177" TYPE="PHONE" comment="" />
+<ID id="P13" start="306" end="320" text="OHM-4417-209-8" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P14" start="339" end="350" text="Bellweather" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="425" end="436" text="Santangello" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="442" end="444" text="39" TYPE="AGE" comment="" />
+<DATE id="P17" start="481" end="490" text="Wednesday" TYPE="DATE" comment="" />
+<DATE id="P18" start="568" end="578" text="02/22/2078" TYPE="DATE" comment="" />
+<DATE id="P19" start="624" end="634" text="03/10/2078" TYPE="DATE" comment="" />
+<DATE id="P20" start="721" end="726" text="03/10" TYPE="DATE" comment="" />
+<DATE id="P21" start="839" end="852" text="December 2077" TYPE="DATE" comment="" />
+<LOCATION id="P22" start="987" end="1014" text="Wexcombe Poultry Processing" TYPE="ORGANIZATION" comment="" />
+<DATE id="P23" start="1018" end="1028" text="03/01/2078" TYPE="DATE" comment="" />
+<DATE id="P24" start="1096" end="1105" text="June 2067" TYPE="DATE" comment="" />
+<NAME id="P25" start="1207" end="1214" text="Ezekiel" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1231" end="1235" text="2074" TYPE="DATE" comment="" />
+<NAME id="P27" start="1250" end="1258" text="Marisela" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1270" end="1289" text="Rosalind Santangelo" TYPE="PATIENT" comment="" />
+<NAME id="P29" start="1383" end="1397" text="Terrence Goode" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1511" end="1526" text="Obadiah Fenwick" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="1609" end="1627" text="Pauline Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P32" start="1856" end="1860" text="2068" TYPE="DATE" comment="" />
+<CONTACT id="P33" start="2005" end="2019" text="(419) 555-0100" TYPE="PHONE" comment="" />
+<DATE id="P34" start="2069" end="2079" text="03/23/2078" TYPE="DATE" comment="" />
+<DATE id="P35" start="2084" end="2094" text="04/20/2078" TYPE="DATE" comment="" />
+<NAME id="P36" start="2113" end="2131" text="Pauline Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P37" start="2280" end="2290" text="03/23/2078" TYPE="DATE" comment="" />
+<NAME id="P38" start="2348" end="2369" text="Wilhelmina Santangelo" TYPE="PATIENT" comment="" />
+<NAME id="P39" start="2398" end="2404" text="rquist" TYPE="USERNAME" comment="" />
+<DATE id="P40" start="2405" end="2415" text="03/02/2078" TYPE="DATE" comment="" />
+<CONTACT id="P41" start="2427" end="2439" text="192.168.1.44" TYPE="IPADDR" comment="" />
+<NAME id="P42" start="2492" end="2511" text="Corazon Bellweather" TYPE="DOCTOR" comment="" />
+<DATE id="P43" start="2513" end="2523" text="03/03/2078" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

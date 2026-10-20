@@ -1,0 +1,18 @@
+TRAUMA ICU — HEAD INJURY — WORK-RELATED FALL
+{{FACILITY|Ironvale Level I Trauma Center}} — {{DATE|02/11/2080}}
+{{NAME|Elias Marshall-Quiroga}}, 31 M, MRN {{MRN|IVT-9100427}}
+Employer {{ORG|Halberd Steel Erectors}}; workers' comp carrier {{ORG|Copperline Workers Compensation Services}}, claim {{ID|WCC-80-117723}}
+Trauma attending Dr. {{NAME|Ottoline Brightman}}; neurosurgery Dr. {{NAME|Kasimir Lindahl-Achebe}}
+
+Fell ~20 feet from scaffolding; harness not attached. [[GCS 6 (E1V2M3)]] at scene → intubated. [[Pupils 3 mm equal, sluggish]]. [[Decerebrate posturing]] intermittently on the right.
+[[CT head]]: [[diffuse axonal injury]] pattern — punctate haemorrhages at the [[grey-white junction]], [[corpus callosum splenium]] and [[dorsolateral midbrain]]; small [[intraventricular haemorrhage]]; [[basal cisterns]] compressed; no mass lesion. [[Marshall CT class III (diffuse injury III — swelling)]] (patient surname {{NAME|Marshall-Quiroga}}; chart the score as "[[Marshall CT classification]]"). [[Rotterdam CT score 4]]. [[IMPACT]] predicted 6-month unfavourable outcome 49%.
+[[MRI]] (day 2): [[DAI grade 3 (Adams-Gennarelli)]] — brainstem lesions on [[SWI]] and [[DWI]].
+Management: right frontal [[EVD]] with [[ICP monitoring]]; ICP 24 mmHg → [[tier 1]]: HOB 30, sedation ([[propofol]], [[fentanyl]]), [[CSF drainage]], [[hypertonic saline 3%]]; [[tier 2]]: [[PaCO2 32-35]], [[neuromuscular blockade]]; [[CPP]] goal 60-70. [[Brain tissue oxygen (PbtO2)]] monitor. [[Seizure prophylaxis]] 7 days. [[Paroxysmal sympathetic hyperactivity]] episodes (tachycardia, hyperthermia, posturing) → [[propranolol]], [[gabapentin]], [[bromocriptine]].
+=====NOTE=====
+NSICU DAY 9 — {{DATE|02/20/2080}} — {{NAME|E. Marshall-Quiroga}} — {{MRN|IVT-9100427}}
+NP {{NAME|Delia Konstantinou}}, ACNP-BC; neurosurgery resident Dr. {{NAME|Faisal Rahimi}}
+ICP refractory overnight 28-32 mmHg despite tier 2 → [[barbiturate coma]] vs [[decompressive craniectomy]] discussed (RESCUEicp). Proceeded with bifrontal [[decompressive craniectomy]] ([[Kjellberg]] type), division of the [[falx]] anteriorly; ICP post-op 8-12 mmHg. [[EVD]] at 10 cmH2O. [[GCS 7T (E2VTM5)]] today off sedation. [[Tracheostomy]] and [[PEG]] scheduled. Bone flaps stored at the [[bone bank]] (bone flap ID {{ID|BB-IVT-80-0331}}).
+=====NOTE=====
+CASE MANAGEMENT / WORKERS' COMP UPDATE — {{DATE|03/05/2080}}
+CM {{NAME|Lorraine Abubakar}}, RN, CCM; adjuster {{NAME|Philip Westbrook}}, {{ORG|Copperline Workers Compensation Services}}, claim {{ID|WCC-80-117723}}
+Patient {{NAME|Elias Marshall-Quiroga}}: now [[Rancho Los Amigos level III]] (localised response), [[GCS 10T]], [[Coma Recovery Scale-Revised]] 14 (emerging from [[minimally conscious state]]). [[Amantadine 100 mg BID]] started for arousal. Recommend acute inpatient [[TBI rehabilitation]] at {{FACILITY|Ironvale Brain Injury Rehabilitation Hospital}}; [[cranioplasty]] at 3 months. Authorisation requested; carrier to send nurse case manager.

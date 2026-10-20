@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>From: Corinne Hartnett &lt;corinne.hartnet@mailbox-ohio.example&gt;
+To: Primary Care - Dr. Venkataraghavan's office
+Date: Thursday, October 20, 2061 11:05 PM
+Subject: headaches still + question about my moms paperwork
+Sent from my phone 419-555-0163 - ip 73.162.40.8
+
+hi Dr V's office,
+
+its me corinne hartnett again. I went to the er on Sept 5th (fell) and they said concussion. still getting headaches in the afternoons about 3 or 4 days a week and a little foggy at work. I have not taken the naproxen like they said but my knee is killing me. should I come in before the Nov 7 appt??
+
+also the nurse at ER wrote my neighbor's name wrong, its Szczepanski not Chepanski, Pilar, she's the one who actually helped me. PLEASE fix in my chart.
+
+my landlord Mr Voss sent me this text and I need a letter from you saying I cant do stairs for now:
+&gt; From: Abernathy Voss (419-555-0171)
+&gt; Re: unit B, 418 Kestrel Ln. Notice #TN-2061-0442. Rent due the 1st, cant fix steps till spring. - AV
+
+also my husband doesnt know I'm writing you. please only call my cell NOT the house. my cell is four one nine, five five five, oh one six three.
+
+thanks
+Corinne V. Hartnett
+DOB 8/19/97 (the 19th, dont let them put 1979 again)
+Attached: Hartnett_C_ED_discharge_20610906.pdf
+</TEXT>
+<TAGS>
+<NAME id="P0" start="6" end="22" text="Corinne Hartnett" TYPE="PATIENT" comment="" />
+<CONTACT id="P1" start="24" end="60" text="corinne.hartnet@mailbox-ohio.example" TYPE="EMAIL" comment="" />
+<LOCATION id="P2" start="66" end="78" text="Primary Care" TYPE="DEPARTMENT" comment="" />
+<NAME id="P3" start="85" end="100" text="Venkataraghavan" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="116" end="142" text="Thursday, October 20, 2061" TYPE="DATE" comment="" />
+<CONTACT id="P5" start="231" end="243" text="419-555-0163" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="249" end="260" text="73.162.40.8" TYPE="IPADDR" comment="" />
+<DATE id="P7" start="332" end="340" text="Sept 5th" TYPE="DATE" comment="" />
+<DATE id="P8" start="569" end="574" text="Nov 7" TYPE="DATE" comment="" />
+<NAME id="P9" start="845" end="859" text="Abernathy Voss" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="861" end="873" text="419-555-0171" TYPE="PHONE" comment="" />
+<LOCATION id="P11" start="889" end="903" text="418 Kestrel Ln" TYPE="STREET" comment="" />
+<ID id="P12" start="913" end="925" text="TN-2061-0442" TYPE="IDNUM" comment="" />
+<CONTACT id="P13" start="1075" end="1122" text="four one nine, five five five, oh one six three" TYPE="PHONE" comment="" />
+<NAME id="P14" start="1143" end="1151" text="Hartnett" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="1156" end="1163" text="8/19/97" TYPE="DATE" comment="" />
+<DATE id="P16" start="1169" end="1173" text="19th" TYPE="DATE" comment="" />
+<DATE id="P17" start="1193" end="1197" text="1979" TYPE="DATE" comment="" />
+<NAME id="P18" start="1215" end="1223" text="Hartnett" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="1239" end="1247" text="20610906" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

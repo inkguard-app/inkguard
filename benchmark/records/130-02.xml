@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>SOCIAL WORK CONSULT NOTE                   Mountain Laurel Family Practice
+Date seen: 02/01/2093        Referred by: Dr. Marguerite Tanaka-Bell (annual exam, same day)
+Patient: Tobiah M. Kerrigan-Osei  DOB 04/19/2075  (17 yo)   MRN 4402-1187
+SW: Noor Hashemi, LCSW       Intern: Cassidy Mbeki
+
+~ SUBJECTIVE ~
+Pt arrived alone, said he was 19 (corrected by chart, he turns 18 on 04/19/2093), and that his DOB is 04/19/2074. Lives at 1419 Wren Hollow Lane, Asheville, NC 28806 in a rented duplex; landlord is Ellis Hargrove of Hargrove Property Management, who has not fixed the heater "since Thanksgiving". Neighbour Mrs. Brandvold lets him use her wifi (network HollowWren_5G) and sometimes feeds him. Mother Delphine works nights, step-father Rudy Pasternak "doesnt really talk to me". Father Kofi Osei lives in Charlotte, "not in the picture". Little sister Maeve (age 9) stays with a cousin.
+Work: full time since this week at Blue Ridge Pallet and Crate as a forklift helper, lifts heavy. Finished dual enrollment at Pisgah Community College. Reports back pain "all the time" since 01/13/2093 dx chronic LBP + fibromyalgia (odd at his age, per Dr T-B).
+Pt denies drug use. Screens: substance use, depression, domestic abuse, drug abuse all done. Says nobody hits him at home, mom "yells".
+
+~ OBJECTIVE ~
+Pain 4/10. Wt 59.8 kg, BMI 19.0, BP 117/81. Tired, flat affect, tapping foot throughout. Hygiene fine.
+
+~ ASSESSMENT ~
+Housing unsatisfactory, work stress, chronic pain at 17. Intern wrote: "The patients story is a journey of resilience." (Dr. Hashemi says keep clinical.)
+
+~ PLAN ~
+1. Letter to landlord re heater w/ clinic letterhead - needs mom's consent
+2. Case mgr: Ivo Szczepanski, (828) 555-0142 ext 12
+3. Recheck 02/15/2093.
+Medicaid ID NC-MA-5529018U, case # CM-93-0471.
+Signed Noor Hashemi, LCSW  02/01/2093 16:20
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="43" end="74" text="Mountain Laurel Family Practice" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="86" end="96" text="02/01/2093" TYPE="DATE" comment="" />
+<NAME id="P2" start="121" end="143" text="Marguerite Tanaka-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="177" end="200" text="Tobiah M. Kerrigan-Osei" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="206" end="216" text="04/19/2075" TYPE="DATE" comment="" />
+<AGE id="P5" start="219" end="221" text="17" TYPE="AGE" comment="" />
+<ID id="P6" start="232" end="241" text="4402-1187" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P7" start="246" end="258" text="Noor Hashemi" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="279" end="292" text="Cassidy Mbeki" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="339" end="341" text="19" TYPE="AGE" comment="" />
+<DATE id="P10" start="378" end="388" text="04/19/2093" TYPE="DATE" comment="" />
+<DATE id="P11" start="411" end="421" text="04/19/2074" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="432" end="453" text="1419 Wren Hollow Lane" TYPE="STREET" comment="" />
+<LOCATION id="P13" start="455" end="464" text="Asheville" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="466" end="468" text="NC" TYPE="STATE" comment="" />
+<LOCATION id="P15" start="469" end="474" text="28806" TYPE="ZIP" comment="" />
+<NAME id="P16" start="507" end="521" text="Ellis Hargrove" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="525" end="553" text="Hargrove Property Management" TYPE="ORGANIZATION" comment="" />
+<DATE id="P18" start="591" end="603" text="Thanksgiving" TYPE="DATE" comment="" />
+<NAME id="P19" start="621" end="630" text="Brandvold" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="662" end="675" text="HollowWren_5G" TYPE="USERNAME" comment="" />
+<NAME id="P21" start="709" end="717" text="Delphine" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="744" end="758" text="Rudy Pasternak" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="794" end="803" text="Kofi Osei" TYPE="PATIENT" comment="" />
+<LOCATION id="P24" start="813" end="822" text="Charlotte" TYPE="CITY" comment="" />
+<NAME id="P25" start="860" end="865" text="Maeve" TYPE="PATIENT" comment="" />
+<AGE id="P26" start="871" end="872" text="9" TYPE="AGE" comment="" />
+<LOCATION id="P27" start="930" end="957" text="Blue Ridge Pallet and Crate" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P28" start="963" end="978" text="forklift helper" TYPE="PROFESSION" comment="" />
+<LOCATION id="P29" start="1021" end="1045" text="Pisgah Community College" TYPE="ORGANIZATION" comment="" />
+<DATE id="P30" start="1086" end="1096" text="01/13/2093" TYPE="DATE" comment="" />
+<NAME id="P31" start="1552" end="1559" text="Hashemi" TYPE="DOCTOR" comment="" />
+<NAME id="P32" start="1679" end="1694" text="Ivo Szczepanski" TYPE="DOCTOR" comment="" />
+<CONTACT id="P33" start="1696" end="1710" text="(828) 555-0142" TYPE="PHONE" comment="" />
+<DATE id="P34" start="1729" end="1739" text="02/15/2093" TYPE="DATE" comment="" />
+<ID id="P35" start="1753" end="1767" text="NC-MA-5529018U" TYPE="HEALTHPLAN" comment="" />
+<ID id="P36" start="1776" end="1786" text="CM-93-0471" TYPE="IDNUM" comment="" />
+<NAME id="P37" start="1795" end="1807" text="Noor Hashemi" TYPE="DOCTOR" comment="" />
+<DATE id="P38" start="1815" end="1825" text="02/01/2093" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

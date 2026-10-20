@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE   Coastal Pines Medical Center
+Arrival 06/22/2085 13:05      Triage RN: Honey Pratt      ED physician: Wren Calloway, MD
+PT: Pleasant Will    DOB 05/14/2008    77F    MRN SV-0916442
+- CC: chest pressure, sent from urgent care clinic (urgent care visit same day)
+- HPI: 77yo F w/ CAD (ischemic heart dz since 2071), hyperlipidemia, on clopidogrel, metoprolol succ 100, simvastatin 10, NTG spray prn. Midsternal pressure x 40 min this AM, relieved partially by 1 NTG spray. Husband Truman brought her. "I felt pleasant until I was putting up the wash."
+- No radiation, no SOB, no diaphoresis. Denies fever. 
+- Exam: pleasant, NAD, pleasant affect. BP 132/60, HR 64. Lungs clear. No edema.
+- ECG: sinus, old lat T wave changes, no acute ST elevation (compared to prior)
+- Troponin neg x2. BMP wnl. CXR: no acute process, per radiology Dr. Grace Ohm
+- Lab report: accession CP-LAB-25-088214, LDL 94, total chol 182
+- A/P: chest pressure, low suspicion ACS. Cards f/u w/ Dr. Hale Okonkwo. Continue meds. Return precautions given to pt and spouse.
+- Dispo: home 06/22/2085 18:40, pt will follow up with PCP Nia Ferris next week
+- Emergency contact: dtr Destiney Will-Carter, (912) 555-0171
+- Medicare MBI 7KP4-XM2-TR91
+Electronically signed Wren Calloway, MD 06/22/2085 19:02
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="28" end="56" text="Coastal Pines Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="65" end="75" text="06/22/2085" TYPE="DATE" comment="" />
+<NAME id="P2" start="98" end="109" text="Honey Pratt" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="129" end="142" text="Wren Calloway" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="151" end="164" text="Pleasant Will" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="172" end="182" text="05/14/2008" TYPE="DATE" comment="" />
+<AGE id="P6" start="186" end="188" text="77" TYPE="AGE" comment="" />
+<ID id="P7" start="197" end="207" text="SV-0916442" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P8" start="295" end="297" text="77" TYPE="AGE" comment="" />
+<DATE id="P9" start="334" end="338" text="2071" TYPE="DATE" comment="" />
+<NAME id="P10" start="506" end="512" text="Truman" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="862" end="871" text="Grace Ohm" TYPE="DOCTOR" comment="" />
+<ID id="P12" start="896" end="912" text="CP-LAB-25-088214" TYPE="IDNUM" comment="" />
+<NAME id="P13" start="996" end="1008" text="Hale Okonkwo" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1082" end="1092" text="06/22/2085" TYPE="DATE" comment="" />
+<NAME id="P15" start="1127" end="1137" text="Nia Ferris" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1173" end="1193" text="Destiney Will-Carter" TYPE="PATIENT" comment="" />
+<CONTACT id="P17" start="1195" end="1209" text="(912) 555-0171" TYPE="PHONE" comment="" />
+<ID id="P18" start="1225" end="1238" text="7KP4-XM2-TR91" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P19" start="1261" end="1274" text="Wren Calloway" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1279" end="1289" text="06/22/2085" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

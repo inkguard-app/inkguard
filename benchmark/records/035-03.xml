@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL -- ANNUAL / WELLNESS
+Whitcomb Valley Medical Center -- Primary Care           09/27/2086
+Patient: ***   Name: Everett Sage   Age: 46   Sex: M
+DOB: 05/17/2040    MRN: PH-2290417    PCP: Dr. Achebe-Marsh
+
+CC:
+- annual physical, "feel ok but lost my job today"
+
+HPI:
+- 46 yo man, last seen here last Thursday?? no -- last wellness 09/22/2084, ortho f/u 01/10/2086 (shoulder resolved)
+- Kestrel Freight laid him off today, now not in labor force; stress high but "managing"
+- lives alone, brother Julian calls Sundays, limited social contact improving per pt
+- denies CP, SOB, polyuria, no new rash
+
+PMH:
+- prediabetes (A1c 5.8 today, was 6.4 in 2084), anemia (Hgb 15.4 now -- resolved?), chronic sinusitis, obesity improving
+- rotator cuff tendon injury R shoulder, resolved
+- hx of intimate partner abuse (ended 2079), no current concern. Pt has criminal record from 2074, not discussed today per pt
+- anaphylaxis to wasp -- see allergies
+
+Meds / allergies:
+- loratadine 10 mg daily, hydrocortisone cream prn, epinephrine autoinjector 0.3 mg
+- NKDA; wasp venom (anaphylaxis)
+
+FH: father d. 71 (MI). Uncle -- Parkinson's disease. Mother Odette d., age 79, Alzheimers
+
+Social:
+- smoker neg, ETOH AUDIT-C 1, no drugs. Unemployed (just now)
+- ex-partner Delia Crane, no contact, no protective order needed 
+
+ROS: neg except stress, mild insomnia
+
+Exam:
+- BP 123/72, wt 77.9 kg (down 5 kg from 2084), BMI 29.2
+- gen: NAD, well-appearing. HEENT: gingival erythema. CV: RRR no m. Lungs CTA. Abd soft. Skin: no rash. Neuro: CN intact (no Bell's palsy stigmata), gait normal
+- GAD-7 = 2, depression screen neg, SDOH needs assessment done
+
+Labs: glucose 74.6, TC 143, LDL 61.2, WBC 4.9, Hgb 15.4
+
+A/P:
+1. Prediabetes -- improved, wt loss. Repeat A1c 6 mo.
+2. Job loss / stress -- SW referral, resources for unemployment. 
+3. Gingivitis / dental -- referral to Cedar Ridge Dental Associates
+4. Health maint -- flu shot given/offered, colonoscopy screening discuss next visit
+5. Anaphylaxis hx -- epi pen refill sent to Alderwood Community Pharmacy
+
+Leontyne Achebe-Marsh MD  e-signed 09/27/2086 15:20
+Last edited by lachebe 09/27/2086 15:44 from 10.8.22.141
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="42" end="72" text="Whitcomb Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="99" end="109" text="09/27/2086" TYPE="DATE" comment="" />
+<NAME id="P2" start="131" end="143" text="Everett Sage" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="151" end="153" text="46" TYPE="AGE" comment="" />
+<DATE id="P4" start="168" end="178" text="05/17/2040" TYPE="DATE" comment="" />
+<ID id="P5" start="187" end="197" text="PH-2290417" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="210" end="222" text="Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="287" end="289" text="46" TYPE="AGE" comment="" />
+<DATE id="P8" start="313" end="326" text="last Thursday" TYPE="DATE" comment="" />
+<DATE id="P9" start="349" end="359" text="09/22/2084" TYPE="DATE" comment="" />
+<DATE id="P10" start="371" end="381" text="01/10/2086" TYPE="DATE" comment="" />
+<NAME id="P11" start="514" end="520" text="Julian" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="663" end="667" text="2084" TYPE="DATE" comment="" />
+<DATE id="P13" start="831" end="835" text="2079" TYPE="DATE" comment="" />
+<DATE id="P14" start="886" end="890" text="2074" TYPE="DATE" comment="" />
+<AGE id="P15" start="1109" end="1111" text="71" TYPE="AGE" comment="" />
+<NAME id="P16" start="1155" end="1161" text="Odette" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="1170" end="1172" text="79" TYPE="AGE" comment="" />
+<NAME id="P18" start="1269" end="1280" text="Delia Crane" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="1408" end="1412" text="2084" TYPE="DATE" comment="" />
+<LOCATION id="P20" start="1869" end="1898" text="Cedar Ridge Dental Associates" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P22" start="2027" end="2055" text="Alderwood Community Pharmacy" TYPE="ORGANIZATION" comment="" />
+<NAME id="P23" start="2057" end="2078" text="Leontyne Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="2092" end="2102" text="09/27/2086" TYPE="DATE" comment="" />
+<NAME id="P25" start="2124" end="2131" text="lachebe" TYPE="USERNAME" comment="" />
+<DATE id="P26" start="2132" end="2142" text="09/27/2086" TYPE="DATE" comment="" />
+<CONTACT id="P27" start="2154" end="2165" text="10.8.22.141" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

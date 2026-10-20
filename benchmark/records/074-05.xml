@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"DEATH NOTE"
+
+Name: Marisol Teixeira-Brandt    (aka Marisol Teixeira in old chart)
+DOB: 03/19/2028   Age: 43    MRN: 5530-2271
+Date of death: 12/10/2071      Time pronounced: 04:52
+Location: Willowmere Hospice House, Room 6
+
+Summary written by nursing student on placement with RN Sunita Achterberg:
+
+The patient, a forty-three year old woman, died peacefully at the hospice after a long fight with colon cancer that spread to the liver. Her sister Beatriz and friend Rose were beside her, her mother Concieção was on the speaker phone from Portugal. Last words as I heard them: "tell Bea to ring 416-555-0166 for the keys". The patient was a translator by profession and loved the lake.
+
+In conclusion, her journey was hard but she was never alone.
+
+S: unresponsive since yesterday. O: no resp, no heart sounds, pupils fixed and dilated x 2 min. A: expired. P: Dr. Menon-Doyle notified at 05:05 and came, confirmed death. Family notified (at bedside). Funeral home called: Lakeshore Memorial Chapel, to transfer to Porto by Dec 14. Mirena? no. Jolivette stopped. Morphine pump off. Not a medical examiner case. Last visit before: 12/09/2071.
+
+Signed Rahul Menon-Doyle, MD   12/10/2071
+</TEXT>
+<TAGS>
+<NAME id="P0" start="20" end="43" text="Marisol Teixeira-Brandt" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="52" end="68" text="Marisol Teixeira" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="88" end="98" text="03/19/2028" TYPE="DATE" comment="" />
+<AGE id="P3" start="106" end="108" text="43" TYPE="AGE" comment="" />
+<ID id="P4" start="117" end="126" text="5530-2271" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="142" end="152" text="12/10/2071" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="191" end="215" text="Willowmere Hospice House" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="217" end="223" text="Room 6" TYPE="ROOM" comment="" />
+<NAME id="P8" start="281" end="298" text="Sunita Achterberg" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="316" end="327" text="forty-three" TYPE="AGE" comment="" />
+<NAME id="P10" start="449" end="456" text="Beatriz" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="468" end="472" text="Rose" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="501" end="510" text="Concieção" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="541" end="549" text="Portugal" TYPE="COUNTRY" comment="" />
+<NAME id="P14" start="585" end="588" text="Bea" TYPE="PATIENT" comment="" />
+<CONTACT id="P15" start="597" end="609" text="416-555-0166" TYPE="PHONE" comment="" />
+<PROFESSION id="P16" start="657" end="667" text="profession" TYPE="PROFESSION" comment="" />
+<NAME id="P17" start="866" end="877" text="Menon-Doyle" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="974" end="999" text="Lakeshore Memorial Chapel" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P19" start="1016" end="1021" text="Porto" TYPE="CITY" comment="" />
+<DATE id="P20" start="1025" end="1031" text="Dec 14" TYPE="DATE" comment="" />
+<DATE id="P21" start="1131" end="1141" text="12/09/2071" TYPE="DATE" comment="" />
+<NAME id="P22" start="1151" end="1168" text="Rahul Menon-Doyle" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1175" end="1185" text="12/10/2071" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

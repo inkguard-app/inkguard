@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NORTHCREST HEART CLINIC
+HISTORY AND PHYSICAL
+Patient: Nova Brandt   DOB: 06/02/2038   MRN: 055-31877   Date of service: 12/04/2060
+Provider: Saint Okoro, MD    Scribe: May Calder
+Referring: Mercy Aguilar, MD
+
+.HPI
+@NAME@ is a 22 y.o. female, 37 weeks pregnant, seen for follow up of palpitations and dyspnea on exertion first noted in April. Echo done in May was reported normal. Marlene Voss is a @AGE@ y.o. with ... [expanded wrong patient, delete]
+Palpitations now rare, mostly when anxious. No orthopnea. Mild leg swelling in the evenings.
+
+PMH: anemia (dx 04/2060), resolved on iron, hgb recheck pending. Sprain of wrist 2054. Dental fillings. COVID 12/2055.
+Chronic neck pain since 10/22/2056.
+MEDS: prenatal vitamin, ferrous sulfate. Yaz 28 day pack (still listed, stopped 08/24/2057)
+ALLERGIES: NKDA
+
+FAMILY HX: Grandmother Odalys Brandt, 92yo, atrial fibrillation. Mother Bless Brandt HTN. Sister Story healthy -- her story is a long one.
+
+SOCIAL: Lost her job at Pinnacle Print &amp; Pack on 12/03/2060 (yesterday), so is not working and has few people to talk to. Partner Kash Rivers. Screening for safety at home was positive and handled by SW; patient asks that voicemails go out under the name Ms. Quince. Friend Lake Voss is the safe contact, 509-555-0192.
+
+ROS: neg except as above. 
+
+VITALS: BP 122/81  Wt 66.8 kg  BMI 23.5  pain 3/10  
+EXAM: Gen NAD. CV RRR no murmur. Lungs CTA. Abd gravid. Ext trace edema.
+
+A/P:
+1. Palpitations - benign, no further workup. 
+2. Anemia - repeat CBC with OB.
+3. Social needs assessment done. Meds reconciled.
+Return PRN. Delivering at Harbor Point Medical Center.
+
+Electronically signed by Saint Okaro 12/04/2060 17:26   scribe attestation M. Calder
+Last edited by mcalder on 12/05/2060 08:02 from 10.31.8.77
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="23" text="NORTHCREST HEART CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="54" end="65" text="Nova Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="73" end="83" text="06/02/2038" TYPE="DATE" comment="" />
+<ID id="P3" start="91" end="100" text="055-31877" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="120" end="130" text="12/04/2060" TYPE="DATE" comment="" />
+<NAME id="P5" start="141" end="152" text="Saint Okoro" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="168" end="178" text="May Calder" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="190" end="203" text="Mercy Aguilar" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="226" end="228" text="22" TYPE="AGE" comment="" />
+<DATE id="P9" start="335" end="340" text="April" TYPE="DATE" comment="" />
+<DATE id="P10" start="355" end="358" text="May" TYPE="DATE" comment="" />
+<NAME id="P11" start="380" end="392" text="Marlene Voss" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="561" end="568" text="04/2060" TYPE="DATE" comment="" />
+<DATE id="P13" start="626" end="630" text="2054" TYPE="DATE" comment="" />
+<DATE id="P14" start="655" end="662" text="12/2055" TYPE="DATE" comment="" />
+<DATE id="P15" start="688" end="698" text="10/22/2056" TYPE="DATE" comment="" />
+<DATE id="P16" start="780" end="790" text="08/24/2057" TYPE="DATE" comment="" />
+<NAME id="P17" start="832" end="845" text="Odalys Brandt" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="847" end="849" text="92" TYPE="AGE" comment="" />
+<NAME id="P19" start="881" end="893" text="Bless Brandt" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="906" end="911" text="Story" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="973" end="994" text="Pinnacle Print &amp; Pack" TYPE="ORGANIZATION" comment="" />
+<DATE id="P22" start="998" end="1008" text="12/03/2060" TYPE="DATE" comment="" />
+<NAME id="P23" start="1079" end="1090" text="Kash Rivers" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1204" end="1214" text="Ms. Quince" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1223" end="1232" text="Lake Voss" TYPE="PATIENT" comment="" />
+<CONTACT id="P26" start="1254" end="1266" text="509-555-0192" TYPE="PHONE" comment="" />
+<LOCATION id="P27" start="1583" end="1610" text="Harbor Point Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P28" start="1638" end="1649" text="Saint Okaro" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1650" end="1660" text="12/04/2060" TYPE="DATE" comment="" />
+<NAME id="P30" start="1688" end="1697" text="M. Calder" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="1713" end="1720" text="mcalder" TYPE="USERNAME" comment="" />
+<DATE id="P32" start="1724" end="1734" text="12/05/2060" TYPE="DATE" comment="" />
+<CONTACT id="P33" start="1746" end="1756" text="10.31.8.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

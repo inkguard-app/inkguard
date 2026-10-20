@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Mountain Laurel Family Practice
+212 Pisgah View Drive, Asheville, NC   Fax (828) 555-0177
+
+05/18/2093
+
+Dear Dr. [NAME],  &lt;&lt;insert specialist&gt;&gt;
+RE: Tobiah Kerrigan-Osei, DOB 04/19/2075, MRN 4402-1187
+Referral to Pain Management &amp; Behavioral Health      Release form no. REL-0093-221
+
+Dear Dr. Okafor-Lindqvist,
+
+I am writing to refer my patient, Mr. Kerrigan-Osei, now 18, whom I have seen on 03/19/2093 and today for chronic low back pain and fibromyalgia (dx 01/13/2093). He works full time lifting at Blue Ridge Pallet and Crate. Acetaminophen 325 mg started in March was not enough, so combo acetaminophen/oxycodone 10 mg (Percocet) was started today. I am worried about opioids in a person this young, and so I ask you to take over pain management and to assess for stress, social isolation and housing instability (see social work note 02/01/2093).
+
+His mother, Delphine Kerrigan (cell (828) 555-0116), and he both consent. Pls do NOT call stepfather Rudi Pasternak.
+
+Sincerely,
+Marguerite Tanaka-Bell, MD
+Drafted by Cassidy Mbeki (MA) - "pt was super chill about the whole thing"
+
+cc: Noor Hashemi LCSW; nhashemi@mtnlaurelfp.example
+cc: patient portal https://portal.mtnlaurelfp.example/p/tkerrigan
+cc: Dr Okafor-Lindqvist fax (828) 555-0190
+Pt handle for reminders: @toby_k_osei
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="Mountain Laurel Family Practice" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="53" text="212 Pisgah View Drive" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="55" end="64" text="Asheville" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="66" end="68" text="NC" TYPE="STATE" comment="" />
+<CONTACT id="P4" start="75" end="89" text="(828) 555-0177" TYPE="FAX" comment="" />
+<DATE id="P5" start="91" end="101" text="05/18/2093" TYPE="DATE" comment="" />
+<NAME id="P6" start="147" end="167" text="Tobiah Kerrigan-Osei" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="173" end="183" text="04/19/2075" TYPE="DATE" comment="" />
+<ID id="P8" start="189" end="198" text="4402-1187" TYPE="MEDICALRECORD" comment="" />
+<ID id="P9" start="269" end="281" text="REL-0093-221" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="292" end="308" text="Okafor-Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="349" end="362" text="Kerrigan-Osei" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="368" end="370" text="18" TYPE="AGE" comment="" />
+<DATE id="P13" start="392" end="402" text="03/19/2093" TYPE="DATE" comment="" />
+<DATE id="P14" start="460" end="470" text="01/13/2093" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="503" end="530" text="Blue Ridge Pallet and Crate" TYPE="ORGANIZATION" comment="" />
+<DATE id="P16" start="841" end="851" text="02/01/2093" TYPE="DATE" comment="" />
+<NAME id="P17" start="867" end="884" text="Delphine Kerrigan" TYPE="PATIENT" comment="" />
+<CONTACT id="P18" start="891" end="905" text="(828) 555-0116" TYPE="PHONE" comment="" />
+<NAME id="P19" start="956" end="970" text="Rudi Pasternak" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="984" end="1006" text="Marguerite Tanaka-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1022" end="1035" text="Cassidy Mbeki" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1091" end="1103" text="Noor Hashemi" TYPE="DOCTOR" comment="" />
+<CONTACT id="P23" start="1110" end="1138" text="nhashemi@mtnlaurelfp.example" TYPE="EMAIL" comment="" />
+<CONTACT id="P24" start="1158" end="1204" text="https://portal.mtnlaurelfp.example/p/tkerrigan" TYPE="URL" comment="" />
+<NAME id="P25" start="1212" end="1228" text="Okafor-Lindqvist" TYPE="DOCTOR" comment="" />
+<CONTACT id="P26" start="1233" end="1247" text="(828) 555-0190" TYPE="FAX" comment="" />
+<NAME id="P27" start="1273" end="1285" text="@toby_k_osei" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

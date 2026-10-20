@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE    Lakemont Regional Health Centre    Family Medicine clinic
+Pt: Zofia Okeke   DOB 09/30/2018  Age 44   Visit: 02/18/2063  encoutner for check up
+
+Pt arrived for check up and meds reconcilliation. Escorted to room 6 by Fiona Carrick Lowe RN. States cough is "much better", still coughs at night. Husband Chidi Okey in waiting area w daughter.
+
+VS: weight eighty seven point six kg, same as always (copied forward). BP seventy over nineteen [sic, 99/70]. Pain 4. Pt denys anxiety todya tjough told us Tuesday she had a bad week.
+
+Med rec: diphenhydramine 25 mg listed since 01/12/2019 (before pt was even born in system? no — DOB 09/30/2018, pt was a baby then, ?data entry error, ask pharmacy). Hydrocodone-acetaminophen listed 09/08/2050 still active on list, pt says stopped, confirmed with Dr. Brandt-Kessler to inactivate. IUD (levonorgestrel) replaced 04/21/2061, due for chhange 04/2062?? oveerdue? Pt says gets replaced again this April. Last bronchitis med finished 02/16.
+
+HbA1c drawn today (previpus 5.8 on 2/11). Pt handed form to take to the lab on March 3. Pt's health card checked: 4417-293-806-KM vaid thru 2065.
+Voice note left on pt phone +1 (905) 555-0132 15:50 reminding of genetics appt.
+Sig: F. Carrick-Lowe RN, 02/18/2063 14:05, edited from workstation WS-LAKE-0446 ip 10.4.9.201
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="16" end="47" text="Lakemont Regional Health Centre" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="51" end="66" text="Family Medicine" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="78" end="89" text="Zofia Okeke" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="96" end="106" text="09/30/2018" TYPE="DATE" comment="" />
+<AGE id="P4" start="112" end="114" text="44" TYPE="AGE" comment="" />
+<DATE id="P5" start="124" end="134" text="02/18/2063" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="227" end="228" text="6" TYPE="ROOM" comment="" />
+<NAME id="P7" start="232" end="250" text="Fiona Carrick Lowe" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="317" end="327" text="Chidi Okey" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="513" end="520" text="Tuesday" TYPE="DATE" comment="" />
+<DATE id="P10" start="586" end="596" text="01/12/2019" TYPE="DATE" comment="" />
+<DATE id="P11" start="642" end="652" text="09/30/2018" TYPE="DATE" comment="" />
+<DATE id="P12" start="741" end="751" text="09/08/2050" TYPE="DATE" comment="" />
+<NAME id="P13" start="810" end="824" text="Brandt-Kessler" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="870" end="880" text="04/21/2061" TYPE="DATE" comment="" />
+<DATE id="P15" start="898" end="905" text="04/2062" TYPE="DATE" comment="" />
+<DATE id="P16" start="946" end="956" text="this April" TYPE="DATE" comment="" />
+<DATE id="P17" start="987" end="992" text="02/16" TYPE="DATE" comment="" />
+<DATE id="P18" start="1030" end="1034" text="2/11" TYPE="DATE" comment="" />
+<DATE id="P19" start="1074" end="1081" text="March 3" TYPE="DATE" comment="" />
+<ID id="P20" start="1109" end="1124" text="4417-293-806-KM" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P21" start="1135" end="1139" text="2065" TYPE="DATE" comment="" />
+<CONTACT id="P22" start="1169" end="1186" text="+1 (905) 555-0132" TYPE="PHONE" comment="" />
+<NAME id="P23" start="1226" end="1241" text="F. Carrick-Lowe" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1246" end="1256" text="02/18/2063" TYPE="DATE" comment="" />
+<ID id="P25" start="1288" end="1300" text="WS-LAKE-0446" TYPE="DEVICE" comment="" />
+<CONTACT id="P26" start="1304" end="1314" text="10.4.9.201" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

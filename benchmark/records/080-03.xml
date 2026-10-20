@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"CARE COORDINATION NOTE"      ~~ written by: Kaylee Burrows, Medical Assistant ~~
+
+PATIENT: **Gideon Pike**   (goes by Gid)
+DOB: Jan 15th, 2047  -&gt;  so he is 34
+Visit: the third of April, 2081 (asthma follow up)
+
+- Pt was super chill today, vibes were good but he looked kinda tired
+- BP not taken, cuff was dead, will do next time!!
+- Reviewed his list again w/ Dr. Naseem:
+   --&gt; loratadine (still taking)
+   --&gt; epinephrine auto-injector (EpiPen), expires Sept
+   --&gt; rescue inhaler as needed, he said he "hardly" needs it
+   --&gt; he is NOT on the steroid inhaler (Flovent) anymore, that ended in 2071
+
+**Social stuff:**
+-&gt; Wife Marisol is working now at the Bogus Basin Credit Union (not a joke its real name haha), he said hes been unemployed on and off but picking up roofing shifts again at Brannock.
+-&gt; His mom Lucille Pike lives with them, she is 81.
+-&gt; He has a "record" from when he was young. Doctor already knows. He asked that we not call the house line (208) 555-0137 because his brother-in-law Esteban answers.
+
+"Dental"
+Dental referral from last August - he did go!! Treated at Cottonwood Community Dental on 8/30, they filled one tooth. Did not go back for the cleaning.
+
+In conclusion, Mr. Pike's journey has been one of strength and he is doing so much better then in 2079-2080 when he was down (PHQ-9 was 17 then, GAD-7 6 in Aug 2080). We should call him in 3 mos. Tell him it is ok to come in for cough, any time.
+
+Also: The yearly flu shot - ask next time. Parkinson's? NO that is his uncle, ignore.
+Faxed to dental: fax 208-555-0155
+Last edited by kburrows 4/3/2081 15:12 from 172.16.8.31
+</TEXT>
+<TAGS>
+<NAME id="P0" start="45" end="59" text="Kaylee Burrows" TYPE="DOCTOR" comment="" />
+<NAME id="P1" start="94" end="105" text="Gideon Pike" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="119" end="122" text="Gid" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="129" end="143" text="Jan 15th, 2047" TYPE="DATE" comment="" />
+<AGE id="P4" start="158" end="160" text="34" TYPE="AGE" comment="" />
+<DATE id="P5" start="181" end="186" text="April" TYPE="DATE" comment="" />
+<DATE id="P6" start="188" end="192" text="2081" TYPE="DATE" comment="" />
+<NAME id="P7" start="367" end="373" text="Naseem" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="459" end="463" text="Sept" TYPE="DATE" comment="" />
+<DATE id="P9" start="599" end="603" text="2071" TYPE="DATE" comment="" />
+<NAME id="P10" start="631" end="638" text="Marisol" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="661" end="685" text="Bogus Basin Credit Union" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P12" start="797" end="805" text="Brannock" TYPE="ORGANIZATION" comment="" />
+<NAME id="P13" start="818" end="830" text="Lucille Pike" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="855" end="857" text="81" TYPE="AGE" comment="" />
+<CONTACT id="P15" start="967" end="981" text="(208) 555-0137" TYPE="PHONE" comment="" />
+<NAME id="P16" start="1009" end="1016" text="Esteban" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="1057" end="1068" text="last August" TYPE="DATE" comment="" />
+<LOCATION id="P18" start="1094" end="1121" text="Cottonwood Community Dental" TYPE="ORGANIZATION" comment="" />
+<DATE id="P19" start="1125" end="1129" text="8/30" TYPE="DATE" comment="" />
+<NAME id="P20" start="1208" end="1212" text="Pike" TYPE="PATIENT" comment="" />
+<DATE id="P21" start="1287" end="1291" text="2079" TYPE="DATE" comment="" />
+<DATE id="P22" start="1292" end="1296" text="2080" TYPE="DATE" comment="" />
+<DATE id="P23" start="1345" end="1353" text="Aug 2080" TYPE="DATE" comment="" />
+<CONTACT id="P24" start="1543" end="1555" text="208-555-0155" TYPE="FAX" comment="" />
+<DATE id="P25" start="1580" end="1588" text="4/3/2081" TYPE="DATE" comment="" />
+<CONTACT id="P26" start="1600" end="1611" text="172.16.8.31" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

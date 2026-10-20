@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Date/time: 12/06/2076 10:20          Call taken by: Nurse Kimberly Dosch  for Dr Ramaswamy-Iyer
+Pt: Everrett Hanratty DOB 11/2/33 MRN OVF-301477   Callback: (304) 555-0191
+
+Caller: wife Corrine Hanratty (not pt) -- pt consent on file to speak with her.
+
+Reason: Wife is calling because husband is having craving and not sleeping since Sunday, he is afraid he will use. He have appointment Thursday but she say can not wait. Also his landlord, Wendell Pruett, came to the house and shouting. Children Tyrell and Mabel are at home, scared.
+
+Assessment by RN: no SI said, no overdose now. Pt alert on phone, spoke with him also, voice slow. Said he took 0 pills since the 3rd of December hmm or 13th? wife says 3rd.
+Advice given: come today 2 pm, bring all medicines, wife drive. If any chest pain, trouble breathing -- call 911, give naloxone. Told call back (304) 555-0124 if no come.
+Dr informed 12/06/2076 10:45, she say OK to see today double book. Sponsor Lou Brandvold also informed by wife, he will come.
+Routed to: V. Ramaswamy-Iyer, Dr Everard Lim (rehab)
+Pharmacy: Rx Rx 7741-0926 naloxone refill
+</TEXT>
+<TAGS>
+<DATE id="P0" start="31" end="41" text="12/06/2076" TYPE="DATE" comment="" />
+<NAME id="P1" start="72" end="92" text="Nurse Kimberly Dosch" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="98" end="115" text="Dr Ramaswamy-Iyer" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="120" end="137" text="Everrett Hanratty" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="142" end="149" text="11/2/33" TYPE="DATE" comment="" />
+<ID id="P5" start="154" end="164" text="OVF-301477" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P6" start="177" end="191" text="(304) 555-0191" TYPE="PHONE" comment="" />
+<NAME id="P7" start="206" end="222" text="Corrine Hanratty" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="355" end="361" text="Sunday" TYPE="DATE" comment="" />
+<DATE id="P9" start="409" end="417" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P10" start="463" end="477" text="Wendell Pruett" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="520" end="526" text="Tyrell" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="531" end="536" text="Mabel" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="685" end="704" text="the 3rd of December" TYPE="DATE" comment="" />
+<DATE id="P14" start="712" end="716" text="13th" TYPE="DATE" comment="" />
+<DATE id="P15" start="728" end="731" text="3rd" TYPE="DATE" comment="" />
+<CONTACT id="P16" start="877" end="891" text="(304) 555-0124" TYPE="PHONE" comment="" />
+<DATE id="P17" start="916" end="926" text="12/06/2076" TYPE="DATE" comment="" />
+<NAME id="P18" start="979" end="992" text="Lou Brandvold" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1041" end="1058" text="V. Ramaswamy-Iyer" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1060" end="1074" text="Dr Everard Lim" TYPE="DOCTOR" comment="" />
+<ID id="P21" start="1096" end="1108" text="Rx 7741-0926" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

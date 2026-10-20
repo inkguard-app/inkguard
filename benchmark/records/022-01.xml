@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>*** LEGACY MED REC REPORT ***     MAUMEE LAKES COMMUNITY HEALTH CENTER     PAGE 1 OF 2
+PT: WHITLOCK, TAVIAN J     MRN: 2072-60194     DOB: 08/02/2072     AGE: 19
+DATE OF REVIEW: 03/30/2092      REVIEWED BY: YOLANDA ETHERIDGE-MOON, LCSW / INES VALCARCEL RN
+
+ACTIVE MEDICATIONS: NONE REPORTED.  (PT STATES HE TAKES NOTHING DAILY.)
+PAST MEDS (COMPLETED, DO NOT CONTINUE):
+ - ACETAMINOPHEN 325 MG TAB  11/24/2086 - 12/09/2086  (BRONCHITIS)
+ - IBUPROFEN 200 MG TAB  02/23/2087 - 03/14/2087  (FOOT LACERATION)
+ - SODIUM FLUORIDE GEL X1  02/04/2085  (DENTAL)
+ALLERGIES: NKDA
+SOCIAL HX (PER PT, FREE TEXT): LIVES W/ PARTNER KYLA BROCKETT AND SON ELIJAH (INFANT) AT 1507 DELANEY ST, APT 2R, TOLEDO, OH 43604. WORKS FULL TIME AS TIRE TECHNICIAN AT DELMAR TIRE &amp; LUBE SINCE MARCH 2091. LANDLORD GUS PAPADAKIS OF PAPADAKIS PROPERTY MANAGEMENT HAS 30 DAY NOTICE ON FILE. NEIGHBOR MRS. ODOM WATCHES BABY WHEN PT AT WORK.
+LEGACY FIELD "EMERGENCY CONTACT": SAME   &lt;- DEFAULT NEVER CHANGED, DO NOT CALL "SAME"
+PROBLEM LIST: SCOLIOSIS (ADOLESCENT), HX APPENDECTOMY, GSW HEALED 05/05/2090, HX OF CRIMINAL RECORD. STRESS RESOLVED 03/29/2092. INTIMATE PARTNER ABUSE (NEW) 03/29/2092.
+GAD-7 SCORE 4.  BP 145/82.  WT 82.1 KG.  BMI 25.2.
+DRUG SCREEN: NEG.   REFERRAL: DENTAL.
+PHONE: (419) 555-0103   ALT: (419) 555-0130 (MOTHER RENATA)
+SIGNED ELECTRONICALLY 03/30/2092 16:18 BY EMOON
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="34" end="70" text="MAUMEE LAKES COMMUNITY HEALTH CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="91" end="109" text="WHITLOCK, TAVIAN J" TYPE="PATIENT" comment="" />
+<ID id="P2" start="119" end="129" text="2072-60194" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="139" end="149" text="08/02/2072" TYPE="DATE" comment="" />
+<AGE id="P4" start="159" end="161" text="19" TYPE="AGE" comment="" />
+<DATE id="P5" start="178" end="188" text="03/30/2092" TYPE="DATE" comment="" />
+<NAME id="P6" start="207" end="229" text="YOLANDA ETHERIDGE-MOON" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="238" end="252" text="INES VALCARCEL" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="398" end="408" text="11/24/2086" TYPE="DATE" comment="" />
+<DATE id="P9" start="411" end="421" text="12/09/2086" TYPE="DATE" comment="" />
+<DATE id="P10" start="461" end="471" text="02/23/2087" TYPE="DATE" comment="" />
+<DATE id="P11" start="474" end="484" text="03/14/2087" TYPE="DATE" comment="" />
+<DATE id="P12" start="531" end="541" text="02/04/2085" TYPE="DATE" comment="" />
+<NAME id="P13" start="616" end="629" text="KYLA BROCKETT" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="638" end="644" text="ELIJAH" TYPE="PATIENT" comment="" />
+<LOCATION id="P15" start="657" end="680" text="1507 DELANEY ST, APT 2R" TYPE="STREET" comment="" />
+<LOCATION id="P16" start="682" end="688" text="TOLEDO" TYPE="CITY" comment="" />
+<LOCATION id="P17" start="690" end="692" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P18" start="693" end="698" text="43604" TYPE="ZIP" comment="" />
+<PROFESSION id="P19" start="719" end="734" text="TIRE TECHNICIAN" TYPE="PROFESSION" comment="" />
+<LOCATION id="P20" start="738" end="756" text="DELMAR TIRE &amp; LUBE" TYPE="ORGANIZATION" comment="" />
+<DATE id="P21" start="763" end="773" text="MARCH 2091" TYPE="DATE" comment="" />
+<NAME id="P22" start="784" end="797" text="GUS PAPADAKIS" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="801" end="830" text="PAPADAKIS PROPERTY MANAGEMENT" TYPE="ORGANIZATION" comment="" />
+<NAME id="P24" start="867" end="876" text="MRS. ODOM" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="1059" end="1069" text="05/05/2090" TYPE="DATE" comment="" />
+<DATE id="P26" start="1110" end="1120" text="03/29/2092" TYPE="DATE" comment="" />
+<DATE id="P27" start="1151" end="1161" text="03/29/2092" TYPE="DATE" comment="" />
+<CONTACT id="P28" start="1259" end="1273" text="(419) 555-0103" TYPE="PHONE" comment="" />
+<CONTACT id="P29" start="1281" end="1295" text="(419) 555-0130" TYPE="PHONE" comment="" />
+<NAME id="P30" start="1304" end="1310" text="RENATA" TYPE="PATIENT" comment="" />
+<DATE id="P31" start="1334" end="1344" text="03/30/2092" TYPE="DATE" comment="" />
+<NAME id="P32" start="1354" end="1359" text="EMOON" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

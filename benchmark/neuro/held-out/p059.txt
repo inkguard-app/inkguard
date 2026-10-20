@@ -1,0 +1,16 @@
+NEUROSURGERY CLINIC — CEREBELLAR CAVERNOUS MALFORMATION
+{{FACILITY|Pellham Ridge Neurological Institute}}
+{{NAME|Augustina Vyas-Holloway}}, 47 F, MRN {{MRN|PRN-2290136}}, {{DATE|04/04/2078}}
+History by {{NAME|Corbin Ashley}}, PA-C; attending Dr. {{NAME|Sebastian Arkwright-Noor}}
+
+Two haemorrhages in 14 months from a right [[cerebellar hemisphere cavernous malformation]]: first presented with [[vertigo]] and [[truncal ataxia]], second with [[occipital headache]], vomiting and [[right limb dysmetria]]. Exam: [[right intention tremor]], [[dysdiadochokinesia]] right, [[heel-to-shin]] ataxic, [[wide-based gait]]; [[gaze-evoked nystagmus]] to the right. No [[cranial nerve palsy]].
+MRI ([[T2*]], [[SWI]], [[T1 post-gadolinium]]): 2.2 cm [[mulberry-like]] lesion with mixed-age blood products ([[Zabramski type II]]), [[haemosiderin ring]], adjacent [[developmental venous anomaly (caput medusae)]] draining to the [[petrosal vein]]. Not in the [[dentate nucleus]].
+Plan: [[right suboccipital craniotomy]] using a [[transcortical cerebellar approach]] (rather than [[supracerebellar infratentorial approach]]) via the [[superior semilunar lobule]] with [[neuronavigation]] and preservation of the [[DVA]] (sacrifice risks [[venous infarction]]).
+=====NOTE=====
+OPERATIVE NOTE — {{DATE|05/16/2078}} — {{NAME|VYAS-HOLLOWAY, A.}} — {{MRN|PRN-2290136}}
+Surgeon Dr. {{NAME|S. Arkwright-Noor}}; resident Dr. {{NAME|Pemba Lhamo}}; [[IONM]] {{NAME|Jules Trudeau}}: [[SSEP]], [[MEP]], [[BAEP]] stable.
+[[Park-bench position]], [[Mayfield]] pins. [[Retrosigmoid-paramedian suboccipital craniotomy]]. Dura opened in a C-shape. [[Neuronavigation (Brainlab)]] guided a 1.5 cm [[corticectomy]]. Lesion found with [[haemosiderin-stained gliotic plane]]; removed en bloc after coagulating small feeders; the [[DVA]] identified and preserved. Haemosiderin rim not excised (non-eloquent but no benefit). Haemostasis with [[Floseal]]. Watertight closure, [[titanium mesh]] cranioplasty.
+Pathology: [[cavernous malformation]]. Post-op MRI: complete resection, DVA patent.
+=====NOTE=====
+3-mo F/U {{DATE|08/22/2078}} — {{NAME|A. Vyas-Holloway}}
+Ataxia improved; [[SARA score]] 6 (was 14). [[Nystagmus]] resolved. [[Vestibular therapy]] ongoing. No [[headache]]. [[CCM genetic testing]] negative (sporadic, single lesion with DVA). MRI annual for 2 years. Note by {{NAME|C. Ashley}}, PA-C.

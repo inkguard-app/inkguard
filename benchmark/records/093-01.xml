@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_key,note_type,svc_date,author,text
+r-4821,TELEPHONE ENCOUNTER,01/12/2088,Mehwish Aslam MD,"PT: PAGE, EMMELINE   MRN 33-90174   DOB 05/30/2063   24F   Callback (253) 555-0166 p/ 253-555-0199.  
+Spoke to Emmie herself. She is calling from Harbor Pines Care Center (SNF) after discharge from Tacoma Bayview Hospital on 01/08/2088. She injured the knee 12/22/2087 (ED), MCL injury, admitted 12/29/2087. PT Greta Lindahl is working with him -- she, sorry. Pt ask about the depo injection: last was 12/10/2087, next due 03/10/2088, can it be given at the SNF? I said yes, bring order. Also she is use naproxen and meperidine (pain), I explain not drive and do not mix, and the naproxen is for 3 month only (stops 03/28/2088).  Her sugars: prediabetes, HbA1c 6.2 last time at 02/2086, will recheck at next visit. 
+Pt also say that she want to be call by new name ""Ellis"", still thinking, but ok for phone only. Do not change chart yet. Aunt? no. Mother Rosamund Page visit daily, she is OK for info sharing? NO -- pt said only Sol Okafor. 
+Pls page the on-call if pain worse. Total time 12 min.  -M. Aslam"
+</TEXT>
+<TAGS>
+<DATE id="P0" start="66" end="76" text="01/12/2088" TYPE="DATE" comment="" />
+<NAME id="P1" start="77" end="93" text="Mehwish Aslam MD" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="99" end="113" text="PAGE, EMMELINE" TYPE="PATIENT" comment="" />
+<ID id="P3" start="120" end="128" text="33-90174" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="135" end="145" text="05/30/2063" TYPE="DATE" comment="" />
+<AGE id="P5" start="148" end="150" text="24" TYPE="AGE" comment="" />
+<CONTACT id="P6" start="163" end="177" text="(253) 555-0166" TYPE="PHONE" comment="" />
+<CONTACT id="P7" start="181" end="193" text="253-555-0199" TYPE="PHONE" comment="" />
+<NAME id="P8" start="206" end="211" text="Emmie" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="241" end="265" text="Harbor Pines Care Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P10" start="293" end="316" text="Tacoma Bayview Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P11" start="320" end="330" text="01/08/2088" TYPE="DATE" comment="" />
+<DATE id="P12" start="353" end="363" text="12/22/2087" TYPE="DATE" comment="" />
+<DATE id="P13" start="391" end="401" text="12/29/2087" TYPE="DATE" comment="" />
+<NAME id="P14" start="406" end="419" text="Greta Lindahl" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="497" end="507" text="12/10/2087" TYPE="DATE" comment="" />
+<DATE id="P16" start="518" end="528" text="03/10/2088" TYPE="DATE" comment="" />
+<DATE id="P17" start="711" end="721" text="03/28/2088" TYPE="DATE" comment="" />
+<DATE id="P18" start="773" end="780" text="02/2086" TYPE="DATE" comment="" />
+<NAME id="P19" start="862" end="867" text="Ellis" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="952" end="965" text="Rosamund Page" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="1026" end="1036" text="Sol Okafor" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1096" end="1104" text="M. Aslam" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PRAIRIE LINE MEDICAL CENTRE - DISCHARGE SUMMARY (EMERGENCY DEPARTMENT)
+NAME: BRIGHT, MARIGOLD    "GOLDIE"    DOB: 17-NOV-2028    AGE: 63    MRN: MB 7714-3320
+ADMITTED: 01/14/2092    DISCHARGED: 01/14/2092    ED PHYSICIAN: DR RAMON ESQUIVEL-TAN    PCP: DR HENRIETTA OYELOWO-KANE
+PAGE 1 OF 2  BRIGHT, MARIGOLD A  MB 7714-3320
+
+This is a dictated discharge summary for Mrs. Bright, who is now sixty three, seen in the emergency department on the 14th after she slipped on the ice outside her building at 905 Orchard Row, apartment twelve, on Sunday evening, the 13th, and twisted her right ankle. She was unable to bear weight on Monday morning. Her husband Lyle Bright called Bright's daughter Dawn who took the afternoon off from the Cedar Rapids Dispatch Centre, where she works as a dispatcher, and brought her in. 
+
+Radiology: three views of the right ankle, accession XR-92-0114-0382, reported by Dr Anjali Pruszynski as no fracture or dislocation, soft tissue swelling over the lateral malleolus, joint spaces preserved. Labs on arrival: glucose within normal limits; nothing else was drawn.
+
+DIAGNOSIS: Sprain of the right ankle. Past: hypertension, prediabetes, chronic pain, migraine.
+TREATMENT: Elevation, ice, a walking boot, serial CB-77129-F, and crutches. Naproxen sodium 220 mg twice daily with food for two weeks, she was told to avoid taking it with her blood pressure tablet on an empty stomach. Discharge medications as an itemized list: naproxen; the old list still shows lisinopril and hydrochlorothiazide, both STOPPED, ignore.
+FOLLOW UP: PCP in one week, radiology follow up if not improving. Patient was given the number (319) 555-0100 ext 4271 and my pager 3306.
+
+Pasted from nursing note 01/14/2092 15:20 (Chinwe Abara RN): "pt tearful, says husband LYLE doesn't like her to use the stairs, states feels safe, social work offered, declined." Pasted from another chart: "ELLIS, Rowan D, RE 2003-5517, left wrist fracture, cast".
+
+DICTATED BUT NOT READ.   /s/ Ramon Esquivel-Tan MD   01/15/2092 08:44   cc: Oyelowo-Kane
+</TEXT>
+<TAGS>
+<NAME id="P0" start="77" end="93" text="BRIGHT, MARIGOLD" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="98" end="104" text="GOLDIE" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="114" end="125" text="17-NOV-2028" TYPE="DATE" comment="" />
+<AGE id="P3" start="134" end="136" text="63" TYPE="AGE" comment="" />
+<ID id="P4" start="145" end="157" text="MB 7714-3320" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="168" end="178" text="01/14/2092" TYPE="DATE" comment="" />
+<DATE id="P6" start="194" end="204" text="01/14/2092" TYPE="DATE" comment="" />
+<NAME id="P7" start="225" end="243" text="RAMON ESQUIVEL-TAN" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="255" end="277" text="HENRIETTA OYELOWO-KANE" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="291" end="309" text="BRIGHT, MARIGOLD A" TYPE="PATIENT" comment="" />
+<ID id="P10" start="311" end="323" text="MB 7714-3320" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P11" start="371" end="377" text="Bright" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="443" end="447" text="14th" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="501" end="516" text="905 Orchard Row" TYPE="STREET" comment="" />
+<DATE id="P14" start="539" end="545" text="Sunday" TYPE="DATE" comment="" />
+<DATE id="P15" start="559" end="563" text="13th" TYPE="DATE" comment="" />
+<DATE id="P16" start="627" end="633" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P17" start="655" end="666" text="Lyle Bright" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="674" end="682" text="Bright's" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="692" end="696" text="Dawn" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="733" end="761" text="Cedar Rapids Dispatch Centre" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P21" start="784" end="794" text="dispatcher" TYPE="PROFESSION" comment="" />
+<ID id="P22" start="871" end="886" text="XR-92-0114-0382" TYPE="IDNUM" comment="" />
+<NAME id="P23" start="903" end="920" text="Anjali Pruszynski" TYPE="DOCTOR" comment="" />
+<ID id="P24" start="1242" end="1252" text="CB-77129-F" TYPE="DEVICE" comment="" />
+<CONTACT id="P25" start="1643" end="1657" text="(319) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P26" start="1662" end="1666" text="4271" TYPE="PHONE" comment="" />
+<ID id="P27" start="1680" end="1684" text="3306" TYPE="DEVICE" comment="" />
+<DATE id="P28" start="1712" end="1722" text="01/14/2092" TYPE="DATE" comment="" />
+<NAME id="P29" start="1730" end="1742" text="Chinwe Abara" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="1774" end="1778" text="LYLE" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="1894" end="1908" text="ELLIS, Rowan D" TYPE="PATIENT" comment="" />
+<ID id="P32" start="1910" end="1922" text="RE 2003-5517" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P33" start="1982" end="2000" text="Ramon Esquivel-Tan" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="2006" end="2016" text="01/15/2092" TYPE="DATE" comment="" />
+<NAME id="P35" start="2029" end="2041" text="Oyelowo-Kane" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

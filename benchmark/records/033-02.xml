@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"ENC_ID","UNIT","MRN","PAT_NAME","NOTE_TYPE","NOTE_DT","AUTHOR","NOTE_TEXT"
+"HAR-77104492","4 WEST ONC","408213","Early, Constance","CONSULT NOTE - ADDICTION MED","05/01/2071 10:05","ATAKAHASHI","CONSULT NOTE. Requested by Dr. Paine for OD eval.
+
+HPI: 33F, ~10 wk postpartum, hx dependent drug abuse (since 2054), chronic pain, chronic LBP, migrane w/o aura. Found down 4/30 by husband, narcan x2 by EMS. Pt says she was takin more than usual for back pain after 'a bad week', denies wanting to die. Last use ~ 1h before found. Not sure if the Rx or street. Prior contact w/ this service 10/2069 - 01/2070, monthly visits, then lost to f/u during pregnancy. Pt states she 'did good' until the baby came.
+
+Meds: B12 inj (listed active), medroxyprogesterone stopped 05/2069 per chart. No other. Allergies NKDA. Attending named on the order is wrong (Dr. Voss is onc, not following).
+
+Exam: drowsy but oriented, pupils 3mm reactive, no tracks, RR 14. Affect flat, tearful when baby discussed. GAD-7 not repeated. 
+
+A/P:
+1. Opioid use disorder, OD yesterday - offer MOUD, pt interested in bup, will start when COWS &gt; 8. Naloxone kit at d/c + teach husband Toby.
+2. Postpartum mood - screen EPDS before d/c, SW consult.
+3. Chronic pain - nonopioid plan, PCP f/u Dr. Aldous, Cobbler Hill.
+4. Contraception disc. at f/u, pt unsure.
+Will resee tmrw.
+
+Dictated by Dr. Anselm Takahashi - Addiction Medicine 05/01/2071 10:40 
+Electronically signed 05/01/2071 14:02
+[[CC: Aldous M, Cobbler Hill Family Practice, fax (570) 555-0188]]"
+</TEXT>
+<TAGS>
+<ID id="P0" start="77" end="89" text="HAR-77104492" TYPE="ACCOUNT" comment="" />
+<LOCATION id="P1" start="92" end="102" text="4 WEST ONC" TYPE="DEPARTMENT" comment="" />
+<ID id="P2" start="105" end="111" text="408213" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="114" end="130" text="Early, Constance" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="164" end="174" text="05/01/2071" TYPE="DATE" comment="" />
+<NAME id="P5" start="183" end="193" text="ATAKAHASHI" TYPE="USERNAME" comment="" />
+<NAME id="P6" start="227" end="232" text="Paine" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="252" end="254" text="33" TYPE="AGE" comment="" />
+<DATE id="P8" start="307" end="311" text="2054" TYPE="DATE" comment="" />
+<DATE id="P9" start="370" end="374" text="4/30" TYPE="DATE" comment="" />
+<DATE id="P10" start="588" end="595" text="10/2069" TYPE="DATE" comment="" />
+<DATE id="P11" start="598" end="605" text="01/2070" TYPE="DATE" comment="" />
+<DATE id="P12" start="764" end="771" text="05/2069" TYPE="DATE" comment="" />
+<NAME id="P13" start="852" end="856" text="Voss" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1152" end="1156" text="Toby" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1261" end="1267" text="Aldous" TYPE="DOCTOR" comment="" />
+<LOCATION id="P16" start="1269" end="1281" text="Cobbler Hill" TYPE="HOSPITAL" comment="" />
+<NAME id="P17" start="1359" end="1375" text="Anselm Takahashi" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="1378" end="1396" text="Addiction Medicine" TYPE="DEPARTMENT" comment="" />
+<DATE id="P19" start="1397" end="1407" text="05/01/2071" TYPE="DATE" comment="" />
+<DATE id="P20" start="1437" end="1447" text="05/01/2071" TYPE="DATE" comment="" />
+<NAME id="P21" start="1460" end="1468" text="Aldous M" TYPE="DOCTOR" comment="" />
+<LOCATION id="P22" start="1470" end="1498" text="Cobbler Hill Family Practice" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P23" start="1504" end="1518" text="(570) 555-0188" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

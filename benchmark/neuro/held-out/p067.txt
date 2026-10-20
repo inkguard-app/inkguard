@@ -1,0 +1,17 @@
+PRENATAL NEUROSURGERY CONSULT + NICU
+{{FACILITY|Ainsley Grove Children's and Women's Hospital}}
+Mother {{NAME|Priyanka Dandy-Rao}}, 29, [[G1P0]], [[32 weeks 4 days gestational age]], EDD {{DATE|06/02/2075}}, MRN {{MRN|AGW-3301772}}; consult {{DATE|04/08/2075}}
+Father {{NAME|Ezekiel Rao}}; MFM Dr. {{NAME|Leonie Fairchild}}; pediatric neurosurgeon Dr. {{NAME|Bartholomew Nkemelu}}
+
+[[Fetal MRI]]: [[Dandy-Walker malformation]] — cystic dilatation of the [[fourth ventricle]] communicating with an enlarged [[posterior fossa]], [[hypoplastic and upwardly rotated cerebellar vermis]], elevated [[torcula]] ([[torcular-lambdoid inversion]]), and moderate [[hydrocephalus]] (atrial width 16 mm). No [[agenesis of the corpus callosum]]. (Family surname {{NAME|Dandy-Rao}}; the parents asked about it — the "[[Dandy]]" in [[Dandy-Walker]] is a historical eponym only.) [[Microarray]] normal. [[Echocardiogram]] normal.
+Counselling: delivery at term at this centre; postnatal MRI; likely need for CSF diversion — options [[ETV with choroid plexus cauterisation (ETV/CPC)]], [[cystoperitoneal shunt]], or [[VP shunt]] with or without [[cyst fenestration]]. Developmental prognosis depends on vermian lobulation and associated anomalies.
+=====NOTE=====
+NICU NEUROSURGERY — DAY OF LIFE 6 — {{DATE|06/04/2075}}
+Baby boy {{NAME|Dandy-Rao}}, MRN {{MRN|AGW-75-5500219}}, born {{DATE|05/29/2075}} at [[39w0d]] by [[spontaneous vaginal delivery]], BW 3.4 kg, [[Apgar 8/9]].
+[[Head circumference]] 38.5 cm (over 97th centile), [[bulging anterior fontanelle]], [[split sutures]], [[sunsetting eyes]] intermittent. [[Postnatal MRI]]: confirms [[Dandy-Walker malformation]], [[aqueduct]] patent, hydrocephalus progressive.
+Plan: [[ETV/CPC]] tomorrow (CURE-style; [[flexible neuroendoscope]]) — under 6 months age lowers ETV success ([[ETV success score]] 40 for infant with this etiology) → CPC added; if failure → [[VP shunt]] with [[cystoperitoneal Y-connection]]. Anaesthesia: Dr. {{NAME|Rosalind Achterberg}}.
+=====NOTE=====
+OP NOTE — {{DATE|06/05/2075}} — Baby boy {{NAME|Dandy-Rao}} — {{MRN|AGW-75-5500219}}
+Surgeon Dr. {{NAME|B. Nkemelu}}; fellow Dr. {{NAME|Margarethe Oyeyemi}}
+Right coronal burr hole. [[Flexible neuroendoscope]] into the right lateral ventricle; [[choroid plexus cauterisation]] of the lateral ventricles bilaterally (via [[septostomy]]) with [[monopolar coagulation]] from the [[foramen of Monro]] to the [[temporal horn]]; third ventricular floor fenestrated ([[ETV]]); [[membrane of Liliequist]] opened. The [[fourth ventricle cyst]] communicates freely. [[Prepontine cistern]] scarring absent. Closure with [[Monocryl]]. Parents {{NAME|P. Dandy-Rao}} and {{NAME|E. Rao}} updated.
+Post-op: [[head circumference]] daily, [[cranial ultrasound]] weekly, signs of [[raised ICP]].

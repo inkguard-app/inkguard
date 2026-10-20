@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>WILLAMETTE RIDGE MEDICAL CENTER
+Cardiothoracic Surgery -- CONSULT NOTE
+
+Re: DUFRESNE, LEOPOLD A     MRN WR-5528104     DOB 06/12/2041
+Date of consultation: 28 March 2088       Requested by: Dr. Helen Okonjo-Marsh, Cardiology
+Consultant: Ruan Pretorius, MBChB, FCS(SA)
+
+REASON FOR CONSULT: Multivessel coronary disease on angiography, for consideration of surgical revascularisation.
+
+This is a dictated consultation. Mr. Dufresne is a 46 year old single gentleman, a data analyst until he was laid off from Brightwater Analytics in December 2087, who was brought to the emergency department in late December with exertional chest pressure and was subsequently found to have ischaemic heart disease. He was started on dual antiplatelet therapy, a statin, a beta blocker and nitrate spray on the 6th of January. His angiogram this month showed abnormal findings of the heart and coronary circulation, in particular a high grade left main and proximal LAD lesion, which is why I am seeing him on the day of the study. Past history is in order of appearance: prediabetes, received higher education, a traumatic brain injury in July 2060 when he was a student, anaemia, essential hypertension from 2081, obesity, metabolic syndrome, and an episode of sepsis in March 2087 treated with piperacillin tazobactam and vancomycin, which resolved.
+
+Social: lives alone at 3304 SE Larkspur Ave, Portland, OR 97214. His mother Genevieve Dufresne, who is 93 (ninety three), lives in assisted living and he visits weekly, and his uncle Anselm is 91 years young and still driving, God help us. His sister Colette Dufresne-Pike will be the next of kin, her number is 503-555-0121. He drinks socially, no tobacco.
+
+Examination: BP 150/92, a pleasant obese man in no distress, chest clear, no carotid bruit, saphenous veins adequate bilaterally. EuroSCORE low. I have discussed on the phone with Mrs. Okonjo oh sorry Dr. Okonjo-Marsh.
+
+Impression and plan: Coronary artery bypass grafting, the left internal mammary to the LAD and vein grafts, tomorrow if the patient agrees. Risks including stroke, bleeding, infection, death discussed at length. He was keen, even joking that the scar will spell "LD".
+
+Dictated but not read.
+Electronically signed R. Pretorius 28/03/2088 18:22 Note routed to: okonjomarsh@willametteridge.example
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="WILLAMETTE RIDGE MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="54" text="Cardiothoracic Surgery" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="76" end="95" text="DUFRESNE, LEOPOLD A" TYPE="PATIENT" comment="" />
+<ID id="P3" start="104" end="114" text="WR-5528104" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="123" end="133" text="06/12/2041" TYPE="DATE" comment="" />
+<DATE id="P5" start="156" end="169" text="28 March 2088" TYPE="DATE" comment="" />
+<NAME id="P6" start="194" end="212" text="Helen Okonjo-Marsh" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="237" end="251" text="Ruan Pretorius" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="421" end="429" text="Dufresne" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="435" end="437" text="46" TYPE="AGE" comment="" />
+<PROFESSION id="P10" start="467" end="479" text="data analyst" TYPE="PROFESSION" comment="" />
+<LOCATION id="P11" start="507" end="528" text="Brightwater Analytics" TYPE="ORGANIZATION" comment="" />
+<DATE id="P12" start="532" end="545" text="December 2087" TYPE="DATE" comment="" />
+<DATE id="P13" start="594" end="607" text="late December" TYPE="DATE" comment="" />
+<DATE id="P14" start="790" end="808" text="the 6th of January" TYPE="DATE" comment="" />
+<DATE id="P15" start="1123" end="1132" text="July 2060" TYPE="DATE" comment="" />
+<DATE id="P16" start="1193" end="1197" text="2081" TYPE="DATE" comment="" />
+<DATE id="P17" start="1256" end="1266" text="March 2087" TYPE="DATE" comment="" />
+<LOCATION id="P18" start="1360" end="1380" text="3304 SE Larkspur Ave" TYPE="STREET" comment="" />
+<LOCATION id="P19" start="1382" end="1390" text="Portland" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="1392" end="1394" text="OR" TYPE="STATE" comment="" />
+<LOCATION id="P21" start="1395" end="1400" text="97214" TYPE="ZIP" comment="" />
+<NAME id="P22" start="1413" end="1431" text="Genevieve Dufresne" TYPE="PATIENT" comment="" />
+<AGE id="P23" start="1440" end="1442" text="93" TYPE="AGE" comment="" />
+<NAME id="P24" start="1520" end="1526" text="Anselm" TYPE="PATIENT" comment="" />
+<AGE id="P25" start="1530" end="1532" text="91" TYPE="AGE" comment="" />
+<NAME id="P26" start="1588" end="1609" text="Colette Dufresne-Pike" TYPE="PATIENT" comment="" />
+<CONTACT id="P27" start="1649" end="1661" text="503-555-0121" TYPE="PHONE" comment="" />
+<NAME id="P28" start="1881" end="1887" text="Okonjo" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1901" end="1913" text="Okonjo-Marsh" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="2230" end="2242" text="R. Pretorius" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="2243" end="2253" text="28/03/2088" TYPE="DATE" comment="" />
+<CONTACT id="P32" start="2276" end="2311" text="okonjomarsh@willametteridge.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

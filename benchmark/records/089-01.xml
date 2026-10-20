@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY &amp; PHYSICAL       Green Mountain Medical Center  Hospital Medicine
+Adm 12/11/2085 21:40 (from ED)    Attending Dr Lucia Ferrante    Rm 5W-14
+Pt: BELL, FAITH  (legal name Juniper Frost since 2084)   DOB 11/04/2033  52F   MRN FB-0092817
+
+CC: head injury, headache, nausea.
+HPI: 52 yo F, fell on ice at her stoop ("first frost, steps were glazed") ~6pm, struck R side of head. No LOC per pt. Neighbor Orrin Pickett found her, says "she was out for a minute, maybe 2", and also that she fell off the ladder cleaning gutter. Pt denies ladder. Nausea x1 vomit x2 in ED. HA 5/10. Hx per pt incl "head injury before at age 12" (not in chart), denies any prior concussions. Denies EtOH. UDS neg.
+PMH: obesity (BMI 30+ hx), chronic LBP/neck pain since 2074 (ibuprofen [Ibu] d/c'd 05/2077), miscarriage 12/2083, hx IPV (resolved 2082), criminal record flag in SH.
+Meds: none. Allergies: NKDA. (pt first said PCN, then "no, that was my brother Walt")
+SH: lives alone, 63 Quarry Hill Rd Apt B, Brattleboro VT; unemployed since 07/2084; ex-partner Casey Dunmore, no contact. Emergency contact: brother Walter Bell (802) 555-0171.
+FHx: mother Dolores d. 2079; no Bell's palsy, no Parkinson's disease, no seizure.
+
+Exam: BP 118/74. GCS 15. A&amp;Ox3. PERRL. no Battle sign, no hemotympanum. Romberg neg, Babinski neg. R parietal scalp hematoma 3cm, no lac. CN II-XII intact (no Bell's palsy / facial droop). C-spine non-tender. 
+A/P: Concussion w/o LOC (vs brief LOC - hx unreliable). CT head neg per ED. Neuro checks q4h overnight, acetaminophen prn, no NSAIDs yet. Cognitive rest. D/C likely in AM if stable. Neuro f/u Dr. Iyengar.
+Signed L. Ferrante MD  12/11/85 23:55
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="25" end="54" text="Green Mountain Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="56" end="73" text="Hospital Medicine" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="78" end="88" text="12/11/2085" TYPE="DATE" comment="" />
+<NAME id="P3" start="118" end="135" text="Dr Lucia Ferrante" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="142" end="147" text="5W-14" TYPE="ROOM" comment="" />
+<NAME id="P5" start="152" end="163" text="BELL, FAITH" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="177" end="190" text="Juniper Frost" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="197" end="201" text="2084" TYPE="DATE" comment="" />
+<DATE id="P8" start="209" end="219" text="11/04/2033" TYPE="DATE" comment="" />
+<AGE id="P9" start="221" end="223" text="52" TYPE="AGE" comment="" />
+<ID id="P10" start="231" end="241" text="FB-0092817" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P11" start="283" end="285" text="52" TYPE="AGE" comment="" />
+<NAME id="P12" start="405" end="418" text="Orrin Pickett" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="622" end="624" text="12" TYPE="AGE" comment="" />
+<DATE id="P14" start="749" end="753" text="2074" TYPE="DATE" comment="" />
+<DATE id="P15" start="777" end="784" text="05/2077" TYPE="DATE" comment="" />
+<DATE id="P16" start="799" end="806" text="12/2083" TYPE="DATE" comment="" />
+<DATE id="P17" start="825" end="829" text="2082" TYPE="DATE" comment="" />
+<NAME id="P18" start="939" end="943" text="Walt" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="963" end="980" text="63 Quarry Hill Rd" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="988" end="999" text="Brattleboro" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="1000" end="1002" text="VT" TYPE="STATE" comment="" />
+<DATE id="P22" start="1021" end="1028" text="07/2084" TYPE="DATE" comment="" />
+<NAME id="P23" start="1041" end="1054" text="Casey Dunmore" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1095" end="1106" text="Walter Bell" TYPE="PATIENT" comment="" />
+<CONTACT id="P25" start="1107" end="1121" text="(802) 555-0171" TYPE="PHONE" comment="" />
+<NAME id="P26" start="1135" end="1142" text="Dolores" TYPE="PATIENT" comment="" />
+<DATE id="P27" start="1146" end="1150" text="2079" TYPE="DATE" comment="" />
+<NAME id="P28" start="1608" end="1619" text="Dr. Iyengar" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1628" end="1639" text="L. Ferrante" TYPE="DOCTOR" comment="" />
+<DATE id="P30" start="1644" end="1652" text="12/11/85" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

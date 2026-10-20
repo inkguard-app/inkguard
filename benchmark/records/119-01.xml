@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER                                   NORTHFIELD UNIVERSITY HOSPITAL - Pulmonary / CF Clinic
+Patient: MENSAH, WISDOM K     MRN: RM-6648120     DOB: 11/22/2036     Age: 50
+Date: 01/08/2087     Time: 09:10     Call type: incoming     Taken by: Rich Calder, RN
+Caller: wife, Patience Mensah, from (614) 555-0142
+
+REASON FOR CALL
+@REASON@  -&gt; follow-up after ED visit 01/07/2087 for facial laceration (fell on ice outside Cobalt Lane Pharmacy)
+
+DETAILS
+- sutured in the ED yesterday, tetanus antitoxin given
+- wife says wound is "weeping a bit", no fever, no pus. he is coughing as usual, CF baseline
+- pt wants to know if he can still do his airway clearance with face dressing on. Yes.
+- she asked for acetaminophen dose, advised 325 mg q6h prn, NOT ibuprofen w/ his kidneys... (his kidneys are fine per last eGFR, ignore)
+- advised wound check in 5 days, sutures out in 7 days
+- She thanked me for my patients ... I mean, for my patience. (ha)
+
+Copy-forward from 12/08/2086 visit: "Sputum cx pending. On dornase alfa, pancreatin, metformin. Lives w/ wife and 2 kids" (NB: dornase/pancreatin/metformin listed in error as active -- see med rec)
+
+FAMILY CONTACT UPDATE
+- Next of kin overseas: brother Bright Mensah, Accra, Ghana Post GPS GA-123-4567, tel +233 24 555 0190
+- Children Precious and Gift (do not give them clinical info)
+
+Plan: call back prn. Routed to Dr. Faith Oyelaran.
+Electronically signed by Rich Calder RN 01/08/2087 09:34   audit: user rcalder / 10.60.5.21
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="54" end="84" text="NORTHFIELD UNIVERSITY HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="87" end="108" text="Pulmonary / CF Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="118" end="134" text="MENSAH, WISDOM K" TYPE="PATIENT" comment="" />
+<ID id="P3" start="144" end="154" text="RM-6648120" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="164" end="174" text="11/22/2036" TYPE="DATE" comment="" />
+<AGE id="P5" start="184" end="186" text="50" TYPE="AGE" comment="" />
+<DATE id="P6" start="193" end="203" text="01/08/2087" TYPE="DATE" comment="" />
+<NAME id="P7" start="258" end="269" text="Rich Calder" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="288" end="303" text="Patience Mensah" TYPE="PATIENT" comment="" />
+<CONTACT id="P9" start="310" end="324" text="(614) 555-0142" TYPE="PHONE" comment="" />
+<DATE id="P10" start="380" end="390" text="01/07/2087" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="434" end="454" text="Cobalt Lane Pharmacy" TYPE="ORGANIZATION" comment="" />
+<DATE id="P12" start="978" end="988" text="12/08/2086" TYPE="DATE" comment="" />
+<NAME id="P13" start="1213" end="1226" text="Bright Mensah" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="1228" end="1233" text="Accra" TYPE="CITY" comment="" />
+<LOCATION id="P15" start="1235" end="1261" text="Ghana Post GPS GA-123-4567" TYPE="LOCATION-OTHER" comment="" />
+<CONTACT id="P16" start="1267" end="1283" text="+233 24 555 0190" TYPE="PHONE" comment="" />
+<NAME id="P17" start="1295" end="1303" text="Precious" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1308" end="1312" text="Gift" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1382" end="1396" text="Faith Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1423" end="1434" text="Rich Calder" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1438" end="1448" text="01/08/2087" TYPE="DATE" comment="" />
+<NAME id="P22" start="1469" end="1476" text="rcalder" TYPE="USERNAME" comment="" />
+<CONTACT id="P23" start="1479" end="1489" text="10.60.5.21" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

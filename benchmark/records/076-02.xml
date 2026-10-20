@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE
+Pt: Marcus Wrenn   MRN 4471-0925
+Date: March 10, 2076  (Tuesday)
+Author: Linda Szabo, RN care coordinator, ED Care Coordination
+
+Called pt at home number (937) 555-0142, no answer, left VM. Called again at 1500 and spoke with wife Tamsen Wren who said "he's at the new warehouse job interview". She gave alternate cell 937-555-0163. Reviewed the reason for referral: gum disease noted at the 3/5 fast track visit, bleeding gums, no dentist, no dental insurance since the layoff.
+
+Plan / actions:
+- Referral faxed to Gentle Hands Family Dentistry, fax (937) 555-0108, ph (937) 555-0107. Sliding scale, they have a slot Thursday 3/19 at 0830.
+- Transportation: pt has no car right now, wife's mother Cordelia Okafor (speech recog wrote "oh cough for") will drive. Bus route 8 as backup.
+- Childcare: daughter Juniper goes to Little Acorns Daycare, pick up code 4417 (teacher Ms. Nadine Pruitt)
+- Neighbor Mrs. Pinkney (apt 3A) watches the baby sometimes, pt gave ok to contact her about rides.
+- Social work: provided food pantry list + Buckeye Community Action rent assistance application. Landlord Bertrand Oyelaran of Oyelaran Property Group will accept partial rent until April, per pt.
+- Insurance: BuckeyeCare member 7XQ-408-1193-05 lapses at end of month, application for marketplace plan started.
+
+Pt screened: stress high, alcohol reduced, drug use hx - will revisit. No safety concerns re home per pt. Follow up call 3/18 to confirm appt.
+Last edited by lszabo 3/10/2076 15:48
+</TEXT>
+<TAGS>
+<NAME id="P0" start="27" end="39" text="Marcus Wrenn" TYPE="PATIENT" comment="" />
+<ID id="P1" start="46" end="55" text="4471-0925" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="62" end="76" text="March 10, 2076" TYPE="DATE" comment="" />
+<DATE id="P3" start="79" end="86" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P4" start="96" end="107" text="Linda Szabo" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="130" end="150" text="ED Care Coordination" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P6" start="177" end="191" text="(937) 555-0142" TYPE="PHONE" comment="" />
+<NAME id="P7" start="254" end="265" text="Tamsen Wren" TYPE="PATIENT" comment="" />
+<CONTACT id="P8" start="342" end="354" text="937-555-0163" TYPE="PHONE" comment="" />
+<DATE id="P9" start="415" end="418" text="3/5" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="539" end="568" text="Gentle Hands Family Dentistry" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P11" start="574" end="588" text="(937) 555-0108" TYPE="FAX" comment="" />
+<CONTACT id="P12" start="593" end="607" text="(937) 555-0107" TYPE="PHONE" comment="" />
+<DATE id="P13" start="641" end="654" text="Thursday 3/19" TYPE="DATE" comment="" />
+<NAME id="P14" start="721" end="736" text="Cordelia Okafor" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="758" end="770" text="oh cough for" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="830" end="837" text="Juniper" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="846" end="867" text="Little Acorns Daycare" TYPE="ORGANIZATION" comment="" />
+<ID id="P18" start="882" end="886" text="4417" TYPE="IDNUM" comment="" />
+<NAME id="P19" start="900" end="913" text="Nadine Pruitt" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="931" end="938" text="Pinkney" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="1058" end="1082" text="Buckeye Community Action" TYPE="ORGANIZATION" comment="" />
+<NAME id="P22" start="1121" end="1138" text="Bertrand Oyelaran" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="1142" end="1165" text="Oyelaran Property Group" TYPE="ORGANIZATION" comment="" />
+<DATE id="P24" start="1197" end="1202" text="April" TYPE="DATE" comment="" />
+<ID id="P25" start="1244" end="1259" text="7XQ-408-1193-05" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P26" start="1448" end="1452" text="3/18" TYPE="DATE" comment="" />
+<DATE id="P27" start="1492" end="1501" text="3/10/2076" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

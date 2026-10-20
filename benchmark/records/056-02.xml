@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE -- DENTISTRY
+Maple and Main Dental Centre, Toronto
+Consultation and report (referred by family physician following medication reconciliation 27 June 2077)
+
+Re: Mr Anders M. Hope    DOB 18-Nov-2007    Dental file MM-2077-1180
+Date seen: 11 July 2077      Phone on file: +1 416-555-0127
+Consultant: Dr Małgorzata Wiśniewska, BDS, MSc
+
+Dear colleague,
+
+Thankyou for referring this 69 year old gentleman whom I reviewed today for chronic gingivitis. He reports bleeding on brushing since "the spring", and he was last scaled in 2071 when he was given sodium fluoride gel. Historian was reliable. He says his gums trouble him more since the divorce and a period of social isolation, and he has been less careful with his flossing. He lives alone, but his neighbour Mrs. Goldie Rich brings groceries on Thursdays. She is very rich in kindness, as he puts it.
+
+Medical history from your letter: chronic sinusitis, osteoarthritis of the knees (on naproxen, sold here as Aleve or Naprosyn), chronic pain, and stress. He tells me he had a Bell's palsy in childhood but I cannot confirm this and his face was symmetric today. He reports no Hodgkin lymphoma in the family. No known allergies to anaesthetic.
+
+Examination: generalised marginal erythema and bleeding on probing, probing depths 3-4 mm, supra- and subgingival calculus lower anteriors. No mobility. No suspicious mucosal lesions. Bitewing radiographs taken, no interproximal caries of note, mild horizontal bone loss, consistent with age.
+
+Treatment today: full-mouth supragingival and subgingival scaling with ultrasonic and hand instruments, oral hygiene education, and topical fluoride. Next review in six months, around January 2078. Please note his surname is Hope, as in the English word, and not "Hoppe" as labelled on the radiograph (the sticker says HOPPE A).
+
+Yours sincerely,
+M. Wiśniewska
+Electronically signed 11/07/2077 17:05    cc: Dr Colm Fitzgerald-Baptiste, fax +1 416 555 0166
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="26" end="54" text="Maple and Main Dental Centre" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="154" end="166" text="27 June 2077" TYPE="DATE" comment="" />
+<NAME id="P2" start="173" end="190" text="Mr Anders M. Hope" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="198" end="209" text="18-Nov-2007" TYPE="DATE" comment="" />
+<ID id="P4" start="225" end="237" text="MM-2077-1180" TYPE="IDNUM" comment="" />
+<DATE id="P5" start="249" end="261" text="11 July 2077" TYPE="DATE" comment="" />
+<CONTACT id="P6" start="282" end="297" text="+1 416-555-0127" TYPE="PHONE" comment="" />
+<NAME id="P7" start="313" end="334" text="Małgorzata Wiśniewska" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="391" end="393" text="69" TYPE="AGE" comment="" />
+<DATE id="P9" start="537" end="541" text="2071" TYPE="DATE" comment="" />
+<NAME id="P10" start="773" end="789" text="Mrs. Goldie Rich" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="810" end="819" text="Thursdays" TYPE="DATE" comment="" />
+<DATE id="P12" start="1688" end="1700" text="January 2078" TYPE="DATE" comment="" />
+<NAME id="P13" start="1823" end="1830" text="HOPPE A" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1851" end="1864" text="M. Wiśniewska" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="1887" end="1897" text="11/07/2077" TYPE="DATE" comment="" />
+<NAME id="P16" start="1914" end="1938" text="Colm Fitzgerald-Baptiste" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="1944" end="1959" text="+1 416 555 0166" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

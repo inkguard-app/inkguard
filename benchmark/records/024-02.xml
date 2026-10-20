@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP)                               Urgent Care, Willamette Crest Medical Center
+Patient: CASE, DOLORES A   DOB: 1/17/2018   MRN: WC-4409-217
+Date of service: 05/28/2078
+
+SUBJECTIVE. Mrs. Case is a sixty year old woman who comes to urgent care eight days after being seen by her family doctor for acute bronchitis with a persistent productive cough, low grade temperatures at home, and fatigue. She was given acetaminophen three twenty five milligrams as needed on May 20th and has been taking it regularly. She denies chest pain, which is important in view of her coronary hisotry and bypass surgery five years ago. She reports that she lost her job at the end of March when the logistics company let her go, and that stress at home is bettr than before. She drinks wine most evenings, about three glasses, and has been told to cut down.
+
+OBJECTIVE. Temperature 99.4, pulse 82, blood pressure one seventeen over sixty nine, weight seventy six point one kilograms, body mass index thirty point one. Pain score four. Lungs show coarse rhonchi at the right base that clear with coughing. Hemoglobin A1c today six point zero percent, down from six point three on April 2nd. Chest radiograph was obtained: heart size is normal, sternal wires are intact and well algned, there is no focal consolidation, no pleural effusion and no pneumothorax. Radiologist read by Dr. Teodoro Chance: no acute cardiopulmonary process. There is a chance, he says, of mild bronchial wall thickening consistent with bronchitis.
+
+ASSESSMENT. Acute bronchitis, improving, no pneumonia. Ischemic heaart disease, stable. Prediabetes with improved HbA1c. Alcohol use above recommended limits.
+
+PLAN. Continue fluids and rest, no antibiotic is needed, continue the clopidogrel, simvastatin and metoprilol as before. Return if fever above one hundred and one, worsening shortness of breath or chest pain. Follow up with the family doctor in one week. A referral to dental care was already started and I advise she complete it.
+
+This note was dicctated using voice recognition software and may contain errors. Dictated but not read.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="51" end="62" text="Urgent Care" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P1" start="64" end="95" text="Willamette Crest Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="105" end="120" text="CASE, DOLORES A" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="128" end="137" text="1/17/2018" TYPE="DATE" comment="" />
+<ID id="P4" start="145" end="156" text="WC-4409-217" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="174" end="184" text="05/28/2078" TYPE="DATE" comment="" />
+<NAME id="P6" start="203" end="207" text="Case" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="213" end="218" text="sixty" TYPE="AGE" comment="" />
+<DATE id="P8" start="480" end="488" text="May 20th" TYPE="DATE" comment="" />
+<DATE id="P10" start="680" end="685" text="March" TYPE="DATE" comment="" />
+<DATE id="P11" start="1175" end="1184" text="April 2nd" TYPE="DATE" comment="" />
+<NAME id="P12" start="1379" end="1393" text="Teodoro Chance" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

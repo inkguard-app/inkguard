@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL - MESSAGE FROM PATIENT (ALL CAPS BY LEGACY SYSTEM)
+FROM: ADA OKEKE-JOHANSEN / ACCT AOJ-0086-9024
+SENT: AUG 7 2092  22:31 (THURSDAY)
+
+HELLO TEAM
+I HAD THE VIDEO CALL TODAY WITH THE DOCTOR AND HE SAID TO SEND A MESSAGE IF NOT BETTER. IT BURNS WHEN I PEE FOR 2 DAYS AND I HAVE TO GO EVERY HOUR. MY BF CASPER DAHL SAYS GO TO ER BUT ITS JUST A BLADDER INFECTION AGAIN (LIKE IN MARCH?? OR 2091, I FORGET). THE PHARMACY (RUE VERTE, 1180 17 AVE SW, CALGARY) CALLED AND SAID THE URINE TEST IS READY SATURDAY.
+
+PLEASE ALSO SEND THE LETTER TO MY PAPA HENRIK JOHANSEN IN NORWAY FOR THE INSURANCE: STRANDGATEN 24, 5013 BERGEN. HE PAYS. 
+
+I AM 23 NOT 32 BY THE WAY. PHONE: 403.555.0176 OR TEXT. THANK U
+ADA
+
+[NURSE REPLY 08/08/2092: TOLD HER NITROFURANTOIN IS AT THE PHARMACY. PT IS "ADA" NOT A DRUG LOL - ZOE]
+[COMMENT BY ZOE MARCHETTI: IS ADA A NICKNAME OR WHAT? I WROTE IN CONCLUSION THAT THE PATIENT IS HAPPY. DELETE?]
+</TEXT>
+<TAGS>
+<NAME id="P0" start="72" end="90" text="ADA OKEKE-JOHANSEN" TYPE="PATIENT" comment="" />
+<ID id="P1" start="98" end="111" text="AOJ-0086-9024" TYPE="ACCOUNT" comment="" />
+<DATE id="P2" start="118" end="128" text="AUG 7 2092" TYPE="DATE" comment="" />
+<NAME id="P3" start="313" end="324" text="CASPER DAHL" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="387" end="392" text="MARCH" TYPE="DATE" comment="" />
+<DATE id="P5" start="398" end="402" text="2091" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="429" end="438" text="RUE VERTE" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P7" start="440" end="454" text="1180 17 AVE SW" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="456" end="463" text="CALGARY" TYPE="CITY" comment="" />
+<DATE id="P9" start="505" end="513" text="SATURDAY" TYPE="DATE" comment="" />
+<NAME id="P10" start="555" end="570" text="HENRIK JOHANSEN" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="574" end="580" text="NORWAY" TYPE="COUNTRY" comment="" />
+<LOCATION id="P12" start="600" end="614" text="STRANDGATEN 24" TYPE="STREET" comment="" />
+<LOCATION id="P13" start="616" end="620" text="5013" TYPE="ZIP" comment="" />
+<LOCATION id="P14" start="621" end="627" text="BERGEN" TYPE="CITY" comment="" />
+<AGE id="P15" start="645" end="647" text="23" TYPE="AGE" comment="" />
+<AGE id="P16" start="652" end="654" text="32" TYPE="AGE" comment="" />
+<CONTACT id="P17" start="674" end="686" text="403.555.0176" TYPE="PHONE" comment="" />
+<DATE id="P18" start="722" end="732" text="08/08/2092" TYPE="DATE" comment="" />
+<NAME id="P19" start="824" end="837" text="ZOE MARCHETTI" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

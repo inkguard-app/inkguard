@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PORTAL MESSAGE - LAB RESULT COMMENT
+From: Heron Point Cancer Center Hematology  (sent by Kash Aldridge RN for Dr. Justice Pham)
+To: a1cash_77  (patient Jaxxon Cash, MRN HP-9015526)
+Date: 02/26/2061   Re: your labs from 02/24/2061
+
+Hi A1!! :) 
+
+Your results are in:
+- CBC: white count still on the low side, hemoglobin a bit low (anemia, we are following it)
+- CD4 count and HIV viral load: Dr. Pham will go over these WITH you by phone, not on the portal
+- no sign of infection on the differential
+
+What we need from you:
+- please call (901) 555-0177 (case manager line) before Friday
+- bring all your pill bottles, even the old ones!
+- if you feel dizzy, feverish or have chest pain go to the ER. dont wait
+
+Dear [FIRST_NAME], this message was sent to the wrong account once: first copy went to a1cash_79 (someone elses chart) -- ignore.
+
+Also Mr. Cash we cant take cash for the co-pay on the portal 😅
+
+Take care,
+Kash A., RN
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="42" end="67" text="Heron Point Cancer Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="89" end="102" text="Kash Aldridge" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="114" end="126" text="Justice Pham" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="132" end="141" text="a1cash_77" TYPE="USERNAME" comment="" />
+<NAME id="P4" start="152" end="163" text="Jaxxon Cash" TYPE="PATIENT" comment="" />
+<ID id="P5" start="169" end="179" text="HP-9015526" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="187" end="197" text="02/26/2061" TYPE="DATE" comment="" />
+<DATE id="P7" start="219" end="229" text="02/24/2061" TYPE="DATE" comment="" />
+<NAME id="P8" start="234" end="236" text="A1" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="394" end="398" text="Pham" TYPE="DOCTOR" comment="" />
+<CONTACT id="P10" start="536" end="550" text="(901) 555-0177" TYPE="PHONE" comment="" />
+<DATE id="P11" start="578" end="584" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P12" start="796" end="805" text="a1cash_79" TYPE="USERNAME" comment="" />
+<NAME id="P13" start="849" end="853" text="Cash" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="915" end="921" text="Kash A" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

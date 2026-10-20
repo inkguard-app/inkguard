@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|enc_date|enc_type|author|text
+91977|11/02/2080|DEATH NOTE|ocean_md|
+DEATH NOTE
+Patient: Royal A. Forst  (sic - chart header reads FROST, ROYAL)  MRN FR-0080-3317
+DOB 04/09/1998   Age at death: 82
+
+- Time of death 05:50, Saturday 11/02/2080
+- Location: at home, under hospice, bedside present: wife Hope, son Seven
+- Pronounced by hospice RN; physician notified by phone, no code status issues (DNR on file)
+- Cause: end-stage chronic congestive heart failure; contributing: Alzheimer's disease, ischemic heart disease
+- Coroner: not required
+- Family does not want an autopsy
+- Funeral home: Everhart Wills &amp; Daughters Funeral Care notified
+- PCP and cardiology informed. No hope of reversal had been explained to the family a week ago, they were ready
+- Family asked that the "Royal" sign off the door be kept, i have no idea what that meant
+
+Pt was a frost-bitten old soldier about the house - kind man. R.F. will be missed by the clinic staff.
+
+Electronically signed Ocean Bellweather, MD  11/02/2080 11:20
+</TEXT>
+<TAGS>
+<DATE id="P0" start="43" end="53" text="11/02/2080" TYPE="DATE" comment="" />
+<NAME id="P1" start="65" end="73" text="ocean_md" TYPE="USERNAME" comment="" />
+<NAME id="P2" start="95" end="109" text="Royal A. Forst" TYPE="PATIENT" comment="" />
+<ID id="P3" start="156" end="168" text="FR-0080-3317" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="173" end="183" text="04/09/1998" TYPE="DATE" comment="" />
+<AGE id="P5" start="200" end="202" text="82" TYPE="AGE" comment="" />
+<DATE id="P6" start="227" end="235" text="Saturday" TYPE="DATE" comment="" />
+<DATE id="P7" start="236" end="246" text="11/02/2080" TYPE="DATE" comment="" />
+<NAME id="P8" start="305" end="309" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="315" end="320" text="Seven" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="599" end="638" text="Everhart Wills &amp; Daughters Funeral Care" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="785" end="790" text="Royal" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="913" end="917" text="R.F." TYPE="PATIENT" comment="" />
+<NAME id="P13" start="977" end="994" text="Ocean Bellweather" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1000" end="1010" text="11/02/2080" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

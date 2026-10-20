@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MERCER VALLEY MEDICAL CENTER                       PAGE 1 OF 4
+PAGE, SAINT A    MRN MV-7721940    DOB 08/11/1967    ACCT ACC-90417733
+HISTORY AND PHYSICAL
+Patient: Saint Able Page    MRN: MV-7721940    Acct: ACC-90417733
+DOB: 08/11/1967   Age: 106 y.o. M   Date of admission: 01/09/2074
+Unit/Room: 5 West 512-B
+Attending: Kash Venkataraman, MD     Resident: dr_rainfall7
+PCP: Sky Adebayo, MD
+Source: wife Wednesday Page and son Twelve Page (pt unable, advanced dementia)
+
+CHIEF COMPLAINT
+@CC@  -&gt; cough, fever, not eating
+
+HPI
+106 yo M w/ hx T2DM w/ nephropathy and retinopathy, CAD s/p NSTEMI, HTN, a-fib, Alzheimers, s/p renal transplant, presented to the ED 01/06/2074 with 3 days of cough and fever, admitted 01/09/2074 w/ pneumonia.  Dx pneumonia. 
+Copy-forward from last note (08/31/2073): "Seen in clinic by Dr. Adebayo, glucose 65, simvastatin d/c'd, ophtho injections monthly, family at bedside"
+He lives at Alder Row Senior Apartments, 77 Alder Row, Apt 4C, Harrisburg, PA 17104; landlord Bless Adeyemi called 911 once before.
+
+MEDICATIONS (reconciled w/ Greenleaf Pharmacy list)
+- metoprolol succ ER 100 daily
+- nitroglycerin 0.4 SL prn
+- donepezil/memantine daily
+- brimonidine gtt OU
+- simvastatin 10 mg daily (STOPPED 08/31/2073 - still on template list, ignore)
+- warfarin 5 mg, digoxin 0.125, lisinopril 10, amlodipine 2.5 (old list from 01/2064, NOT current per pharmacist)
+ALLERGIES: NKDA   (Allergies: Saint Able Page  &lt;- wrong field)
+
+SOCIAL HISTORY
+Retired from Tidewater Freight Lines (truck dispatcher). Married to Wednesday (98) for 70 years. Children: Twelve (nickname, the third of 4 kids, not the number), Kxng, Nova, and granddaughter Mi4 helps w/ meds. Neighbour Jaxxon Teller checks in daily.  Pt told me twelve times he wants to "go home".
+
+EXAM
+T 38.4, HR 98 irreg, BP 128/72, SpO2 91% RA. Frail, cachectic, sleepy but arousable. Crackles R base. 
+
+ASSESSMENT/PLAN
+1. Pneumonia - abx, O2
+2. Goals of care: family (Wednesday, Nova) elect hospice. Quietwater Hospice consulted.
+3. Dementia - continue donepezil/memantine
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="28" text="MERCER VALLEY MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="63" end="76" text="PAGE, SAINT A" TYPE="PATIENT" comment="" />
+<ID id="P2" start="84" end="94" text="MV-7721940" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="102" end="112" text="08/11/1967" TYPE="DATE" comment="" />
+<ID id="P4" start="121" end="133" text="ACC-90417733" TYPE="ACCOUNT" comment="" />
+<NAME id="P5" start="164" end="179" text="Saint Able Page" TYPE="PATIENT" comment="" />
+<ID id="P6" start="188" end="198" text="MV-7721940" TYPE="MEDICALRECORD" comment="" />
+<ID id="P7" start="208" end="220" text="ACC-90417733" TYPE="ACCOUNT" comment="" />
+<DATE id="P8" start="226" end="236" text="08/11/1967" TYPE="DATE" comment="" />
+<AGE id="P9" start="244" end="247" text="106" TYPE="AGE" comment="" />
+<DATE id="P10" start="276" end="286" text="01/09/2074" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="298" end="310" text="5 West 512-B" TYPE="ROOM" comment="" />
+<NAME id="P12" start="322" end="339" text="Kash Venkataraman" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="358" end="370" text="dr_rainfall7" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="376" end="387" text="Sky Adebayo" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="405" end="419" text="Wednesday Page" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="428" end="439" text="Twelve Page" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="527" end="530" text="106" TYPE="AGE" comment="" />
+<DATE id="P18" start="661" end="671" text="01/06/2074" TYPE="DATE" comment="" />
+<DATE id="P19" start="713" end="723" text="01/09/2074" TYPE="DATE" comment="" />
+<DATE id="P20" start="783" end="793" text="08/31/2073" TYPE="DATE" comment="" />
+<NAME id="P21" start="819" end="826" text="Adebayo" TYPE="DOCTOR" comment="" />
+<LOCATION id="P22" start="917" end="944" text="Alder Row Senior Apartments" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P23" start="946" end="966" text="77 Alder Row, Apt 4C" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="968" end="978" text="Harrisburg" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="980" end="982" text="PA" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="983" end="988" text="17104" TYPE="ZIP" comment="" />
+<NAME id="P27" start="999" end="1012" text="Bless Adeyemi" TYPE="PATIENT" comment="" />
+<LOCATION id="P28" start="1065" end="1083" text="Greenleaf Pharmacy" TYPE="ORGANIZATION" comment="" />
+<DATE id="P29" start="1232" end="1242" text="08/31/2073" TYPE="DATE" comment="" />
+<DATE id="P30" start="1354" end="1361" text="01/2064" TYPE="DATE" comment="" />
+<NAME id="P31" start="1421" end="1436" text="Saint Able Page" TYPE="PATIENT" comment="" />
+<LOCATION id="P32" start="1483" end="1506" text="Tidewater Freight Lines" TYPE="ORGANIZATION" comment="" />
+<NAME id="P33" start="1538" end="1547" text="Wednesday" TYPE="PATIENT" comment="" />
+<AGE id="P34" start="1549" end="1551" text="98" TYPE="AGE" comment="" />
+<NAME id="P35" start="1577" end="1583" text="Twelve" TYPE="PATIENT" comment="" />
+<NAME id="P36" start="1633" end="1637" text="Kxng" TYPE="PATIENT" comment="" />
+<NAME id="P37" start="1639" end="1643" text="Nova" TYPE="PATIENT" comment="" />
+<NAME id="P38" start="1663" end="1666" text="Mi4" TYPE="PATIENT" comment="" />
+<NAME id="P39" start="1692" end="1705" text="Jaxxon Teller" TYPE="PATIENT" comment="" />
+<NAME id="P40" start="1946" end="1955" text="Wednesday" TYPE="PATIENT" comment="" />
+<NAME id="P41" start="1957" end="1961" text="Nova" TYPE="PATIENT" comment="" />
+<LOCATION id="P42" start="1978" end="1996" text="Quietwater Hospice" TYPE="ORGANIZATION" comment="" />
+</TAGS>
+</deIdi2b2>

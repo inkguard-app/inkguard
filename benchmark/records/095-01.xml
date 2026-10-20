@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Mensah Cargo &amp; Freight, 2 Dock Road, Baltimore, MD
+RE: LEAVE OF ABSENCE / DISABILITY CERTIFICATION          claim ref ADI-52-0388
+
+To: Atlantic Mutual Life &amp; Disability, Claims Dept, Attn Precious Dunn
+Fax (410) 555-0144
+3/9/52
+
+Dear Ms. Dunn,
+
+Mr. Justice Kofi Mensah (DOB 9/22/1972), 79 years of age, is under my care at Greater Riverside Medical Center for chronic kidney disease, diabetes, coronary disease after myocardial infarction in 2017, and a stress reaction since 3/6/2052. He is the owner of the company named above. I certify he needs to cut back on his hours from March 9 through mid-June 2052. Hes still driving to the dock, which I do not advise.
+
+His diagnosis: stress (not psychosis) and CKD stage 2/3. 
+He is on aspirin 81, metoprolol, rosuvastatin, amlodipine-benazepril, prasugrel, naproxen (stop!), simvastatin 20. 
+Mr. Mensah, known to friends as "Kofi" (born on a Friday, Akan day name, so he says "call me Kofi, not Friday"), asked that his wife Mercy speak for him on the phone at (410) 555-0198.
+
+Sincerely,
+Ruth Silver, MD   Nephrology
+cc: Mercy Mensah, Mensha typo? the file says Mercy Mensha
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="22" text="Mensah Cargo &amp; Freight" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="24" end="35" text="2 Dock Road" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="37" end="46" text="Baltimore" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="48" end="50" text="MD" TYPE="STATE" comment="" />
+<ID id="P4" start="118" end="129" text="ADI-52-0388" TYPE="IDNUM" comment="" />
+<LOCATION id="P5" start="135" end="168" text="Atlantic Mutual Life &amp; Disability" TYPE="ORGANIZATION" comment="" />
+<NAME id="P6" start="188" end="201" text="Precious Dunn" TYPE="DOCTOR" comment="" />
+<CONTACT id="P7" start="206" end="220" text="(410) 555-0144" TYPE="FAX" comment="" />
+<DATE id="P8" start="221" end="227" text="3/9/52" TYPE="DATE" comment="" />
+<NAME id="P9" start="238" end="242" text="Dunn" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="249" end="268" text="Justice Kofi Mensah" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="274" end="283" text="9/22/1972" TYPE="DATE" comment="" />
+<AGE id="P12" start="286" end="288" text="79" TYPE="AGE" comment="" />
+<LOCATION id="P13" start="323" end="355" text="Greater Riverside Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P14" start="442" end="446" text="2017" TYPE="DATE" comment="" />
+<DATE id="P15" start="476" end="484" text="3/6/2052" TYPE="DATE" comment="" />
+<DATE id="P16" start="579" end="586" text="March 9" TYPE="DATE" comment="" />
+<DATE id="P17" start="595" end="608" text="mid-June 2052" TYPE="DATE" comment="" />
+<NAME id="P18" start="843" end="849" text="Mensah" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="872" end="876" text="Kofi" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="889" end="895" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P21" start="932" end="936" text="Kofi" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="942" end="948" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P23" start="972" end="977" text="Mercy" TYPE="PATIENT" comment="" />
+<CONTACT id="P24" start="1008" end="1022" text="(410) 555-0198" TYPE="PHONE" comment="" />
+<NAME id="P25" start="1036" end="1047" text="Ruth Silver" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="1069" end="1081" text="Mercy Mensah" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1083" end="1089" text="Mensha" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1110" end="1122" text="Mercy Mensha" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

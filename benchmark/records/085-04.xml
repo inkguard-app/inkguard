@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>From: Nora Tran &lt;nora.tran.ma@example.com&gt;
+To: Millbrook Community Health Center
+Date: Tue, 22 Mar 2089 09:51
+Subject: Records and my name and moving
+
+Dear Dr Menon and team
+
+Thank you for the visit last Saturday (the 19th). I am writing because I have decide to go to Vietnam with my children for a long time, maybe one year, my mother is sick. So I will not come for the next appointment.
+
+Please send my medical records to this clinic: Saigon International Clinic, 25 Ly Tu Trong Street, District 1, Ho Chi Minh City, Vietnam. Fax +84 28 5555 0136. The release form number is ROI-89-22031 (I sign yesterday).
+
+Also please fix the name. My name in your computer is Lan Tran and also Norah Tran. My real legal name is Nora Lan Tran after citizen paper in 2086. Before is Tran Ngoc Lan in Vietnam style. My husband family call me Lan Halloran but this is not legal. My birthday is 12 September 1940 -- nurse write the 12/09 and it is wrong, in America is 9/12.
+
+About the sleeping machine: I do not have apnea, I just snore. And I do not have diabetes, only low sugar sometime. My husband say "stop", he say I have everything in the paper. OK.
+
+My baby Mai is 10 months and healthy. Kieran also. Please do not send anything to the old address 88 Dunmore Court, Lowell, 01852.
+
+Thank you very much
+Nora
+Sent from my phone  774-555-0188  | Wifi at home: HallorankFamily
+</TEXT>
+<TAGS>
+<CONTACT id="P0" start="17" end="41" text="nora.tran.ma@example.com" TYPE="EMAIL" comment="" />
+<DATE id="P1" start="87" end="103" text="Tue, 22 Mar 2089" TYPE="DATE" comment="" />
+<NAME id="P2" start="159" end="164" text="Menon" TYPE="DOCTOR" comment="" />
+<DATE id="P3" start="199" end="212" text="last Saturday" TYPE="DATE" comment="" />
+<DATE id="P4" start="218" end="222" text="19th" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="269" end="276" text="Vietnam" TYPE="COUNTRY" comment="" />
+<LOCATION id="P6" start="439" end="466" text="Saigon International Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="468" end="489" text="25 Ly Tu Trong Street" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="491" end="501" text="District 1" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P9" start="503" end="519" text="Ho Chi Minh City" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="521" end="528" text="Vietnam" TYPE="COUNTRY" comment="" />
+<CONTACT id="P11" start="534" end="550" text="+84 28 5555 0136" TYPE="FAX" comment="" />
+<ID id="P12" start="579" end="591" text="ROI-89-22031" TYPE="IDNUM" comment="" />
+<NAME id="P13" start="667" end="675" text="Lan Tran" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="685" end="695" text="Norah Tran" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="719" end="732" text="Nora Lan Tran" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="756" end="760" text="2086" TYPE="DATE" comment="" />
+<NAME id="P17" start="772" end="785" text="Tran Ngoc Lan" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="830" end="842" text="Lan Halloran" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="881" end="898" text="12 September 1940" TYPE="DATE" comment="" />
+<NAME id="P20" start="1153" end="1156" text="Mai" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="1160" end="1169" text="10 months" TYPE="AGE" comment="" />
+<LOCATION id="P22" start="1243" end="1259" text="88 Dunmore Court" TYPE="STREET" comment="" />
+<LOCATION id="P23" start="1261" end="1267" text="Lowell" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="1269" end="1274" text="01852" TYPE="ZIP" comment="" />
+<NAME id="P25" start="1297" end="1301" text="Nora" TYPE="PATIENT" comment="" />
+<CONTACT id="P26" start="1322" end="1334" text="774-555-0188" TYPE="PHONE" comment="" />
+<NAME id="P27" start="1352" end="1367" text="HallorankFamily" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

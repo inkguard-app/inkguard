@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Dundalk Medical Centre
+Main Street, Dundalk, Co. Louth                                   27 November 2074
+
+Dr. Anneka Vos, Prosthodontics
+Louth Dental Hospital
+Drogheda
+
+RE: Mrs Aoife Kowalczyk-Brennan, DOB 17/02/2024, PPS 7340192TA
+Address: 14 Lios na Ri Close, Dundalk, A91 X2K7, Ireland
+
+Dear Dr Vos,
+Thank you for seeing this 50-year-old woman for full upper denture and partial lower (loss of teeth, hx since 2058).
+- Medical: chronic sinusitis, prediabetes (HbA1c 6.4 in 2073), previous pre-eclampsia (2072)
+- Meds: Yaz (drospirenone/ethinylestradiol) until 12/12/2074; NO anticoagulants; paracetamol prn. Hx etonogestrel implant (Nexplanon) removal booked 20/12/2074.
+- Allergies: nil known
+- Please note: pt had Bell's palsy-like facial numbness after an extraction in 2063? not confirmed, no neurological diagnosis. Her father has Parkinson's disease - not relevant.
+- Contact: +353 86 555 0148 / husband Cathal +353 87 555 0166
+
+Yours sincerely,
+Dr Will Case, MICGP
+27/11/2074
+cc: Hazel Rowan MPSI, Pharmacy; patient
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="22" text="Dundalk Medical Centre" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="23" end="34" text="Main Street" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="36" end="43" text="Dundalk" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="45" end="54" text="Co. Louth" TYPE="STATE" comment="" />
+<DATE id="P4" start="89" end="105" text="27 November 2074" TYPE="DATE" comment="" />
+<NAME id="P5" start="111" end="121" text="Anneka Vos" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="138" end="159" text="Louth Dental Hospital" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P7" start="160" end="168" text="Drogheda" TYPE="CITY" comment="" />
+<NAME id="P8" start="174" end="201" text="Mrs Aoife Kowalczyk-Brennan" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="207" end="217" text="17/02/2024" TYPE="DATE" comment="" />
+<ID id="P10" start="223" end="232" text="7340192TA" TYPE="IDNUM" comment="" />
+<LOCATION id="P11" start="242" end="261" text="14 Lios na Ri Close" TYPE="STREET" comment="" />
+<LOCATION id="P12" start="263" end="270" text="Dundalk" TYPE="CITY" comment="" />
+<LOCATION id="P13" start="272" end="280" text="A91 X2K7" TYPE="ZIP" comment="" />
+<LOCATION id="P14" start="282" end="289" text="Ireland" TYPE="COUNTRY" comment="" />
+<NAME id="P15" start="299" end="302" text="Vos" TYPE="DOCTOR" comment="" />
+<AGE id="P16" start="330" end="332" text="50" TYPE="AGE" comment="" />
+<DATE id="P17" start="414" end="418" text="2058" TYPE="DATE" comment="" />
+<DATE id="P18" start="477" end="481" text="2073" TYPE="DATE" comment="" />
+<DATE id="P19" start="508" end="512" text="2072" TYPE="DATE" comment="" />
+<DATE id="P20" start="564" end="574" text="12/12/2074" TYPE="DATE" comment="" />
+<DATE id="P21" start="663" end="673" text="20/12/2074" TYPE="DATE" comment="" />
+<DATE id="P22" start="777" end="781" text="2063" TYPE="DATE" comment="" />
+<CONTACT id="P23" start="887" end="903" text="+353 86 555 0148" TYPE="PHONE" comment="" />
+<NAME id="P24" start="914" end="920" text="Cathal" TYPE="PATIENT" comment="" />
+<CONTACT id="P25" start="921" end="937" text="+353 87 555 0166" TYPE="PHONE" comment="" />
+<NAME id="P26" start="956" end="968" text="Dr Will Case" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="976" end="986" text="27/11/2074" TYPE="DATE" comment="" />
+<NAME id="P28" start="991" end="1002" text="Hazel Rowan" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HARBOURFRONT GENERAL HOSPITAL -- Emergency Department
+PROGRESS NOTE (SOAP)  *** TRIAGE ENTRY BY MA, THEN PHYSICIAN ***
+
+Name: Anders Hope   Age: 72   DOB: **/**/****   Date: 2 June 2080   Room: Resus 2
+
+"Triage - written by Dayo Adeyinka (MA)"
+- pt came in with a neighbour who said he "went grey and dropped" in the lobby of his building, it was a Tuesday morning??
+- pt was NOT super chill, he was sweaty and pale, vibes very off
+- --&gt; wife? no, DIVORCED. emergency contact is friend Priscilla Okafor, number 416-555-0149 (earlier note said 0194, which is it)
+- --&gt; allergies: none known
+- In conclusion the patient's journey to ED was fast and the nurses did amazing work.
+
+S: (Dr. Colm Fitzgerald-Baptiste, resident) 72 yo male with chronic knee OA, chronic pain, stress, chronic sinusitis, collapsed at home and bystander CPR was started by the neighbour, Mrs Rich, paramedics found VF and shocked x2, ROSC briefly then re-arrest en route. Wellness check last done July 2079. On naproxen (Aleve) only. Hx per chart of intimate partner abuse in 2074, resolved. Social isolation noted 2078.
+
+O: arrival pulseless, CPR in progress. Glasgow Coma Scale 3. Pupils fixed and dilated. Monitor: asystole after VF. Adrenaline x6, amiodarone, bicarbonate, bedside echo no cardiac activity. No palpable pulse after 38 minutes of ALS.
+
+A: Cardiac arrest, likely primary cardiac, refractory. No Parkinson's disease, no head trauma.
+
+P: Resus stopped at 09:41 on advice of attending Dr. Hyun-woo Baek. Family notification: brother Josef Hope in Kraków, Poland, telephone +48 12 555 01 47; daughter Fiona in Wellington. Chaplain paged. Please see death note.
+
+File name for the ECG strip: Hope_A_ECG_20800602.pdf
+
+&lt;&lt;PATIENT_NAME&gt;&gt; @AGE@ y.o. -- template leftover
+Last edited by cfitzgerald from 10.44.9.201 on 6/2/2080 10:58
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="33" end="53" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<NAME id="P1" start="126" end="137" text="Anders Hope" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="145" end="147" text="72" TYPE="AGE" comment="" />
+<DATE id="P3" start="174" end="185" text="2 June 2080" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="194" end="201" text="Resus 2" TYPE="ROOM" comment="" />
+<NAME id="P5" start="224" end="237" text="Dayo Adeyinka" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="349" end="356" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P7" start="486" end="502" text="Priscilla Okafor" TYPE="PATIENT" comment="" />
+<CONTACT id="P8" start="511" end="523" text="416-555-0149" TYPE="PHONE" comment="" />
+<NAME id="P9" start="685" end="709" text="Colm Fitzgerald-Baptiste" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="721" end="723" text="72" TYPE="AGE" comment="" />
+<NAME id="P11" start="865" end="869" text="Rich" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="970" end="979" text="July 2079" TYPE="DATE" comment="" />
+<DATE id="P13" start="1049" end="1053" text="2074" TYPE="DATE" comment="" />
+<DATE id="P14" start="1088" end="1092" text="2078" TYPE="DATE" comment="" />
+<NAME id="P15" start="1477" end="1490" text="Hyun-woo Baek" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1521" end="1531" text="Josef Hope" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="1535" end="1541" text="Kraków" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="1543" end="1549" text="Poland" TYPE="COUNTRY" comment="" />
+<CONTACT id="P19" start="1561" end="1577" text="+48 12 555 01 47" TYPE="PHONE" comment="" />
+<NAME id="P20" start="1588" end="1593" text="Fiona" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="1597" end="1607" text="Wellington" TYPE="CITY" comment="" />
+<DATE id="P22" start="1689" end="1697" text="20800602" TYPE="DATE" comment="" />
+<CONTACT id="P23" start="1784" end="1795" text="10.44.9.201" TYPE="IPADDR" comment="" />
+<DATE id="P24" start="1799" end="1807" text="6/2/2080" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

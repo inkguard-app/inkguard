@@ -1,0 +1,30 @@
+COMPREHENSIVE EPILEPSY CENTER — PHASE I SUMMARY
+{{FACILITY|Tamsin Ridge Epilepsy Center}}
+Patient: {{NAME|Corwin Jackson}}   MRN {{MRN|TRE-5502913}}   Conference {{DATE|02/27/2072}}
+History by {{NAME|Mirela Dragomir}}, NP; attending Dr. {{NAME|Alastair Nakagawa-Pryce}}
+
+27 M, [[drug-resistant focal epilepsy]] since age 14, failed [[levetiracetam]], [[lacosamide]], [[carbamazepine]] and [[clobazam]] at adequate doses ([[ILAE definition of drug resistance]]). Seizure semiology: [[epigastric aura]] and [[déjà vu]], then behavioural arrest, [[oral automatisms]] (lip smacking), [[right hand dystonic posturing]] and [[left hand automatisms]], post-ictal [[aphasia]] — suggesting [[left mesial temporal onset]]. Occasional [[focal to bilateral tonic-clonic seizures]]. Note: no [[Jacksonian march]] — the "{{NAME|Jackson}}" in his chart is his surname, not a semiology descriptor. Frequency 6-8 per month.
+
+[[Video-EEG monitoring]] (7 days, 5 seizures captured): [[left anterior temporal interictal spikes]] (F7/T7), ictal [[rhythmic theta]] over the left temporal region at onset.
+[[MRI epilepsy protocol 3T]]: left [[hippocampal sclerosis]] — atrophy and increased [[T2/FLAIR signal]], loss of internal architecture.
+[[FDG-PET]]: left temporal hypometabolism. [[fMRI language]]: left-dominant. [[Neuropsychology]]: verbal memory impairment.
+
+Consensus: candidate for [[MRI-guided laser interstitial thermal therapy (LITT)]] of the left [[amygdalohippocampal complex]] vs [[anterior temporal lobectomy]]. Patient prefers LITT; [[Visualase]] system. [[SEEG]] not required given concordance.
+
+Current meds: [[lacosamide 200 mg BID]], [[clobazam 10 mg BID]].
+=====NOTE=====
+NEUROANESTHESIA RECORD SUMMARY — {{DATE|04/14/2072}}
+Pt {{NAME|JACKSON, CORWIN}} {{MRN|TRE-5502913}}
+Anesthesiologist Dr. {{NAME|Petronella Quist}}; CRNA {{NAME|Ruben Achterhof}}, CRNA
+
+ASA 2. [[General endotracheal anaesthesia]], [[TIVA with propofol 100-150 mcg/kg/min and remifentanil 0.1-0.2 mcg/kg/min]] (inhalational agents avoided to permit seizure monitoring post-ablation and MRI suite compatibility). [[Radial arterial line]] 20G left. MRI-compatible ventilator and infusion pumps. [[Cefazolin 2 g]] at incision. [[Dexamethasone 10 mg]] after ablation. Head fixed in an [[MRI-compatible skull clamp]] for laser trajectory, [[ClearPoint]]-style frameless trajectory guide used by surgeon. Patient warmed with [[forced-air blanket]]. [[Bispectral index (BIS)]] 40-60. [[Seizure prophylaxis]]: home [[lacosamide 200 mg IV]] given at induction. [[Normocapnia]] maintained (EtCO2 35-38). [[Mannitol]] not required. Transferred to the [[1.5T MRI]] intraoperatively; [[MR thermometry]] monitoring of ablation. Emergence smooth; no seizure. [[PONV prophylaxis]] with [[ondansetron 4 mg]].
+=====NOTE=====
+OPERATIVE NOTE — LITT, LEFT MESIAL TEMPORAL
+{{NAME|C. Jackson}} {{MRN|TRE-5502913}} {{DATE|04/14/2072}}
+Surgeon {{NAME|A. Nakagawa-Pryce}}; Fellow Dr. {{NAME|Oghenekaro Ibe}}; [[Medtronic Visualase]] clinical specialist {{NAME|Trevor Halloran-Diaz}} present for laser setup.
+
+Occipital entry point, trajectory along the long axis of the hippocampus from the tail to the [[amygdala]], avoiding the [[lateral ventricle temporal horn]] ependyma, the [[choroidal fissure]] and sulcal vessels on [[gadolinium MRI]]. [[Stereotactic bolt]] placed, [[laser applicator (cooled diffusing fibre)]] inserted to target. Test dose; then serial ablations at 10-12 W from anterior to posterior, with [[MR thermal damage estimate]] covering the amygdala, head and body of the hippocampus, with [[low-temperature limit markers]] at the [[optic tract]] and [[cerebral peduncle]]. Post-ablation [[T1 post-contrast]] showed the expected ring-enhancing ablation zone ~ 8 cc.
+No complications. Plan: [[CT head]] in recovery; continue [[lacosamide]] and [[clobazam]]; [[Engel classification]] at 1 and 2 years. Visual field testing at 3 months ([[superior quadrantanopia]] risk).
+=====NOTE=====
+1-YEAR EPILEPSY CLINIC — {{DATE|04/20/2073}} — {{NAME|Corwin Jackson}}
+Seizure-free except two auras in month 2 → [[Engel class IB]] (non-disabling simple partial seizures only), [[ILAE outcome class 2]]. Verbal memory stable. [[Goldmann perimetry]]: no field cut. Repeat [[MRI brain]] shows expected [[ablation cavity]] involution, no [[haemorrhage]]. [[Neuropsychological testing]]: [[verbal memory]] stable on [[Rey Auditory Verbal Learning Test]]; [[naming]] preserved ([[Boston Naming Test]]). [[EEG]] shows rare left temporal sharp waves only. Taper [[clobazam]] off over 8 weeks; continue [[lacosamide 200 mg BID]]. Driving permitted per state law after 6 months seizure-free from disabling seizures. Seen by {{NAME|M. Dragomir}}, NP; letter copied to primary care {{FACILITY|Easterly Family Practice}}.

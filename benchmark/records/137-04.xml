@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>REFERRAL LETTER / RECORDS TRANSFER
+07/08/2065
+To: Dr Marit Kuipers, Utrecht Mammacentrum, Mariaplaats 9, 3511 LL Utrecht, The Netherlands   fax +31 30 555 0147
+From: Dr Jorge Valderrama, High-Risk Breast Clinic, Lakeshore Cancer Centre, Milwaukee
+
+Re: Visser, Anneke (also Anneke de Vries), DOB 3 September 2041, our MRN 9051-2267
+Dear Dr Kuipers,
+24-yo woman, fam hx breast ca (mother dx 41), seen here 6/3, 6/10, 6/17. Multigene panel sent 6/10, result not yet back at time of writing; will forward. Pt did not attend f/u 7/1 (NO SHOW x1, phone not answered) then emailed 7/6 from anneke.visser@mailbox-demo.nl: moved to Utrecht w/ children Daan + Fenna, staying c/o sister Lieke Visser, Oudegracht 201, 3511 AP Utrecht, tel +31 6 5550 0183.
+Release form AVG-2065-0771 signed. Records enclosed: notes 06/03/2065 - 06/17/2065, pedigree. Hx IPV (resolved 2060) - please keep sensitive; no contact w/ ex Joost de Vries (NL address unknown).
+Allergies NKDA. Meds none. Not Hodgkin's/Parkinson's ours, fam only.
+Pt our last contact; closing chart. Please confirm receipt to (414) 555-0140.
+Yours, J. Valderrama MD (e-signed 07/08/2065 11:02)
+cc: Bram Teunissen PCP; H. Fairweather CGC
+</TEXT>
+<TAGS>
+<DATE id="P0" start="35" end="45" text="07/08/2065" TYPE="DATE" comment="" />
+<NAME id="P1" start="53" end="66" text="Marit Kuipers" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="68" end="88" text="Utrecht Mammacentrum" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P3" start="90" end="103" text="Mariaplaats 9" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="105" end="112" text="3511 LL" TYPE="ZIP" comment="" />
+<LOCATION id="P5" start="113" end="120" text="Utrecht" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="122" end="137" text="The Netherlands" TYPE="COUNTRY" comment="" />
+<CONTACT id="P7" start="144" end="159" text="+31 30 555 0147" TYPE="FAX" comment="" />
+<NAME id="P8" start="169" end="185" text="Jorge Valderrama" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="187" end="210" text="High-Risk Breast Clinic" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P10" start="212" end="235" text="Lakeshore Cancer Centre" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="252" end="266" text="Visser, Anneke" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="273" end="288" text="Anneke de Vries" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="295" end="311" text="3 September 2041" TYPE="DATE" comment="" />
+<ID id="P14" start="321" end="330" text="9051-2267" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P15" start="339" end="346" text="Kuipers" TYPE="DOCTOR" comment="" />
+<AGE id="P16" start="348" end="350" text="24" TYPE="AGE" comment="" />
+<AGE id="P17" start="389" end="391" text="41" TYPE="AGE" comment="" />
+<DATE id="P18" start="404" end="407" text="6/3" TYPE="DATE" comment="" />
+<DATE id="P19" start="409" end="413" text="6/10" TYPE="DATE" comment="" />
+<DATE id="P20" start="415" end="419" text="6/17" TYPE="DATE" comment="" />
+<DATE id="P21" start="442" end="446" text="6/10" TYPE="DATE" comment="" />
+<DATE id="P22" start="524" end="527" text="7/1" TYPE="DATE" comment="" />
+<DATE id="P23" start="574" end="577" text="7/6" TYPE="DATE" comment="" />
+<CONTACT id="P24" start="583" end="612" text="anneke.visser@mailbox-demo.nl" TYPE="EMAIL" comment="" />
+<LOCATION id="P25" start="623" end="630" text="Utrecht" TYPE="CITY" comment="" />
+<NAME id="P26" start="643" end="647" text="Daan" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="650" end="655" text="Fenna" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="676" end="688" text="Lieke Visser" TYPE="PATIENT" comment="" />
+<LOCATION id="P29" start="690" end="704" text="Oudegracht 201" TYPE="STREET" comment="" />
+<LOCATION id="P30" start="706" end="713" text="3511 AP" TYPE="ZIP" comment="" />
+<LOCATION id="P31" start="714" end="721" text="Utrecht" TYPE="CITY" comment="" />
+<CONTACT id="P32" start="727" end="742" text="+31 6 5550 0183" TYPE="PHONE" comment="" />
+<ID id="P33" start="757" end="770" text="AVG-2065-0771" TYPE="IDNUM" comment="" />
+<DATE id="P34" start="803" end="813" text="06/03/2065" TYPE="DATE" comment="" />
+<DATE id="P35" start="816" end="826" text="06/17/2065" TYPE="DATE" comment="" />
+<DATE id="P36" start="855" end="859" text="2060" TYPE="DATE" comment="" />
+<NAME id="P37" start="903" end="917" text="Joost de Vries" TYPE="PATIENT" comment="" />
+<CONTACT id="P38" start="1071" end="1085" text="(414) 555-0140" TYPE="PHONE" comment="" />
+<NAME id="P39" start="1094" end="1107" text="J. Valderrama" TYPE="DOCTOR" comment="" />
+<DATE id="P40" start="1121" end="1131" text="07/08/2065" TYPE="DATE" comment="" />
+<NAME id="P41" start="1143" end="1157" text="Bram Teunissen" TYPE="DOCTOR" comment="" />
+<NAME id="P42" start="1163" end="1177" text="H. Fairweather" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER   08/18/2061  10:42
+Inland Northwest Cancer Institute - Infusion &amp; Survivorship Desk
+Pt: HARROWGATE, DELPHINE   DOB 03/09/1994   MRN 4471-8203   67 y/o F
+Caller: pt self. Callback # (509) 555-0163   Alt: (000) 000-0000
+
+.reason  pt c/o palpitaitons &amp; "fluttery" since dx afib 2 days ago at PCP (Dr. Bhatt, Cascadia Valley Medical Group). was started on warfarin, digoxin &amp; verapamil. wants to know can she still take her naproxen for the ankle, ankle was fx'd earlier this yr.
+Told her NO nsaids w/ warfarin - bleeding risk. Naproxen already stopped per her, finished course in May. She keeps the bottle tho.
+Hx per pt: "never any heart problems, nobody in my family". Chart shows pt hasnt had cardiac hx prior to this wk so ok. She also says she doesnt drink. (no EtOH hx documented, will ask again at visit)
+
+Pt says DOB is 03/19/1994 -- reg has 03/09/1994. ?typo at registration. Asked her to bring photo ID.
+Name: married name Harrowgate, husband Warren Harrowgait listed as emerg contact. Pt says "dont call him unless its bad". 
+
+PHQ-9 done yest by PCP = 16, she is "stressed, not sleeping". sx ok to call back w/ BH resources. Gave 988 and clinic nurse line 509-555-0140.
+Plan: INR at PCP next wk, keep appt. Advised ER if bleed, chest pain, syncope. Pt voiced understanding. Callback prn.
+
+Electronically signed by Tomasz Wirth, RN on 08/18/2061 11:05
+Last edited by twirth from 10.20.4.55
+</TEXT>
+<TAGS>
+<DATE id="P0" start="22" end="32" text="08/18/2061" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="76" end="104" text="Infusion &amp; Survivorship Desk" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="109" end="129" text="HARROWGATE, DELPHINE" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="136" end="146" text="03/09/1994" TYPE="DATE" comment="" />
+<ID id="P4" start="153" end="162" text="4471-8203" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P5" start="165" end="167" text="67" TYPE="AGE" comment="" />
+<CONTACT id="P6" start="202" end="216" text="(509) 555-0163" TYPE="PHONE" comment="" />
+<CONTACT id="P7" start="224" end="238" text="(000) 000-0000" TYPE="PHONE" comment="" />
+<NAME id="P8" start="315" end="324" text="Dr. Bhatt" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="326" end="355" text="Cascadia Valley Medical Group" TYPE="HOSPITAL" comment="" />
+<DATE id="P10" start="598" end="601" text="May" TYPE="DATE" comment="" />
+<DATE id="P11" start="846" end="856" text="03/19/1994" TYPE="DATE" comment="" />
+<DATE id="P12" start="868" end="878" text="03/09/1994" TYPE="DATE" comment="" />
+<NAME id="P13" start="971" end="988" text="Warren Harrowgait" TYPE="PATIENT" comment="" />
+<CONTACT id="P14" start="1185" end="1197" text="509-555-0140" TYPE="PHONE" comment="" />
+<NAME id="P15" start="1343" end="1359" text="Tomasz Wirth, RN" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1363" end="1373" text="08/18/2061" TYPE="DATE" comment="" />
+<NAME id="P17" start="1395" end="1401" text="twirth" TYPE="USERNAME" comment="" />
+<CONTACT id="P18" start="1407" end="1417" text="10.20.4.55" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

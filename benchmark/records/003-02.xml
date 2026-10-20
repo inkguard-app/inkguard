@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id | mrn | patient_name | dob | enc_date | dept | author | note_text
+207733 | 0062-31874 | Bright, Hope | 2/11/2045 | 05/19/2062 | Hospice Intake | Tobias Quill RN | MEDICATION RECONCILIATION - Heron Lake Pediatric Hospice
+- Pt: Hope "Hopie" Bright, 17 yo, admitted 5/19
+- Reconciled w/ mother Charity Bright at bedside, father Gideon by phone, ext x2210
+- ALLERGIES: PCN? (rash age 8 per mom, ? 2053) - mom unsure, chart says none
+- ACTIVE MEDS (per mom + bottles + pharmacy):
+  * diazepam 5 mg tab, prn - listed as stopped 12/12/2060 but mom says rescue supply still in school locker: Locker 214, combo 12-34-9 at Alderbrook High School - school nurse Ms. Coyle to retrieve
+  * OCP (ethinyl estradiol/norethindrone) - STOPPED 02/15/2062; still on printed list -- delete
+  * acetaminophen 325 mg q6h prn pain, pain score 3
+  * carbamazepine sus - d/c'd 10/31/2057, stale
+- Seizure watch: serial EW-SW-0093821, pairs w/ mom's app, acct email charity.bright@fogmail.example
+- Pharmacy: Lakeside Rx, rx # RX-5560219, ph (218) 555-0188
+- Insurance member ID NPC-882-0417-5531; MN medical assistance sec?
+- Care team: Dr. Nadira Farouk (hospice MD), Dr. Meredith Lund PCP at Larkspur Pediatrics
+- Family: sister Mercy (age 9) , grandma Odalys Fenn. Cat Mister Bright allowed on bed per mom
+- Prior allergy line pulled in from other pt?: "Colm Reardon, DOB 08/30/2051, sulfa -&gt; hives" - NOT this pt, ignore
+- Reconciled by T. Quill RN 05/19/2062 15:05
+</TEXT>
+<TAGS>
+<ID id="P0" start="82" end="92" text="0062-31874" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="95" end="107" text="Bright, Hope" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="110" end="119" text="2/11/2045" TYPE="DATE" comment="" />
+<DATE id="P3" start="122" end="132" text="05/19/2062" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="135" end="149" text="Hospice Intake" TYPE="DEPARTMENT" comment="" />
+<NAME id="P5" start="152" end="164" text="Tobias Quill" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="198" end="226" text="Heron Lake Pediatric Hospice" TYPE="ORGANIZATION" comment="" />
+<NAME id="P7" start="233" end="252" text="Hope &quot;Hopie&quot; Bright" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="254" end="256" text="17" TYPE="AGE" comment="" />
+<DATE id="P9" start="270" end="274" text="5/19" TYPE="DATE" comment="" />
+<NAME id="P10" start="298" end="312" text="Charity Bright" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="332" end="338" text="Gideon" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="353" end="358" text="x2210" TYPE="PHONE" comment="" />
+<DATE id="P13" start="400" end="404" text="2053" TYPE="DATE" comment="" />
+<DATE id="P14" start="529" end="539" text="12/12/2060" TYPE="DATE" comment="" />
+<ID id="P15" start="591" end="616" text="Locker 214, combo 12-34-9" TYPE="IDNUM" comment="" />
+<LOCATION id="P16" start="620" end="642" text="Alderbrook High School" TYPE="ORGANIZATION" comment="" />
+<NAME id="P17" start="662" end="667" text="Coyle" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="732" end="742" text="02/15/2062" TYPE="DATE" comment="" />
+<DATE id="P19" start="858" end="868" text="10/31/2057" TYPE="DATE" comment="" />
+<ID id="P20" start="900" end="913" text="EW-SW-0093821" TYPE="DEVICE" comment="" />
+<CONTACT id="P21" start="946" end="976" text="charity.bright@fogmail.example" TYPE="EMAIL" comment="" />
+<LOCATION id="P22" start="989" end="1000" text="Lakeside Rx" TYPE="ORGANIZATION" comment="" />
+<ID id="P23" start="1007" end="1017" text="RX-5560219" TYPE="IDNUM" comment="" />
+<CONTACT id="P24" start="1022" end="1036" text="(218) 555-0188" TYPE="PHONE" comment="" />
+<ID id="P25" start="1059" end="1076" text="NPC-882-0417-5531" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P26" start="1122" end="1135" text="Nadira Farouk" TYPE="DOCTOR" comment="" />
+<NAME id="P27" start="1154" end="1167" text="Meredith Lund" TYPE="DOCTOR" comment="" />
+<LOCATION id="P28" start="1175" end="1194" text="Larkspur Pediatrics" TYPE="ORGANIZATION" comment="" />
+<NAME id="P29" start="1212" end="1217" text="Mercy" TYPE="PATIENT" comment="" />
+<AGE id="P30" start="1223" end="1224" text="9" TYPE="AGE" comment="" />
+<NAME id="P31" start="1236" end="1247" text="Odalys Fenn" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="1253" end="1266" text="Mister Bright" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="1338" end="1350" text="Colm Reardon" TYPE="PATIENT" comment="" />
+<DATE id="P34" start="1356" end="1366" text="08/30/2051" TYPE="DATE" comment="" />
+<NAME id="P35" start="1422" end="1430" text="T. Quill" TYPE="DOCTOR" comment="" />
+<DATE id="P36" start="1434" end="1444" text="05/19/2062" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

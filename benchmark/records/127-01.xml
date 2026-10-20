@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE                              Harrowgate Memorial Hospital
+Patient: WINTER, KASH L     MRN: HM-5530921     DOB: 03/19/1993
+Visit date: 07/23/2068     Arrival: 03:12 by EMS     Room: ED 14
+Attending: Saint Clair Mbeki, MD     Triage RN: Lake Torres, RN
+PCP: Dr. Blue Aldana   Pharmacy: Cedar Fork Pharmacy
+
+CHIEF COMPLAINT
+Shortness of breath, cough w/ blood tinged sputum. @CC_EXTRA@
+
+HPI
+75 y.o. male w/ NSCLC (dx 04/2064), s/p chemo, CKD stage 3 secondary to dm2, HTN, CAD s/p CABG, seizure disorder presents w/ worsening dyspnea x 4 days. Wife Miracle states "he is not himslef", more tired, not eating. Pt goes by "Kash" - pls do not call him Leon. Hx per wife as pt is a poor historian tonite.
+Denies chest pain. Denies fever. Hx per prior note: Pt is a 74 y.o. male on simvastatin.  [copy fwd - stopped 03/17/2068, disregard]
+
+PMH / PSH
+- NSCLC stage 1 at dx, now progression (see onc)
+- Carcinoma in situ prostate 2065
+- CABG 2038
+- Rib fx 05/2066, healed
+- Seizure d/o, no events since admission 06/19/2068
+
+SOCIAL
+Lives with wife Miracle Winter and their son Nyne (age 19), 2204 Bramble Hollow Rd, Marlowe, OH 4513
+Mother Wednesday Winter, 92 y/o, lives at Willowmere Assisted Living, calls daily.
+Prior military service. Former machinist at Brightwater Tool &amp; Die.
+
+EXAM
+Chronically ill, cachectic. T 37.1 HR 108 RR 28 BP 112/70 SpO2 86% RA
+Mild blue tinge to lips, winter-pale otherwise. Coarse bs R base, decreased air entry. Abd soft. No LE edema.
+Neuro: A&amp;O x2, which wife says is his baseline lately.
+
+ED COURSE
+- O2 4L NC -&gt; 93%
+- CXR: R pleural effusion, enlarging mass. CT PE neg per my read
+- Cr 2.1 (baseline 1.9-2.1), eGFR 55 - avoid contrast beyond what was given
+- Spoke to oncology, Dr. Ifeoma Kessler, who accepts admit
+- GOC discussed w/ pt and wife; wife wonders about hospice, pt says "I wont be a burden". Wife Miracle signed form HM-CONS-77120
+
+DISPOSITION
+Admit inpatient, oncology floor. Condition guarded.
+
+Electronically signed by Saint Clair Mbeki, MD on 07/23/2068 06:48
+Routed to: Dr. Blue Aldana (PCP), Ifeoma Kessler
+Last edited by smbeki on 7/23/2068 07:02 from 172.19.6.40
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="55" end="83" text="Harrowgate Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="93" end="107" text="WINTER, KASH L" TYPE="PATIENT" comment="" />
+<ID id="P2" start="117" end="127" text="HM-5530921" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="137" end="147" text="03/19/1993" TYPE="DATE" comment="" />
+<DATE id="P4" start="160" end="170" text="07/23/2068" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="207" end="212" text="ED 14" TYPE="ROOM" comment="" />
+<NAME id="P6" start="224" end="241" text="Saint Clair Mbeki" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="261" end="272" text="Lake Torres" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="286" end="297" text="Blue Aldana" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="310" end="329" text="Cedar Fork Pharmacy" TYPE="ORGANIZATION" comment="" />
+<AGE id="P10" start="414" end="416" text="75" TYPE="AGE" comment="" />
+<DATE id="P11" start="440" end="447" text="04/2064" TYPE="DATE" comment="" />
+<NAME id="P12" start="572" end="579" text="Miracle" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="644" end="648" text="Kash" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="672" end="676" text="Leon" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="784" end="786" text="74" TYPE="AGE" comment="" />
+<DATE id="P16" start="834" end="844" text="03/17/2068" TYPE="DATE" comment="" />
+<DATE id="P17" start="946" end="950" text="2065" TYPE="DATE" comment="" />
+<DATE id="P18" start="958" end="962" text="2038" TYPE="DATE" comment="" />
+<DATE id="P19" start="972" end="979" text="05/2066" TYPE="DATE" comment="" />
+<DATE id="P20" start="1029" end="1039" text="06/19/2068" TYPE="DATE" comment="" />
+<NAME id="P21" start="1064" end="1078" text="Miracle Winter" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1093" end="1097" text="Nyne" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="1108" end="1130" text="2204 Bramble Hollow Rd" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="1132" end="1139" text="Marlowe" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="1141" end="1143" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="1144" end="1148" text="4513" TYPE="ZIP" comment="" />
+<NAME id="P27" start="1156" end="1172" text="Wednesday Winter" TYPE="PATIENT" comment="" />
+<AGE id="P28" start="1174" end="1176" text="92" TYPE="AGE" comment="" />
+<LOCATION id="P29" start="1191" end="1217" text="Willowmere Assisted Living" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P30" start="1263" end="1272" text="machinist" TYPE="PROFESSION" comment="" />
+<LOCATION id="P31" start="1276" end="1298" text="Brightwater Tool &amp; Die" TYPE="ORGANIZATION" comment="" />
+<NAME id="P32" start="1736" end="1750" text="Ifeoma Kessler" TYPE="DOCTOR" comment="" />
+<NAME id="P33" start="1865" end="1872" text="Miracle" TYPE="PATIENT" comment="" />
+<ID id="P34" start="1885" end="1898" text="HM-CONS-77120" TYPE="IDNUM" comment="" />
+<NAME id="P35" start="1990" end="2007" text="Saint Clair Mbeki" TYPE="DOCTOR" comment="" />
+<DATE id="P36" start="2015" end="2025" text="07/23/2068" TYPE="DATE" comment="" />
+<NAME id="P37" start="2047" end="2058" text="Blue Aldana" TYPE="DOCTOR" comment="" />
+<NAME id="P38" start="2066" end="2080" text="Ifeoma Kessler" TYPE="DOCTOR" comment="" />
+<NAME id="P39" start="2096" end="2102" text="smbeki" TYPE="USERNAME" comment="" />
+<DATE id="P40" start="2106" end="2115" text="7/23/2068" TYPE="DATE" comment="" />
+<CONTACT id="P41" start="2127" end="2138" text="172.19.6.40" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE                                            Northfield University Hospital
+Patient: Wisdom Kofi Mensah     MRN: RM-6648120     DOB: 11/22/2036     Age: 50
+Admitted: 06/09/2087     Date of death: 06/16/2087     Time: 05:25
+Unit: MICU 7     Attending: Dr. Faith Oyelaran     Pronounced by: Dr. Lee Page
+
+HISTORY (copy-forward)
+50-year-old man with cystic fibrosis, CF-related diabetes, Pseudomonas aeruginosa infection, hypertension, recurrent admissions. Seen 05/26/2087 for med rec: pancreatin, dornase alfa. (Metformin, listed in error -- see 05/26/2087 note.)
+
+COURSE
+- Sepsis from Pseudomonas, admitted 06/09/2087; failed antibiotics, respiratory failure
+- DNR/DNI after family meeting 06/14/2087
+- Family present: wife Patience Mensah, daughter Precious, son Gift. Brother Bright Mensah on video call from Accra
+- Pronounced: no pulse, no respirations, pupils fixed. Time of death 05:25.
+- Cause: respiratory failure due to cystic fibrosis, Pseudomonas sepsis. Manner: natural. Autopsy declined. ME notified: no.
+
+NOTIFICATIONS
+- Mother Comfort Mensah, Kumasi, informed via +233-32-555-0144 by the chaplain
+- Sister Esther, London, 00 44 20 7946 0318
+- Funeral to be held in Kumasi, Ghana; remains to be repatriated. Funeral home: Gyan &amp; Sons Funeral Services
+- No organ donation (patient's wish, per wife).  Please be patient with the family; Mrs. Mensah asked for the gift of a lock of hair, given.
+
+Electronically signed by Lee Page, MD 06/16/2087 07:02   Note routed to: Faith Oyelaran, Honor Beck
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="54" end="84" text="Northfield University Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="94" end="112" text="Wisdom Kofi Mensah" TYPE="PATIENT" comment="" />
+<ID id="P2" start="122" end="132" text="RM-6648120" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="142" end="152" text="11/22/2036" TYPE="DATE" comment="" />
+<AGE id="P4" start="162" end="164" text="50" TYPE="AGE" comment="" />
+<DATE id="P5" start="175" end="185" text="06/09/2087" TYPE="DATE" comment="" />
+<DATE id="P6" start="205" end="215" text="06/16/2087" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="238" end="244" text="MICU 7" TYPE="ROOM" comment="" />
+<NAME id="P8" start="264" end="278" text="Faith Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="302" end="310" text="Lee Page" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="335" end="337" text="50" TYPE="AGE" comment="" />
+<DATE id="P11" start="469" end="479" text="05/26/2087" TYPE="DATE" comment="" />
+<DATE id="P12" start="554" end="564" text="05/26/2087" TYPE="DATE" comment="" />
+<DATE id="P13" start="616" end="626" text="06/09/2087" TYPE="DATE" comment="" />
+<DATE id="P14" start="699" end="709" text="06/14/2087" TYPE="DATE" comment="" />
+<NAME id="P15" start="733" end="748" text="Patience Mensah" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="759" end="767" text="Precious" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="773" end="777" text="Gift" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="787" end="800" text="Bright Mensah" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="820" end="825" text="Accra" TYPE="CITY" comment="" />
+<NAME id="P20" start="1051" end="1065" text="Comfort Mensah" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="1067" end="1073" text="Kumasi" TYPE="CITY" comment="" />
+<CONTACT id="P22" start="1088" end="1104" text="+233-32-555-0144" TYPE="PHONE" comment="" />
+<NAME id="P23" start="1130" end="1136" text="Esther" TYPE="PATIENT" comment="" />
+<LOCATION id="P24" start="1138" end="1144" text="London" TYPE="CITY" comment="" />
+<CONTACT id="P25" start="1146" end="1164" text="00 44 20 7946 0318" TYPE="PHONE" comment="" />
+<LOCATION id="P26" start="1189" end="1195" text="Kumasi" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="1197" end="1202" text="Ghana" TYPE="COUNTRY" comment="" />
+<LOCATION id="P28" start="1245" end="1273" text="Gyan &amp; Sons Funeral Services" TYPE="ORGANIZATION" comment="" />
+<NAME id="P29" start="1363" end="1369" text="Mensah" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1441" end="1449" text="Lee Page" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="1454" end="1464" text="06/16/2087" TYPE="DATE" comment="" />
+<NAME id="P32" start="1489" end="1503" text="Faith Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P33" start="1505" end="1515" text="Honor Beck" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

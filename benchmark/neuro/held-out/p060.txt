@@ -1,0 +1,14 @@
+NEURORADIOLOGY — DIAGNOSTIC CEREBRAL ANGIOGRAM
+{{FACILITY|Marrowbone Hill University Hospital}}   Accession {{ID|MHU-DSA-62-30118}}
+{{NAME|Ambrose Vandermolen}}, 71 M, MRN {{MRN|MHU-8820173}}, exam {{DATE|02/28/2062}}
+Requesting Dr. {{NAME|Liesel Okafor-Brandt}} (neurology); performing Dr. {{NAME|Tiberius Macaulay}} (INR); fellow Dr. {{NAME|Anika Rautenberg}}
+
+CLINICAL: [[rapidly progressive dementia]] and [[gait apraxia]] over 4 months; MRI with [[bithalamic T2 hyperintensity]] and [[venous congestion]]; outside MRI received on CD from {{FACILITY|Cobbleton Imaging}}, uploaded to PACS.
+TECHNIQUE: [[Six-vessel angiography]], right femoral, [[5F Berenstein catheter]], [[3D rotational angiography]] of the right ECA.
+FINDINGS: [[Tentorial dural arteriovenous fistula]] at the [[straight sinus]]/[[vein of Galen]] region, fed by the [[artery of Bernasconi-Cassinari]] (marginal tentorial artery from the [[meningohypophyseal trunk]]), the [[posterior meningeal artery]] and [[occipital artery transosseous branches]]. Direct drainage into the [[basal vein of Rosenthal]] and [[internal cerebral veins]] with venous ectasia; reflux into deep veins causing [[bithalamic venous hypertension]].
+CLASSIFICATION: [[Borden type III]], [[Cognard type IV]] (cortical/deep venous drainage with ectasia).
+IMPRESSION: High-risk tentorial DAVF with [[venous congestive encephalopathy]]. Recommend urgent [[transarterial Onyx embolization]] via the [[middle meningeal artery]] / [[occipital artery]]; surgical disconnection via [[supracerebellar infratentorial approach]] as backup.
+=====NOTE=====
+EMBOLIZATION + FOLLOW-UP — {{DATE|03/04/2062}} and {{DATE|06/10/2062}} — {{NAME|A. Vandermolen}} — {{MRN|MHU-8820173}}
+[[Transarterial Onyx 18]] via the [[petrosquamous branch of the MMA]] with a [[Marathon microcatheter]], [[pressure-cooker technique]] using a proximal coil plug and [[n-BCA]] — 4.2 mL Onyx penetrated the [[fistulous point]] and the foot of the draining vein. Final angiography: [[complete occlusion]], normalised deep venous drainage.
+At 3 months: [[MoCA]] 14 → 25, gait normalised; MRI: [[bithalamic oedema]] resolved. [[Borden III]] fistula cured on [[DSA]]. Seen with wife {{NAME|Joke Vandermolen}}.

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id | mrn | patient_name | dob | enc_date | dept | author | note_text
+118842 | 0062-31847 | BRIGHT, HOPE | 02/11/2045 | 07/01/2060 19:12 | Pediatric Emergency | Annika Brandvold MD | 
+- CC: seizure at home, ~4 min, first for Hope in a while
+- 15 yo F, hx seizure disorder since July 2056 (age 11), was on Tegretol sus, now clonazepam gone and on Valium 5mg prn per mom
+- Brought by mom Charity Bright + dad Gideon in dad's truck, plate MN 482 TRK
+- Mom says Hope's friends "gave her something" at the lake party, unsure what. Hope denies. Boyfriend Teague Marlowe drove them? unclear
+- Witnessed tonic-clonic, post-ictal ~20 min, tongue bite, no incontinence, no head strike
+- VS: T 37.1 HR 104 BP 118/70 RR 18 SpO2 99. GCS 15 at 19:50
+- Exam: no focal def, no rash. no Bell's palsy / facial asymm
+- Hx: also "risk activity" flagged at well visit 04/09/2060
+- Ddx: breakthrough sz (missed dose vs substance) vs. new epilepsy
+- Plan: labs, tox screen, no CT needed, neuro f/u w/ Dr. Oduya-Sims (pager pgr 4417), dx EPILEPSY added to problem list
+- Mom is a lil upset w/ the Dr's tone. SW consult E. Mott  x5521
+- School note given for Alderbrook High School, counselor Ms. Dunmore
+- Pt portal: https://portal.westmarch-peds.example/p/hopebright45
+- dc home 22:40, mom (218) 555-0134; pls dont use home line, H. Brite doesn't like voicemails
+- &lt;&lt;ATTENDING_NAME&gt;&gt; to cosign   |   Sig: A. Brandvold   07/01/2060  logged from 172.16.8.40
+</TEXT>
+<TAGS>
+<ID id="P0" start="82" end="92" text="0062-31847" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="95" end="107" text="BRIGHT, HOPE" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="110" end="120" text="02/11/2045" TYPE="DATE" comment="" />
+<DATE id="P3" start="123" end="133" text="07/01/2060" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="142" end="161" text="Pediatric Emergency" TYPE="DEPARTMENT" comment="" />
+<NAME id="P5" start="164" end="180" text="Annika Brandvold" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="228" end="232" text="Hope" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="246" end="248" text="15" TYPE="AGE" comment="" />
+<DATE id="P8" start="281" end="290" text="July 2056" TYPE="DATE" comment="" />
+<AGE id="P9" start="296" end="298" text="11" TYPE="AGE" comment="" />
+<NAME id="P10" start="389" end="403" text="Charity Bright" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="410" end="416" text="Gideon" TYPE="PATIENT" comment="" />
+<ID id="P12" start="439" end="449" text="MN 482 TRK" TYPE="VEHICLE" comment="" />
+<NAME id="P13" start="552" end="566" text="Teague Marlowe" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="850" end="860" text="04/09/2060" TYPE="DATE" comment="" />
+<NAME id="P15" start="985" end="995" text="Oduya-Sims" TYPE="DOCTOR" comment="" />
+<CONTACT id="P16" start="1003" end="1011" text="pgr 4417" TYPE="PHONE" comment="" />
+<NAME id="P17" start="1098" end="1105" text="E. Mott" TYPE="DOCTOR" comment="" />
+<CONTACT id="P18" start="1108" end="1112" text="5521" TYPE="PHONE" comment="" />
+<LOCATION id="P19" start="1137" end="1159" text="Alderbrook High School" TYPE="ORGANIZATION" comment="" />
+<NAME id="P20" start="1175" end="1182" text="Dunmore" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="1196" end="1248" text="https://portal.westmarch-peds.example/p/hopebright45" TYPE="URL" comment="" />
+<CONTACT id="P22" start="1270" end="1284" text="(218) 555-0134" TYPE="PHONE" comment="" />
+<NAME id="P23" start="1310" end="1318" text="H. Brite" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1385" end="1397" text="A. Brandvold" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="1400" end="1410" text="07/01/2060" TYPE="DATE" comment="" />
+<CONTACT id="P26" start="1424" end="1435" text="172.16.8.40" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

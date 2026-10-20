@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 2461 | note_type=OPERATIVE NOTE | author=Ocean Reyes-Tran DDS
+Pinecrest Pediatric Dental  -  ORAL SURGERY / PROCEDURE NOTE
+Patient: M1RACLE FROST   M1RACLE FROST
+DOB: 05/19/2067    Age: 6    MRN: FC-0482913 (our chart PD-30771)
+Date of procedure: 06/26/2073
+Surgeon: Ocean Reyes-Tran, DDS     Assist: Tre Walker (hygienist)
+Room: Op 3
+
+Pre-op dx: infected lower left primary molar (onset 06/25/2073)
+Post-op dx: same
+Procedure: simple extraction of tooth, plus bitewing X-rays, scaling (supra + subgingival), desensitizing application
+
+- consent signed by mother Justice Frost, father Royal Frost waiting outside
+- local anesth, no sedation. Pt tolerated well, cooperative
+- tooth removed intact, gauze, hemostasis in 5 min
+- gingiva exam: mild gingivitis
+- oral hygiene education given to pt and mom, brush 2x daily
+- post-op: soft diet today, acetaminophen PRN, no straw. Return if swelling or fever
+- fluoride NOT done today, pt's sibling Sky is booked for it next wk instead
+
+Plate in lot (parked in fire lane): HOPE-22 -- reception paged dad.
+Pt asked if the tooth fairy knows her name "its Miracle, like in a miracle"
+Pt ID bracelet read "Miracle Frosst" - corrected.
+Ocean Reyes-Tran, DDS  e-signed 06/26/2073 10:55
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="66" end="92" text="Pinecrest Pediatric Dental" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="152" end="165" text="M1RACLE FROST" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="171" end="181" text="05/19/2067" TYPE="DATE" comment="" />
+<AGE id="P3" start="190" end="191" text="6" TYPE="AGE" comment="" />
+<ID id="P4" start="200" end="210" text="FC-0482913" TYPE="MEDICALRECORD" comment="" />
+<ID id="P5" start="222" end="230" text="PD-30771" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="251" end="261" text="06/26/2073" TYPE="DATE" comment="" />
+<NAME id="P7" start="271" end="287" text="Ocean Reyes-Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="305" end="315" text="Tre Walker" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="334" end="338" text="Op 3" TYPE="ROOM" comment="" />
+<DATE id="P10" start="392" end="402" text="06/25/2073" TYPE="DATE" comment="" />
+<NAME id="P11" start="567" end="580" text="Justice Frost" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="589" end="600" text="Royal Frost" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="946" end="949" text="Sky" TYPE="PATIENT" comment="" />
+<ID id="P14" start="1020" end="1027" text="HOPE-22" TYPE="VEHICLE" comment="" />
+<NAME id="P15" start="1100" end="1107" text="Miracle" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1149" end="1163" text="Miracle Frosst" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1178" end="1194" text="Ocean Reyes-Tran" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1210" end="1220" text="06/26/2073" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

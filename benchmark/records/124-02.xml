@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>SAINT ANSGAR MEDICAL CENTER
+Department of Radiology
+PATIENT: HARTNETT, CORINNE V      MRN: 5530-2917
+DOB: 19/08/1997   AGE/SEX: 63/F
+ACCESSION: CT-61-0090522    EXAM DATE: 05/09/2061 22:31
+REFERRER: Dr L. Kwarteng, Emergency
+
+EXAMINATION: CT brain without contrast.
+
+CLINICAL INFORMATION: Fall onto concrete steps, strike to right head. Over 60. ?intracranial haemorrhage.
+
+COMPARISON: None available. (Patient states a scan was performed at an outside hospital in 2059; not on our PACS.)
+
+TECHNIQUE: Axial helical acquisition from skull base to vertex, soft tissue and bone algorithms. Dose report archived.
+
+FINDINGS:
+There is no acute intracranial haemorrhage, no extra-axial collection and no mass effect. The ventricles and basal cisterns are normal in size and configuration. Grey-white differentiation is preserved. Mild periventricular low attenuation, in keeping with minor chronic small vessel change.
+Right parietal scalp soft tissue swelling measuring approx 2 cm. No underlying calvarial fracture. The visualised paranasal sinuses show mucosal thickening in the maxillary antra bilaterally, likely chronic sinusitis. Mastoids are clear.
+
+IMPRESSION:
+1. No acute intracranial abnormality.
+2. Right parietal scalp haematoma, no fracture.
+3. Chronic sinus mucosal thickening.
+
+Reported by Dr Rhys Pennington-Hale, Locum Consultant Radiologist (GMC-registered, trained in UK), 5th September 2061 22:58.
+Verified: R Pennington-Hale    Result called to Dr Kwartang by phone, ext 4417, at 23:05.
+Page 2 of 3   -   HARTNETT, CORINNE V   5530-2917
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="SAINT ANSGAR MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="28" end="51" text="Department of Radiology" TYPE="DEPARTMENT" comment="" />
+<ID id="P2" start="91" end="100" text="5530-2917" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="106" end="116" text="19/08/1997" TYPE="DATE" comment="" />
+<AGE id="P4" start="128" end="130" text="63" TYPE="AGE" comment="" />
+<ID id="P5" start="144" end="157" text="CT-61-0090522" TYPE="IDNUM" comment="" />
+<DATE id="P6" start="172" end="182" text="05/09/2061" TYPE="DATE" comment="" />
+<NAME id="P7" start="202" end="213" text="L. Kwarteng" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="465" end="469" text="2059" TYPE="DATE" comment="" />
+<NAME id="P9" start="1302" end="1322" text="Rhys Pennington-Hale" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="1381" end="1383" text="UK" TYPE="COUNTRY" comment="" />
+<DATE id="P11" start="1386" end="1404" text="5th September 2061" TYPE="DATE" comment="" />
+<NAME id="P12" start="1422" end="1439" text="R Pennington-Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1463" end="1471" text="Kwartang" TYPE="DOCTOR" comment="" />
+<CONTACT id="P14" start="1486" end="1490" text="4417" TYPE="PHONE" comment="" />
+<ID id="P15" start="1542" end="1551" text="5530-2917" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

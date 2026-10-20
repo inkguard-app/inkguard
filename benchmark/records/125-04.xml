@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE   4/16 02:15 (late entry for 3/21 - 4/2; written in the night, sorry)
+Author: Dana Rich, RN navigator   Pt: ABBEY, JONAS  7710-4426
+Allergies: interpreter TI-5513, church sponsor Grace Lutheran Church (wrong field - NKDA verified)
+
+3/21/2071: Visit with Dr Hryshko and Tomas May (fellow). Plan chemo after surgical consult; surgery visit set mid-March no, mid-April. Pt agree only if wife agree.
+Last Thursday pt call, say he will "go to my brother in Seattle". Brother Dawit Tesfaye, (206) 555-0183. He want care at Cascadia Regional Oncology Group, Seattle, WA. Wife say not decided.
+3/28: NO SHOW for surgery consult and nobody answer (651) 555-0172. Called wife (651) 555-0199, she say pt "not feeling well, maybe go to Seattle after Christmas Eve"?? unclear, she mean Easter probably.
+4/2: Records transfer request received by fax from Cascadia, fax (206) 555-0129, release form ROI-2071-04418 signed Yonas Tesfaye (old name!) - ask pt to re-sign with current legal name Jonas Abbey. Sent CT 03/04/71, path report, colonoscopy of 02/22/2071 by Dr Farah Nasrallah.
+Copy-forward from 3/14: "Pt denies heart problem, wife correct him, BP 118/74" (stale, not this visit).
+No further contact as of 4/16. Chart left open 30 days. Dr Hryshko informed.
+Last edited by drich2 4/16/71 02:19 from 10.31.8.12
+</TEXT>
+<TAGS>
+<DATE id="P0" start="25" end="29" text="4/16" TYPE="DATE" comment="" />
+<DATE id="P1" start="52" end="56" text="3/21" TYPE="DATE" comment="" />
+<DATE id="P2" start="59" end="62" text="4/2" TYPE="DATE" comment="" />
+<NAME id="P3" start="101" end="110" text="Dana Rich" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="131" end="143" text="ABBEY, JONAS" TYPE="PATIENT" comment="" />
+<ID id="P5" start="145" end="154" text="7710-4426" TYPE="MEDICALRECORD" comment="" />
+<ID id="P6" start="178" end="185" text="TI-5513" TYPE="IDNUM" comment="" />
+<LOCATION id="P7" start="202" end="223" text="Grace Lutheran Church" TYPE="ORGANIZATION" comment="" />
+<DATE id="P8" start="255" end="264" text="3/21/2071" TYPE="DATE" comment="" />
+<NAME id="P9" start="280" end="287" text="Hryshko" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="292" end="301" text="Tomas May" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="419" end="432" text="Last Thursday" TYPE="DATE" comment="" />
+<NAME id="P12" start="493" end="506" text="Dawit Tesfaye" TYPE="PATIENT" comment="" />
+<CONTACT id="P13" start="508" end="522" text="(206) 555-0183" TYPE="PHONE" comment="" />
+<LOCATION id="P14" start="540" end="572" text="Cascadia Regional Oncology Group" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P15" start="574" end="581" text="Seattle" TYPE="CITY" comment="" />
+<LOCATION id="P16" start="583" end="585" text="WA" TYPE="STATE" comment="" />
+<DATE id="P17" start="609" end="613" text="3/28" TYPE="DATE" comment="" />
+<CONTACT id="P18" start="661" end="675" text="(651) 555-0172" TYPE="PHONE" comment="" />
+<CONTACT id="P19" start="689" end="703" text="(651) 555-0199" TYPE="PHONE" comment="" />
+<DATE id="P20" start="813" end="816" text="4/2" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="878" end="892" text="(206) 555-0129" TYPE="FAX" comment="" />
+<ID id="P22" start="907" end="921" text="ROI-2071-04418" TYPE="IDNUM" comment="" />
+<NAME id="P23" start="929" end="942" text="Yonas Tesfaye" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="999" end="1010" text="Jonas Abbey" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="1020" end="1028" text="03/04/71" TYPE="DATE" comment="" />
+<DATE id="P26" start="1058" end="1068" text="02/22/2071" TYPE="DATE" comment="" />
+<NAME id="P27" start="1075" end="1090" text="Farah Nasrallah" TYPE="DOCTOR" comment="" />
+<DATE id="P28" start="1110" end="1114" text="3/14" TYPE="DATE" comment="" />
+<DATE id="P29" start="1221" end="1225" text="4/16" TYPE="DATE" comment="" />
+<NAME id="P30" start="1255" end="1262" text="Hryshko" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="1288" end="1294" text="drich2" TYPE="USERNAME" comment="" />
+<DATE id="P32" start="1295" end="1302" text="4/16/71" TYPE="DATE" comment="" />
+<CONTACT id="P33" start="1314" end="1324" text="10.31.8.12" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Larkmoor Children's Clinic
+2210 Harbor View Blvd, Duluth, MN  55802     Tel (218) 555-0100   Fax (218) 555-0101
+
+April 29, 2066
+
+Pennywhistle Learning Garden
+Attn: Ms. Delphine Achterberg, Lead Teacher, Toddler Room
+1120 Superior St, Duluth MN 5582
+
+RE: Ottoline F. Brandvold, DOB 06/30/2064 (age 1 yr 10 mo)   Your incident report PLG-IR-2066-0427
+
+Dear Mrs. Brandvold,  &lt;-- sorry, Dear Ms. Achterberg,
+
+S: Ottoline fell from the low climbing frame at your center on the morning of 04/27/2066 and was seen in the Emergency Department at Saint Cuthbert Regional Hospital that day. Per her mother Nadezhda, she cryed immediatly, would not lift her rigth arm, and refused to be picked up under the arms.
+O: X-ray of the right clavicle showed a closed mid-shaft fracture (a "broken collarbone"). No other injuries. Seen by Dr. Rowan Teague in the ED and by Dr. Beatrix Oyelaran (orthopaedics). Neurovascularly intact
+A: Closed clavicle fracture, expected to heal without surgery in about 8 wks, though collar bone bumps can stay visable for a while.
+P: She may return to your center on Monday May 2, with these limits until reassessed on or about June 27: 
+  1. No climbing, no jumping equipment, no tumbling mats or rough play.
+  2. Do not lift her by the arms or armpits; lift from under the bottom and chest.
+  3. Sling for comfort only, may be off at nap time.
+  4. Children's acetaminophen is permitted per the attached authorization (family consent signed). No ibuprofen at the center.
+  5. Call parents if she holds the arm still, cries when it is touched, or has new swelling or bruising..
+
+The family has asked that only these adults collect her: mother Nadezhda Brandvold, father Lars Brandvold (work (218) 555-0102 ext 33), and neighbour Mrs. Hepzibah Orloff, age 71. Her great-grandmother Agnes Brandvold (ninety-four) lives at home but is not able to drive and should not be called for pickups.
+
+Please do not hesitate to reach out too me.
+Sincerely,
+
+Yusuf Haddad-Lindgren, MD
+Pediatrics
+
+cc: Family; ortho; Ms. Achterberg  (personal ig: @ms_delphine_teaches)
+Dictated 04/29/2066, transcribed 04/30/2066.  Page 1 of 1
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="26" text="Larkmoor Children's Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="27" end="48" text="2210 Harbor View Blvd" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="50" end="56" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="58" end="60" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="62" end="67" text="55802" TYPE="ZIP" comment="" />
+<CONTACT id="P5" start="76" end="90" text="(218) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="97" end="111" text="(218) 555-0101" TYPE="FAX" comment="" />
+<DATE id="P7" start="113" end="127" text="April 29, 2066" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="129" end="157" text="Pennywhistle Learning Garden" TYPE="ORGANIZATION" comment="" />
+<NAME id="P9" start="168" end="187" text="Delphine Achterberg" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="216" end="232" text="1120 Superior St" TYPE="STREET" comment="" />
+<LOCATION id="P11" start="234" end="240" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P12" start="241" end="243" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P13" start="244" end="248" text="5582" TYPE="ZIP" comment="" />
+<NAME id="P14" start="254" end="275" text="Ottoline F. Brandvold" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="281" end="291" text="06/30/2064" TYPE="DATE" comment="" />
+<AGE id="P16" start="297" end="307" text="1 yr 10 mo" TYPE="AGE" comment="" />
+<ID id="P17" start="332" end="348" text="PLG-IR-2066-0427" TYPE="IDNUM" comment="" />
+<NAME id="P18" start="360" end="369" text="Brandvold" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="392" end="402" text="Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="408" end="416" text="Ottoline" TYPE="PATIENT" comment="" />
+<DATE id="P21" start="483" end="493" text="04/27/2066" TYPE="DATE" comment="" />
+<LOCATION id="P22" start="538" end="570" text="Saint Cuthbert Regional Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P23" start="596" end="604" text="Nadezhda" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="824" end="836" text="Rowan Teague" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="858" end="874" text="Beatrix Oyelaran" TYPE="DOCTOR" comment="" />
+<DATE id="P26" start="1083" end="1089" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P27" start="1090" end="1095" text="May 2" TYPE="DATE" comment="" />
+<DATE id="P28" start="1144" end="1151" text="June 27" TYPE="DATE" comment="" />
+<NAME id="P29" start="1660" end="1678" text="Nadezhda Brandvold" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1687" end="1701" text="Lars Brandvold" TYPE="PATIENT" comment="" />
+<CONTACT id="P31" start="1708" end="1729" text="(218) 555-0102 ext 33" TYPE="PHONE" comment="" />
+<NAME id="P32" start="1751" end="1766" text="Hepzibah Orloff" TYPE="PATIENT" comment="" />
+<AGE id="P33" start="1772" end="1774" text="71" TYPE="AGE" comment="" />
+<NAME id="P34" start="1798" end="1813" text="Agnes Brandvold" TYPE="PATIENT" comment="" />
+<AGE id="P35" start="1815" end="1826" text="ninety-four" TYPE="AGE" comment="" />
+<NAME id="P36" start="1962" end="1983" text="Yusuf Haddad-Lindgren" TYPE="DOCTOR" comment="" />
+<LOCATION id="P37" start="1988" end="1998" text="Pediatrics" TYPE="DEPARTMENT" comment="" />
+<NAME id="P38" start="2023" end="2033" text="Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P39" start="2049" end="2069" text="@ms_delphine_teaches" TYPE="USERNAME" comment="" />
+<DATE id="P40" start="2080" end="2090" text="04/29/2066" TYPE="DATE" comment="" />
+<DATE id="P41" start="2104" end="2114" text="04/30/2066" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

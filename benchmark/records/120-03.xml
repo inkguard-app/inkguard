@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Ridgeline Regional Hospital  -  Observation Unit
+DISCHARGE SUMMARY
+LOVE, RAYMOND ELLIS      MRN 7704-1138      DOB 06/21/2011      Age 48      Page 1 of 2
+Observation start 03/20/2060 (from urgent care)    Discharge 03/21/2060    Physician: Dr. Ludmila Sokolova
+Nurse: Cole Whitaker RN         Dictated but not read.   Dictation ID DS-60-0320-1190
+
+DIAGNOSES: Acute viral pharyngitis with dehydration, in a man with hypertension, early diabetic kidney disease and prediabetes.
+
+This is a forty-eight year old gentleman, I think it is 48 though the chart says 49, known as Tank to his friends, who was sent over from the urgent care on the 20th with persistent fever, poor oral intake and a creatinine that was higher than his baseline of 1.7. He lives at 927 Sycamore Dr, Greenville with his wife Margie Love and son Elijah and she was at the bedside the whole stay and called him "Ray-Ray" more than once. A chest film read by Dr. Pradeep Nair showed clear lungs and normal heart size, accession RIL-60-031677. Rapid strep and flu swabs were negative.
+
+He was given intravenous fluids overnight and his creatinine improved, kidneys back toward baseline. Throat pain better with salt gargles. No antibiotics were needed. Blood pressure was soft on arrival and he was held off all antihypertensives which he was not taking anyway. 
+
+DISCHARGE INSTRUCTIONS: Fluids, rest, follow up with Dr. Achebe-Marsh in 1 week at Piedmont Family Medicine, (864) 555-0120. Return for worsening confusion, no urine for 8 hours. Mrs. Love will pick him up, she has the daughter in law's number, no daughter in law, i mean Pearl's number.
+
+Return visit date: 03/28/2060  at 10:00.
+Copies to: patient; PCP; Ridgeline Imaging and Laboratory fax (864) 555-0188
+Electronically signed Ludmila Sokolova MD 03/21/2060 11:48 from 172.16.40.9
+LOVE, RAYMOND ELLIS  MRN 7704-1138  Page 2 of 2
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="Ridgeline Regional Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="48" text="Observation Unit" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="67" end="86" text="LOVE, RAYMOND ELLIS" TYPE="PATIENT" comment="" />
+<ID id="P3" start="96" end="105" text="7704-1138" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="115" end="125" text="06/21/2011" TYPE="DATE" comment="" />
+<AGE id="P5" start="135" end="137" text="48" TYPE="AGE" comment="" />
+<DATE id="P6" start="173" end="183" text="03/20/2060" TYPE="DATE" comment="" />
+<DATE id="P7" start="216" end="226" text="03/21/2060" TYPE="DATE" comment="" />
+<NAME id="P8" start="245" end="261" text="Ludmila Sokolova" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="269" end="282" text="Cole Whitaker" TYPE="DOCTOR" comment="" />
+<ID id="P10" start="332" end="347" text="DS-60-0320-1190" TYPE="IDNUM" comment="" />
+<AGE id="P11" start="488" end="499" text="forty-eight" TYPE="AGE" comment="" />
+<NAME id="P12" start="572" end="576" text="Tank" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="635" end="643" text="the 20th" TYPE="DATE" comment="" />
+<LOCATION id="P14" start="755" end="770" text="927 Sycamore Dr" TYPE="STREET" comment="" />
+<LOCATION id="P15" start="772" end="782" text="Greenville" TYPE="CITY" comment="" />
+<NAME id="P16" start="797" end="808" text="Margie Love" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="817" end="823" text="Elijah" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="882" end="889" text="Ray-Ray" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="932" end="944" text="Pradeep Nair" TYPE="DOCTOR" comment="" />
+<ID id="P20" start="997" end="1010" text="RIL-60-031677" TYPE="IDNUM" comment="" />
+<NAME id="P21" start="1389" end="1401" text="Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<LOCATION id="P22" start="1415" end="1439" text="Piedmont Family Medicine" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P23" start="1441" end="1455" text="(864) 555-0120" TYPE="PHONE" comment="" />
+<NAME id="P24" start="1516" end="1520" text="Love" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1604" end="1609" text="Pearl" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1640" end="1650" text="03/28/2060" TYPE="DATE" comment="" />
+<LOCATION id="P27" start="1687" end="1719" text="Ridgeline Imaging and Laboratory" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P28" start="1724" end="1738" text="(864) 555-0188" TYPE="FAX" comment="" />
+<NAME id="P29" start="1761" end="1777" text="Ludmila Sokolova" TYPE="DOCTOR" comment="" />
+<DATE id="P30" start="1781" end="1791" text="03/21/2060" TYPE="DATE" comment="" />
+<CONTACT id="P31" start="1803" end="1814" text="172.16.40.9" TYPE="IPADDR" comment="" />
+<NAME id="P32" start="1815" end="1834" text="LOVE, RAYMOND ELLIS" TYPE="PATIENT" comment="" />
+<ID id="P33" start="1840" end="1849" text="7704-1138" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

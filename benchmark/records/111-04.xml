@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 6733 | SOURCE=EHR | NOTE=MED REC LIST | AUTHOR=sm_mora
+MEDICATION RECONCILIATION LIST
+Pt: Harmony Story  (STORY, HARMONY)   MRN SR-3340712   DOB 02/06/2036  Age 27
+Date: 09/27/2063    Pharmacy: Evergreen Basic Health mail order, member ID EBH-61-5527-09
+Reconciled by Seven Mora RN with Dr. Valdez
+
+CURRENT
+1. nitrofurantoin macrocrystals/monohydrate, 100 mg BID - started 09/27/2063 for acute cystitis (recurrent UTI)
+2. none other
+
+COMPLETED / STOPPED
+- ciprofloxacin 250 mg, single dose 06/29/2063 for cystitis
+- {28 norethindrone 0.35 mg pack} - stopped 06/2058
+- ethinyl estradiol 0.035/norgestimate - stopped 05/27/2062
+- acetaminophen prn - done
+- sodium fluoride gel - one time 06/24/2059
+- oral contraceptive 21 day (etonogestrel...) - stopped 06/06/2060  &lt;- stale line from template?
+
+ALLERGIES: none known
+
+NOTES
+- pt reports taking "nothing" but friend Blue Hallett texted from 509-555-0144 saying she has leftover cipro
+- Partner x183474 picks up. Pls call (509) 555-0188 or pager 3017
+- 2nd UTI this season, hydrate, f/u in 2 wks... wait 2wk = mid-October
+-- Seven
+</TEXT>
+<TAGS>
+<NAME id="P0" start="94" end="107" text="Harmony Story" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="110" end="124" text="STORY, HARMONY" TYPE="PATIENT" comment="" />
+<ID id="P2" start="132" end="142" text="SR-3340712" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="149" end="159" text="02/06/2036" TYPE="DATE" comment="" />
+<AGE id="P4" start="165" end="167" text="27" TYPE="AGE" comment="" />
+<DATE id="P5" start="174" end="184" text="09/27/2063" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="198" end="220" text="Evergreen Basic Health" TYPE="ORGANIZATION" comment="" />
+<ID id="P7" start="243" end="257" text="EBH-61-5527-09" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P8" start="272" end="282" text="Seven Mora" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="295" end="301" text="Valdez" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="377" end="387" text="09/27/2063" TYPE="DATE" comment="" />
+<DATE id="P11" start="494" end="504" text="06/29/2063" TYPE="DATE" comment="" />
+<DATE id="P12" start="562" end="569" text="06/2058" TYPE="DATE" comment="" />
+<DATE id="P13" start="619" end="629" text="05/27/2062" TYPE="DATE" comment="" />
+<DATE id="P14" start="690" end="700" text="06/24/2059" TYPE="DATE" comment="" />
+<DATE id="P15" start="757" end="767" text="06/06/2060" TYPE="DATE" comment="" />
+<NAME id="P16" start="869" end="881" text="Blue Hallett" TYPE="PATIENT" comment="" />
+<CONTACT id="P17" start="894" end="906" text="509-555-0144" TYPE="PHONE" comment="" />
+<NAME id="P18" start="947" end="954" text="x183474" TYPE="PATIENT" comment="" />
+<CONTACT id="P19" start="974" end="988" text="(509) 555-0188" TYPE="PHONE" comment="" />
+<CONTACT id="P20" start="998" end="1002" text="3017" TYPE="PHONE" comment="" />
+<DATE id="P22" start="1066" end="1073" text="October" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE - Maumee Bend Health Partners
+Author: Pauline Achterberg, care coordinator          Date: 05/28/2081
+Patient: SANTANGELO, WILHELMINA   MRN 02-558314   DOB 06/21/2038   42 y/o F
+PCP: Dr. Corazon Bellweather   Payer ID: OHM-4417-209-8
+
+[Dictated but not read -- dictated by Ms. Achterberg into the phone system after the visit, transcribed]
+
+This is a long note because the patient was seen in the emergency department at Toledo Riverside Emergency Department yesterday, 05/27/2081, by Dr. Hiroshi Albrecht-Tan, for a sprain of the left ankle, the second sprain in about a year, the earlier one being the right wrist on 04/15/2080. Ibuprofen 200 mg was started. She presented limping and with no way home, as the neighbour, Mr. Obadiah Fenwick, who normally drives her, was at work. The ED called me. I arranged a ride using the county transport program, voucher TV-2080-004471 still showing as active, although it was issued last year and I have asked billing to confirm it can still be used. If not, a new one is needed.
+
+I then spoke with the patient on the phone at (419) 555-0177. She asks that we only speak with her and her daughter, Marisela Santangelo, who is now an adult. She does not want her mother Rosalind called, and she does not want her ex-partner Terrence Goode to have any information. She is unemployed since 03/01/2078 and I am working on benefits. Her sister -- strike that, her mother's sister, Aunt Carmelina -- may be able to help with rides on weekends. Actually, scratch that, her real sister's name is Dorothea and she lives in Dayton. Please correct the dictation if I have this wrong.
+
+The son, Ezekiel, is seven years old and attends the school on Marlowe Avenue. The neighbour's dog is also named Ezekiel, and the patient says the school once called the wrong house. Please do not combine these.
+
+Housing: the landlord, Mr. Anselmo Duarte-Whitfeld, has been sending text messages about the rent and the broken steps. Patient forwarded them to me and I paste them here with her permission:
+
+----- pasted -----
+Sun, May 25, 8:41 AM  From: Anselmo D-W (419) 555-0194
+Wilhemina rent was due on the 1st. I told you the step is not my problem, you fell last yr. Pay by friday or I start the paperwork.
+Mon, May 26, 6:03 PM  From: Anselmo D-W
+Ive cleaned out the porch. your stuff is by the dumpster at 1409 Marlowe Ave. Call me.
+--
+Sent from my iPhone  (419) 555-0194  Anselmo Duarte-Whitfield, Property Mgr, Duarte-Whitfield Rentals LLC  IP: 192.168.1.44
+----- end paste -----
+
+Plan: 1. Legal aid referral. 2. Transport voucher renewal. 3. Dental follow up with Dr. Mbali Dlamini at Glass City Dental Collective in July. 4. Check in by phone in 2 weeks. 5. Ibuprofen with food.
+
+Page 2 of 2 -- SANTAGELO, WILHELMINA -- MRN 02-558314
+Routed to: Dr. Bellweather; Rafael Quist MA. Signed P Achterberg 05/28/2081 15:40.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="25" end="52" text="Maumee Bend Health Partners" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="61" end="79" text="Pauline Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="113" end="123" text="05/28/2081" TYPE="DATE" comment="" />
+<NAME id="P3" start="133" end="155" text="SANTANGELO, WILHELMINA" TYPE="PATIENT" comment="" />
+<ID id="P4" start="162" end="171" text="02-558314" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="178" end="188" text="06/21/2038" TYPE="DATE" comment="" />
+<AGE id="P6" start="191" end="193" text="42" TYPE="AGE" comment="" />
+<NAME id="P7" start="209" end="228" text="Corazon Bellweather" TYPE="DOCTOR" comment="" />
+<ID id="P8" start="241" end="255" text="OHM-4417-209-8" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P9" start="299" end="309" text="Achterberg" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="443" end="480" text="Toledo Riverside Emergency Department" TYPE="HOSPITAL" comment="" />
+<DATE id="P11" start="492" end="502" text="05/27/2081" TYPE="DATE" comment="" />
+<NAME id="P12" start="511" end="531" text="Hiroshi Albrecht-Tan" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="641" end="651" text="04/15/2080" TYPE="DATE" comment="" />
+<NAME id="P14" start="749" end="764" text="Obadiah Fenwick" TYPE="PATIENT" comment="" />
+<ID id="P15" start="884" end="898" text="TV-2080-004471" TYPE="ACCOUNT" comment="" />
+<CONTACT id="P16" start="1091" end="1105" text="(419) 555-0177" TYPE="PHONE" comment="" />
+<NAME id="P17" start="1162" end="1181" text="Marisela Santangelo" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1233" end="1241" text="Rosalind" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1287" end="1301" text="Terrence Goode" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="1351" end="1361" text="03/01/2078" TYPE="DATE" comment="" />
+<NAME id="P21" start="1440" end="1454" text="Aunt Carmelina" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1552" end="1560" text="Dorothea" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="1578" end="1584" text="Dayton" TYPE="CITY" comment="" />
+<NAME id="P24" start="1647" end="1654" text="Ezekiel" TYPE="PATIENT" comment="" />
+<LOCATION id="P25" start="1701" end="1715" text="Marlowe Avenue" TYPE="STREET" comment="" />
+<NAME id="P26" start="1751" end="1758" text="Ezekiel" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1878" end="1901" text="Anselmo Duarte-Whitfeld" TYPE="PATIENT" comment="" />
+<DATE id="P28" start="2063" end="2074" text="Sun, May 25" TYPE="DATE" comment="" />
+<NAME id="P29" start="2091" end="2102" text="Anselmo D-W" TYPE="PATIENT" comment="" />
+<CONTACT id="P30" start="2103" end="2117" text="(419) 555-0194" TYPE="PHONE" comment="" />
+<NAME id="P31" start="2118" end="2127" text="Wilhemina" TYPE="PATIENT" comment="" />
+<DATE id="P32" start="2144" end="2151" text="the 1st" TYPE="DATE" comment="" />
+<DATE id="P33" start="2217" end="2223" text="friday" TYPE="DATE" comment="" />
+<DATE id="P34" start="2250" end="2261" text="Mon, May 26" TYPE="DATE" comment="" />
+<NAME id="P35" start="2278" end="2289" text="Anselmo D-W" TYPE="PATIENT" comment="" />
+<LOCATION id="P36" start="2350" end="2366" text="1409 Marlowe Ave" TYPE="STREET" comment="" />
+<CONTACT id="P37" start="2401" end="2415" text="(419) 555-0194" TYPE="PHONE" comment="" />
+<LOCATION id="P38" start="2457" end="2485" text="Duarte-Whitfield Rentals LLC" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P39" start="2491" end="2503" text="192.168.1.44" TYPE="IPADDR" comment="" />
+<NAME id="P40" start="2615" end="2628" text="Mbali Dlamini" TYPE="DOCTOR" comment="" />
+<LOCATION id="P41" start="2632" end="2660" text="Glass City Dental Collective" TYPE="ORGANIZATION" comment="" />
+<DATE id="P42" start="2664" end="2668" text="July" TYPE="DATE" comment="" />
+<NAME id="P43" start="2743" end="2764" text="SANTAGELO, WILHELMINA" TYPE="PATIENT" comment="" />
+<ID id="P44" start="2772" end="2781" text="02-558314" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P45" start="2797" end="2808" text="Bellweather" TYPE="DOCTOR" comment="" />
+<NAME id="P46" start="2810" end="2822" text="Rafael Quist" TYPE="DOCTOR" comment="" />
+<NAME id="P47" start="2834" end="2846" text="P Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P48" start="2847" end="2857" text="05/28/2081" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

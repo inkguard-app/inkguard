@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 21 | NOTE_TYPE=AFTER VISIT SUMMARY | PATIENT=Silas Thaddeus Royal | MRN=C-5521903 | VISIT=06/15/2069
+ROW 22 | TEXT=
+Greywater Heart &amp; Vascular Institute
+AFTER VISIT SUMMARY
+Patient: Silas T. Royal      DOB: 11/12/2007      Today's date: Thursday June 15, 2069  (wrong weekday, see ROW 25)
+Your care team today: Anita Hart MD (cardiologist), Dev Chatterjee NP, Corinne Faulkner RN
+Clinic phone: (828) 555-0120   After hours: same number, press 2.   Pager (for staff only): 5531
+
+Why you came: your cholesterol was high on 5/25/2069.
+
+What we did:
+- Talked about your family history (your grandfather) and your risk of heart disease
+- Checked your blood pressure: 95/80. Normal for you; you do NOT need blood pressure pills right now
+- Started a new medicine: simvastatin 10 mg, 1 tablet by mouth at bedtime
+- Ordered a blood test (fasting cholesterol) for September
+
+Medicines you should be taking after today:
+ simvastatin 10 mg at bedtime
+ [hydrochlorothiazide, lisinopril, amlodipine -- REMOVED. These were stopped in 2060. Please throw away any old bottles.]
+Do not eat grapefruit or drink grapefruit juice with simvastatin.
+Tell us if you get muscle pain, weakness or dark urine.
+
+Next appointment: September 16, 2069 with Dr. Hart. Please bring your home blood pressure cuff (serial HC-77-2209-X) so we can check it against ours.
+
+Your contacts on file: Emergency contact: Marguerite Dunleavy, friend, (828) 555-0188. Mother Gladys Royal has been removed from the release list at your request. We will not give out your address (46 Larkspur Terrace).
+MyChart-style portal: https://my.greywaterheart.example/royal   Username: sroyal1112   Forgot your password? Your hint is "mother's maiden name".
+
+Questions? Call and ask for Corinne, ext. 2290.
+ROW 25 | CORRECTION=AVS header date wrong for note (should read 06/15/2069); printed from 172.19.8.140 by cfaulkner 06/15/2069 17:20
+ROW 26 | VOICEMAIL_TRANSCRIPT_PASTED=Hi this is Gladys, Silas's mother, calling about Sy-las appointment. Caller ID 828-555-0166 ROYAL GLADYS. Call me back on the landline please, 828 555 0166. Thank you and god bless.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="49" end="69" text="Silas Thaddeus Royal" TYPE="PATIENT" comment="" />
+<ID id="P1" start="76" end="85" text="C-5521903" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="94" end="104" text="06/15/2069" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="120" end="156" text="Greywater Heart &amp; Vascular Institute" TYPE="HOSPITAL" comment="" />
+<NAME id="P4" start="186" end="200" text="Silas T. Royal" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="211" end="221" text="11/12/2007" TYPE="DATE" comment="" />
+<DATE id="P6" start="241" end="263" text="Thursday June 15, 2069" TYPE="DATE" comment="" />
+<NAME id="P7" start="315" end="325" text="Anita Hart" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="345" end="359" text="Dev Chatterjee" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="364" end="380" text="Corinne Faulkner" TYPE="DOCTOR" comment="" />
+<CONTACT id="P10" start="398" end="412" text="(828) 555-0120" TYPE="PHONE" comment="" />
+<CONTACT id="P11" start="476" end="480" text="5531" TYPE="PHONE" comment="" />
+<DATE id="P12" start="525" end="534" text="5/25/2069" TYPE="DATE" comment="" />
+<DATE id="P13" start="859" end="868" text="September" TYPE="DATE" comment="" />
+<DATE id="P14" start="1024" end="1028" text="2060" TYPE="DATE" comment="" />
+<DATE id="P15" start="1207" end="1225" text="September 16, 2069" TYPE="DATE" comment="" />
+<NAME id="P16" start="1235" end="1239" text="Hart" TYPE="DOCTOR" comment="" />
+<ID id="P17" start="1292" end="1304" text="HC-77-2209-X" TYPE="DEVICE" comment="" />
+<NAME id="P18" start="1382" end="1401" text="Marguerite Dunleavy" TYPE="PATIENT" comment="" />
+<CONTACT id="P19" start="1411" end="1425" text="(828) 555-0188" TYPE="PHONE" comment="" />
+<NAME id="P20" start="1434" end="1446" text="Gladys Royal" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="1538" end="1557" text="46 Larkspur Terrace" TYPE="STREET" comment="" />
+<CONTACT id="P22" start="1582" end="1621" text="https://my.greywaterheart.example/royal" TYPE="URL" comment="" />
+<NAME id="P23" start="1634" end="1644" text="sroyal1112" TYPE="USERNAME" comment="" />
+<NAME id="P24" start="1735" end="1742" text="Corinne" TYPE="DOCTOR" comment="" />
+<CONTACT id="P25" start="1749" end="1753" text="2290" TYPE="PHONE" comment="" />
+<DATE id="P26" start="1819" end="1829" text="06/15/2069" TYPE="DATE" comment="" />
+<CONTACT id="P27" start="1845" end="1857" text="172.19.8.140" TYPE="IPADDR" comment="" />
+<NAME id="P28" start="1861" end="1870" text="cfaulkner" TYPE="USERNAME" comment="" />
+<DATE id="P29" start="1871" end="1881" text="06/15/2069" TYPE="DATE" comment="" />
+<NAME id="P30" start="1936" end="1942" text="Gladys" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="1944" end="1949" text="Silas" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="1974" end="1980" text="Sy-las" TYPE="PATIENT" comment="" />
+<CONTACT id="P33" start="2004" end="2016" text="828-555-0166" TYPE="PHONE" comment="" />
+<NAME id="P34" start="2017" end="2029" text="ROYAL GLADYS" TYPE="PATIENT" comment="" />
+<CONTACT id="P35" start="2068" end="2080" text="828 555 0166" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

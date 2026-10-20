@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST
+Red Prairie Community Health  -  Pharmacy Services
+Patient: Kuol, Peace Nyabol     DOB: 03/09/2021     MRN: RP-338120     Age: 57
+Encounter: 06/17/2078 (annual wellness, Friday)     PCP: Dr. Will Graves     Reconciled by: Apple Nakamura-Reyes, CPhT
+Marital status: Divorced      Emergency contact: Rebecca Nyandeng (sister), +254 700 555 019
+
+&gt;&gt;&gt; pasted from 05/25/2074 list (not edited):
+  Allergies: NKDA
+  Active: Percocet 10/325 q6h prn  &lt;-- stopped 04/26/2069, STALE
+          Liletta IUS  &lt;-- removed 06/10/2070, STALE
+&lt;&lt;&lt;
+
+CURRENT (per pt and pharmacy fill history, Prairie Rx Co-op)
+- No prescription medicines on file
+- acetaminophen (Tylenol) 500 mg prn, about 2 tabs a week
+- ibuprofen (Advil, Motrin) 200 mg prn, rarely
+- topical menthol rub
+- OTC magnesium glycinate, no dose known
+- fluoride gel was a one-time dental (06/02/2073)
+
+REVIEW
+- Brand name check: pt says "the blue one" for sleep = diphenhydramine (Benadryl) from the dentist office. Not Benadryl brand specifically, store brand
+- No history of Parkinson's disease, Bell's palsy, Raynaud syndrome, Sjogren syndrome. Fibromyalgia is not eponymous
+- Opioid risk: none; PDMP checked 6/17 clear
+- Screening done: anxiety (GAD-7 3), depression, health and social needs, safety at home - pt said "I am okay now, I live with my cousin" (Achol Kuol). Pt was a refugee (2075); relocation case # RES-5530-775 via Red River Welcome Network
+- Pt's former husband Deng Kuol - no contact, do NOT call him even if listed as SAME on old template
+
+Pt reports weight stable, 72.4 kg, BP 106/81, pain 0/10 today. Total chol 154.6, LDL 76.6.
+Referred to dental: appt 7/1 (Fri) at 08:30. Pt asked to remind her "the first of July, not the 11th"
+
+Addendum: a staff member, Hunter from Billing, asked about a copay; pt said her bill goes to Mrs. Hunter (landlord) - no, wait, that was the neighbour. Disregard.
+Reconciliation complete 06/17/2078 14:22 - e-signed Apple Nakamura-Reyes, CPhT
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="31" end="59" text="Red Prairie Community Health" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="64" end="81" text="Pharmacy Services" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="91" end="109" text="Kuol, Peace Nyabol" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="119" end="129" text="03/09/2021" TYPE="DATE" comment="" />
+<ID id="P4" start="139" end="148" text="RP-338120" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P5" start="158" end="160" text="57" TYPE="AGE" comment="" />
+<DATE id="P6" start="172" end="182" text="06/17/2078" TYPE="DATE" comment="" />
+<DATE id="P7" start="201" end="207" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P8" start="222" end="233" text="Will Graves" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="253" end="273" text="Apple Nakamura-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="329" end="345" text="Rebecca Nyandeng" TYPE="PATIENT" comment="" />
+<CONTACT id="P11" start="356" end="372" text="+254 700 555 019" TYPE="PHONE" comment="" />
+<DATE id="P12" start="390" end="400" text="05/25/2074" TYPE="DATE" comment="" />
+<DATE id="P13" start="485" end="495" text="04/26/2069" TYPE="DATE" comment="" />
+<DATE id="P14" start="538" end="548" text="06/10/2070" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="604" end="620" text="Prairie Rx Co-op" TYPE="ORGANIZATION" comment="" />
+<DATE id="P16" start="864" end="874" text="06/02/2073" TYPE="DATE" comment="" />
+<DATE id="P17" start="1187" end="1191" text="6/17" TYPE="DATE" comment="" />
+<NAME id="P18" start="1337" end="1347" text="Achol Kuol" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="1368" end="1372" text="2075" TYPE="DATE" comment="" />
+<ID id="P20" start="1393" end="1405" text="RES-5530-775" TYPE="IDNUM" comment="" />
+<LOCATION id="P21" start="1410" end="1435" text="Red River Welcome Network" TYPE="ORGANIZATION" comment="" />
+<NAME id="P22" start="1458" end="1467" text="Deng Kuol" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="1654" end="1657" text="7/1" TYPE="DATE" comment="" />
+<DATE id="P24" start="1659" end="1662" text="Fri" TYPE="DATE" comment="" />
+<DATE id="P25" start="1698" end="1715" text="the first of July" TYPE="DATE" comment="" />
+<DATE id="P26" start="1721" end="1729" text="the 11th" TYPE="DATE" comment="" />
+<NAME id="P27" start="1758" end="1764" text="Hunter" TYPE="DOCTOR" comment="" />
+<LOCATION id="P28" start="1770" end="1777" text="Billing" TYPE="DEPARTMENT" comment="" />
+<NAME id="P29" start="1825" end="1836" text="Mrs. Hunter" TYPE="PATIENT" comment="" />
+<DATE id="P30" start="1919" end="1929" text="06/17/2078" TYPE="DATE" comment="" />
+<NAME id="P31" start="1947" end="1967" text="Apple Nakamura-Reyes" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Larkmoor Children's Clinic -- Referral
+12/20/2066
+
+To: Dr. Sunil Karamchandani, Brightside Pediatric Dental
+Fax (218) 555-0166
+From: Dr. Yusuf Haddad-Lindgren
+
+Re: Ottoline Faye Brandvold, DOB 6/30/2064, 2 yrs, MRN 7-0431882
+Insurance: member ID MNH-55120934   
+Address: 318 Ellery Lane Apt 2B, Duluth, Minnesota 55806   Mother's cell (218) 555-0139
+
+Dear Dr. Karamchandani,
+
+Thank you for seeing this lovely little girl for her first dental visit.
+
+S: Mom Nadezhda noticed brown spot on upper front tooth 2 months ago. Takes bottle with juice at night (working on it). Brushes with smear of toothpaste once a day. Lives in apt, city water. Landlord, Mr Pellegrino, confirms city water, no well. Neighbour Mrs Orloff watches her after daycare and gives snacks (crackers, raisins). Great-grandmother Agnes Brandvold age 94 yrs lives in the home -- full dentures, no one else in family with early caries that mom knows of. Dad Lars has root canal hx.
+O: Well appearing, wt 13.7 kg. White spot lesion on upper incisors #E,#F on my exam. No swelling or abscess. 
+A: Early childhood caries, probable. 
+P: Please eval, bitewing as tolerated, cleaning, fluoride varnish, diet counseling. Send report back to our office.
+
+Pasted from 6/27/2066 note:
+ AVS Patient: BRANDVOLD, OTTOLINE F   Provider Dr. Yusuf Haddad-Lindgren   Dept: Orthopedic Clinic
+ Healed clavicle fracture. Cleared for full play incl. climbing. Stop sling. No more acetaminophen needed.
+ Signed: Dr. Haddad-Lindgren 06/27/2066 11:42
+And from 03/12/2066 telephone note: Probable viral URI. Mom Nadezhda Brandvold, call back (218) 555-0139. Appt tomorrow.
+
+Sincerely,
+Yusuf Haddad-Lindgren MD         cc: Dr. Karamchandani; parents; chart
+Electronically signed 12/20/2066 14:31    Page 2 of 2
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="26" text="Larkmoor Children's Clinic" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="39" end="49" text="12/20/2066" TYPE="DATE" comment="" />
+<NAME id="P2" start="59" end="78" text="Sunil Karamchandani" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="80" end="107" text="Brightside Pediatric Dental" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P4" start="112" end="126" text="(218) 555-0166" TYPE="FAX" comment="" />
+<NAME id="P5" start="137" end="158" text="Yusuf Haddad-Lindgren" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="164" end="187" text="Ottoline Faye Brandvold" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="193" end="202" text="6/30/2064" TYPE="DATE" comment="" />
+<AGE id="P8" start="204" end="205" text="2" TYPE="AGE" comment="" />
+<ID id="P9" start="215" end="224" text="7-0431882" TYPE="MEDICALRECORD" comment="" />
+<ID id="P10" start="246" end="258" text="MNH-55120934" TYPE="HEALTHPLAN" comment="" />
+<LOCATION id="P11" start="271" end="293" text="318 Ellery Lane Apt 2B" TYPE="STREET" comment="" />
+<LOCATION id="P12" start="295" end="301" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P13" start="303" end="312" text="Minnesota" TYPE="STATE" comment="" />
+<LOCATION id="P14" start="313" end="318" text="55806" TYPE="ZIP" comment="" />
+<CONTACT id="P15" start="335" end="349" text="(218) 555-0139" TYPE="PHONE" comment="" />
+<NAME id="P16" start="360" end="373" text="Karamchandani" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="457" end="465" text="Nadezhda" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="654" end="664" text="Pellegrino" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="710" end="716" text="Orloff" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="799" end="814" text="Agnes Brandvold" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="819" end="825" text="94 yrs" TYPE="AGE" comment="" />
+<NAME id="P22" start="925" end="929" text="Lars" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="1226" end="1235" text="6/27/2066" TYPE="DATE" comment="" />
+<NAME id="P24" start="1293" end="1314" text="Yusuf Haddad-Lindgren" TYPE="DOCTOR" comment="" />
+<LOCATION id="P25" start="1323" end="1340" text="Orthopedic Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P26" start="1461" end="1476" text="Haddad-Lindgren" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1477" end="1487" text="06/27/2066" TYPE="DATE" comment="" />
+<DATE id="P28" start="1503" end="1513" text="03/12/2066" TYPE="DATE" comment="" />
+<NAME id="P29" start="1554" end="1572" text="Nadezhda Brandvold" TYPE="PATIENT" comment="" />
+<CONTACT id="P30" start="1584" end="1598" text="(218) 555-0139" TYPE="PHONE" comment="" />
+<NAME id="P31" start="1627" end="1648" text="Yusuf Haddad-Lindgren" TYPE="DOCTOR" comment="" />
+<NAME id="P32" start="1668" end="1681" text="Karamchandani" TYPE="DOCTOR" comment="" />
+<DATE id="P33" start="1720" end="1730" text="12/20/2066" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,18 @@
+NEUROSURGERY ED CONSULT — SUSPECTED SHUNT MALFUNCTION
+{{FACILITY|Bellhaven University Hospital}} — {{DATE|04/27/2073}} 20:30
+{{NAME|Alistair Monro-Bakshi}}, 27 M, MRN {{MRN|BUH-6608124}}
+Neurosurgery resident Dr. {{NAME|Cerys Llewellyn-Obi}}; attending Dr. {{NAME|Raphael Achterberg}}
+
+[[Congenital aqueductal stenosis]] with a right parietal [[VP shunt]] since infancy (5 revisions). Now 2 days of [[headache]], vomiting, [[lethargy]], and blurred vision. (Patient surname {{NAME|Monro-Bakshi}}; note the [[foramen of Monro]] and the [[Monro-Kellie doctrine]] discussed below are anatomical/physiological terms.)
+Exam: [[GCS 14]], [[bilateral papilloedema]], [[upgaze palsy]] with [[convergence-retraction nystagmus]] — [[Parinaud syndrome]] (dorsal midbrain compression from a dilated [[suprapineal recess]]). [[Shunt reservoir]] slow to refill after compression.
+[[CT head]]: enlarged lateral and third ventricles compared with baseline (1 year ago), [[transependymal CSF flow]]; [[Evans index 0.38]]. Ventricular catheter tip at the [[foramen of Monro]]. Per the [[Monro-Kellie doctrine]], compensatory reserve is exhausted.
+[[Shunt series X-ray]]: [[Medtronic Strata II valve]] — setting read at [[performance level 1.5]]; distal catheter continuous into the peritoneum.
+[[Shunt tap]]: opening pressure 32 cmH2O through the reservoir with poor proximal flow → [[proximal obstruction]].
+Plan: urgent [[shunt revision]]; consider [[endoscopic third ventriculostomy]] since aqueductal stenosis ([[ETV success score]] 70). Patient's valve serial {{ID|STRATA2-NS-0081723}}.
+=====NOTE=====
+OP NOTE — {{DATE|04/28/2073}} — {{NAME|MONRO-BAKSHI, A.}} — {{MRN|BUH-6608124}}
+Surgeon Dr. {{NAME|R. Achterberg}}; resident Dr. {{NAME|C. Llewellyn-Obi}}; scrub {{NAME|Tavita Fonoti}}, CST
+[[Endoscopic third ventriculostomy]] via a right frontal [[burr hole at Kocher's point]] with a [[rigid neuroendoscope (Lotta)]]: [[foramen of Monro]] identified with the [[septal vein]] and [[thalamostriate vein]]; the thin [[floor of the third ventricle]] perforated between the [[mammillary bodies]] and the [[infundibular recess]] anterior to the [[basilar artery]] with a [[Decq forceps]] and widened with a [[Fogarty 3F balloon catheter]]. [[Liliequist membrane]] opened; free pulsation of the floor; [[prepontine cistern]] seen. Old ventricular catheter removed (choroid plexus ingrowth). Shunt left in situ but [[Strata II]] set to [[performance level 2.5]] (high) to encourage ETV flow; plan to ligate if ETV functions. [[CSF]] sent: cell count, culture.
+=====NOTE=====
+CLINIC 6 WEEKS — {{DATE|06/09/2073}} — {{NAME|A. Monro-Bakshi}}
+Headache resolved, [[papilloedema]] regressed. [[Parinaud]] signs resolved. [[MRI CISS / phase-contrast]]: [[flow void through the ETV stoma]]. Ventricles smaller ([[Evans index]] 0.33). Shunt remains at [[performance level 2.5]]; reprogram check after any MRI (Strata II settings can change in magnetic fields). Return precautions. Note by {{NAME|Ishbel Ramsay}}, NP. Phone {{PHONE|555-713-6604}}.

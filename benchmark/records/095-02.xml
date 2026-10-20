@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>REFERRAL LETTER - KIDNEY TRANSPLANT EVALUATION / LISTING
+Greater Riverside Medical Center Nephrology                              11/04/2054
+To: Keystone Transplant Institute, Attn Ayo Bankole, transplant coordinator
+Fax (215) 555-0167       Waitlist registration WL-54-11720
+
+PATIENT: MENSAH, JUSTICE       MRN GR-0477123       DOB 09/22/1972  (82)
+ADDRESS: 77 Harmon Terrace, Baltimore, MD 21217
+HOME (410) 555-0198  /  son Prince (410) 555-0131
+
+Dear Dr. Bankole,
+
+Thank you for evaluating Mr. Mensah, an 82-year-old man with diabetic kidney disease (microalbuminuria 2049, proteinuria July 2053), now CKD stage 4 since 7/29/2054, hypertriglyceridemia, hx STEMI 3/7/2017 and CABG 12/18/2045. On epoetin (8/19/2054). eGFR trending down. He wishes to be listed.
+
+Social: lives with wife Mercy. Brother Nana Kwesi Mensah in Ghana: H/No. 14, Ring Road Central, Accra, Ghana, digital address GA-038-5421, wishes to be a donor candidate? (age 88!). Daughter Gifty Mensah-Boateng in Kumasi visiting Christmas Eve.
+He fasts on the 14th of each month for church. Transport by son's car, plate MD 3KF 9820.
+Alcohol: unhealthy use in May 2052, now abstinent.
+
+Awaiting your assessment. 
+Yours,
+Ruth Silver, MD       Electronically signed 11/04/2054 09:30
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="57" end="89" text="Greater Riverside Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="90" end="100" text="Nephrology" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="130" end="140" text="11/04/2054" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="145" end="174" text="Keystone Transplant Institute" TYPE="HOSPITAL" comment="" />
+<NAME id="P4" start="181" end="192" text="Ayo Bankole" TYPE="DOCTOR" comment="" />
+<CONTACT id="P5" start="221" end="235" text="(215) 555-0167" TYPE="FAX" comment="" />
+<ID id="P6" start="264" end="275" text="WL-54-11720" TYPE="IDNUM" comment="" />
+<ID id="P7" start="312" end="322" text="GR-0477123" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P8" start="333" end="343" text="09/22/1972" TYPE="DATE" comment="" />
+<AGE id="P9" start="346" end="348" text="82" TYPE="AGE" comment="" />
+<LOCATION id="P10" start="359" end="376" text="77 Harmon Terrace" TYPE="STREET" comment="" />
+<LOCATION id="P11" start="378" end="387" text="Baltimore" TYPE="CITY" comment="" />
+<LOCATION id="P12" start="389" end="391" text="MD" TYPE="STATE" comment="" />
+<LOCATION id="P13" start="392" end="397" text="21217" TYPE="ZIP" comment="" />
+<CONTACT id="P14" start="403" end="417" text="(410) 555-0198" TYPE="PHONE" comment="" />
+<NAME id="P15" start="426" end="432" text="Prince" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="433" end="447" text="(410) 555-0131" TYPE="PHONE" comment="" />
+<NAME id="P17" start="458" end="465" text="Bankole" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="497" end="503" text="Mensah" TYPE="PATIENT" comment="" />
+<AGE id="P19" start="508" end="519" text="82-year-old" TYPE="AGE" comment="" />
+<DATE id="P20" start="571" end="575" text="2049" TYPE="DATE" comment="" />
+<DATE id="P21" start="589" end="598" text="July 2053" TYPE="DATE" comment="" />
+<DATE id="P22" start="623" end="632" text="7/29/2054" TYPE="DATE" comment="" />
+<DATE id="P23" start="665" end="673" text="3/7/2017" TYPE="DATE" comment="" />
+<DATE id="P24" start="683" end="693" text="12/18/2045" TYPE="DATE" comment="" />
+<DATE id="P25" start="707" end="716" text="8/19/2054" TYPE="DATE" comment="" />
+<NAME id="P26" start="788" end="793" text="Mercy" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="803" end="820" text="Nana Kwesi Mensah" TYPE="PATIENT" comment="" />
+<LOCATION id="P28" start="860" end="865" text="Accra" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="867" end="872" text="Ghana" TYPE="COUNTRY" comment="" />
+<LOCATION id="P30" start="890" end="901" text="GA-038-5421" TYPE="LOCATION-OTHER" comment="" />
+<AGE id="P31" start="940" end="942" text="88" TYPE="AGE" comment="" />
+<NAME id="P32" start="955" end="975" text="Gifty Mensah-Boateng" TYPE="PATIENT" comment="" />
+<LOCATION id="P33" start="979" end="985" text="Kumasi" TYPE="CITY" comment="" />
+<DATE id="P34" start="995" end="1008" text="Christmas Eve" TYPE="DATE" comment="" />
+<DATE id="P35" start="1022" end="1030" text="the 14th" TYPE="DATE" comment="" />
+<ID id="P36" start="1087" end="1098" text="MD 3KF 9820" TYPE="VEHICLE" comment="" />
+<DATE id="P37" start="1126" end="1134" text="May 2052" TYPE="DATE" comment="" />
+<NAME id="P38" start="1186" end="1197" text="Ruth Silver" TYPE="DOCTOR" comment="" />
+<DATE id="P39" start="1230" end="1240" text="11/04/2054" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

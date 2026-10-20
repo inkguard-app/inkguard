@@ -1,0 +1,14 @@
+NEURO ICU PROGRESS NOTE — DAY 2
+{{FACILITY|Pinecastle University Hospital}} NSICU
+{{NAME|Delphine Arceneaux-Moyo}}, 46 F, MRN {{MRN|PUH-2208815}}, {{DATE|03/03/2079}}
+Author: Dr. {{NAME|Lazarus Okonjo}}, PGY-3 neurology; attending Dr. {{NAME|Henrietta Vosburgh}}; ICU NP {{NAME|Kirra Thibodeaux}}
+
+Admitted for [[convulsive status epilepticus]] (prehospital [[midazolam 10 mg IM]], then [[lorazepam 4 mg IV]] x2, [[fosphenytoin 20 mg PE/kg]] — [[established status]], then [[levetiracetam 60 mg/kg]]) → intubated, [[refractory status epilepticus]] on [[continuous EEG]].
+Overnight: [[midazolam infusion 0.4 mg/kg/h]], [[propofol 50 mcg/kg/min]]. [[cEEG]]: [[burst suppression]] achieved at 02:00 with [[bursts of 1-2 s]] and suppression 5-10 s; no electrographic seizures for 18 h. Prior pattern [[lateralised periodic discharges (LPDs)]] right temporal.
+Etiology work-up: [[MRI brain]]: bilateral mesial temporal [[FLAIR hyperintensity]] and [[restricted diffusion]] (right more than left). [[LP]]: WBC 28 (lymphocytic), protein 0.71 g/L, [[HSV PCR]] negative, [[autoimmune encephalitis panel]] pending ([[anti-NMDA receptor]], [[LGI1]], [[CASPR2]], [[GAD65]]). [[CT chest/abdomen/pelvis]] for [[paraneoplastic]] screen — negative. Considering [[new-onset refractory status epilepticus (NORSE)]].
+Plan: continue [[acyclovir 10 mg/kg q8h]] until HSV PCR repeat; start [[IV methylprednisolone 1 g daily x5]]; plan [[IVIG 0.4 g/kg/day x5]] or [[plasma exchange]]; [[ketamine infusion]] if breakthrough; wean midazolam after 24-48 h suppression. Husband {{NAME|Antoine Arceneaux}} updated {{PHONE|555-238-4410}}.
+=====NOTE=====
+NSICU DAY 6 — {{DATE|03/07/2079}} — {{NAME|D. Arceneaux-Moyo}} — {{MRN|PUH-2208815}}
+[[Anti-LGI1 antibodies]] positive in serum and CSF → [[LGI1 autoimmune encephalitis]]. Retrospectively, family describes brief [[faciobrachial dystonic seizures]] for 3 weeks before admission. [[Hyponatraemia]] Na 128 ([[SIADH]], typical of LGI1).
+[[cEEG]] after wean off midazolam: no seizures, [[diffuse slowing]], rare right temporal sharp waves. Extubated today; follows commands, [[GCS 14]], disoriented, [[anterograde amnesia]].
+Plan: complete [[methylprednisolone]] then [[prednisone 1 mg/kg]] taper; [[IVIG]] day 3/5; maintenance [[levetiracetam 1500 mg BID]] and [[lacosamide 200 mg BID]]; consider [[rituximab]] as second-line. [[Fluid restriction]] 1.2 L. PT/OT/SLP consults. Social work {{NAME|Estella Brightwood}}, LCSW, met husband for FMLA paperwork.

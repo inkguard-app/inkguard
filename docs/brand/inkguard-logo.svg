@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Inkguard">
+  <!-- A redaction bar held inside a guard. Crimson #A91636, ink #000000. -->
+  <circle cx="50" cy="50" r="45" fill="#A91636"/>
+  <rect x="16" y="35" width="68" height="30" rx="15" fill="#000000"/>
+</svg>

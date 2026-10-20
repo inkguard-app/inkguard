@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP) -- Pediatrics
+Pt: Bram Frost   7 y/o M   Date: 1/16/2083   Seen by: Rhonda Achterberg, NP
+Accompanied by: Mrs. Frost
+
+S: Sore throat and fever x 2 days, no cough. Hes been home from school. Mom reports the cold weather, "it was a hard frost this morning" and he did not want breakfast. Sibling at home with a cold. No rash. Eats little. Pain 3/10.
+
+O: T 38.6, HR up appropriately for fever. Throat red, tonsils swollen with exudate, tender anterior cervical nodes. No rash. Lungs clear. Rapid strep POSITIVE.
+
+A: Strep throat. Ear exam normal, which is good given the history of otitis in 2076.
+
+P: Penicillin V 250 mg twice daily for 10 days. Rest, fluids. Return to school after 24 h of antibiotics. Mom to call if no better in 48 hrs. Note was dictated using speech to text "strep thought" LOL means strep throat.
+
+Cc: Dr. Oluwaseun Adebayo-Clarke
+
+Plan discussed with Delphine who will pick up the Rx at the pharmacy. Her cell is 608-555-0142.
+- R. Achterberg NP
+</TEXT>
+<TAGS>
+<NAME id="P0" start="39" end="49" text="Bram Frost" TYPE="PATIENT" comment="" />
+<AGE id="P1" start="52" end="53" text="7" TYPE="AGE" comment="" />
+<DATE id="P2" start="68" end="77" text="1/16/2083" TYPE="DATE" comment="" />
+<NAME id="P3" start="89" end="106" text="Rhonda Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="127" end="137" text="Mrs. Frost" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="610" end="614" text="2076" TYPE="DATE" comment="" />
+<NAME id="P6" start="843" end="871" text="Dr. Oluwaseun Adebayo-Clarke" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="893" end="901" text="Delphine" TYPE="PATIENT" comment="" />
+<CONTACT id="P8" start="955" end="967" text="608-555-0142" TYPE="PHONE" comment="" />
+<NAME id="P9" start="971" end="984" text="R. Achterberg" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

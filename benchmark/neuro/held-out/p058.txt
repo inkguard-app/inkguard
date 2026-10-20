@@ -1,0 +1,17 @@
+PEDIATRIC NEUROSURGERY — MOYAMOYA
+{{FACILITY|Fernhill Children's Hospital}}
+{{NAME|Kaito Ashworth-Mori}}, DOB {{DATE|02/17/2068}}, MRN {{MRN|FCH-6610244}}, visit {{DATE|11/05/2074}}
+Parents {{NAME|Aiko Mori}} and {{NAME|Graham Ashworth}}; sister {{NAME|Hana Ashworth-Mori}} (age 9) has no symptoms
+Pediatric neurologist Dr. {{NAME|Isadora Penhaligon}}; neurosurgeon Dr. {{NAME|Obadiah Kwarteng}}; child life specialist {{NAME|Maren Solvik}}
+
+6-year-old boy with episodes of [[right arm weakness]] and [[slurred speech]] when blowing into a recorder in music class at {{ORG|Willowmere Primary School}} and when crying ([[hyperventilation-induced TIAs]]). One [[seizure]]. No syndromic association: no [[trisomy 21]], [[NF1]] absent; [[sickle cell disease]] screen negative.
+MRI: left frontal [[watershed infarct]], [[ivy sign]] on [[FLAIR]], reduced flow voids in the left [[supraclinoid ICA]]. [[DSA]] under GA: bilateral [[moyamoya disease]], [[Suzuki stage 3]] left, stage 2 right. [[Hypercapnic BOLD cerebrovascular reactivity]] — steal phenomenon left.
+Plan: left [[pial synangiosis]] (modified [[EDAS]]) first, right in 3 months. [[Aspirin 3-5 mg/kg/day]] (81 mg). Avoid dehydration; IV fluids at 1.5x maintenance NPO pre-op.
+=====NOTE=====
+OP NOTE — LEFT PIAL SYNANGIOSIS — {{DATE|12/02/2074}} — {{NAME|K. Ashworth-Mori}} — {{MRN|FCH-6610244}}
+Surgeon Dr. {{NAME|O. Kwarteng}}; anaesthesia Dr. {{NAME|Celestine Morrow-Hutchins}} — normocapnia (EtCO2 38-42), [[normotension]], [[normothermia]], [[EEG]] monitoring; avoid crying at induction (premed [[midazolam]]).
+[[Doppler]] traced the [[parietal branch of the STA]], dissected with a cuff of galea. [[Craniotomy]] beneath the STA; dura opened in multiple leaflets; [[arachnoid]] opened widely; STA sutured to the pia with [[10-0 nylon]] ([[pial synangiosis]]). Dural leaflets inverted ([[encephaloduroarteriosynangiosis]] element). Bone replaced with the STA entry/exit notches.
+[[EEG]] showed no slowing. EBL 60 mL. PICU overnight.
+=====NOTE=====
+School/Parent Letter {{DATE|12/09/2074}} — {{NAME|Kaito Ashworth-Mori}}
+To {{ORG|Willowmere Primary School}}: {{NAME|Kaito}} had brain surgery for [[moyamoya disease]]. Please allow water at all times, avoid breath-holding games and wind instruments, and call 911 for any new weakness or [[speech difficulty]]. Return {{DATE|01/06/2075}}. Contact: {{NAME|M. Solvik}}, child life, {{PHONE|555-260-7731}}.

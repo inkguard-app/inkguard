@@ -1,0 +1,24 @@
+VASCULAR NEUROLOGY / NEUROSURGERY JOINT CLINIC
+{{FACILITY|Brookhaven Ridge Stroke Center}}
+Patient {{NAME|Philippa Lindqvist}}   MRN {{MRN|BRS-30927714}}   Seen {{DATE|10/10/2067}}
+
+71 F, two episodes of [[amaurosis fugax]] OD lasting 3-4 minutes and one episode of [[left hand weakness]] ([[transient ischaemic attack]]). [[ABCD2 score]] 5.
+
+[[Carotid duplex ultrasound]]: right ICA [[peak systolic velocity]] 310 cm/s, [[end-diastolic velocity]] 118 cm/s, ICA/CCA ratio 4.6 = [[70-99% stenosis]]. [[CTA neck]]: 82% stenosis by [[NASCET criteria]], ulcerated [[heterogeneous plaque]] at the bifurcation, high bifurcation at C3. Left ICA 30%. [[MRI DWI]]: tiny cortical infarct in the right precentral gyrus.
+
+Fundoscopy: [[Hollenhorst plaque]] in a right inferior retinal arteriole.
+
+Plan: right [[carotid endarterectomy]] within 2 weeks. Started [[clopidogrel 75 mg daily]] with [[aspirin 81 mg]] (short dual antiplatelet), [[atorvastatin 80 mg]], BP target under 130/80. [[Carotid artery stenting]] discussed but higher periprocedural stroke risk in septuagenarians.
+
+Dr. {{NAME|Aurelio Montanari}}, Vascular Neurosurgery
+Phone booking {{PHONE|555-618-2207}}
+=====NOTE=====
+OPERATIVE NOTE — RIGHT CAROTID ENDARTERECTOMY
+{{NAME|LINDQVIST, PHILIPPA}}  {{MRN|BRS-30927714}}  {{DATE|10/19/2067}}
+Surgeon: {{NAME|A. Montanari}}
+
+GA with [[EEG monitoring]] and [[SSEP]]. Longitudinal incision along the anterior border of the [[sternocleidomastoid]]. [[Facial vein]] ligated, [[hypoglossal nerve]] identified and protected superiorly, [[vagus nerve]] posterior in the sheath. [[Ansa cervicalis]] preserved. [[Heparin 5000 units]] before clamping. [[Stump pressure]] 38 mmHg; EEG showed transient right-sided slowing, so a [[Pruitt-Inahara shunt]] was placed. [[Arteriotomy]] from the CCA into the ICA beyond the plaque. Plaque removed en bloc; distal [[tacking sutures]] with [[7-0 Prolene]]. Closure with a [[bovine pericardial patch]] ([[patch angioplasty]]). [[Completion duplex]] normal. Protamine not given.
+Clamp time 28 min. EBL 120 mL.
+Post-op: neuro intact, no [[hypoglossal palsy]], tongue midline; no [[hoarseness]]. Monitor for [[cerebral hyperperfusion syndrome]] — SBP 100-150. Discharge expected POD1.
+=====NOTE=====
+Post-op call {{DATE|10/27/2067}} — pt reports mild right-sided headache and a "droopy right eyelid". RN {{NAME|K. Batiste}} examined: [[right partial ptosis]] (2 mm), [[anisocoria]] greater in dim light and [[miosis]], no anhidrosis noted — likely [[postganglionic Horner syndrome]] from sympathetic chain traction around the [[internal carotid artery]]. Dr. {{NAME|Montanari}} reviewed: wound fine, no [[neck haematoma]], [[CTA neck]] shows patent endarterectomy site, no [[carotid dissection]], no [[restenosis]]. [[Apraclonidine test]] ordered by neuro-ophthalmology to confirm. [[NIHSS 0]]. No [[facial nerve marginal mandibular branch]] weakness. Headache likely [[hyperperfusion]]-related: BP 168/90 → added [[labetalol 100 mg BID]]. Reassess in 1 week. Continue [[aspirin]] and [[atorvastatin]]; [[clopidogrel]] stopped. Pt email for results: {{EMAIL|plindqvist67@example.com}}.

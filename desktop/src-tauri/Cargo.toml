@@ -1,0 +1,21 @@
+[package]
+name = "inkguard-desktop"
+version = "0.25.0"
+description = "The desktop wrapper: a window for the screens and a private pipe to the secure core"
+edition = "2021"
+publish = false
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-dialog = "2"
+tauri-plugin-single-instance = "2"
+
+[profile.release]
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
+opt-level = "s"

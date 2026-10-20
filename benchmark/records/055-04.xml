@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HARBOR POINT MEDICAL CENTER
+DISCHARGE SUMMARY
+
+Name: BRANDT, NOVA          MRN: 055-31877
+DOB: 06/02/2038   Age: 22   Sex: F
+Admitted: 12/11/2060 (via ED)   Discharged: 12/13/2060
+Attending: Mercy Aguilar, MD    Anesthesia: Ivo Brandt-Lindh, MD
+Unit: Labor and Delivery, room L&amp;D 6
+
+DIAGNOSES: term pregnancy, spontaneous labor; delivered. Anemia, treated.
+
+HOSPITAL COURSE:
+22 yo presented to the ED on Saturday 12/11/2060 in labor. Epidural placed w/o difficulty. Delivered a liveborn girl, named Miracle by parents ("our miracle"). Mother's name on the band was misspelled Nova Brant on admission and corected. Postpartum course unremarkable. Cardiology (Saint Okoro) cleared her on 12/04/2060; palpitations did not recur.
+Social work saw patient 12/12/2060. Partner Kash Rivers was NOT allowed to visit alone per SW plan; friend Lake Voss at bedside. Pt unemployed since 12/03/2060.
+
+DISCHARGE MEDS: ferrous sulfate, prenatal vitamins, acetaminophen PRN. 
+(Carried forward from 12/04/2060 H&amp;P: Yaz 28 day pack -- DISCONTINUE, not active)
+
+FOLLOW UP: postnatal visit in 6 weeks, about 01/22/2061. Depression screening at that visit. 
+Contact: (509) 555-0178 (voicemail as Ms. Quince only)
+Discharge instructions given to patient and to Bless Brandt (mother, phone (509)555-0133).
+
+Electronically signed by Mercy Aguilar, MD 12/13/2060 11:48
+cc: Saint Okoro, Northcrest Heart Clinic
+
+&gt;&gt;&gt; Pasted from clinic H&amp;P (Northcrest):
+NORTHCREST HEART CLINIC   Patient: Nova Brandt   DOB: 06/02/2038
+SOCIAL: Lost her job at Pinnacle Print &amp; Pack on 12/03/2060 (yesterday), so is not working. Partner Kash Rivers.
+Electronically signed by Saint Okoro 12/04/2060 17:26
+&gt;&gt;&gt; OB note 11/20/2060 by M. Aguilar: pt Nova Brandt 21 yo (pasted, age stale) fundal height ok, FHT 140s. next visit 2 wks
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="HARBOR POINT MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="53" end="65" text="BRANDT, NOVA" TYPE="PATIENT" comment="" />
+<ID id="P2" start="80" end="89" text="055-31877" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="95" end="105" text="06/02/2038" TYPE="DATE" comment="" />
+<AGE id="P4" start="113" end="115" text="22" TYPE="AGE" comment="" />
+<DATE id="P5" start="135" end="145" text="12/11/2060" TYPE="DATE" comment="" />
+<DATE id="P6" start="169" end="179" text="12/13/2060" TYPE="DATE" comment="" />
+<NAME id="P7" start="191" end="204" text="Mercy Aguilar" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="224" end="240" text="Ivo Brandt-Lindh" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="251" end="269" text="Labor and Delivery" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P10" start="276" end="281" text="L&amp;D 6" TYPE="ROOM" comment="" />
+<AGE id="P11" start="375" end="377" text="22" TYPE="AGE" comment="" />
+<DATE id="P12" start="404" end="412" text="Saturday" TYPE="DATE" comment="" />
+<DATE id="P13" start="413" end="423" text="12/11/2060" TYPE="DATE" comment="" />
+<NAME id="P14" start="499" end="506" text="Miracle" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="576" end="586" text="Nova Brant" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="658" end="669" text="Saint Okoro" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="686" end="696" text="12/04/2060" TYPE="DATE" comment="" />
+<DATE id="P18" start="750" end="760" text="12/12/2060" TYPE="DATE" comment="" />
+<NAME id="P19" start="770" end="781" text="Kash Rivers" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="833" end="842" text="Lake Voss" TYPE="PATIENT" comment="" />
+<DATE id="P21" start="875" end="885" text="12/03/2060" TYPE="DATE" comment="" />
+<DATE id="P22" start="982" end="992" text="12/04/2060" TYPE="DATE" comment="" />
+<DATE id="P23" start="1088" end="1098" text="01/22/2061" TYPE="DATE" comment="" />
+<CONTACT id="P24" start="1146" end="1160" text="(509) 555-0178" TYPE="PHONE" comment="" />
+<NAME id="P25" start="1175" end="1185" text="Ms. Quince" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1239" end="1251" text="Bless Brandt" TYPE="PATIENT" comment="" />
+<CONTACT id="P27" start="1267" end="1280" text="(509)555-0133" TYPE="PHONE" comment="" />
+<NAME id="P28" start="1309" end="1322" text="Mercy Aguilar" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1327" end="1337" text="12/13/2060" TYPE="DATE" comment="" />
+<NAME id="P30" start="1348" end="1359" text="Saint Okoro" TYPE="DOCTOR" comment="" />
+<LOCATION id="P31" start="1361" end="1384" text="Northcrest Heart Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P32" start="1427" end="1450" text="NORTHCREST HEART CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P33" start="1462" end="1473" text="Nova Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P34" start="1481" end="1491" text="06/02/2038" TYPE="DATE" comment="" />
+<LOCATION id="P35" start="1516" end="1537" text="Pinnacle Print &amp; Pack" TYPE="ORGANIZATION" comment="" />
+<DATE id="P36" start="1541" end="1551" text="12/03/2060" TYPE="DATE" comment="" />
+<NAME id="P37" start="1592" end="1603" text="Kash Rivers" TYPE="PATIENT" comment="" />
+<NAME id="P38" start="1630" end="1641" text="Saint Okoro" TYPE="DOCTOR" comment="" />
+<DATE id="P39" start="1642" end="1652" text="12/04/2060" TYPE="DATE" comment="" />
+<DATE id="P40" start="1671" end="1681" text="11/20/2060" TYPE="DATE" comment="" />
+<NAME id="P41" start="1685" end="1695" text="M. Aguilar" TYPE="DOCTOR" comment="" />
+<NAME id="P42" start="1700" end="1711" text="Nova Brandt" TYPE="PATIENT" comment="" />
+<AGE id="P43" start="1712" end="1714" text="21" TYPE="AGE" comment="" />
+</TAGS>
+</deIdi2b2>

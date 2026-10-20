@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Marrowgate Regional Medical Center
+Primary Care -- Family Medicine
+10/26/2079
+
+To: Dr. Teodora Lindgren, DDS
+    Brightleaf Dental Associates
+Fax: (937) 555-0188
+
+RE: Garrett Pruitt, DOB March 9, 2027, MRN 0418-2297
+Referral for dental care -- gingivitis recurrent
+
+Dear Dr Lindgren,
+
+Thank you for seeing Mr Pruitt, a 52-year-old married man who works full time and has a history of chronic sinusitis, sleep apnea, prediabetes (HbA1c 6.1 today) and obesity in the past. He had gingivitis in November 2075 that resolved after cleaning and again has bleeding gums and a leaking filling on the lower left, first noted in 2073.
+
+Social history from today: lives with his wife Marisol, their son Tobias and daughter Wren, and his father Walter who is now 94 yo. They still rent from Mr. Szymanski on Alder Hollow Road. Screening today for domestic violence was positive for violence in the environment (neighbourhood, not in the home, per patient) - we are following. AUDIT-C negative.
+
+Please do a full periodontal exam, scaling, and oral health education. Sleep apnea: he may benefit from a mandibular advancement device, please advise if he is a candidate. No known drug allergies. He takes no daily medicines at present.
+
+Patient phone (937) 555-0136 (I think this is correct, previously 0163), best after 5pm.
+
+Sincerely,
+Samir Oduya, MD
+Electronically signed 10/26/2079 16:41
+cc: patient; K. Brennan MA
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="51" end="66" text="Family Medicine" TYPE="DEPARTMENT" comment="" />
+<DATE id="P1" start="67" end="77" text="10/26/2079" TYPE="DATE" comment="" />
+<NAME id="P2" start="87" end="103" text="Teodora Lindgren" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="113" end="141" text="Brightleaf Dental Associates" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P4" start="147" end="161" text="(937) 555-0188" TYPE="FAX" comment="" />
+<NAME id="P5" start="167" end="181" text="Garrett Pruitt" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="187" end="200" text="March 9, 2027" TYPE="DATE" comment="" />
+<ID id="P7" start="206" end="215" text="0418-2297" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="274" end="282" text="Lindgren" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="309" end="315" text="Pruitt" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="319" end="321" text="52" TYPE="AGE" comment="" />
+<DATE id="P11" start="492" end="505" text="November 2075" TYPE="DATE" comment="" />
+<DATE id="P12" start="619" end="623" text="2073" TYPE="DATE" comment="" />
+<NAME id="P13" start="673" end="680" text="Marisol" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="692" end="698" text="Tobias" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="712" end="716" text="Wren" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="733" end="739" text="Walter" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="751" end="753" text="94" TYPE="AGE" comment="" />
+<NAME id="P18" start="779" end="792" text="Mr. Szymanski" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="796" end="813" text="Alder Hollow Road" TYPE="STREET" comment="" />
+<CONTACT id="P20" start="1236" end="1250" text="(937) 555-0136" TYPE="PHONE" comment="" />
+<NAME id="P21" start="1323" end="1334" text="Samir Oduya" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1361" end="1371" text="10/26/2079" TYPE="DATE" comment="" />
+<NAME id="P23" start="1391" end="1401" text="K. Brennan" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

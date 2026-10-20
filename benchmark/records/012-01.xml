@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Dictated with speaker profile DRKAUR_Cust2 on mic SN 3319-0X7                                  
+EARLY, CALLA J          MRN 00-714-2285          DOB 05/30/2037          10/25/2077
+Riverbend Women's Health Clinic   Provider: Dr. Harpreet Kaur
+
+HISTORY AND PHYSICAL
+
+Chief complaint colon new patient visit and annual exam period
+
+History of present illness colon Ms. Erlie is a 40 year old female who is here to establish care period she goes by CJ comma and works at Brightmoor Credit Union as a loan officer full-time period She has chronic low back and neck pain since April 2070 comma on hydro code own acetaminophen 5/300 twice a day comma and was told it is not helping period New paragraph. She also reports stress and drinking more wine than she should comma about 3 glasses most nights comma since about the fall. Scratch that comma her real name is Calla Jo comma not Callie comma she says the chart has her wrong period (actually Calla Jo) Denies SI.
+
+Social colon Married to Garrett Early comma daughter Wren comma is 3. In the past she was in a violent relationship with a prior partner comma that was in 2073 comma and she says it is over. Her mother Odette died last year. Lives at 835 Sedgewick Row comma Tulsa comma OK 74104.
+
+Medications colon hydrocodone acetaminophen, ibuprofen as needed, birth control STOPPED August when the pack ran out comma NO current method period
+
+Vitals colon weight 82.2 kilos BMI 29.1 comma blood pressure 102 over 75. Pain 3 out of 10. GAD seven is 2 period
+
+Assessment and plan colon 1 chronic pain 2 alcohol use unhealthy comma AUDIT-C ordered 3 contraception counseling comma she will see pharmacist Tavia Bellamy PharmD. Return in one year period
+
+Thanks comma
+Strong (sic) Kaur
+Phone (918) 555-0136 comma mobile (918) 555 0136.
+Signed electronically by Harpreet Kaur MD 10/25/2077 17:44 from 172.16.8.204
+</TEXT>
+<TAGS>
+<NAME id="P0" start="30" end="42" text="DRKAUR_Cust2" TYPE="USERNAME" comment="" />
+<ID id="P1" start="50" end="61" text="SN 3319-0X7" TYPE="DEVICE" comment="" />
+<NAME id="P2" start="96" end="110" text="EARLY, CALLA J" TYPE="PATIENT" comment="" />
+<ID id="P3" start="124" end="135" text="00-714-2285" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="149" end="159" text="05/30/2037" TYPE="DATE" comment="" />
+<DATE id="P5" start="169" end="179" text="10/25/2077" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="180" end="211" text="Riverbend Women's Health Clinic" TYPE="HOSPITAL" comment="" />
+<NAME id="P7" start="224" end="241" text="Dr. Harpreet Kaur" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="366" end="371" text="Erlie" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="377" end="379" text="40" TYPE="AGE" comment="" />
+<NAME id="P10" start="445" end="447" text="CJ" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="467" end="490" text="Brightmoor Credit Union" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P12" start="496" end="508" text="loan officer" TYPE="PROFESSION" comment="" />
+<DATE id="P13" start="571" end="581" text="April 2070" TYPE="DATE" comment="" />
+<DATE id="P14" start="812" end="820" text="the fall" TYPE="DATE" comment="" />
+<NAME id="P15" start="858" end="866" text="Calla Jo" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="877" end="883" text="Callie" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="940" end="948" text="Calla Jo" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="986" end="999" text="Garrett Early" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1015" end="1019" text="Wren" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="1029" end="1030" text="3" TYPE="AGE" comment="" />
+<DATE id="P21" start="1117" end="1121" text="2073" TYPE="DATE" comment="" />
+<NAME id="P22" start="1164" end="1170" text="Odette" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="1196" end="1213" text="835 Sedgewick Row" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="1220" end="1225" text="Tulsa" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="1232" end="1234" text="OK" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="1235" end="1240" text="74104" TYPE="ZIP" comment="" />
+<DATE id="P27" start="1331" end="1337" text="August" TYPE="DATE" comment="" />
+<NAME id="P28" start="1651" end="1664" text="Tavia Bellamy" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1713" end="1719" text="Strong" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="1726" end="1730" text="Kaur" TYPE="DOCTOR" comment="" />
+<CONTACT id="P31" start="1737" end="1751" text="(918) 555-0136" TYPE="PHONE" comment="" />
+<CONTACT id="P32" start="1765" end="1779" text="(918) 555 0136" TYPE="PHONE" comment="" />
+<NAME id="P33" start="1806" end="1819" text="Harpreet Kaur" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="1823" end="1833" text="10/25/2077" TYPE="DATE" comment="" />
+<CONTACT id="P35" start="1845" end="1857" text="172.16.8.204" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO THE PATIENT
+Swan River Children's Health Service, General Paediatrics        Result released: 12/05/2095 (Thursday 12 May)
+Patient: Jakub Wisniewski-Hart   UR JW 1409-78   DOB 14/09/2078   Age: 16
+Tests collected: 09/05/2095 (full blood count, haemoglobin, white cell count)      Requested by: Dr Callum Strathairn
+Sent to: Kuba via the youth portal (https://myhealth.swanriver.example/y/kuba1409) and by post to 17 Banksia Rise, Mount Lawley WA 6050; copy to mum Eleanor.
+
+Dear Kuba,
+
+Your blood tests from Monday are normal. Your white blood cell count and haemoglobin are both in the normal range for your age, so there is no sign of anaemia or infection, and that is what we hoped to see. The questionnaire you filled out the same day about mood and worry shows that things are quite a bit better than at your 2094 visit, which I am pleased about. You told me you are still doing the skateboarding, and I will say as your doctor to please wear the helmet and wrist guards. 
+
+You were also referred to the dentist for gum bleeding, an appointment with Dr Bao Tran-Okeke at Lawley Family Dental is for Monday 23/05/2095 (that was entered as 23/05/2059 in the booking, which is a mistake). Bring this letter. If anything changes please call 0400 555 014 or message on the portal.
+
+Kind regards,
+Callum Strathairn 
+Consultant Paediatrician
+
+Pasted (wrong chart) from clinic list: "ODUYA, Beatrix, DOB 02/02/2079, UR BO 0202-79, iron deficiency, repeat ferritin in 3 months".
+Dictated but not read.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="34" end="70" text="Swan River Children's Health Service" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="116" end="126" text="12/05/2095" TYPE="DATE" comment="" />
+<DATE id="P2" start="128" end="136" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P3" start="154" end="175" text="Jakub Wisniewski-Hart" TYPE="PATIENT" comment="" />
+<ID id="P4" start="181" end="191" text="JW 1409-78" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="198" end="208" text="14/09/2078" TYPE="DATE" comment="" />
+<AGE id="P6" start="216" end="218" text="16" TYPE="AGE" comment="" />
+<DATE id="P7" start="236" end="246" text="09/05/2095" TYPE="DATE" comment="" />
+<NAME id="P8" start="319" end="336" text="Callum Strathairn" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="346" end="350" text="Kuba" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="373" end="418" text="https://myhealth.swanriver.example/y/kuba1409" TYPE="URL" comment="" />
+<LOCATION id="P11" start="435" end="450" text="17 Banksia Rise" TYPE="STREET" comment="" />
+<LOCATION id="P12" start="452" end="464" text="Mount Lawley" TYPE="CITY" comment="" />
+<LOCATION id="P13" start="465" end="467" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P14" start="468" end="472" text="6050" TYPE="ZIP" comment="" />
+<NAME id="P15" start="486" end="493" text="Eleanor" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="501" end="505" text="Kuba" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="530" end="536" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P18" start="836" end="840" text="2094" TYPE="DATE" comment="" />
+<NAME id="P19" start="1080" end="1094" text="Bao Tran-Okeke" TYPE="DOCTOR" comment="" />
+<LOCATION id="P20" start="1098" end="1118" text="Lawley Family Dental" TYPE="ORGANIZATION" comment="" />
+<DATE id="P21" start="1126" end="1132" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P22" start="1133" end="1143" text="23/05/2095" TYPE="DATE" comment="" />
+<DATE id="P23" start="1165" end="1175" text="23/05/2059" TYPE="DATE" comment="" />
+<CONTACT id="P24" start="1264" end="1276" text="0400 555 014" TYPE="PHONE" comment="" />
+<NAME id="P25" start="1318" end="1335" text="Callum Strathairn" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="1403" end="1417" text="ODUYA, Beatrix" TYPE="PATIENT" comment="" />
+<DATE id="P27" start="1423" end="1433" text="02/02/2079" TYPE="DATE" comment="" />
+<ID id="P28" start="1438" end="1448" text="BO 0202-79" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

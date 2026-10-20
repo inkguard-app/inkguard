@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>*** PORTAL MESSAGE (PATIENT TO CLINIC) ***                          PAGE 1 OF 1
+FROM: TAVIAN J WHITLOCK   (TJWHITLOCK72)      SENT: 04/05/2092 22:41
+TO: YOLANDA ETHERIDGE-MOON, CASE MGMT        SUBJECT: HELP W/ HOUSING AND KYLA
+
+MS ETHERIDGE-MOON, THIS IS TJ. YOU SAID TO SEND THE COURT NUMBER SO HERE IT IS: DOCKET 2092-CV-00418, TOLEDO MUNICIPAL, PROTECTIVE ORDER HEARING APRIL 22. MY MOM RENATA IS COMING W/ ME. THE LANDLORD MR PAPADAKIS SAYS WE HAVE TO LEAVE BY MAY 1 BECAUSE OF THE POLICE CALLS. KYLA HAS THE BABY AT HER SISTERS FOR NOW. ELIJA IS 9 MONTHS OLD NOW.
+
+ALSO MY BOSS AT DELMAR WANTS A NOTE FOR THE DAYS I MISS. CAN YOU SEND TO SHIFTS@DELMARTIRE.EXAMPLE. HIS NAME IS BARRY SZYMANSKI. DONT PUT WHY.
+
+I CAN PAY THE COPAY WITH CASH APP $TJWHITLOCK72 OR CARD ENDING 4417. I DONT HAVE THE FULL NUMBER W ME. MY MEDICAID NUMBER IS OH 0044 718 6602. 
+
+PLEASE DONT CALL THE HOUSE PHONE, KYLA BROCKET MIGHT PICK UP. CALL MY CELL 419-555-0103 AFTER 5.
+THANKS, TAVIAN
+</TEXT>
+<TAGS>
+<NAME id="P0" start="86" end="103" text="TAVIAN J WHITLOCK" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="107" end="119" text="TJWHITLOCK72" TYPE="USERNAME" comment="" />
+<DATE id="P2" start="132" end="142" text="04/05/2092" TYPE="DATE" comment="" />
+<NAME id="P3" start="153" end="175" text="YOLANDA ETHERIDGE-MOON" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="223" end="227" text="KYLA" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="232" end="246" text="ETHERIDGE-MOON" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="256" end="258" text="TJ" TYPE="PATIENT" comment="" />
+<ID id="P7" start="316" end="329" text="2092-CV-00418" TYPE="IDNUM" comment="" />
+<LOCATION id="P8" start="331" end="337" text="TOLEDO" TYPE="CITY" comment="" />
+<DATE id="P9" start="374" end="382" text="APRIL 22" TYPE="DATE" comment="" />
+<NAME id="P10" start="391" end="397" text="RENATA" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="428" end="440" text="MR PAPADAKIS" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="466" end="471" text="MAY 1" TYPE="DATE" comment="" />
+<NAME id="P13" start="501" end="505" text="KYLA" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="543" end="548" text="ELIJA" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="552" end="560" text="9 MONTHS" TYPE="AGE" comment="" />
+<LOCATION id="P16" start="587" end="593" text="DELMAR" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P17" start="644" end="669" text="SHIFTS@DELMARTIRE.EXAMPLE" TYPE="EMAIL" comment="" />
+<NAME id="P18" start="683" end="698" text="BARRY SZYMANSKI" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="749" end="762" text="$TJWHITLOCK72" TYPE="USERNAME" comment="" />
+<ID id="P20" start="840" end="856" text="OH 0044 718 6602" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P21" start="894" end="906" text="KYLA BROCKET" TYPE="PATIENT" comment="" />
+<CONTACT id="P22" start="935" end="947" text="419-555-0103" TYPE="PHONE" comment="" />
+<NAME id="P23" start="965" end="971" text="TAVIAN" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,17 @@
+NEUROSURGERY SPINE TUMOUR CLINIC
+{{FACILITY|Ashgrove University Medical Center}}
+{{NAME|Ingrid Solheim-Barzani}}  MRN {{MRN|AUM-77601943}}  {{DATE|01/21/2080}}
+
+44 F, 14 months of interscapular [[dysaesthetic pain]], bilateral hand numbness (worse at night), and new urinary hesitancy.
+Exam: [[dissociated sensory loss]] C5-T2 bilaterally ([[cape-like distribution]]), [[hyperreflexia]] lower limbs, [[Babinski]] bilateral, [[Romberg positive]], mild [[spastic paraparesis]] 4+/5. [[Modified McCormick grade II]] (mild motor or sensory deficit, functionally independent).
+[[MRI cervical/thoracic with gadolinium]]: centrally located, homogeneously enhancing [[intramedullary tumour]] C6-T1, with [[cap sign]] (haemosiderin cap on [[T2]]), rostral and caudal [[syrinx]] C3-T4, [[cord expansion]]. Appearance most consistent with [[spinal cord ependymoma]] (differential [[haemangioblastoma]] — no flow voids — and [[astrocytoma]] — less likely given central position and clear margins).
+[[MRI brain]]: no intracranial lesions; [[NF2]] stigmata absent.
+Plan: [[C6-T1 laminoplasty]] with [[posterior midline myelotomy]] and [[gross total resection]] under [[D-wave monitoring]] and [[MEP]]. Discussed risk of worsening [[proprioception]] post [[myelotomy]].
+Dr. {{NAME|Ambrose Kittredge}}
+=====NOTE=====
+OPERATIVE REPORT {{DATE|02/18/2080}} — {{NAME|SOLHEIM-BARZANI, INGRID}} — {{MRN|AUM-77601943}}
+Prone, [[Mayfield pins]], neck neutral. [[C6-T1 en bloc laminoplasty]] with [[piezoelectric bone scalpel]]. [[Intraoperative ultrasound]] confirmed the tumour rostro-caudal extent. Dura opened midline and tacked. [[Dorsal median sulcus]] identified between the [[posterior spinal veins]]; [[midline myelotomy]] performed with an arachnoid knife; [[pial traction sutures]]. A well-demarcated, reddish-grey tumour with a clear plane was dissected en bloc after internal debulking with the [[CUSA]]. [[D-wave amplitude]] decreased 20% then stabilised (under the 50% warning criterion); [[MEP]] lower limbs transiently lost on the left, returned at closure.
+Watertight dural closure [[6-0 Prolene]] with [[DuraSeal]]. Laminae replaced with [[titanium mini-plates]].
+Frozen: [[ependymoma]]. Final: [[spinal ependymoma, CNS WHO grade 2]], [[MYCN amplification]] not present. Surgeon: Dr. {{NAME|A. Kittredge}}; Asst: Dr. {{NAME|Yerlan Dzhaksybekov}}.
+=====NOTE=====
+3-mo F/U {{DATE|05/19/2080}} {{NAME|I. Solheim-Barzani}}. MRI: [[gross total resection]], [[syrinx collapsed]]. [[Modified McCormick grade II]] (unchanged from pre-op). Worse [[joint position sense]] L foot initially, now improving; [[Romberg]] still positive. [[Neuropathic pain]] controlled with [[pregabalin 75 mg BID]]. No [[post-laminectomy kyphosis]] on standing XR ([[C2-7 lordosis]] 9 degrees). No adjuvant RT (GTR of [[WHO grade 2]]). [[Surveillance MRI]] of the [[cervical and thoracic spine with gadolinium]] q6 months x2 years then yearly. Bladder: [[post-void residual]] 60 mL, [[urodynamics]] normal. [[Spasticity]] minimal. Patient portal {{URL|https://ashgrove-amc.example.net/patient/77601943}}.

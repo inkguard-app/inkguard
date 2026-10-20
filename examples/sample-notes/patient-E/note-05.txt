@@ -1,0 +1,14 @@
+LAB RESULT COMMENT - sent to patient (portal + letter)
+01/05/2078   Eastbank Community Health Center
+Dear Mr. Gebremehdin,
+
+Your tests from today:
+HbA1c 6.1% (prediabetes range, steady). Fasting glucose 96. Total cholesterol 135, LDL 62.6 - very good. 
+S: you feel ok, back pain 3/10, not sleeping so well (GAD-7 3, improved from 11).
+O: wt 81.5 kg, BMI 29.5, BP 110/88.
+A: prediabetes stable; weight down about 2 kg since last year.
+P: keep walking. Repeat A1c in 1 year. We reviewd all your meds (just ibuprofen as needed, no others).
+
+If you want a interpreter for the call, ask for Hanna or anyone. Call (614) 555-0100. 
+Sincerely, Anselm Rhodes-Mbeki MD    (dictated 1/5, signed 01/06/2078)
+cc: Selam Gebremedhin (wife), M. Duquesnoy

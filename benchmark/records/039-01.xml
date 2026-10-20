@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 2 | NOTE_TYPE=LAB RESULT COMMENT | PT_NAME=ROYAL, SILAS T | MRN=C-5521903 | DOB=11/12/2007 | RESULT_DATE=05/26/2069
+ROW 3 | TEXT=
+Greywater Heart &amp; Vascular Institute - Lab Result Note to Patient
+Haywood Street Lab Services collected on 05/25/2069. Resulted 05/26/2069 07:40.
+
+Dear Mr. Royale,
+
+Your cholesterol panel from your visit with Dr. Strong was back and I have reviewed it. Your total cholesterol is 283.9 mg/dL (last year it was 179.7) and your LDL, the "bad" cholesterol, is 174.5 mg/dL (last year 98.7). Both are high. Your glucose was normal at 82.1 and your kidney function (eGFR) is 70.6, which is fine for age 61.
+
+Because of this, and because you have had high blood pressure on your chart since 2052 and a BMI over 30, Dr. Hart would like to see you in the cardiology clinic. The scheduling team will call (828) 555-0151 to set a time. If that number is out of date please call us back on (828) 555-0120 ext. 2290 and ask for Corinne.
+
+Meanwhile: cut back on fried foods and fatty red meat, walk 30 mins most days, and do not skip meals. It is fine to keep drinking water with lemon. No need to fast before the clinic visit.
+
+@NAME@ you can reply through the portal at https://my.greywaterheart.example/royal or by phone.
+
+Sincerely,
+Corinne Faulkner RN, on behalf of Dr. Anita Hart
+Electronically signed 05/26/2069 09:12 by C Faulkner   Last edited from 172.19.8.140
+
+--- copied forward from last result note (05/19/2068) ---
+Dear Mr. Royal, Your labs were fine. Total chol 179.7, LDL 98.7, WBC 4.3, Hgb 15.0. Please continue your current medications (hydrochlorothiazide, lisinopril, amlodipine).
+Pt's mother Gladys called for results, ok to talk to her? Pt said yes at visit.
+cc: PCP Dr. Lee Strong, Mountain Lantern Primary Care
+ROW 4 | CHECK_BOX: [x] Patient notified by portal  [ ] Patient notified by phone (spoke to: ________)  [x] Results to Dr. Heart
+</TEXT>
+<TAGS>
+<NAME id="P0" start="47" end="61" text="ROYAL, SILAS T" TYPE="PATIENT" comment="" />
+<ID id="P1" start="68" end="77" text="C-5521903" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="84" end="94" text="11/12/2007" TYPE="DATE" comment="" />
+<DATE id="P3" start="109" end="119" text="05/26/2069" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="134" end="170" text="Greywater Heart &amp; Vascular Institute" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="200" end="227" text="Haywood Street Lab Services" TYPE="ORGANIZATION" comment="" />
+<DATE id="P6" start="241" end="251" text="05/25/2069" TYPE="DATE" comment="" />
+<DATE id="P7" start="262" end="272" text="05/26/2069" TYPE="DATE" comment="" />
+<NAME id="P8" start="290" end="296" text="Royale" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="347" end="353" text="Strong" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="630" end="632" text="61" TYPE="AGE" comment="" />
+<DATE id="P11" start="717" end="721" text="2052" TYPE="DATE" comment="" />
+<NAME id="P12" start="745" end="749" text="Hart" TYPE="DOCTOR" comment="" />
+<CONTACT id="P13" start="828" end="842" text="(828) 555-0151" TYPE="PHONE" comment="" />
+<CONTACT id="P14" start="911" end="925" text="(828) 555-0120" TYPE="PHONE" comment="" />
+<CONTACT id="P15" start="931" end="935" text="2290" TYPE="PHONE" comment="" />
+<NAME id="P16" start="948" end="955" text="Corinne" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="1191" end="1230" text="https://my.greywaterheart.example/royal" TYPE="URL" comment="" />
+<NAME id="P18" start="1256" end="1272" text="Corinne Faulkner" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1294" end="1304" text="Anita Hart" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1327" end="1337" text="05/26/2069" TYPE="DATE" comment="" />
+<NAME id="P21" start="1347" end="1357" text="C Faulkner" TYPE="DOCTOR" comment="" />
+<CONTACT id="P22" start="1377" end="1389" text="172.19.8.140" TYPE="IPADDR" comment="" />
+<DATE id="P23" start="1433" end="1443" text="05/19/2068" TYPE="DATE" comment="" />
+<NAME id="P24" start="1458" end="1463" text="Royal" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1633" end="1639" text="Gladys" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1713" end="1723" text="Lee Strong" TYPE="DOCTOR" comment="" />
+<LOCATION id="P27" start="1725" end="1754" text="Mountain Lantern Primary Care" TYPE="ORGANIZATION" comment="" />
+<NAME id="P28" start="1877" end="1882" text="Heart" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

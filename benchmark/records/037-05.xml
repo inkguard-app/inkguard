@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX COVER SHEET
+
+TO: Tupelo Dental Group, new patient desk       FAX: (850) 555-0172
+FROM: Dr. Pylypchuk, Capital Hollow Primary Care       FAX: (850) 555-0101      PHONE: (850) 555-0100
+DATE: 07/14/2060        PAGES: 2 (with this cover)
+
+RE: Referral for dentist examination and cleaning -- Mr. Ashdown, Callum R., DOB 1/23/2019
+
+MESSAGE:
+Dear colleagues, please to see this patient who is 41 year old and have bleeding gums since long time. He had gingivitis in the 2051 and in 2057. No allergies to medicines. No anticoagulant, and no heart valve problem. He is taking ibuprofen sometimes only.
+
+He have no car, so please give him appointment not too early in morning, because bus from Fennimore Road is slow. His phone is 850-555-0163, and email is callum.ashdown@gulfmail.example. Wife Marisol can call also.
+
+Insurance: self pay at the moment, will bring the card in future. 
+Please send your report to our fax above. Thank you very much for your kind help, and with best regards,
+
+Dr. O. Pylypchuk
+
+This message is confidential and is for the use of the addressee only. If you got it by mistake, please inform the sender and destroy it. Sent from the account of opylypchuk on July 14th.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="21" end="40" text="Tupelo Dental Group" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P1" start="70" end="84" text="(850) 555-0172" TYPE="FAX" comment="" />
+<NAME id="P2" start="95" end="104" text="Pylypchuk" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="106" end="133" text="Capital Hollow Primary Care" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P4" start="145" end="159" text="(850) 555-0101" TYPE="FAX" comment="" />
+<CONTACT id="P5" start="172" end="186" text="(850) 555-0100" TYPE="PHONE" comment="" />
+<DATE id="P6" start="193" end="203" text="07/14/2060" TYPE="DATE" comment="" />
+<NAME id="P7" start="296" end="303" text="Ashdown" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="305" end="314" text="Callum R." TYPE="PATIENT" comment="" />
+<DATE id="P9" start="320" end="329" text="1/23/2019" TYPE="DATE" comment="" />
+<AGE id="P10" start="391" end="393" text="41" TYPE="AGE" comment="" />
+<DATE id="P11" start="468" end="472" text="2051" TYPE="DATE" comment="" />
+<DATE id="P12" start="480" end="484" text="2057" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="689" end="703" text="Fennimore Road" TYPE="STREET" comment="" />
+<CONTACT id="P14" start="726" end="738" text="850-555-0163" TYPE="PHONE" comment="" />
+<CONTACT id="P15" start="753" end="784" text="callum.ashdown@gulfmail.example" TYPE="EMAIL" comment="" />
+<NAME id="P16" start="791" end="798" text="Marisol" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="992" end="1004" text="O. Pylypchuk" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1169" end="1179" text="opylypchuk" TYPE="USERNAME" comment="" />
+<DATE id="P19" start="1183" end="1192" text="July 14th" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

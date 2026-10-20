@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>note_id,mrn,pt_name,dob,enc_date,author,dept,note_type,text
+"PM-1190","3305-9172","Pike, Jasper","2/11/2049","09/05/2064","patient (portal)","Pediatrics","Portal message","hi its jasper pike (not june anymore, legal since last Dec pls fix the chart!!) i saw Dr Whitcombe yesterday for my checkup. she gave me a referal for my gums, bleeds when i brush. can u send it to green mtn dental?? mom said its ok, her number is 802 555 0145 not the old one. also my birthday on the form says 2/12 its 2/11. my friend Tobias Wren says u can get a note for gym?? coach Dwyer wants a doctors note for Thursday soccer, ankle fine tho. my email is jasper.pik3@mailbox-demo.net autocorrect keeps changing Pike to Pikes Peak lol. my locker combo is 12-30-8 dont tell. gamertag PikeOfDoom_09. thx - jp"
+</TEXT>
+<TAGS>
+<ID id="P0" start="71" end="80" text="3305-9172" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="83" end="95" text="Pike, Jasper" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="98" end="107" text="2/11/2049" TYPE="DATE" comment="" />
+<DATE id="P3" start="110" end="120" text="09/05/2064" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="142" end="152" text="Pediatrics" TYPE="DEPARTMENT" comment="" />
+<DATE id="P5" start="222" end="230" text="last Dec" TYPE="DATE" comment="" />
+<CONTACT id="P6" start="420" end="432" text="802 555 0145" TYPE="PHONE" comment="" />
+<DATE id="P7" start="484" end="488" text="2/12" TYPE="DATE" comment="" />
+<DATE id="P8" start="493" end="497" text="2/11" TYPE="DATE" comment="" />
+<NAME id="P9" start="509" end="520" text="Tobias Wren" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="559" end="564" text="Dwyer" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="590" end="598" text="Thursday" TYPE="DATE" comment="" />
+<CONTACT id="P12" start="635" end="663" text="jasper.pik3@mailbox-demo.net" TYPE="EMAIL" comment="" />
+<NAME id="P13" start="762" end="775" text="PikeOfDoom_09" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

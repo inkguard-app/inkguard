@@ -1,0 +1,29 @@
+NEUROTRAUMA ICU — ADMISSION H&P
+{{FACILITY|Kestrel Point Level I Trauma Center}}
+Patient: {{NAME|Darnell Okoye-Whitfield}}   MRN {{MRN|KPT-990142}}   Age 23
+Date: {{DATE|12/31/2063}} 23:52
+
+MECHANISM: motorcycle vs. guardrail, unhelmeted, ejected.
+On scene [[GCS 6]] → intubated. Arrival [[GCS 5T (E1VTM4)]], [[pupils 5 mm right non-reactive, 3 mm left reactive]] (right [[anisocoria]] with [[uncal herniation]] concern). [[Cushing triad]] partially present: HR 52, BP 186/94, irregular respirations pre-intubation.
+
+[[CT head]]: right [[acute subdural haematoma]] 14 mm, [[midline shift]] 11 mm, effaced [[basal cisterns]], scattered [[contusions]] bifrontal, traumatic [[subarachnoid haemorrhage]] in convexity sulci. [[Marshall CT class V]] (evacuated mass lesion). [[Rotterdam CT score 5]]. [[CT C-spine]]: no fracture.
+
+Plan: emergent right [[decompressive hemicraniectomy]] and evacuation of SDH; [[hypertonic saline 23.4% 30 mL]] bolus given; [[mannitol 1 g/kg]]; head of bed 30 degrees; target [[PaCO2 35-38]].
+
+Neurosurgery attending {{NAME|Hyacinth Morgenstern}}, MD. Mother {{NAME|Lorraine Whitfield}} en route, {{PHONE|555-504-7783}}.
+=====NOTE=====
+OP NOTE — {{DATE|01/01/2064}} — {{NAME|OKOYE-WHITFIELD, D.}} {{MRN|KPT-990142}}
+Procedure: Right [[fronto-temporo-parietal decompressive hemicraniectomy]] (bone flap 14 x 12 cm), evacuation of [[acute subdural haematoma]], [[duraplasty]] with [[DuraGen]], placement of right frontal [[EVD]] and [[Camino intraparenchymal ICP monitor]].
+[[Reverse question-mark incision]]. Temporal squama removed to the floor of the [[middle cranial fossa]] with [[Leksell rongeur]] to decompress the [[temporal lobe]] and [[brainstem]]. Dura opened in stellate fashion; clot evacuated; bridging vein bleeding controlled with [[Surgiflo]] and [[bipolar]]. Brain remained full but pulsatile.
+[[Kocher's point]] EVD trajectory confirmed with [[Ghajar guide]]. Bone flap stored in [[abdominal subcutaneous pocket]]. Bone flap tracking number {{ID|BF-KPT-63-00217}}.
+Opening ICP 34 mmHg → 9 mmHg at closure.
+=====NOTE=====
+NICU PROGRESS NOTE — POD3 — {{DATE|01/04/2064}}
+{{NAME|D. Okoye-Whitfield}}  {{MRN|KPT-990142}}
+
+Neuro: off sedation trial 0800, [[GCS 8T (E3VTM5)]], localising L > R. Pupils 3 mm equal, reactive. [[Bone flap site]] soft, flap full but not tense.
+ICP: [[EVD open at 10 cmH2O]], [[ICP 12-18 mmHg]], one sustained elevation to [[ICP 26 mmHg]] at 0300 with suctioning, resolved with [[3% saline 250 mL]]. CSF output 180 mL/24 h, clear.
+[[CPP 65-70 mmHg]]. [[PbtO2]] 24 mmHg ([[Licox]]).
+Na 151 (goal 145-155). [[Serum osmolality]] 314.
+Meds: [[levetiracetam 1 g BID]] (7-day seizure prophylaxis), [[enoxaparin 40 mg daily]] started (stable CT at 72 h), [[propofol]] weaned.
+Plan: [[tracheostomy]] and [[PEG]] discussion with family; continue [[tier 1 ICP management (SIBICC)]]. Future [[autologous cranioplasty]] at 3 months.

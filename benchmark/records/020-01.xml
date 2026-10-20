@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO PATIENT  (dictated, not prooffed)
+
+To: Zofia Wisniewska-Okeke          Date released: October 20, 2062
+MRN 0620-18-4417   DOB 09/30/2018   OHIP 4417-293-806-KM
+
+Dear Mrs. Okeke,
+
+Your blood tests from October 15 are back. Your hemoglobin A one C was six point four percent which is in the pre diabetic range, up slightly from last year, it was 6 point 3, so a hypo glycemic diet is not what we want, we want to avoid HYPER glycemia. Your blood sugqr the day was seventy four. Your weight is stable at egihty seven point six kilos.
+
+Your choesterol from last year october was high, we did not repeat it today, we will in the spring. Please book that with the lab at Lakemont Regional Health Centre.
+
+Dr Matthias Brandt-Kessler would like to see you at your next visit and wants to talk about a walk program. If you have questions you may call 905-555-0166 or send us a message through the portla at www.lakemont-health.example/portal.
+
+Regards, nurse Fiona Carrick-Lowe for Dr Brandt-Kessler
+
+[Comment by fcarrick, 10/19/2062: pls conffirm A1c 6.4 not 6.5 b4 sending]
+[Tracked deletion by fcarrick: Dear Mr. Dunmore, your PSA]
+[Tracked insertion by fcarrick: Dear Mrs. Okeke,]
+</TEXT>
+<TAGS>
+<NAME id="P0" start="61" end="83" text="Zofia Wisniewska-Okeke" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="108" end="124" text="October 20, 2062" TYPE="DATE" comment="" />
+<ID id="P2" start="129" end="141" text="0620-18-4417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="148" end="158" text="09/30/2018" TYPE="DATE" comment="" />
+<ID id="P4" start="166" end="181" text="4417-293-806-KM" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P5" start="188" end="198" text="Mrs. Okeke" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="223" end="233" text="October 15" TYPE="DATE" comment="" />
+<DATE id="P8" start="575" end="592" text="last year october" TYPE="DATE" comment="" />
+<DATE id="P9" start="646" end="652" text="spring" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="687" end="718" text="Lakemont Regional Health Centre" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="724" end="747" text="Matthias Brandt-Kessler" TYPE="DOCTOR" comment="" />
+<CONTACT id="P12" start="864" end="876" text="905-555-0166" TYPE="PHONE" comment="" />
+<CONTACT id="P13" start="920" end="954" text="www.lakemont-health.example/portal" TYPE="URL" comment="" />
+<NAME id="P14" start="972" end="990" text="Fiona Carrick-Lowe" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="998" end="1012" text="Brandt-Kessler" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1026" end="1034" text="fcarrick" TYPE="USERNAME" comment="" />
+<DATE id="P17" start="1036" end="1046" text="10/19/2062" TYPE="DATE" comment="" />
+<NAME id="P18" start="1110" end="1118" text="fcarrick" TYPE="USERNAME" comment="" />
+<NAME id="P19" start="1125" end="1136" text="Mr. Dunmore" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="1170" end="1178" text="fcarrick" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

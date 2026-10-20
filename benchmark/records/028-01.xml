@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Cedar Grove Children's Clinic                                  TELEPHONE ENCOUNTER
+410 Alder Street, Burlington, VT 05401      Tel (802) 555-0100   Fax (802) 555-0101
+
+Patient name: Lipitor Whitlock        Date of birth: 02/27/2072        MRN PD-2072-0048
+Date of call: December 26th 2074  time 0 8 4 5      Caller: mother, Rooksana Anwar      Taken by Priya Nambiar RN
+(dictated using voice recognition, not reviewed)
+
+Mother called to say that the cough is not better since the visit on December 16th for acute bronchitis comma now day ten. Child is two years and nine months old and weighs about thirteen kilos. Urgent care was seen on Christmas Eve where they listened to her chest and said it was clear, no pneumonia, and gave no new medicine. The child has been eating wale and drinking, no fever, sleeping through the night when she gets the night time syrup. Mother is giving the syrup the doctor prescribed on the sixteenth, acetaminophen dextromethorphan and dock slamming in the bedtime dose only. She asks if that's still OK because the pharmacists said its not for kids under four. I told her I would check with Dr. Oh Be Thornton and call back.
+
+Also mother says her husband Callum Whitlock is has been out with the same cough, and great grandmother Hester who is ninety four and visiting from Rutland is also coffin. Asked if Nana should stay away from the baby. Advised handwashing and keeping her away if the cough is wet new paragraph.
+
+Doctor Obi-Thornton reviewed at 1 0 20. Continue the bedtime dose only, honey is not needed. Since the bronchitis is lasting more than ten days she wants to see her again if still coughing on Monday or any fever over one hundred and one, fast breathing, or trouble drinking. Mother read back. Mother gave a callback number of eight oh two five five five oh one three seven and father 802-555-0192. Mother works at Champlain Orthodontics and can only be reached after 5.
+
+Note routed to: Obi-Thornton, A. MD; cc school Little Acorns Montessori form NOT required.
+Electronically signed by P. Nambiar RN 12/26/2074 1 1 04 [transcribed by speech recognition software version 4.2, user pnambiar]
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="29" text="Cedar Grove Children's Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="83" end="99" text="410 Alder Street" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="101" end="111" text="Burlington" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="113" end="115" text="VT" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="116" end="121" text="05401" TYPE="ZIP" comment="" />
+<CONTACT id="P5" start="131" end="145" text="(802) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="152" end="166" text="(802) 555-0101" TYPE="FAX" comment="" />
+<NAME id="P7" start="182" end="198" text="Lipitor Whitlock" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="221" end="231" text="02/27/2072" TYPE="DATE" comment="" />
+<ID id="P9" start="243" end="255" text="PD-2072-0048" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P10" start="270" end="288" text="December 26th 2074" TYPE="DATE" comment="" />
+<NAME id="P11" start="324" end="338" text="Rooksana Anwar" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="353" end="366" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="489" end="502" text="December 16th" TYPE="DATE" comment="" />
+<AGE id="P14" start="552" end="577" text="two years and nine months" TYPE="AGE" comment="" />
+<DATE id="P15" start="639" end="652" text="Christmas Eve" TYPE="DATE" comment="" />
+<DATE id="P16" start="923" end="932" text="sixteenth" TYPE="DATE" comment="" />
+<NAME id="P17" start="1129" end="1143" text="Oh Be Thornton" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1189" end="1204" text="Callum Whitlock" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1264" end="1270" text="Hester" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="1278" end="1289" text="ninety four" TYPE="AGE" comment="" />
+<LOCATION id="P21" start="1308" end="1315" text="Rutland" TYPE="CITY" comment="" />
+<NAME id="P22" start="1462" end="1474" text="Obi-Thornton" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1647" end="1653" text="Monday" TYPE="DATE" comment="" />
+<CONTACT id="P24" start="1781" end="1827" text="eight oh two five five five oh one three seven" TYPE="PHONE" comment="" />
+<CONTACT id="P25" start="1839" end="1851" text="802-555-0192" TYPE="PHONE" comment="" />
+<LOCATION id="P26" start="1869" end="1891" text="Champlain Orthodontics" TYPE="ORGANIZATION" comment="" />
+<NAME id="P27" start="1942" end="1954" text="Obi-Thornton" TYPE="DOCTOR" comment="" />
+<LOCATION id="P28" start="1973" end="1997" text="Little Acorns Montessori" TYPE="ORGANIZATION" comment="" />
+<NAME id="P29" start="2042" end="2052" text="P. Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P30" start="2056" end="2066" text="12/26/2074" TYPE="DATE" comment="" />
+<NAME id="P31" start="2136" end="2144" text="pnambiar" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

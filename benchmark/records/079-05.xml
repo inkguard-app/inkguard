@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>REFERRAL LETTER
+October 20, 2066
+To: Dr. Bliss Adeyemi, Gynecology, Lilac Valley Women's Health
+Fax: (509) 555-0166          Referral no. REF-66-0412
+From: Aster Quinn, MD, Maple Bend Family Medicine, tel (509) 555-0100
+
+Re: Journey Rich, DOB 03/09/2038, MRN 7720-315, 28 y.o.
+
+Dear Dr. Adeyemi,
+Thank you for seeing this 28 year old woman who is 8 months post-partum (02/15/2066) with heavy menstrual bleeding and new anemia (Hb 11.3 on 10/18/2066, previously 15.9 on 10/11/2066). Pelvic US on 10/14/2066: 1.4 cm fundal fibroid, otherwise normal. Past hx: second trimester miscarriage 01/2061 (chromosomal abnormality), prediabetes, bronchitis 2061.
+She works part time at Lake Street Bakery (started this month) and previously full time at Bluebird Call Center. Please contact her on her cell (509) 555-0178 only; she has disclosed safety concerns at home and asked that her husband Darnell Rich ("Twelve") not be told details of the results. Our social worker has seen her. Release form ROI-2066-1187 is signed for your clinic.
+Her mother, Hope Wilkes, helps with the baby, Story. Pt's own maiden name Wilkes: records at Lilac Valley Women's Health may be under Journey Wilkes.
+Meds: iron started this week. No allergies recorded.
+Yours sincerely,
+Aster Quinn, MD
+cc: patient, Jade Stern
+</TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="32" text="October 20, 2066" TYPE="DATE" comment="" />
+<NAME id="P1" start="41" end="54" text="Bliss Adeyemi" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="56" end="66" text="Gynecology" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P3" start="68" end="95" text="Lilac Valley Women's Health" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P4" start="101" end="115" text="(509) 555-0166" TYPE="FAX" comment="" />
+<ID id="P5" start="138" end="149" text="REF-66-0412" TYPE="IDNUM" comment="" />
+<NAME id="P6" start="156" end="167" text="Aster Quinn" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="173" end="199" text="Maple Bend Family Medicine" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P8" start="205" end="219" text="(509) 555-0100" TYPE="PHONE" comment="" />
+<NAME id="P9" start="225" end="237" text="Journey Rich" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="243" end="253" text="03/09/2038" TYPE="DATE" comment="" />
+<ID id="P11" start="259" end="267" text="7720-315" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P12" start="269" end="271" text="28" TYPE="AGE" comment="" />
+<NAME id="P13" start="287" end="294" text="Adeyemi" TYPE="DOCTOR" comment="" />
+<AGE id="P14" start="322" end="324" text="28" TYPE="AGE" comment="" />
+<DATE id="P15" start="369" end="379" text="02/15/2066" TYPE="DATE" comment="" />
+<DATE id="P16" start="438" end="448" text="10/18/2066" TYPE="DATE" comment="" />
+<DATE id="P17" start="469" end="479" text="10/11/2066" TYPE="DATE" comment="" />
+<DATE id="P18" start="495" end="505" text="10/14/2066" TYPE="DATE" comment="" />
+<DATE id="P19" start="586" end="593" text="01/2061" TYPE="DATE" comment="" />
+<DATE id="P20" start="645" end="649" text="2061" TYPE="DATE" comment="" />
+<LOCATION id="P21" start="674" end="692" text="Lake Street Bakery" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P22" start="742" end="762" text="Bluebird Call Center" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P23" start="795" end="809" text="(509) 555-0178" TYPE="PHONE" comment="" />
+<NAME id="P24" start="885" end="897" text="Darnell Rich" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="900" end="906" text="Twelve" TYPE="PATIENT" comment="" />
+<ID id="P26" start="990" end="1003" text="ROI-2066-1187" TYPE="IDNUM" comment="" />
+<NAME id="P27" start="1043" end="1054" text="Hope Wilkes" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1077" end="1082" text="Story" TYPE="PATIENT" comment="" />
+<NAME id="P29" start="1105" end="1111" text="Wilkes" TYPE="PATIENT" comment="" />
+<LOCATION id="P30" start="1124" end="1151" text="Lilac Valley Women's Health" TYPE="HOSPITAL" comment="" />
+<NAME id="P31" start="1165" end="1179" text="Journey Wilkes" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="1251" end="1262" text="Aster Quinn" TYPE="DOCTOR" comment="" />
+<NAME id="P33" start="1280" end="1290" text="Jade Stern" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

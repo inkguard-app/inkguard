@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE NOTE
+Date of surgery: 05/23/2067
+Patient: FROST, A     Procedure: Primary low transverse cesarean section after augmentation of labor
+Surgeon: Dr. Okonjo     Assistant: R. Kapoor (resident)     Anaesthesia: Dr. Li, epidural converted to spinal/epidural top-up
+Pre-op dx: Failure to progress, term pregnancy. Post-op dx: same.
+
+Indications: arrest of dilation at 6 cm for 4 hrs despite adequate contractions on oxytocin. Risks discussed, consent signed by patient with partner Dev present.
+
+Findings: Live infant, wt 3.4 kg, Apgars 8 and 9. Clear fluid. Normal uterus, tubes and ovaries.
+
+Description: Pt supine w/ left tilt, prepped and draped. Pfannenstiel incision. Uterus incised transversely, infant delivered vertex, cord clamped, cord blood sent. Placenta delivered intact. Uterus closed in 2 layers, fascia closed w/ running suture, skin w/ subcuticular. Counts correct x2. EBL 600 mL. Pt to recovery stable.
+
+Post-op: the baby is called "Baby Girl Frost" on the band but mom says his name is Ocean. (Baby is a boy -- band corrected.)
+
+Dictated by Pilar Okonjo, MD. "Pillar Okonjo" in the header was an autocorrect, ignore. Signed 05/23/2067.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="32" end="42" text="05/23/2067" TYPE="DATE" comment="" />
+<NAME id="P1" start="52" end="60" text="FROST, A" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="153" end="163" text="Dr. Okonjo" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="179" end="188" text="R. Kapoor" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="217" end="223" text="Dr. Li" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="486" end="489" text="Dev" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="956" end="971" text="Baby Girl Frost" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="1010" end="1015" text="Ocean" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="1065" end="1077" text="Pilar Okonjo" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1084" end="1090" text="Pillar" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="1148" end="1158" text="05/23/2067" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

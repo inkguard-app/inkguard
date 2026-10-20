@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"RADIOLOGY REPORT"  (Word version, tracked changes ON)
+
+Saltmarsh Regional Medical Center - Diagnostic Imaging
+Pt: Marisol Teixeira-Brandt    DOB: 03/19/2028    MRN: 5530-2271
+Accession: RAD-69-447120     Exam date: 09/24/2069
+Ordering: Dr. Fiona Page  (Eastgate Women's Health, cc oncology)
+Exam: CT abd/pelvis with IV contrast
+
+S: 41 y.o. female sent from the ER follow up clinic with rectal bleeding since August 13, weight loss, tired all the time. Hx of 2 early pregnancy losses and a pre-eclampsia pregnancy, nothing abdominal surgically.
+
+O: Compared to nothing, no prior CT in our sytem. Thickened wall of the rectosigmoid colon about 4 cm long with stranding around it. Mutliple low density lesions both lobes of liver, largest 3.1 cm in segment 7. Small lymph nodes along the mesentery. No free fluid. Uterus is normal size, IUD not seen (pt is on a ring, see chart) [Comment by Jenna Kowalczyk, MA: pt told me the ring ended in 2069, pls check]. Lungs bases clear. Kidneys fine.
+
+A: Rectosigmoid mass with liver metastases, tumor spread until proven otherwise. Looks like possible Lynch syndrome type pattern? Not our call. Not Crohn's.
+
+P: Recommend colonoscopy w/ biopsy and call to Tomasz Varga today. Called to office 09/24/2069 at 15:40, spoke with front desk.
+
+In conclusion, the CT scan of Marisol tells a story of a young woman's journey, which is a heavy one, and the radiology team hopes this page helps her care team move quickly. Pt was super chill in the scanner, no vibes of anxiety.
+ 
+Dictated by Anneliese Okonkwo-Reyes, MD, typed by volunteer Aiden Prewitt (shadowing, high school)
+Elecronically signed by Dr Okonkwo Reyes on 9/24/2069 17:12
+Last edited by aprewitt from 10.44.8.213
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="56" end="89" text="Saltmarsh Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="92" end="110" text="Diagnostic Imaging" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="115" end="138" text="Marisol Teixeira-Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="147" end="157" text="03/19/2028" TYPE="DATE" comment="" />
+<ID id="P4" start="166" end="175" text="5530-2271" TYPE="MEDICALRECORD" comment="" />
+<ID id="P5" start="187" end="200" text="RAD-69-447120" TYPE="IDNUM" comment="" />
+<DATE id="P6" start="216" end="226" text="09/24/2069" TYPE="DATE" comment="" />
+<NAME id="P7" start="241" end="251" text="Fiona Page" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="254" end="277" text="Eastgate Women's Health" TYPE="ORGANIZATION" comment="" />
+<AGE id="P9" start="333" end="335" text="41" TYPE="AGE" comment="" />
+<DATE id="P10" start="409" end="418" text="August 13" TYPE="DATE" comment="" />
+<DATE id="P11" start="939" end="943" text="2069" TYPE="DATE" comment="" />
+<NAME id="P12" start="1196" end="1208" text="Tomasz Varga" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="1233" end="1243" text="09/24/2069" TYPE="DATE" comment="" />
+<NAME id="P14" start="1308" end="1315" text="Marisol" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1523" end="1546" text="Anneliese Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1571" end="1584" text="Aiden Prewitt" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1637" end="1650" text="Okonkwo Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1654" end="1663" text="9/24/2069" TYPE="DATE" comment="" />
+<CONTACT id="P19" start="1699" end="1710" text="10.44.8.213" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

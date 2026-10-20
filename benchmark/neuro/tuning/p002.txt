@@ -1,0 +1,33 @@
+OPERATIVE REPORT
+
+Patient: {{NAME|Ronald Penfield}}
+MRN: {{MRN|SBM-77120934}}
+Date of surgery: {{DATE|08/17/2068}}
+Surgeon: {{NAME|Imogen Talbot-Ruiz}}, MD
+Assistant: {{NAME|Kwame Asante}}, MD (PGY-5)
+Facility: {{FACILITY|St. Brannock Medical Center}}
+
+PREOPERATIVE DIAGNOSIS: Right [[parasagittal meningioma]], middle third of the [[superior sagittal sinus]], 4.1 cm.
+POSTOPERATIVE DIAGNOSIS: Same; [[WHO grade 1 meningioma]] on frozen section.
+PROCEDURE: [[Right parasagittal craniotomy]] with [[image-guided resection]] using [[Medtronic StealthStation S8]], [[Simpson grade II]] resection (tumour removed, dural attachment coagulated, sinus wall left in situ).
+
+INDICATIONS: 62-year-old man with progressive [[left leg weakness]] and two [[focal aware seizures]]. Preoperative [[MR venography]] showed the [[superior sagittal sinus]] patent but partially invaded. [[Preoperative embolization]] was not performed.
+
+DESCRIPTION: After induction, the head was fixed in a [[Mayfield three-pin skull clamp]]. Neuronavigation registration error 1.2 mm. A [[horseshoe incision]] was made. Burr holes were placed with the [[Midas Rex perforator]] and the bone flap turned with the [[B1 craniotome footplate]]. The dura was opened in a C-shape based on the sinus. The tumour was debulked with the [[CUSA ultrasonic aspirator]] (amplitude 70%) and dissected off the [[motor cortex]] under the [[Zeiss Kinevo operating microscope]], preserving the [[arachnoid plane]] and the draining [[Rolandic vein]]. [[Motor evoked potentials]] remained stable throughout. The sinus wall attachment was coagulated with [[bipolar cautery]]. Dural defect repaired with [[DuraGen dural graft matrix]] and [[DuraSeal]]. Flap secured with [[titanium plates]].
+
+EBL 450 mL. No complications.
+
+Dictated by {{NAME|I. Talbot-Ruiz}}, MD
+=====NOTE=====
+DISCHARGE SUMMARY
+{{FACILITY|St. Brannock Medical Center}} — Neurosurgery
+Name: {{NAME|Penfield, Ronald A.}}   MRN {{MRN|SBM-77120934}}
+Admitted {{DATE|08/16/2068}}   Discharged {{DATE|08/21/2068}}
+
+Course: Uneventful [[right parasagittal craniotomy]] for [[meningioma]], [[Simpson grade II]]. Post-op [[CT head]] showed expected pneumocephalus, no haematoma. Day 2 [[MRI with gadolinium]] confirmed no residual enhancing tumour. Transient worsening of [[left leg monoparesis]] (4-/5 hip flexion) attributed to [[supplementary motor area syndrome]], improving at discharge (4+/5). Histology: [[meningothelial meningioma, CNS WHO grade 1]], [[Ki-67 index]] 3%, no brain invasion.
+
+Of interest to the team, Mr. {{NAME|Penfield}} asked about the [[Penfield homunculus]]; we showed him where the tumour had compressed the [[leg area of the motor strip]].
+
+Medications on discharge: [[levetiracetam 750 mg twice daily]] for 3 months then review; [[dexamethasone taper]] over 7 days; paracetamol.
+
+Follow-up: Clinic 2 weeks for wound check; [[MRI surveillance]] at 3 months then annually. [[Gait training]] and [[lower limb strengthening]]: physiotherapy referral sent to {{FACILITY|Lindenmoor Community Rehab}}. Daughter {{NAME|Hazel Penfield}} contact {{PHONE|555-284-9016}}.

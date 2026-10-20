@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|note_type|author|facility|text
+21540|LETTER TO INSURER|Samuel Obuya MD|Genesee Valley Primary Care Group|
+July 5, 2095
+Harborline Health Plan, Appeals/PA Dept   fax (800) 555-0166
+Member: Dear Ms. Weiss-    &lt;-- auto-letter addressed to old name, truncated by system
+Member: Wren Bright (formerly Wendy K. Weiss), ID HLP-77-30915-02, DOB 03/09/2046
+RE: PA denial amox/clav 250/125 started 06/28/2095 for viral sinusitis (bacterial sup. suspected, sx &gt;10d)
+Pt is 49, OSA on CPAP (device RS-44-90217-B), HTN dx 2094, hip OA. Rx for 3 wks w refill thru 07/24/2095. The plan has denied under old name/old ID HLP-77-30915-01 - member suffix was -01 for Weiss, -02 for Bright, same person, plate/ID mix up on your side, pls merge.
+Requesting expedited review. Pt unable to work, son of friend, ... [sentence cut off]
+Sincerely,
+S. Obuya, MD
+cc: Wren Bright, 1409 Tamarack St #12 Rochester NY; chart. 
+Pt not seen after 07/24/2095; mail returned "no longer at this address" x2. Last contact: sister Gail Weiss-Marsh says pt moved.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="62" end="74" text="Samuel Obuya" TYPE="DOCTOR" comment="" />
+<LOCATION id="P1" start="78" end="111" text="Genesee Valley Primary Care Group" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="113" end="125" text="July 5, 2095" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="126" end="148" text="Harborline Health Plan" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P4" start="150" end="165" text="Appeals/PA Dept" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P5" start="172" end="186" text="(800) 555-0166" TYPE="FAX" comment="" />
+<NAME id="P6" start="204" end="210" text="Weiss-" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="281" end="292" text="Wren Bright" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="303" end="317" text="Wendy K. Weiss" TYPE="PATIENT" comment="" />
+<ID id="P9" start="323" end="338" text="HLP-77-30915-02" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P10" start="344" end="354" text="03/09/2046" TYPE="DATE" comment="" />
+<DATE id="P11" start="395" end="405" text="06/28/2095" TYPE="DATE" comment="" />
+<AGE id="P12" start="468" end="470" text="49" TYPE="AGE" comment="" />
+<ID id="P13" start="492" end="505" text="RS-44-90217-B" TYPE="DEVICE" comment="" />
+<DATE id="P14" start="515" end="519" text="2094" TYPE="DATE" comment="" />
+<DATE id="P15" start="556" end="566" text="07/24/2095" TYPE="DATE" comment="" />
+<ID id="P16" start="610" end="625" text="HLP-77-30915-01" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P17" start="828" end="836" text="S. Obuya" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="845" end="856" text="Wren Bright" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="858" end="874" text="1409 Tamarack St" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="879" end="888" text="Rochester" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="889" end="891" text="NY" TYPE="STATE" comment="" />
+<DATE id="P22" start="919" end="929" text="07/24/2095" TYPE="DATE" comment="" />
+<NAME id="P23" start="998" end="1014" text="Gail Weiss-Marsh" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

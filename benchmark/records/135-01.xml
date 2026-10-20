@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|doc_type|enc_date|dept|printed_by|body
+4410872|AFTER VISIT SUMMARY|09/11/2087|Pediatrics - Sunnyfork Clinic|mi4_delgado|
+AFTER VISIT SUMMARY
+Name: Legend A Pruitt     DOB: 06/04/2087     Age: 3 months
+MRN: SF-0047781     Visit: Thursday, September 11, 2087
+Provider: Dr. April Frost     Clinic: Sunnyfork Pediatric Associates
+
+Dear Ny'Asia,   (parent / guardian)
+
+Thank you for bringing Legend in today. Here is what we talked about.
+
+WHAT WE FOUND
+- Weight 6.5 kg (14 lb 5 oz), growing steadily on his curve
+- Blood pressure 119/80 (this is normal for an infant of this age at this cuff size)
+- No pain, happy, rolling a little
+- Ears, heart and lungs sounded good
+
+WHAT TO DO
+- Keep breastfeeding on demand, 8 or more feeds a day. Vitamin D drops 400 IU once a day
+- Back to sleep, firm flat mattress, nothing in the crib. The monitor sock is fine but it does not replace safe sleep
+- Tummy time a few times a day
+- Do not give water, juice or honey yet
+- Call us if fever of 100.4 or higher, trouble breathing, or he is hard to wake
+
+VACCINES TODAY
+- Given per the standard schedule. Reaction: fussy, small lump is normal. Use a cool cloth
+- Next shots at the next visit
+
+NEXT VISIT
+- 4 month check around November 13th. Please bring the red book
+- Daycare form: we can fill in the form from Little Acorns Daycare, drop it with the front desk. Fax (918) 555-0129
+
+Questions? Clinic (918) 555-0100 ext. 214 (nurse line, ask for Seven Okafor, RN). After hours the answering service pager is 918-555-0177.
+Portal: https://myhealth.sunnyforkpeds.example/legend-pruitt   activation code ***
+Member ID OKH-3380-114-77, group GRP 55120
+
+Medication list:  (none)
+Allergies:  ____________
+Emergency contact: ***
+Emergency contact phone: (000) 000-0000
+</TEXT>
+<TAGS>
+<DATE id="P0" start="74" end="84" text="09/11/2087" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="85" end="114" text="Pediatrics - Sunnyfork Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="115" end="126" text="mi4_delgado" TYPE="USERNAME" comment="" />
+<NAME id="P3" start="154" end="169" text="Legend A Pruitt" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="179" end="189" text="06/04/2087" TYPE="DATE" comment="" />
+<AGE id="P5" start="199" end="207" text="3 months" TYPE="AGE" comment="" />
+<ID id="P6" start="213" end="223" text="SF-0047781" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P7" start="235" end="263" text="Thursday, September 11, 2087" TYPE="DATE" comment="" />
+<NAME id="P8" start="278" end="289" text="April Frost" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="302" end="332" text="Sunnyfork Pediatric Associates" TYPE="HOSPITAL" comment="" />
+<NAME id="P10" start="339" end="346" text="Ny'Asia" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="1216" end="1229" text="November 13th" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="1302" end="1323" text="Little Acorns Daycare" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P13" start="1358" end="1372" text="(918) 555-0129" TYPE="FAX" comment="" />
+<CONTACT id="P14" start="1392" end="1415" text="(918) 555-0100 ext. 214" TYPE="PHONE" comment="" />
+<NAME id="P15" start="1437" end="1449" text="Seven Okafor" TYPE="DOCTOR" comment="" />
+<CONTACT id="P16" start="1499" end="1511" text="918-555-0177" TYPE="PHONE" comment="" />
+<CONTACT id="P17" start="1521" end="1573" text="https://myhealth.sunnyforkpeds.example/legend-pruitt" TYPE="URL" comment="" />
+<ID id="P18" start="1606" end="1621" text="OKH-3380-114-77" TYPE="HEALTHPLAN" comment="" />
+<ID id="P19" start="1629" end="1638" text="GRP 55120" TYPE="IDNUM" comment="" />
+<CONTACT id="P20" start="1738" end="1752" text="(000) 000-0000" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

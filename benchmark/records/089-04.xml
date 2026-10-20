@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Windham Mutual Health
+Attn: Utilization Review, PO Box 2217, Montpelier, VT 05601
+Fax (802) 555-0188
+5/14/2086
+
+RE: Prior auth - dental scaling/ gingival care. Member: Juniper Frost (prev Faith Bell) DOB 11/04/2033 
+Member ID WMH-90-77213   Claim ref CLM-2086-
+0511-4470
+Dear Sir/Madam,
+I am writing on behalf of my patient, 52 y/o, who has recurrent gingivitis (hx 2082, 2083). Referred for dental care 05/13/2086 at her check-up. Treatment at Marlboro Street Dental with Dr. Rosalind Teague is medically necessary: pt has chronic pain, prior concussion and a documented bleeding gum hx. Pls approve sched visit 05/27/2086.
+Please note the name change by court order VT-PR-84-0173; the claim was filed under old name.
+
+Sincerely, Ansel Okoro, MD, internist
+Last edit aokoro 5/14/86 18:03 from 10.7.31.206
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="21" text="Windham Mutual Health" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="48" end="59" text="PO Box 2217" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="61" end="71" text="Montpelier" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="73" end="75" text="VT" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="76" end="81" text="05601" TYPE="ZIP" comment="" />
+<CONTACT id="P5" start="86" end="100" text="(802) 555-0188" TYPE="FAX" comment="" />
+<DATE id="P6" start="101" end="110" text="5/14/2086" TYPE="DATE" comment="" />
+<NAME id="P7" start="168" end="181" text="Juniper Frost" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="188" end="198" text="Faith Bell" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="204" end="214" text="11/04/2033" TYPE="DATE" comment="" />
+<ID id="P10" start="226" end="238" text="WMH-90-77213" TYPE="HEALTHPLAN" comment="" />
+<ID id="P11" start="251" end="260" text="CLM-2086-" TYPE="IDNUM" comment="" />
+<ID id="P12" start="261" end="270" text="0511-4470" TYPE="IDNUM" comment="" />
+<AGE id="P13" start="325" end="327" text="52" TYPE="AGE" comment="" />
+<DATE id="P14" start="366" end="370" text="2082" TYPE="DATE" comment="" />
+<DATE id="P15" start="372" end="376" text="2083" TYPE="DATE" comment="" />
+<DATE id="P16" start="404" end="414" text="05/13/2086" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="445" end="467" text="Marlboro Street Dental" TYPE="ORGANIZATION" comment="" />
+<NAME id="P18" start="473" end="492" text="Dr. Rosalind Teague" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="613" end="623" text="05/27/2086" TYPE="DATE" comment="" />
+<ID id="P20" start="668" end="681" text="VT-PR-84-0173" TYPE="IDNUM" comment="" />
+<NAME id="P21" start="731" end="742" text="Ansel Okoro" TYPE="DOCTOR" comment="" />
+<PROFESSION id="P22" start="748" end="757" text="internist" TYPE="PROFESSION" comment="" />
+<NAME id="P23" start="768" end="774" text="aokoro" TYPE="USERNAME" comment="" />
+<DATE id="P24" start="775" end="782" text="5/14/86" TYPE="DATE" comment="" />
+<CONTACT id="P25" start="794" end="805" text="10.7.31.206" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

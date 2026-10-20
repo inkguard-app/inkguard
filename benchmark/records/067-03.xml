@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MESA VERDE REGIONAL MEDICAL CENTER - EMERGENCY DEPARTMENT NOTE
+Visit # ED-91-220815    Arrival 08/11/2091 21:48 (Saturday)    Triage RN: April Weeks    MD: Sunny Varga
+Pt: Jaxxon Teague   56 M   MRN 067-52930   DOB 4/22/35
+
+CC: tooth pain / broken filling
+
+HPI:
+- Had dental cleaning and a filling at Rio Grande Dental Clinic (Dr Reed Calloway) this afternoon. Tonight the new filling cracked while eating a pretzel
+- Pain 6/10 lower right, throbbing, no facial swelling, no fever, swallowing ok
+- Mouth sore. Says "I told the dentist I'm on a blood thinner" -- he is NOT, he is on no blood thinner, he takes naproxen (stopped last week per onc)
+- Justice drove him in; nephew Mi4 waiting in the car
+
+PMH: RA, prediabetes, htn, anemia (onc consult 08/06/2091), obesity.
+MEDS: naproxen 500 (STOPPED), hydrochlorothiazide? (listed, not taking), lisinopril 10 (old), methotrexate 2.5 (STOPPED 2086)
+SOCIAL: lives with wife and daughter Blue; works Greenleaf Haulage. 
+
+&gt;&gt;&gt; pasted from onc consult 08/06/2091:
+Patient: TEAGUE, JAXXON M  DOB 04/22/2035 ... Rents 2207 Cottonwood Avenue, Unit 3B, landlord Rich Gold ...
+Substance: misuse of drugs hx (2075-2082), no current use.
+
+EXAM: afebrile, vitals stable. Lower right molar: filling fractured, tender to percussion, gingiva mildly red, no abscess, no trismus.
+ED COURSE: dental block (lidocaine), temporizing filling placed, acetaminophen. 
+DISPO: home, dentist follow up Monday. Return for swelling, fever, trouble swallowing.
+
+Dx: fractured dental filling. 
+Signed Sunny Varga, MD 08/11/2091 23:55  (Last edited by svarga 08/12/2091 00:10 from 10.88.3.9)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="34" text="MESA VERDE REGIONAL MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="71" end="83" text="ED-91-220815" TYPE="IDNUM" comment="" />
+<DATE id="P2" start="95" end="105" text="08/11/2091" TYPE="DATE" comment="" />
+<DATE id="P3" start="113" end="121" text="Saturday" TYPE="DATE" comment="" />
+<NAME id="P4" start="137" end="148" text="April Weeks" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="156" end="167" text="Sunny Varga" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="172" end="185" text="Jaxxon Teague" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="188" end="190" text="56" TYPE="AGE" comment="" />
+<ID id="P8" start="199" end="208" text="067-52930" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="215" end="222" text="4/22/35" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="301" end="325" text="Rio Grande Dental Clinic" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="330" end="343" text="Reed Calloway" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="648" end="655" text="Justice" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="677" end="680" text="Mi4" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="748" end="758" text="08/06/2091" TYPE="DATE" comment="" />
+<DATE id="P15" start="890" end="894" text="2086" TYPE="DATE" comment="" />
+<NAME id="P16" start="933" end="937" text="Blue" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="945" end="962" text="Greenleaf Haulage" TYPE="ORGANIZATION" comment="" />
+<DATE id="P18" start="994" end="1004" text="08/06/2091" TYPE="DATE" comment="" />
+<NAME id="P19" start="1015" end="1031" text="TEAGUE, JAXXON M" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="1037" end="1047" text="04/22/2035" TYPE="DATE" comment="" />
+<LOCATION id="P21" start="1058" end="1089" text="2207 Cottonwood Avenue, Unit 3B" TYPE="STREET" comment="" />
+<NAME id="P22" start="1100" end="1109" text="Rich Gold" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="1145" end="1149" text="2075" TYPE="DATE" comment="" />
+<DATE id="P24" start="1150" end="1154" text="2082" TYPE="DATE" comment="" />
+<NAME id="P25" start="1516" end="1527" text="Sunny Varga" TYPE="DOCTOR" comment="" />
+<DATE id="P26" start="1532" end="1542" text="08/11/2091" TYPE="DATE" comment="" />
+<NAME id="P27" start="1566" end="1572" text="svarga" TYPE="USERNAME" comment="" />
+<DATE id="P28" start="1573" end="1583" text="08/12/2091" TYPE="DATE" comment="" />
+<CONTACT id="P29" start="1595" end="1604" text="10.88.3.9" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

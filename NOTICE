@@ -1,0 +1,14 @@
+Inkguard
+Copyright 2026 Alize Wajahat
+
+This software is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+If you use this software in research, please cite it. The preferred citation
+is in CITATION.cff at the root of this repository (GitHub shows it under
+"Cite this repository"), and a permanent DOI for each release is listed in
+the README.
+
+Third-party components and data used by this software, with their licences,
+are listed in THIRD_PARTY_NOTICES.md. Files in inkguard/data/ contain
+third-party data whose licences require attribution; redistributions must
+keep THIRD_PARTY_NOTICES.md.

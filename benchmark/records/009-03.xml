@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 7977 | 12/15/2083 | LAB COMMENT TO PT/PARENT | AUTH: Okonkwo-Hale | CC: allergy
+Dear Mr. and Mrs. Pelerin,
+Mateo's blood test for egg white IgE (drawn today) back: 14.2 kU/L, high. Consistent w/ egg allergy. Does NOT tell us how bad next rxn would be.
+Pls: 
+- avoid egg in all forms for now. baked goods incl. dont assume safe
+- carry epi x2 EVERYWHERE incl school. Pls dont leave in bacpack
+- Dr. Rutkowski allergy will call you within 1 wk 
+- vaccines: flu shot ok per ped, we will review
+Questions: call Harbor Pediatrics Group (218) 555-0100 ext 4417 or portal. After hrs nurse line pager no. 218-555-0150.
+- Sent via portal, read receipt pending
+--- per prior note: pt seen in ED 12/14, tx w/ epi + steroid, d/c same night.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="11" end="21" text="12/15/2083" TYPE="DATE" comment="" />
+<NAME id="P1" start="57" end="69" text="Okonkwo-Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="89" end="109" text="Mr. and Mrs. Pelerin" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="111" end="116" text="Mateo" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="398" end="411" text="Dr. Rutkowski" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="511" end="534" text="Harbor Pediatrics Group" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P6" start="535" end="549" text="(218) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P7" start="554" end="558" text="4417" TYPE="PHONE" comment="" />
+<CONTACT id="P8" start="601" end="613" text="218-555-0150" TYPE="PHONE" comment="" />
+<DATE id="P9" start="689" end="694" text="12/14" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

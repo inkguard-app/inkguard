@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>RADIOLOGY REPORT
+Northern Lakes Regional Medical Center - Diagnostic Radiology
+Pt: OSTRANDER, WINIFRED    MRN: 5518204    DOB: 12/02/2020    Age/Sex: 73/F
+Accession: RAD94-118342    Exam: XR CHEST 1 VIEW (portable)    ED Bay 3
+Exam date: 04/09/2094 09:12    Ordering: Dr. Priscilla Anand-Boyd
+
+CLINICAL HISTORY:
+- chest pain radiating to L arm x 2 hrs, diaphoretic
+- r/o acute cardiopulmonary process
+
+COMPARISON:
+- None available
+
+TECHNIQUE:
+- AP portable upright, single view
+
+FINDINGS:
+- Heart: mildly enlarged cardiac silhoutte, AP technique limits evaluation
+- Mediastinum: normal contour, aorta tortuous/calcified
+- Lungs: mild perihilar vascular congestion. No focal consolidation, no pleural effusion, no pneumothorax
+- Bones: osteopenia. No acute rib fracture
+- Lines/tubes: ECG leads overlying chest. No other devices
+
+IMPRESSION:
+1. Mild cardiomegaly with mild pulmonary vascular congestion - could reflect early failure, correlate clinically
+2. No pneumonia
+3. Osteopenia (Hx osteoporosis per chart)
+
+OSTRANDOR, WINIFRED   MRN 5518240   DOB 12/02/2020   Page 2 of 2
+
+Findings called to Dr. Anand-Boyd at 09:31 by Ingeborg Salvesen, MD (read back).
+Dictated 04/09/2094 09:24 / Transcribed 09:25 by dragon_rad3 / Elctronically signed Ingeborg Salvesen, MD 04/09/2094 09:40
+Last edited by isalvesen on 4/9/2094 09:58 from 10.7.31.208
+cc: Yusuf Hart MD (Cardiology), fax (218) 555-0144; Marlon Tatum MD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="17" end="55" text="Northern Lakes Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="58" end="78" text="Diagnostic Radiology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="83" end="102" text="OSTRANDER, WINIFRED" TYPE="PATIENT" comment="" />
+<ID id="P3" start="111" end="118" text="5518204" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="127" end="137" text="12/02/2020" TYPE="DATE" comment="" />
+<AGE id="P5" start="150" end="152" text="73" TYPE="AGE" comment="" />
+<ID id="P6" start="166" end="178" text="RAD94-118342" TYPE="IDNUM" comment="" />
+<LOCATION id="P7" start="218" end="226" text="ED Bay 3" TYPE="ROOM" comment="" />
+<DATE id="P8" start="238" end="248" text="04/09/2094" TYPE="DATE" comment="" />
+<NAME id="P9" start="272" end="292" text="Priscilla Anand-Boyd" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1013" end="1032" text="OSTRANDOR, WINIFRED" TYPE="PATIENT" comment="" />
+<ID id="P11" start="1039" end="1046" text="5518240" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P12" start="1053" end="1063" text="12/02/2020" TYPE="DATE" comment="" />
+<NAME id="P13" start="1102" end="1112" text="Anand-Boyd" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1125" end="1142" text="Ingeborg Salvesen" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="1169" end="1179" text="04/09/2094" TYPE="DATE" comment="" />
+<NAME id="P16" start="1209" end="1220" text="dragon_rad3" TYPE="USERNAME" comment="" />
+<NAME id="P17" start="1244" end="1261" text="Ingeborg Salvesen" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1266" end="1276" text="04/09/2094" TYPE="DATE" comment="" />
+<NAME id="P19" start="1298" end="1307" text="isalvesen" TYPE="USERNAME" comment="" />
+<DATE id="P20" start="1311" end="1319" text="4/9/2094" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1331" end="1342" text="10.7.31.208" TYPE="IPADDR" comment="" />
+<NAME id="P22" start="1347" end="1357" text="Yusuf Hart" TYPE="DOCTOR" comment="" />
+<CONTACT id="P23" start="1379" end="1393" text="(218) 555-0144" TYPE="FAX" comment="" />
+<NAME id="P24" start="1395" end="1407" text="Marlon Tatum" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

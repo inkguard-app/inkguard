@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ED PROGRESS NOTE (SOAP)  -  Cimarron Valley Medical Center
+Emergency Department                   03/05/2073  16:20
+PT: FROST, LEONARD W   MRN 8820441   DOB 02/17/1997   76 yo M    Room B-9
+Voice recognition used. Not proof read.
+
+S: 76 year old male with NSCLC stage 1 on chemo, CAD s/p CABG, and prior alcohol use, brought by EMS after falling on the ice in the parking structure, landed on the right hip. Could not bear weight. Pain 8 out of 10. He says "I only tripped on the curb" but his wife Delores said he has been dizzy for days. Denies LOC, denies chest pain. Last drank, he claims, in the 90s. Smokes daily, patch on.
+
+O: BP 138/80 HR 92 afebrile. Right leg shortened and externally rotated. Neurovascular intact distally. Pelvis xray shows a displaced fracture of the right femoral neck. No pneumothorax on chest film. Hemoglobin ok.
+
+A: Closed fracture right hip, mechanical fall. Likely needs hemiarthroplasty. NSCLC on active tx.
+P: Ortho consult, page pager 5521. NPO. Meperidine 50 mg orally for pain (note: lower dose given his age) and naproxen 220 mg BID. Admit to ortho. Cardiology clearance.
+
+Overheard in the room as the mic stayed on: "Hi I'm Wade, I'm his son, we parked in the orange lot the plate is OKL 7TX-319, can someone move it" -- transcribed as part of note, please disregard. Also "frost warning tonight" said the nurse to nobody in particular.
+
+Seen with Dr. Achterburg, attending, ext 7714.  Resident Nneka Obiora.
+Signed Nneka Obiora MD  3/5/2073 17:02
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="28" end="58" text="Cimarron Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="59" end="79" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="98" end="108" text="03/05/2073" TYPE="DATE" comment="" />
+<NAME id="P3" start="120" end="136" text="FROST, LEONARD W" TYPE="PATIENT" comment="" />
+<ID id="P4" start="143" end="150" text="8820441" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="157" end="167" text="02/17/1997" TYPE="DATE" comment="" />
+<AGE id="P6" start="170" end="172" text="76" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="186" end="189" text="B-9" TYPE="ROOM" comment="" />
+<NAME id="P8" start="499" end="506" text="Delores" TYPE="PATIENT" comment="" />
+<CONTACT id="P9" start="969" end="979" text="pager 5521" TYPE="PHONE" comment="" />
+<NAME id="P10" start="1168" end="1172" text="Wade" TYPE="PATIENT" comment="" />
+<ID id="P11" start="1228" end="1239" text="OKL 7TX-319" TYPE="VEHICLE" comment="" />
+<NAME id="P12" start="1396" end="1406" text="Achterburg" TYPE="DOCTOR" comment="" />
+<CONTACT id="P13" start="1423" end="1427" text="7714" TYPE="PHONE" comment="" />
+<NAME id="P14" start="1439" end="1451" text="Nneka Obiora" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1460" end="1472" text="Nneka Obiora" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1477" end="1485" text="3/5/2073" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

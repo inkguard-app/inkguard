@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Riverbend Regional Medical Center - Emergency Department Fast Track
+Patient: WREN, MARCUS E   MRN: 4471-0925   DOB: 01/01/1900   Age: 0
+Date of service: 03/05/2076   Page 1 of 2
+
+PROGRESS NOTE (SOAP)  .HPI
+
+@NAME@ is a 25 y.o. male who walked in on Thursday asking for a "physical" because he lost his job and needs it for new insurance. He has no PCP. Wife Tamsin drove him, she is in the waiting room with their daughter Juniper who is 2.
+
+S: Pt states he was let go from the freight warehouse (Calloway Freight and Cold Storage) at the end of last month, hes been under alot of stress and not sleeping. Rent is due and landlord Mr. Oyelaran has been understanding so far. Says he quit drinking "mostly" about 2 mos ago, used to be daily, beers after his shift. Denies withdrawal. Admits to using non-prescribed pills in the past, none since the layoff he says. No chest pain, no SOB, no suicidal thoughts. Denies HTN, DM, asthma. Pain 1/10 (back, lifting).
+
+O: BP 98/78, wt 80.6 kg, BMI 26.6. Pateint appears anxious but cooperative, well groomed. HEENT nl. Lungs CTAB. Heart RRR no murmurs. Abd soft nontender. Skin no track marks. Neuro grossly intact.
+
+A/P:
+1. Routine general exam - done. Needs establish care, gave clinic list. Dictating this to Dr. Ozone who will cosign (he is the attending today).
+2. Stress / job loss - supportive counseling, gave EAP and the county crisis line, wife aware.
+3. Alcohol use, now reduced - counseled, AUDIT-C offered, declined. Will recheck next visit.
+4. Drug use, non-prescribed - harm reduction talk, no naloxone needed per history but offered anyway.
+5. Dental: gums bleeding, hx gingivitis. Refer to dental, care coordination to call him.
+
+Pt verbalized understanding. Return precautions given. Followup 1-2 weeks.
+
+Electronically signed by Priyanka Venkataraghavan, MD (resident) on 03/05/2076 16:42
+Last edited by pvenkat on 3/5/2076 17:10 from 10.20.4.55
+Cosign pending: Dr. Kwame Osei
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="33" text="Riverbend Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="36" end="56" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="77" end="91" text="WREN, MARCUS E" TYPE="PATIENT" comment="" />
+<ID id="P3" start="99" end="108" text="4471-0925" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="116" end="126" text="01/01/1900" TYPE="DATE" comment="" />
+<AGE id="P5" start="134" end="135" text="0" TYPE="AGE" comment="" />
+<DATE id="P6" start="153" end="163" text="03/05/2076" TYPE="DATE" comment="" />
+<AGE id="P7" start="219" end="221" text="25" TYPE="AGE" comment="" />
+<DATE id="P8" start="249" end="257" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P9" start="358" end="364" text="Tamsin" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="423" end="430" text="Juniper" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="438" end="439" text="2" TYPE="AGE" comment="" />
+<LOCATION id="P12" start="497" end="530" text="Calloway Freight and Cold Storage" TYPE="ORGANIZATION" comment="" />
+<NAME id="P13" start="635" end="643" text="Oyelaran" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1258" end="1263" text="Ozone" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1790" end="1814" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1833" end="1843" text="03/05/2076" TYPE="DATE" comment="" />
+<DATE id="P17" start="1876" end="1884" text="3/5/2076" TYPE="DATE" comment="" />
+<CONTACT id="P18" start="1896" end="1906" text="10.20.4.55" TYPE="IPADDR" comment="" />
+<NAME id="P19" start="1927" end="1937" text="Kwame Osei" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

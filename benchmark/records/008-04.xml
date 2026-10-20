@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE                                       04/16/2075
+Patient: Wyatt Holloway   DOB 08/14/2040   MRN HW-0075-4410   Age 34
+Case manager: Ardith Baker, RN, Care Coordination     Surgeon: Dr. Marcus Hunter
+
+Dictating on Tuesday afternoon after a long family meeting. Mr. Holloway was discharged from Lone Star Valley Medical Center today, post operative day three after fixation of his right distal radius fracture, which he sustained at work on the 11th. He will go home with his wife Marguerite and not to Pecan Grove Rehabilitation, because his insurance will only pay for outpatient therapy. We arranged outpatient hand therapy, first visit Tuesday the 23rd, at Pecan Grove, number (254) 555-0171. He has a follow up visit with Dr. Hunter in two weeks for suture removal and a repeat film, and another with his primary care doctor Dr. Salinas in mid-May to recheck the blood pressure which was 142 over 93 in February and 150 over 96 on the night of the injury.
+
+The workers compensation adjuster, Lorna Whitfield-Grace from Ironbridge Casualty and Surety, claim number WC-75-221904, called to say that the employer Redmesa Freight and Dock Services has accepted the claim, and she wants the work status note. I advised no use of the right hand for six weeks. She can be reached at (214) 555-0165 or lwhitfield@ironbridge-surety.example. As a veteran, he also qualifies for VA support, file C-30-882-417.
+
+Pasted from nursing note 04/13/2075 19:05: Pt: Wyatt Holloway MRN HW-0075-4401 POD 0, s/p ORIF R distal radius. Stress. Room 412-A. Planned for discharge 4/14.  [stale: discharge was moved]
+Pasted from lab comment 02/25/2075: your total cholesterol came back at 177.1 and your LDL... Dental visit March 7th.
+
+Social: gets one disability check; no transport after surgery, his father Lyle Holloway will drive from Waco. Christmas Eve was the last time they were together. Home safety: dogs, stairs. 
+Dictated but not read. A. Baker RN 4/16/75. Cc: Salinas, Hunter. [Comment ab12: name of insurer corrected from "Ironwood".]
+</TEXT>
+<TAGS>
+<DATE id="P0" start="61" end="71" text="04/16/2075" TYPE="DATE" comment="" />
+<NAME id="P1" start="81" end="95" text="Wyatt Holloway" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="102" end="112" text="08/14/2040" TYPE="DATE" comment="" />
+<ID id="P3" start="119" end="131" text="HW-0075-4410" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P4" start="138" end="140" text="34" TYPE="AGE" comment="" />
+<NAME id="P5" start="155" end="167" text="Ardith Baker" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="173" end="190" text="Care Coordination" TYPE="DEPARTMENT" comment="" />
+<NAME id="P7" start="208" end="221" text="Marcus Hunter" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="236" end="243" text="Tuesday" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="316" end="347" text="Lone Star Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P10" start="462" end="470" text="the 11th" TYPE="DATE" comment="" />
+<NAME id="P11" start="502" end="512" text="Marguerite" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="524" end="550" text="Pecan Grove Rehabilitation" TYPE="ORGANIZATION" comment="" />
+<DATE id="P13" start="661" end="677" text="Tuesday the 23rd" TYPE="DATE" comment="" />
+<LOCATION id="P14" start="682" end="693" text="Pecan Grove" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P15" start="702" end="716" text="(254) 555-0171" TYPE="PHONE" comment="" />
+<NAME id="P16" start="752" end="758" text="Hunter" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="851" end="862" text="Dr. Salinas" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="866" end="873" text="mid-May" TYPE="DATE" comment="" />
+<DATE id="P20" start="929" end="937" text="February" TYPE="DATE" comment="" />
+<NAME id="P21" start="1018" end="1039" text="Lorna Whitfield-Grace" TYPE="DOCTOR" comment="" />
+<LOCATION id="P22" start="1045" end="1075" text="Ironbridge Casualty and Surety" TYPE="ORGANIZATION" comment="" />
+<ID id="P23" start="1090" end="1102" text="WC-75-221904" TYPE="IDNUM" comment="" />
+<LOCATION id="P24" start="1136" end="1169" text="Redmesa Freight and Dock Services" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P25" start="1302" end="1316" text="(214) 555-0165" TYPE="PHONE" comment="" />
+<CONTACT id="P26" start="1320" end="1356" text="lwhitfield@ironbridge-surety.example" TYPE="EMAIL" comment="" />
+<ID id="P27" start="1411" end="1423" text="C-30-882-417" TYPE="IDNUM" comment="" />
+<DATE id="P28" start="1451" end="1461" text="04/13/2075" TYPE="DATE" comment="" />
+<DATE id="P29" start="1580" end="1584" text="4/14" TYPE="DATE" comment="" />
+<DATE id="P30" start="1640" end="1650" text="02/25/2075" TYPE="DATE" comment="" />
+<DATE id="P31" start="1723" end="1732" text="March 7th" TYPE="DATE" comment="" />
+<NAME id="P32" start="1809" end="1822" text="Lyle Holloway" TYPE="PATIENT" comment="" />
+<LOCATION id="P33" start="1839" end="1843" text="Waco" TYPE="CITY" comment="" />
+<DATE id="P34" start="1845" end="1858" text="Christmas Eve" TYPE="DATE" comment="" />
+<NAME id="P35" start="1948" end="1956" text="A. Baker" TYPE="DOCTOR" comment="" />
+<DATE id="P36" start="1960" end="1967" text="4/16/75" TYPE="DATE" comment="" />
+<NAME id="P37" start="1973" end="1980" text="Salinas" TYPE="DOCTOR" comment="" />
+<NAME id="P38" start="1982" end="1988" text="Hunter" TYPE="DOCTOR" comment="" />
+<NAME id="P39" start="1999" end="2003" text="ab12" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

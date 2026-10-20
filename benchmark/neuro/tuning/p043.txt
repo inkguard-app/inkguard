@@ -1,0 +1,16 @@
+PAIN MEDICINE — SPINAL CORD STIMULATOR EVALUATION
+{{FACILITY|Cobalt Ridge Pain Institute}}
+{{NAME|Harlan Mbeki-Strauss}}, 57 M, MRN {{MRN|CRP-4093318}}, {{DATE|01/09/2071}}
+Intake by {{NAME|Celia Brandon}}, NP; attending Dr. {{NAME|Augustin Pelletier}}
+
+[[Persistent spinal pain syndrome type 2]] (formerly [[failed back surgery syndrome]]) after [[L4-S1 posterior lumbar fusion]] 4 years ago, with right L5 [[radicular pain]] 7/10 and axial back pain 5/10. [[Oswestry Disability Index 54%]]. [[PHQ-9]] 8, [[PCS (Pain Catastrophizing Scale)]] 21. Failed [[gabapentin]], [[duloxetine 60 mg]], [[physical therapy]], [[transforaminal ESI]]. MME 30 ([[tramadol]]).
+[[Psychological clearance]] for neuromodulation completed by Dr. {{NAME|Ilona Varga}}, PhD.
+[[CT lumbar]]: solid fusion L4-S1, no hardware failure; [[MRI thoracic]]: no stenosis at T8-T10 (lead target).
+Plan: [[percutaneous SCS trial]] 7 days with two [[8-contact cylindrical leads]] T8-T10 ([[Nevro Senza]] [[10 kHz high-frequency therapy]] vs [[Abbott Proclaim]] [[BurstDR]] — patient prefers paresthesia-free 10 kHz). Success = 50% or more pain relief and functional gain. [[CPT 63650]] x2 for trial.
+=====NOTE=====
+PROCEDURE NOTE — SCS TRIAL — {{DATE|01/30/2071}} — {{NAME|H. Mbeki-Strauss}} — {{MRN|CRP-4093318}}
+Physician Dr. {{NAME|A. Pelletier}}; [[Nevro]] representative {{NAME|Darnell Ostrowski}} present for programming; radiology tech {{NAME|Kaya Littlebear}}.
+Prone, [[fluoroscopy]], [[paramedian oblique approach]], [[14G Tuohy needle]] at L1-2 left, [[loss of resistance to saline]]; two leads advanced in the dorsal epidural space, tips at the top of T8 (left lead) and mid-T8 (right lead), anatomical midline per AP fluoroscopy, overlapping T9-T10 per [[Nevro]] [[anatomical placement]]. Leads anchored externally with [[Tegaderm]]. [[Impedances]] normal. No [[paraesthesia mapping]] required for 10 kHz. [[Cefazolin 2 g]]. Post-procedure [[AP and lateral thoracic X-ray]] for baseline lead position. Instructions: no bending, lifting or twisting ([[lead migration]] risk), keep dressing dry, watch for [[epidural abscess]] signs. Trial program [[10 kHz, 30 µs, 1.5 mA]]. [[Pain diary]] and [[step counter]] given. [[ICD-10 M96.1]], [[G89.4]].
+=====NOTE=====
+TRIAL RESULT + IMPLANT — {{DATE|02/28/2071}} — {{NAME|HARLAN MBEKI-STRAUSS}}
+Trial day 7: [[75% leg pain relief]], 60% back pain relief, walking 2 miles (baseline 0.3), [[ODI 30%]]. Proceeded to permanent implant: two [[Nevro Surpass/standard leads]] via a small midline incision at T10-11, [[anchors]] to the supraspinous ligament; [[Senza Omnia IPG]] in the right upper buttock pocket. Patient's IPG serial {{ID|NIPG-OM-71-882104}}. Coding: percutaneous leads → [[CPT 63650]] x2 and [[CPT 63685]] (IPG insertion); [[CPT 63655]] (paddle by laminectomy) not applicable. [[MRI conditional]] card issued; [[Nevro]] rep {{NAME|D. Ostrowski}} programmed [[program 1, 10 kHz, contacts 4-5]]. Remote control and charger provided.

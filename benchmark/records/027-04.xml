@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,enc_id,patient_name,mrn,dob,note_type,author,created,dept,note_text
+93341,"ENC-83072601","Nolan E. Strand","CV-0617294","11/08/2019","Consult Note","Tomasz Wierzbicky, MD","07/26/2083 14:10","Cardiology Clinic","
+CARDIOLOGY CONSULT
+* Ref by: Dr. Marcus Teller (PCP). Reason: persistently low-normal BP, ?orthostatic sx, anxiety/palpitations hx.
+* HPI: 63 yo M, single, no known structural heart dz. Seen first 03/2082 w/ palpitations after stressful event; 14 d event monitor then: no sustained arrhythmia, sinus tach during symptoms only. Today: occasional lightheaded on standing, no syncope, no CP, no exertional sx. Anxiety better (GAD-7 1 on 07/19/2083).
+* BP trend (office): 94/81, 97/72, 102/78, 98/87, 95/84, 92/85, 100/87 over 2078-2083 -&gt; narrow pulse pressure but stable. Wt 90.5 kg, BMI 27.2 (same every visit, ?copied fwd).
+* PMH: viral sinusitis, gingivitis, caries, acute bronchitis 03/2082, rib fx 2076, facial lac 2077. Unhealthy EtOH hx - resolved, AUDIT-C low 07/19/2083. Meds: none cardiac. Acetaminophen prn.
+* FH: not obtained. SH: lives alone. Last worked at Ironwood Marine Supply (FT until 2078, PT til 2079).
+* Exam: BP sit 100/80, stand 96/78 (1 min), HR 66 reg. JVP flat. S1 S2 nl, no murmur. Lungs clear. No edema.
+* ECG today: NSR, nl intervals. TC 177.4, LDL 98.4 (from 07/13/2082, a year old, repeat).
+* A/P: (1) low BP w/o syncope - benign, no cardiac cause found; hydration, salt not restricted, rise slowly. (2) no further cardiac testing. (3) repeat lipids w/ PCP. (4) RTC prn.
+
+Per prior note: [Telephone Encounter 03/10/2082 - Ostrander, Gwen RN] Pt Nolan Strand c/o palpitations since urgent care visit Mon 3/9. Not on any cardiac meds. OTC naproxen occ. Plan nurse visit Mon 3/16. Pt lives at 77 Harlow Court, Unit 4, Duluth. Pager 4417.
+* Pt portal acct: https://portal.northshoreheart.example/login?mrn=CV0617249  last login from 10.40.12.87
+* Dictated 07/26/2083; signed T. Wierzbicki MD   Copy: Dr. Teller ((218) 555-0188), ext x2210"
+</TEXT>
+<TAGS>
+<ID id="P0" start="82" end="94" text="ENC-83072601" TYPE="IDNUM" comment="" />
+<NAME id="P1" start="97" end="112" text="Nolan E. Strand" TYPE="PATIENT" comment="" />
+<ID id="P2" start="115" end="125" text="CV-0617294" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="128" end="138" text="11/08/2019" TYPE="DATE" comment="" />
+<NAME id="P4" start="156" end="173" text="Tomasz Wierzbicky" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="180" end="190" text="07/26/2083" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="199" end="216" text="Cardiology Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P7" start="253" end="266" text="Marcus Teller" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="359" end="361" text="63" TYPE="AGE" comment="" />
+<DATE id="P9" start="417" end="424" text="03/2082" TYPE="DATE" comment="" />
+<DATE id="P10" start="654" end="664" text="07/19/2083" TYPE="DATE" comment="" />
+<DATE id="P11" start="743" end="747" text="2078" TYPE="DATE" comment="" />
+<DATE id="P12" start="748" end="752" text="2083" TYPE="DATE" comment="" />
+<DATE id="P13" start="905" end="912" text="03/2082" TYPE="DATE" comment="" />
+<DATE id="P14" start="921" end="925" text="2076" TYPE="DATE" comment="" />
+<DATE id="P15" start="938" end="942" text="2077" TYPE="DATE" comment="" />
+<DATE id="P16" start="986" end="996" text="07/19/2083" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="1089" end="1111" text="Ironwood Marine Supply" TYPE="ORGANIZATION" comment="" />
+<DATE id="P18" start="1122" end="1126" text="2078" TYPE="DATE" comment="" />
+<DATE id="P19" start="1135" end="1139" text="2079" TYPE="DATE" comment="" />
+<DATE id="P20" start="1308" end="1318" text="07/13/2082" TYPE="DATE" comment="" />
+<DATE id="P21" start="1559" end="1569" text="03/10/2082" TYPE="DATE" comment="" />
+<NAME id="P22" start="1572" end="1590" text="Ostrander, Gwen RN" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="1595" end="1607" text="Nolan Strand" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="1649" end="1656" text="Mon 3/9" TYPE="DATE" comment="" />
+<DATE id="P25" start="1718" end="1726" text="Mon 3/16" TYPE="DATE" comment="" />
+<LOCATION id="P26" start="1740" end="1763" text="77 Harlow Court, Unit 4" TYPE="STREET" comment="" />
+<LOCATION id="P27" start="1765" end="1771" text="Duluth" TYPE="CITY" comment="" />
+<CONTACT id="P28" start="1779" end="1783" text="4417" TYPE="PHONE" comment="" />
+<CONTACT id="P29" start="1803" end="1861" text="https://portal.northshoreheart.example/login?mrn=CV0617249" TYPE="URL" comment="" />
+<CONTACT id="P30" start="1879" end="1890" text="10.40.12.87" TYPE="IPADDR" comment="" />
+<DATE id="P31" start="1902" end="1912" text="07/26/2083" TYPE="DATE" comment="" />
+<NAME id="P32" start="1921" end="1934" text="T. Wierzbicki" TYPE="DOCTOR" comment="" />
+<NAME id="P33" start="1950" end="1956" text="Teller" TYPE="DOCTOR" comment="" />
+<CONTACT id="P34" start="1958" end="1972" text="(218) 555-0188" TYPE="FAX" comment="" />
+<CONTACT id="P35" start="1979" end="1984" text="x2210" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

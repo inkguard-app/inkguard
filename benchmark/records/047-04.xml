@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Patient Portal Message
+From: Anand Takeda-Raman (atakeda59)        Sent: 2073-02-19 22:31
+To: Dr. Lachance
+Subject: question about my results / the questionnaire
+
+hi dr lachance,
+this is anand (the 13 yr old, 13) from friday. u gave me the thing about worry and mood and my mom Priya saw the paper. I dont want my dad Hiroshi to read this but his email is the one on file so please dont reply to hiroshi.takeda@granvillespan.example. use my school email anand.t@cypresshill.example or just the portal.
+
+my score was low i think (3?) but i have been nervous before cello recital at Orpheum Annex Hall on the 12th and my friend Sky Okonkwo-Brandt said it could be anxiety. also my grandma Lakshmi in Chennai (14, Ramanujam Street, T. Nagar, Chennai 600017, India) has Parkinson's and I worry about that too, is it genetic? Also my other grandpa in Japan (Osaka) had Hodgkin lymphoma. Im not that worried about it though lol.
+
+Also can I still use Flonase? it makes my nose bleed sometimes. And do I need to see a dentist Tuesday? the dental office called my mom's cell 604-555-0123 (that's wrong she changed it to 604-555-0155).
+btw my gamer tag is Nyne_Anand if u ever see me online haha. thanks!!
+
+--- Auto-reply ---
+Dear Anand Takeda-Raman, thank you. A nurse will respond within 2 business days. Routed to Beatrice Okoye RN from 10.31.77.92. Appointment: 2073-02-21.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="29" end="47" text="Anand Takeda-Raman" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="49" end="58" text="atakeda59" TYPE="USERNAME" comment="" />
+<DATE id="P2" start="73" end="83" text="2073-02-19" TYPE="DATE" comment="" />
+<NAME id="P3" start="98" end="106" text="Lachance" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="169" end="177" text="lachance" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="187" end="192" text="anand" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="209" end="211" text="13" TYPE="AGE" comment="" />
+<DATE id="P7" start="218" end="224" text="friday" TYPE="DATE" comment="" />
+<NAME id="P8" start="278" end="283" text="Priya" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="318" end="325" text="Hiroshi" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="396" end="432" text="hiroshi.takeda@granvillespan.example" TYPE="EMAIL" comment="" />
+<CONTACT id="P11" start="454" end="481" text="anand.t@cypresshill.example" TYPE="EMAIL" comment="" />
+<LOCATION id="P12" start="581" end="599" text="Orpheum Annex Hall" TYPE="ORGANIZATION" comment="" />
+<DATE id="P13" start="607" end="611" text="12th" TYPE="DATE" comment="" />
+<NAME id="P14" start="626" end="644" text="Sky Okonkwo-Brandt" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="687" end="694" text="Lakshmi" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="698" end="705" text="Chennai" TYPE="CITY" comment="" />
+<LOCATION id="P17" start="707" end="737" text="14, Ramanujam Street, T. Nagar" TYPE="STREET" comment="" />
+<LOCATION id="P18" start="739" end="746" text="Chennai" TYPE="CITY" comment="" />
+<LOCATION id="P19" start="747" end="753" text="600017" TYPE="ZIP" comment="" />
+<LOCATION id="P20" start="755" end="760" text="India" TYPE="COUNTRY" comment="" />
+<LOCATION id="P21" start="853" end="858" text="Osaka" TYPE="CITY" comment="" />
+<DATE id="P22" start="1019" end="1026" text="Tuesday" TYPE="DATE" comment="" />
+<CONTACT id="P23" start="1067" end="1079" text="604-555-0123" TYPE="PHONE" comment="" />
+<CONTACT id="P24" start="1112" end="1124" text="604-555-0155" TYPE="PHONE" comment="" />
+<NAME id="P25" start="1147" end="1157" text="Nyne_Anand" TYPE="USERNAME" comment="" />
+<NAME id="P26" start="1222" end="1240" text="Anand Takeda-Raman" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1308" end="1322" text="Beatrice Okoye" TYPE="DOCTOR" comment="" />
+<CONTACT id="P28" start="1331" end="1342" text="10.31.77.92" TYPE="IPADDR" comment="" />
+<DATE id="P29" start="1357" end="1367" text="2073-02-21" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

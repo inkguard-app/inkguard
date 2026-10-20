@@ -1,0 +1,15 @@
+SPINE NEUROSURGERY CLINIC
+{{FACILITY|Corriedale Neuroscience Associates}}
+{{NAME|Hortense Lhermitte-Daly}}, 66 F, MRN {{MRN|CNA-4090712}}, {{DATE|11/30/2070}}
+History: {{NAME|Bastian Achterhof}}, PA-C; attending Dr. {{NAME|Isolde Rasmussen-Mbah}}
+
+Electric shocks down the spine and arms on neck flexion — [[Lhermitte sign]] — for 1 year (her surname being {{NAME|Lhermitte-Daly}}, she says "that sign is basically mine"). Progressive [[clumsy hands]], gait imbalance, two falls.
+Exam: [[Hoffmann sign]] positive bilaterally, [[hyperreflexia]] in biceps, triceps and knees, [[Babinski]] right, [[Romberg positive]], [[tandem gait]] impossible, [[grip and release test]] 12 in 10 s. [[mJOA 11]] (moderate), [[Nurick grade 3]].
+MRI cervical: [[multilevel cervical stenosis C3-C7]] with [[ossification of the posterior longitudinal ligament (OPLL)]] continuous type C3-C6 on CT, [[T2 cord signal change]] at C4-5, preserved [[cervical lordosis]] (C2-C7 +14 degrees), [[K-line positive]].
+Plan: [[C3-C7 open-door laminoplasty]] (Hirabayashi) with [[C4-5 foraminotomies]] — preserves motion; K-line positive OPLL suitable for posterior approach. Alternative [[C3-C7 laminectomy and fusion]] with [[lateral mass screws]]. [[Intraoperative neuromonitoring]] (MEP/SSEP).
+=====NOTE=====
+OP NOTE — {{DATE|01/08/2071}} — {{NAME|LHERMITTE-DALY, H.}} — {{MRN|CNA-4090712}}
+Surgeon Dr. {{NAME|I. Rasmussen-Mbah}}; [[IONM]] {{NAME|Thandiwe Mokoena}}, CNIM; [[Medtronic]] rep {{NAME|Glenn Abernathy}} present for laminoplasty plates.
+Prone, [[Mayfield]] fixation, neck neutral-slight flexion; [[MEP]] baseline repeated after positioning — unchanged. Midline exposure C2-T1 sparing the [[C2 muscular attachments]] (semispinalis cervicis). [[Hinge troughs]] on the left at the [[lamina-lateral mass junction]] with a 3 mm burr; open side on the right through both cortices; [[laminae opened]] like a door. [[Centerpiece laminoplasty plates]] (10 mm) secured at C3-C7. [[Right C4-5 foraminotomy]] (C5 root, to reduce [[C5 palsy]] risk). [[MEP]] and [[SSEP]] stable throughout. Patient's implant UDI recorded: {{ID|UDI-CP-71-990127}}.
+=====NOTE=====
+3-mo F/U {{DATE|04/09/2071}} — {{NAME|H. Lhermitte-Daly}}: [[Lhermitte sign]] resolved. [[mJOA 15]]. Hands improved; [[Hoffmann sign]] still present. No [[C5 palsy]]; [[deltoid]] 5/5. Neck pain mild ([[axial neck pain]] after laminoplasty). XR: plates intact, [[cervical lordosis]] maintained. Physical therapy for [[gait training]]. Note by {{NAME|B. Achterhof}}, PA-C.

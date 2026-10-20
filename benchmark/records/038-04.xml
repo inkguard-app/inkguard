@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ARDMORE BAY REGIONAL HOSPITAL - ENDOCRINOLOGY OUTPATIENTS
+NURSING NOTE
+PT: O BRIAIN DECLAN     DOB 09/04/2033     MRN IE-0098214
+DATE: 28/01/2091     NURSE: BRIDGET CULLINANE     ROOM CLINIC 2
+
+57 YR OLD MAN ATTENDED FOR CHECK UP, ACCOMPANIED BY WIFE MARTA. PT STILL HAS COUGH FROM BRONCHITIS (SEEN 10 DAYS AGO, 18/01/2091) BUT IMPROVING, NO FEVER. FINISHED COUGH SYRUP (THE NIGHT NURSE TYPE ONE, PARACETAMOL/DEXTROMETHORPHAN/DOXYLAMINE) 31/01/2091 PER LIST - NB THAT DATE IS IN THE FUTURE, SYSTEM ERROR, SHOULD SAY STOP AFTER 2 WEEKS.
+VITALS: BP 140/92, WT 91.5KG, BMI 27.6. HBA1C 6.0 TODAY (6.3 LAST JUNE). RBS 79.6 MG/DL. PAIN 2/10.
+MED REC DONE. NO REGULAR MEDS. ALLERGIES NKDA.
+SCREENS DONE: DEPRESSION, SUBSTANCE USE, DRUGS, DOMESTIC ABUSE QUESTIONS ASKED PRIVATELY (WIFE ASKED TO WAIT OUTSIDE, SAID SHE WILL GO TO THE CAFE). PT DECLINED TO DISCUSS FURTHER. SOCIAL SUPPORT LEAFLET GIVEN. NOT UNEMPLOYED NOW, NOT IN LABOUR FORCE PER PT. TEAM AWARE.
+REFERRAL FOR DENTAL CARE DONE FOR GUMS, TO CORRIB FAMILY MEDICAL CENTRE DENTAL LIST.
+
+----- PASTED FROM PREVIOUS NURSING NOTE -----
+11/06/2090  NURSE BRIDGET CULLINANE  PT OBRIAIN, DECLAN P
+Pt in for annual review. BP 140/90. Weight 91.5. HbA1c 6.3. Lives with wife Marta and works in his brother in law's Kowalczyk Budownictwo sometimes. Mentions phoning Jacek on whatsapp as @declan.joiner.gdn. Agreed to see dietitian. Electronically signed B Cullinane 11/06/2090 11:48 from 10.44.9.201.
+
+----- PASTED FROM OLD NOTE (DIFFERENT PATIENT?) -----
+11/06/2090  NURSE B CULLINANE  PT MCNAMARA, PEADAR  MRN IE-0071130
+Needs transport to dialysis Tuesday. Wife Bernadette phoned. Bed 6 on WARD 3.
+-----
+Pt wife Marta Kowalczyk-Brennan would like Dr Pillai-Walsh to know pt has not been sleeping and "sits in the shed all day". She said not to tell him I told u. Listed her mobile as +353 87 555 0166. Has also used the name Marta Brennan at reception. Patient himself asks to be called Dec.
+SIGNED BRIDGET CULLINANE RN   28/01/2091 16:05
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="29" text="ARDMORE BAY REGIONAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="57" text="ENDOCRINOLOGY OUTPATIENTS" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="75" end="90" text="O BRIAIN DECLAN" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="99" end="109" text="09/04/2033" TYPE="DATE" comment="" />
+<ID id="P4" start="118" end="128" text="IE-0098214" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="135" end="145" text="28/01/2091" TYPE="DATE" comment="" />
+<NAME id="P6" start="157" end="174" text="BRIDGET CULLINANE" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="184" end="192" text="CLINIC 2" TYPE="ROOM" comment="" />
+<AGE id="P8" start="194" end="196" text="57" TYPE="AGE" comment="" />
+<NAME id="P9" start="251" end="256" text="MARTA" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="312" end="322" text="18/01/2091" TYPE="DATE" comment="" />
+<DATE id="P11" start="438" end="448" text="31/01/2091" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="997" end="1025" text="CORRIB FAMILY MEDICAL CENTRE" TYPE="HOSPITAL" comment="" />
+<DATE id="P13" start="1086" end="1096" text="11/06/2090" TYPE="DATE" comment="" />
+<NAME id="P14" start="1104" end="1121" text="BRIDGET CULLINANE" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1126" end="1143" text="OBRIAIN, DECLAN P" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1220" end="1225" text="Marta" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="1260" end="1281" text="Kowalczyk Budownictwo" TYPE="ORGANIZATION" comment="" />
+<NAME id="P18" start="1310" end="1315" text="Jacek" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1331" end="1349" text="@declan.joiner.gdn" TYPE="USERNAME" comment="" />
+<NAME id="P20" start="1398" end="1409" text="B Cullinane" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1410" end="1420" text="11/06/2090" TYPE="DATE" comment="" />
+<CONTACT id="P22" start="1432" end="1443" text="10.44.9.201" TYPE="IPADDR" comment="" />
+<DATE id="P23" start="1500" end="1510" text="11/06/2090" TYPE="DATE" comment="" />
+<NAME id="P24" start="1518" end="1529" text="B CULLINANE" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1534" end="1550" text="MCNAMARA, PEADAR" TYPE="PATIENT" comment="" />
+<ID id="P26" start="1556" end="1566" text="IE-0071130" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P27" start="1595" end="1602" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P28" start="1609" end="1619" text="Bernadette" TYPE="PATIENT" comment="" />
+<LOCATION id="P29" start="1637" end="1643" text="WARD 3" TYPE="ROOM" comment="" />
+<NAME id="P30" start="1659" end="1682" text="Marta Kowalczyk-Brennan" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="1697" end="1709" text="Pillai-Walsh" TYPE="DOCTOR" comment="" />
+<CONTACT id="P32" start="1831" end="1847" text="+353 87 555 0166" TYPE="PHONE" comment="" />
+<NAME id="P33" start="1872" end="1885" text="Marta Brennan" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="1934" end="1937" text="Dec" TYPE="PATIENT" comment="" />
+<NAME id="P35" start="1946" end="1963" text="BRIDGET CULLINANE" TYPE="DOCTOR" comment="" />
+<DATE id="P36" start="1969" end="1979" text="28/01/2091" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

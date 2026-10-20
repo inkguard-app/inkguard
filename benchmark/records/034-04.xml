@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST          Larkmoor Children's Clinic          12/20/2066
+Name: Ottoline Brandvold        DOB: 06/30/2064       Age: 2 yr 5 mo       Wt 13.7 kg
+MRN 7-0431882      Allergies: Brandvold   &lt;-- field says this, NKDA per mom
+Informant: mother Nadezhda      Pharmacy: Lakeshore Family Pharmacy, 218-555-0181
+
+S: Well child visit. Mom brings no meds. Denies any herbal/OTC use except occ. saline spray. Great-grandma Agnes gives "a little honey" -- explained no honey under 1 (ok, now 2) fine.
+O: Wt 13.7 kg, BMI 16.3, BP 93/67. 
+
+CURRENT MEDS (reviewed by Marjorie Ng RN):
+1. Acetaminophen 160 mg chewable tab, 1 tab PO q6h prn pain -- for collarbone pain, started 04/27/2066   [STALE - carried fwd from 06/21/2066 list, stopped 06/27/2066, REMOVE]
+2. none other.
+3. Fluoride - none yet. Dental referral placed today.
+
+&gt;&gt;&gt; pasted from last list
+Pt: Tanvir Rahman, 4 y/o, DOB 09/14/2062, MRN 7-0398810
+Allergy: amoxicillin (rash). Meds: albuterol 90 mcg 2 puffs q4h prn.
+&lt;&lt;&lt; (wrong chart, sorry!!)
+
+A: No active meds. List updated.
+P: d/c acetaminophen from list. Recon complete. Mom gave verbal ok. Reviewed w/ Dr. Haddad-Lindgren -- also Oyelaran (ortho) no longer following, sign off. 
+Her birthday party is in June -- Anders is helping plan it lol.
+Electronically signed by Marjorie Ng RN 12/20/2066 10:16   Printed by mng1 from 10.20.4.58
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="40" end="66" text="Larkmoor Children's Clinic" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="76" end="86" text="12/20/2066" TYPE="DATE" comment="" />
+<NAME id="P2" start="93" end="111" text="Ottoline Brandvold" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="124" end="134" text="06/30/2064" TYPE="DATE" comment="" />
+<AGE id="P4" start="146" end="155" text="2 yr 5 mo" TYPE="AGE" comment="" />
+<ID id="P5" start="177" end="186" text="7-0431882" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="203" end="212" text="Brandvold" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="267" end="275" text="Nadezhda" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="291" end="316" text="Lakeshore Family Pharmacy" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P9" start="318" end="330" text="218-555-0181" TYPE="PHONE" comment="" />
+<NAME id="P10" start="439" end="444" text="Agnes" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="579" end="590" text="Marjorie Ng" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="688" end="698" text="04/27/2066" TYPE="DATE" comment="" />
+<DATE id="P13" start="727" end="737" text="06/21/2066" TYPE="DATE" comment="" />
+<DATE id="P14" start="752" end="762" text="06/27/2066" TYPE="DATE" comment="" />
+<NAME id="P15" start="872" end="885" text="Tanvir Rahman" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="887" end="888" text="4" TYPE="AGE" comment="" />
+<DATE id="P17" start="898" end="908" text="09/14/2062" TYPE="DATE" comment="" />
+<ID id="P18" start="914" end="923" text="7-0398810" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P19" start="1138" end="1153" text="Haddad-Lindgren" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1162" end="1170" text="Oyelaran" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1236" end="1240" text="June" TYPE="DATE" comment="" />
+<NAME id="P22" start="1244" end="1250" text="Anders" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1300" end="1311" text="Marjorie Ng" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1315" end="1325" text="12/20/2066" TYPE="DATE" comment="" />
+<NAME id="P25" start="1345" end="1349" text="mng1" TYPE="USERNAME" comment="" />
+<CONTACT id="P26" start="1355" end="1365" text="10.20.4.58" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

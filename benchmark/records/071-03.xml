@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER                               11/16/2073 09:14 (Thursday)
+Pt: Harmony J Chase   DOB 12/30/2026   MRN 071-40762   Call-back (585) 555-0165 ext x3318
+Taken by: Cole Wade, RN       Pharmacist: Winter Okafor-Reyes, PharmD
+
+REASON: pregabalin (Lyrica) 100 mg refill / finishing 30-day supply today
+
+HPI:
+- Pt called about pregabalin started in the ED on 10/17/2073. Says "it makes me dizzy and I chase my words". Swelling of ankles since last Thursday.
+- Tooth extraction and bone graft in late September (09/19/2073, 10/07), got dentures 10/11/2073 -- eating poorly.
+- Fell 4/16 02:15 getting to the bathroom?? NO, this was 4/16/2072, old. Verify.
+- Daughter Autumn and son Apple took her to the dentist. Neighbor Mrs. Hill brought soup.
+
+Reconciliation by phone:
+- pregabalin 100 mg: STOP at end of supply today per plan. 
+- naproxen 500: still taking. Refill line recording id RFL-0094411. Rx RX-7732905 at Greenway Pharmacy
+- acetaminophen 500 prn.
+- duloxetine (Cymbalta): not now, offered mid-March -- she declined at the time.
+
+Advice: taper not needed at 100 mg x 30 d per Okafor-Reyes. Call if swelling worse. F/u visit the 14th, with Dr Brook (typed in error -- Brooke).
+
+Christmas Eve is the family's big dinner so no travel planned. 
+Spoke 11 min. Routed to Imani Brooke, Tamsin Ridley (rheum).
+</TEXT>
+<TAGS>
+<DATE id="P0" start="50" end="60" text="11/16/2073" TYPE="DATE" comment="" />
+<DATE id="P1" start="68" end="76" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P2" start="82" end="97" text="Harmony J Chase" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="104" end="114" text="12/30/2026" TYPE="DATE" comment="" />
+<ID id="P4" start="121" end="130" text="071-40762" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P5" start="143" end="157" text="(585) 555-0165" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="162" end="167" text="x3318" TYPE="PHONE" comment="" />
+<NAME id="P7" start="178" end="187" text="Cole Wade" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="210" end="229" text="Winter Okafor-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="369" end="379" text="10/17/2073" TYPE="DATE" comment="" />
+<DATE id="P10" start="458" end="466" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P11" start="505" end="519" text="late September" TYPE="DATE" comment="" />
+<DATE id="P12" start="521" end="531" text="09/19/2073" TYPE="DATE" comment="" />
+<DATE id="P13" start="533" end="538" text="10/07" TYPE="DATE" comment="" />
+<DATE id="P14" start="554" end="564" text="10/11/2073" TYPE="DATE" comment="" />
+<DATE id="P15" start="590" end="594" text="4/16" TYPE="DATE" comment="" />
+<DATE id="P16" start="640" end="649" text="4/16/2072" TYPE="DATE" comment="" />
+<NAME id="P17" start="675" end="681" text="Autumn" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="690" end="695" text="Apple" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="730" end="739" text="Mrs. Hill" TYPE="PATIENT" comment="" />
+<ID id="P20" start="895" end="906" text="RFL-0094411" TYPE="IDNUM" comment="" />
+<ID id="P21" start="911" end="921" text="RX-7732905" TYPE="IDNUM" comment="" />
+<LOCATION id="P22" start="925" end="942" text="Greenway Pharmacy" TYPE="ORGANIZATION" comment="" />
+<DATE id="P23" start="1010" end="1019" text="mid-March" TYPE="DATE" comment="" />
+<NAME id="P24" start="1096" end="1108" text="Okafor-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="1144" end="1152" text="the 14th" TYPE="DATE" comment="" />
+<NAME id="P26" start="1162" end="1167" text="Brook" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1197" end="1210" text="Christmas Eve" TYPE="DATE" comment="" />
+<NAME id="P28" start="1285" end="1297" text="Imani Brooke" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1299" end="1312" text="Tamsin Ridley" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

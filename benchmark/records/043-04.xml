@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY
+Northern Lakes Regional Medical Center           Page 1 of 4
+Patient: OSTRANDER, WINIFRED M    MRN: 5518204    DOB: 12/02/2020    Age: 73
+Admit: 04/09/2094    Discharge: 04/12/2094    Unit: CCU -&gt; Cardiac Step-down, Rm 5C-12
+Attending: Dr. Marlon Tatum    Cardiology: Dr. Yusuf Hart    PCP: Dr. Lena Wojcik
+
+DIAGNOSES:
+- Acute NSTEMI, s/p PCI (DES to mid LAD) 04/09
+- Acute kidney injury vs CKD (Cr 3.0 on arrival, 1.2 at d/c)
+- Hyperlipidemia, LDL 193.7
+- Prediabetes (A1c 6.0), anemia (Hb 12.4), obesity, osteoporosis
+
+HOSPITAL COURSE:
+- Presented Fri w chest pain, trop+, ST depression. Heparin, ASA, clopidogrel load, taken to cath same day. 1 DES to LAD. Minimal contrast (30 ml).
+- TTE EF 45%, ant. hypokinesis. 
+- Cr improved w fluids 3.0 -&gt; 1.9 -&gt; 1.2. Ramipril restarted 04/12, BMP in 1 wk. Nephrology saw, felt prerenal, outpt f/u.
+- WBC 3.3 on adm, 5.1 at d/c, no infxn.
+- Simvastatin stopped, atorvastatin 80 started. Alendronate remains OFF (stopped July 2092).
+- No arrhythmia, no bleeding. Ambulating w PT, stairs x 12 ok.
+
+DISCHARGE MEDS:
+- aspirin 81 mg daily
+- prasugrel 10 mg daily (12 mo min)
+- metoprolol succinate 25 mg daily
+- atorvastatin 80 mg nightly
+- ramipril 10 mg daily
+- nitroglycerin 0.4 mg SL prn
+
+SOCIAL / DISPO:
+- Home w husband Harlan (74) at 2216 Birchwood Lane, Unit 4, Duluth MN. Third floor walk-up. Landlord Mr. Pruitt aware, has fixed stairwell light.
+- Daughter Gwendolyn staying through Sunday the 18th; son Rory coming for weekend.
+- Neighbor Tilly Brandvolt to bring meals. 
+- Pt's mother (94 yo, ninety-four) at Pine Hollow Care Center told by daughter; pt wishes to visit once cleared.
+- Former employer Lakeshore Linen Service sent flowers (pt retired 2090).
+- Follow up: Dr. Hart 2 wks, Dr. Wojcik 1 wk, cardiac rehab (218) 555-0190, ext x4417.
+
+---- pasted below fm ED H&amp;P, 04/09/2094 ----
+Pt: Winifred Ostrander   MRN 5518204   DOB 12/02/2020   Age 73
+PMH: hyperlipidemia, prediabetes ... alendronate 10 mg daily (carried fwd from old list)
+Plan: 4. Admit CCU after cath. Dr. Marlon Tatum accepting.
+Electronically signed by Priscilla Anand-Boyd MD on 04/09/2094 12:20
+
+PLAN (from cards consult 4/09): Ramipril 10 mg - HOLD until Cr improves. Heparin d/c post PCI. Admit CCU, tele.
+Yusuf Hart MD  04/09/2094
+
+Nursing handoff 04/11/2094 1900 Keiko Dahl RN -- Mrs. Ostrander in Rm 5C-12, no CP, walked hall x2, husband stayed overnight (cot), pt asked abt hearing aid L, found in env # VE-30871, returned.
+Signed kdahl 04/11/94 19:44
+
+Dictated 04/12/2094, Dr. M. Tatum. Electronically signed 04/12/2094 15:20 from 10.7.30.14.
+cc: Dr. Lena Wojcik, fax (218) 555-0111; Dr. Hart; Gwendolyn Ostrander-Reyes (HCP) email g.reyes.rn@mailbox.example
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="18" end="56" text="Northern Lakes Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="88" end="109" text="OSTRANDER, WINIFRED M" TYPE="PATIENT" comment="" />
+<ID id="P2" start="118" end="125" text="5518204" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="134" end="144" text="12/02/2020" TYPE="DATE" comment="" />
+<AGE id="P4" start="153" end="155" text="73" TYPE="AGE" comment="" />
+<DATE id="P5" start="163" end="173" text="04/09/2094" TYPE="DATE" comment="" />
+<DATE id="P6" start="188" end="198" text="04/12/2094" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="208" end="211" text="CCU" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P8" start="215" end="232" text="Cardiac Step-down" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P9" start="234" end="242" text="Rm 5C-12" TYPE="ROOM" comment="" />
+<NAME id="P10" start="258" end="270" text="Marlon Tatum" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="290" end="300" text="Yusuf Hart" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="313" end="324" text="Lena Wojcik" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="378" end="383" text="04/09" TYPE="DATE" comment="" />
+<DATE id="P14" start="568" end="571" text="Fri" TYPE="DATE" comment="" />
+<DATE id="P15" start="798" end="803" text="04/12" TYPE="DATE" comment="" />
+<DATE id="P16" start="981" end="990" text="July 2092" TYPE="DATE" comment="" />
+<NAME id="P17" start="1282" end="1288" text="Harlan" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="1290" end="1292" text="74" TYPE="AGE" comment="" />
+<LOCATION id="P19" start="1297" end="1324" text="2216 Birchwood Lane, Unit 4" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="1326" end="1332" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="1333" end="1335" text="MN" TYPE="STATE" comment="" />
+<NAME id="P22" start="1371" end="1377" text="Pruitt" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1423" end="1432" text="Gwendolyn" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="1449" end="1455" text="Sunday" TYPE="DATE" comment="" />
+<DATE id="P25" start="1460" end="1464" text="18th" TYPE="DATE" comment="" />
+<NAME id="P26" start="1470" end="1474" text="Rory" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1506" end="1521" text="Tilly Brandvolt" TYPE="PATIENT" comment="" />
+<AGE id="P28" start="1554" end="1556" text="94" TYPE="AGE" comment="" />
+<LOCATION id="P29" start="1577" end="1600" text="Pine Hollow Care Center" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P30" start="1670" end="1693" text="Lakeshore Linen Service" TYPE="ORGANIZATION" comment="" />
+<DATE id="P31" start="1719" end="1723" text="2090" TYPE="DATE" comment="" />
+<NAME id="P32" start="1743" end="1747" text="Hart" TYPE="DOCTOR" comment="" />
+<NAME id="P34" start="1759" end="1765" text="Wojcik" TYPE="DOCTOR" comment="" />
+<CONTACT id="P35" start="1786" end="1800" text="(218) 555-0190" TYPE="PHONE" comment="" />
+<CONTACT id="P36" start="1806" end="1811" text="x4417" TYPE="PHONE" comment="" />
+<DATE id="P37" start="1843" end="1853" text="04/09/2094" TYPE="DATE" comment="" />
+<ID id="P38" start="1888" end="1895" text="5518204" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P39" start="1902" end="1912" text="12/02/2020" TYPE="DATE" comment="" />
+<AGE id="P40" start="1919" end="1921" text="73" TYPE="AGE" comment="" />
+<NAME id="P41" start="2046" end="2058" text="Marlon Tatum" TYPE="DOCTOR" comment="" />
+<NAME id="P42" start="2095" end="2115" text="Priscilla Anand-Boyd" TYPE="DOCTOR" comment="" />
+<DATE id="P43" start="2122" end="2132" text="04/09/2094" TYPE="DATE" comment="" />
+<DATE id="P44" start="2165" end="2169" text="4/09" TYPE="DATE" comment="" />
+<DATE id="P45" start="2267" end="2277" text="04/09/2094" TYPE="DATE" comment="" />
+<DATE id="P46" start="2295" end="2305" text="04/11/2094" TYPE="DATE" comment="" />
+<NAME id="P47" start="2311" end="2321" text="Keiko Dahl" TYPE="DOCTOR" comment="" />
+<NAME id="P48" start="2328" end="2342" text="Mrs. Ostrander" TYPE="PATIENT" comment="" />
+<LOCATION id="P49" start="2346" end="2354" text="Rm 5C-12" TYPE="ROOM" comment="" />
+<ID id="P50" start="2454" end="2462" text="VE-30871" TYPE="IDNUM" comment="" />
+<NAME id="P51" start="2481" end="2486" text="kdahl" TYPE="USERNAME" comment="" />
+<DATE id="P52" start="2487" end="2495" text="04/11/94" TYPE="DATE" comment="" />
+<DATE id="P53" start="2512" end="2522" text="04/12/2094" TYPE="DATE" comment="" />
+<NAME id="P54" start="2528" end="2536" text="M. Tatum" TYPE="DOCTOR" comment="" />
+<DATE id="P55" start="2560" end="2570" text="04/12/2094" TYPE="DATE" comment="" />
+<CONTACT id="P56" start="2582" end="2592" text="10.7.30.14" TYPE="IPADDR" comment="" />
+<NAME id="P57" start="2602" end="2613" text="Lena Wojcik" TYPE="DOCTOR" comment="" />
+<CONTACT id="P58" start="2619" end="2633" text="(218) 555-0111" TYPE="FAX" comment="" />
+<NAME id="P59" start="2639" end="2643" text="Hart" TYPE="DOCTOR" comment="" />
+<NAME id="P60" start="2645" end="2670" text="Gwendolyn Ostrander-Reyes" TYPE="PATIENT" comment="" />
+<CONTACT id="P61" start="2683" end="2709" text="g.reyes.rn@mailbox.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

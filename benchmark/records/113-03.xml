@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX
+To: Lubomir Zielinski MD, Szpital Sw. Lukasza, ul. Dluga 14/3, 31-147 Krakow, Poland
+Fax +48 12 555 01 47
+From: Harborview Hospice intake, Joyce Tamba RN   Fax (814) 555-0121   Ph (814) 555-0120
+Date 01/20/2084 (Thu)  pgs 4
+RE: Newman, Walter (aka Wojciech Nowakowski)  DOB 22/06/1981  hospice id HVH-84-0112
+
+Msg: pt admitted to hospice today per dtr Katarzyna Kowal request, she is travelling to Erie Sat. She asked we send summary to you, her fam doctor, bc she will take over care of dad's paperwork in PL. DNR form POLST-PA-884102 signed 01/20 by dtr (poa) - pt can't consent. Dx pneumonia, advanced dementia, IHD, CKD, renal tx. Weight loss. No further labs.
+Pls note: pt was Nowakowski till 2003. Records before that (Gdansk) are not here, and no one has contact with sister Halina Nowakowska. Daughter's mobile +48 601 555 014, email kasia.kowal@mailbox-example.pl, husband Marek also on.
+Addr on file: 212 Bellwether Court, Erie, PA 16505 -- Larkspur unit moved out 01/14.
+NOT FOR Barbara Newman (ex-wife) - she called twice.
+cc: Dr Gustavo Peralta, chart
+</TEXT>
+<TAGS>
+<NAME id="P0" start="8" end="25" text="Lubomir Zielinski" TYPE="DOCTOR" comment="" />
+<LOCATION id="P1" start="30" end="49" text="Szpital Sw. Lukasza" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="51" end="65" text="ul. Dluga 14/3" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="67" end="73" text="31-147" TYPE="ZIP" comment="" />
+<LOCATION id="P4" start="74" end="80" text="Krakow" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="82" end="88" text="Poland" TYPE="COUNTRY" comment="" />
+<CONTACT id="P6" start="93" end="109" text="+48 12 555 01 47" TYPE="FAX" comment="" />
+<LOCATION id="P7" start="116" end="134" text="Harborview Hospice" TYPE="ORGANIZATION" comment="" />
+<NAME id="P8" start="143" end="154" text="Joyce Tamba" TYPE="DOCTOR" comment="" />
+<CONTACT id="P9" start="164" end="178" text="(814) 555-0121" TYPE="FAX" comment="" />
+<CONTACT id="P10" start="184" end="198" text="(814) 555-0120" TYPE="PHONE" comment="" />
+<DATE id="P11" start="204" end="214" text="01/20/2084" TYPE="DATE" comment="" />
+<DATE id="P12" start="216" end="219" text="Thu" TYPE="DATE" comment="" />
+<NAME id="P13" start="232" end="246" text="Newman, Walter" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="252" end="271" text="Wojciech Nowakowski" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="278" end="288" text="22/06/1981" TYPE="DATE" comment="" />
+<ID id="P16" start="301" end="312" text="HVH-84-0112" TYPE="IDNUM" comment="" />
+<NAME id="P17" start="356" end="371" text="Katarzyna Kowal" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="407" end="410" text="Sat" TYPE="DATE" comment="" />
+<ID id="P19" start="524" end="539" text="POLST-PA-884102" TYPE="IDNUM" comment="" />
+<DATE id="P20" start="547" end="552" text="01/20" TYPE="DATE" comment="" />
+<NAME id="P21" start="686" end="696" text="Nowakowski" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="702" end="706" text="2003" TYPE="DATE" comment="" />
+<NAME id="P23" start="786" end="803" text="Halina Nowakowska" TYPE="PATIENT" comment="" />
+<CONTACT id="P24" start="823" end="838" text="+48 601 555 014" TYPE="PHONE" comment="" />
+<CONTACT id="P25" start="846" end="876" text="kasia.kowal@mailbox-example.pl" TYPE="EMAIL" comment="" />
+<NAME id="P26" start="886" end="891" text="Marek" TYPE="PATIENT" comment="" />
+<LOCATION id="P27" start="915" end="935" text="212 Bellwether Court" TYPE="STREET" comment="" />
+<LOCATION id="P28" start="937" end="941" text="Erie" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="943" end="945" text="PA" TYPE="STATE" comment="" />
+<LOCATION id="P30" start="946" end="951" text="16505" TYPE="ZIP" comment="" />
+<DATE id="P31" start="979" end="984" text="01/14" TYPE="DATE" comment="" />
+<NAME id="P32" start="994" end="1008" text="Barbara Newman" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="1046" end="1061" text="Gustavo Peralta" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

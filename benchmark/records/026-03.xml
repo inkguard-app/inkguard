@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE (S.O.A.P.)
+Prairie Endocrine &amp; Diabetes Associates   09/05/2073   Tue
+Patient: Mahlet Gebremariam   DOB 7/2/2018   MRN E-0498127   Age 55
+Coordinator: Beth Cook, RN CDCES      Endocrinologist: Dr. Lowell Frost
+
+S: Pt seen in the ED yesterday (9/4) at Meridian Prairie Medical Center for chest tightness + panic, home glucose 70s. D/c'd same day. Daughter Selam called our line at 08:12 and put husband Dawit on, hes worried abt "low sugar" bc the ED sheet says HbA1c 3.0. Per Selam, pt is sleeping badly since mid-August, worried about her sister Tsega Tesfaye in Seattle and a letter from immigration. No falls, no syncope. Takes tacrolimus "the white capsules" every morning.
+
+O: ED data: BP 101/72, wt 86.5 kg, BMI 28.9, pain 3/10, glucose 77.3, GAD-7 = 7 (mild), depression screen done, social needs screen done. HbA1c 3.0 again - was 3.2 on 10/19/71 and 2.8 on 10/24/72. Values this low do not fit with glucoses 65-100 on file and are NOT credible, likely assay problem / altered red cell survival after transplant (not Hashimoto-related or thyroid, TSH was normal). Tremor noted by ED RN - typical of tacrolimus, not Parkinson's disease.
+Med list reviewed: last tacrolimus entry (Astagraf 5 mg) ends 10/19/2071 in our system - ?? transplant pharmacy to verify what she is actually taking. Others: clopidogrel 75, simvastatin 20, metoprolol succinate 100, NTG spray, diphenhydramine 25 prn.
+
+A: 1. Anxiety episode, ED w/u neg, GAD-7 7. 2. HbA1c unreliable -&gt; need fructosamine or CGM to judge control. 3. Care gaps: interpreter not used in ED, med list stale, dental f/u (gingivitis).
+
+P: (1) Call transplant coordinator Dana Rice re immunosuppression list, today. (2) Order fructosamine + draw with next trough. (3) Book Tigrinya interpreter (line ID 4471, interpreter Fitwi) for visit Mon 10/30. (4) SW referral - case worker Marguerite Oduya at Harbor Light Resettlement cc'd. (5) Dental referral, see below.
+
+SMS thread pasted from the case worker's phone (she forwarded it):
+From: Marguerite Oduya &lt;+1 612 555 0119&gt;
+To: Beth Cook
+Date: Tue, Sep 5, 2073 7:48 AM
+dr dana says mahlet's husband works nights at Northgate Linen Services so call after 3pm. mrs Tesfaye (thats her fathers name, her chart name is Gebremariam, confusing I know) will need ride, I have the van MNL 4473
+Sent from my iPhone  ip 192.168.1.24
+
+per prior note: &gt;&gt;&gt; DISCHARGE SUMMARY 05/14/2071  Mahlet T. Gebremariam  MRN E-0498127  Attending Dr Nwankwo. s/p deceased donor kidney tx 05/11/2071. meds on d/c tacrolimus ER 1 mg, clopidogrel, simvastatin, metoprolol, STOP lisinopril and amlodipine. Lives 418 Corliss Avenue, Apt 3B, Minneapolis.
+&gt;&gt;&gt; Clinic 10/24/2072 (Dr Frost): HbA1c 2.8, BP 95/75, wt 84.7, LDL 90.5, GAD-7 1. Pt Mrs Haile brought in by husband. Tacrolimus continued. [Comment by B. Cook: 'Mrs Haile' = husband's surname, NOT pt]
+&gt;&gt;&gt; Clinic 10/19/2071: HbA1c 3.2, BP 98/70, wt 82.7, glucose 92.0. Tacrolimus ER 5 mg capsule, lisinopril 10 daily  &lt;- old, stopped.
+
+Dental: gingivitis flagged again, 11/2/2071 cleaning was last. Referral to dentist Dr Wen Cho at Southside Smile Dental, appt not yet booked.
+
+Page 2 of 2   GEBREMARIAM, MAHLET   E-0498127
+Electronically signed by Beth Cook RN on 09/05/2073 11:26   Routed to: Lowell Frost, Dana Rice, Ruth Kowalczyk
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="34" end="73" text="Prairie Endocrine &amp; Diabetes Associates" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="76" end="86" text="09/05/2073" TYPE="DATE" comment="" />
+<DATE id="P2" start="89" end="92" text="Tue" TYPE="DATE" comment="" />
+<NAME id="P3" start="102" end="120" text="Mahlet Gebremariam" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="127" end="135" text="7/2/2018" TYPE="DATE" comment="" />
+<ID id="P5" start="142" end="151" text="E-0498127" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P6" start="158" end="160" text="55" TYPE="AGE" comment="" />
+<NAME id="P7" start="174" end="183" text="Beth Cook" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="220" end="232" text="Lowell Frost" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="266" end="269" text="9/4" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="274" end="305" text="Meridian Prairie Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="378" end="383" text="Selam" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="425" end="430" text="Dawit" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="499" end="504" text="Selam" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="533" end="543" text="mid-August" TYPE="DATE" comment="" />
+<NAME id="P15" start="570" end="583" text="Tsega Tesfaye" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="587" end="594" text="Seattle" TYPE="CITY" comment="" />
+<DATE id="P17" start="869" end="877" text="10/19/71" TYPE="DATE" comment="" />
+<DATE id="P18" start="889" end="897" text="10/24/72" TYPE="DATE" comment="" />
+<DATE id="P19" start="1229" end="1239" text="10/19/2071" TYPE="DATE" comment="" />
+<NAME id="P20" start="1649" end="1658" text="Dana Rice" TYPE="DOCTOR" comment="" />
+<ID id="P21" start="1780" end="1784" text="4471" TYPE="IDNUM" comment="" />
+<NAME id="P22" start="1798" end="1803" text="Fitwi" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1815" end="1824" text="Mon 10/30" TYPE="DATE" comment="" />
+<NAME id="P24" start="1856" end="1872" text="Marguerite Oduya" TYPE="PATIENT" comment="" />
+<LOCATION id="P25" start="1876" end="1901" text="Harbor Light Resettlement" TYPE="ORGANIZATION" comment="" />
+<NAME id="P26" start="2014" end="2030" text="Marguerite Oduya" TYPE="PATIENT" comment="" />
+<CONTACT id="P27" start="2032" end="2047" text="+1 612 555 0119" TYPE="PHONE" comment="" />
+<NAME id="P28" start="2053" end="2062" text="Beth Cook" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="2069" end="2085" text="Tue, Sep 5, 2073" TYPE="DATE" comment="" />
+<NAME id="P30" start="2097" end="2101" text="dana" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="2107" end="2113" text="mahlet" TYPE="PATIENT" comment="" />
+<LOCATION id="P32" start="2140" end="2164" text="Northgate Linen Services" TYPE="ORGANIZATION" comment="" />
+<NAME id="P33" start="2188" end="2195" text="Tesfaye" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="2239" end="2250" text="Gebremariam" TYPE="PATIENT" comment="" />
+<ID id="P35" start="2301" end="2309" text="MNL 4473" TYPE="VEHICLE" comment="" />
+<CONTACT id="P36" start="2334" end="2346" text="192.168.1.24" TYPE="IPADDR" comment="" />
+<DATE id="P37" start="2386" end="2396" text="05/14/2071" TYPE="DATE" comment="" />
+<NAME id="P38" start="2398" end="2419" text="Mahlet T. Gebremariam" TYPE="PATIENT" comment="" />
+<ID id="P39" start="2425" end="2434" text="E-0498127" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P40" start="2449" end="2456" text="Nwankwo" TYPE="DOCTOR" comment="" />
+<DATE id="P41" start="2487" end="2497" text="05/11/2071" TYPE="DATE" comment="" />
+<LOCATION id="P42" start="2607" end="2625" text="418 Corliss Avenue" TYPE="STREET" comment="" />
+<LOCATION id="P43" start="2631" end="2633" text="3B" TYPE="ROOM" comment="" />
+<LOCATION id="P44" start="2635" end="2646" text="Minneapolis" TYPE="CITY" comment="" />
+<DATE id="P45" start="2659" end="2669" text="10/24/2072" TYPE="DATE" comment="" />
+<NAME id="P46" start="2674" end="2679" text="Frost" TYPE="DOCTOR" comment="" />
+<NAME id="P47" start="2734" end="2743" text="Mrs Haile" TYPE="PATIENT" comment="" />
+<NAME id="P48" start="2801" end="2808" text="B. Cook" TYPE="DOCTOR" comment="" />
+<NAME id="P49" start="2811" end="2820" text="Mrs Haile" TYPE="PATIENT" comment="" />
+<DATE id="P50" start="2862" end="2872" text="10/19/2071" TYPE="DATE" comment="" />
+<DATE id="P51" start="3019" end="3028" text="11/2/2071" TYPE="DATE" comment="" />
+<NAME id="P52" start="3071" end="3078" text="Wen Cho" TYPE="DOCTOR" comment="" />
+<LOCATION id="P53" start="3082" end="3104" text="Southside Smile Dental" TYPE="HOSPITAL" comment="" />
+<NAME id="P54" start="3142" end="3161" text="GEBREMARIAM, MAHLET" TYPE="PATIENT" comment="" />
+<ID id="P55" start="3164" end="3173" text="E-0498127" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P56" start="3199" end="3208" text="Beth Cook" TYPE="DOCTOR" comment="" />
+<DATE id="P57" start="3215" end="3225" text="09/05/2073" TYPE="DATE" comment="" />
+<NAME id="P58" start="3245" end="3257" text="Lowell Frost" TYPE="DOCTOR" comment="" />
+<NAME id="P59" start="3259" end="3268" text="Dana Rice" TYPE="DOCTOR" comment="" />
+<NAME id="P60" start="3270" end="3284" text="Ruth Kowalczyk" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

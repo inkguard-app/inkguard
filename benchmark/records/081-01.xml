@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_key,note_type,svc_date,author,text
+MV20070322,OP NOTE,04/30/2043,Hiroshi Tanabe MD,"PT: BAPTISTE, MARGUERITE 36F MRN 20-558103 @ Brightwater Regional Medical Center OR 4. PREOP DX: acute appendicits. POSTOP DX: same, no perf. PROC: lap appendectomy. SURGEON Tanabe; ASST J Pike RN ; ANES Dr Rosenthal GETA. EBL min. 3 ports, appendix ID'd inflammed w/ no abscess, stapled base, bagged out via umbilical port. Fascia closed 0 vicryl, skin subcuticular. Counts correct x2. To PACU stable. D/C home tomm if tolerating PO. Pt tolerated well. Signed H. Tanabe 4/30/43 15:20"
+MV20070322,OP NOTE ADDENDUM,05/02/2043,htanabe,"path pending at d/c. see portal https://portal.blueridgefp.example.org/p/MV20558103 for result. pt phone (828) 555-0194 ext 3 , alt 828-555-0149 (husb)"
+</TEXT>
+<TAGS>
+<ID id="P0" start="39" end="49" text="MV20070322" TYPE="IDNUM" comment="" />
+<DATE id="P1" start="58" end="68" text="04/30/2043" TYPE="DATE" comment="" />
+<NAME id="P2" start="69" end="86" text="Hiroshi Tanabe MD" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="92" end="112" text="BAPTISTE, MARGUERITE" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="113" end="115" text="36" TYPE="AGE" comment="" />
+<ID id="P5" start="121" end="130" text="20-558103" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P6" start="133" end="168" text="Brightwater Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="169" end="173" text="OR 4" TYPE="ROOM" comment="" />
+<NAME id="P8" start="262" end="268" text="Tanabe" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="275" end="284" text="J Pike RN" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="292" end="304" text="Dr Rosenthal" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="549" end="558" text="H. Tanabe" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="559" end="566" text="4/30/43" TYPE="DATE" comment="" />
+<ID id="P13" start="574" end="584" text="MV20070322" TYPE="IDNUM" comment="" />
+<DATE id="P14" start="602" end="612" text="05/02/2043" TYPE="DATE" comment="" />
+<NAME id="P15" start="613" end="620" text="htanabe" TYPE="USERNAME" comment="" />
+<CONTACT id="P16" start="654" end="705" text="https://portal.blueridgefp.example.org/p/MV20558103" TYPE="URL" comment="" />
+<CONTACT id="P17" start="727" end="747" text="(828) 555-0194 ext 3" TYPE="PHONE" comment="" />
+<CONTACT id="P18" start="754" end="766" text="828-555-0149" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>note_id,mrn,pt_name,enc_date,author,dept,note_type,text
+"OP-2204","2290-6518","PAGE, RHYS","06/20/2064","Ilka Zelenka DDS","Dental","Operative note","Pre-op: fractured tooth 19, loose filling. Procedure: composite filling to dentin following fracture, exam of gingivae, scaling supra and subgingival, oral health education. Anesthesia: local, 2 carpules lidocaine 2 pct. Patient 48 yo, tolerate well. No complication. Isolation with cotton rolls, shade A2, cure 20 sec each layer, occlusion checked. Mr. Page asked the staff to call him by first name only. Seizure disorder on clonazepam, no problem during. Post-op instructions given. F/u 6 months. Dictation: 'Page 2 of 2' footer automatically."
+</TEXT>
+<TAGS>
+<ID id="P0" start="67" end="76" text="2290-6518" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="79" end="89" text="PAGE, RHYS" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="92" end="102" text="06/20/2064" TYPE="DATE" comment="" />
+<NAME id="P3" start="105" end="117" text="Ilka Zelenka" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="124" end="130" text="Dental" TYPE="DEPARTMENT" comment="" />
+<AGE id="P5" start="379" end="381" text="48" TYPE="AGE" comment="" />
+<NAME id="P6" start="504" end="508" text="Page" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

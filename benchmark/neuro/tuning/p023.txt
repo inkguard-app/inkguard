@@ -1,0 +1,25 @@
+SPINAL CORD INJURY UNIT — ADMISSION
+{{FACILITY|Harrow Fen Regional Spinal Injuries Centre}}
+{{NAME|Lucius Brown-Atherton}}, 29 M, MRN {{MRN|HFS-00381176}}, admitted {{DATE|10/03/2068}}
+
+Mechanism: stab wound to the left side of the back at roughly T8 level.
+
+Exam (24 h post-injury, by [[ISNCSCI]] standard):
+- Motor: left lower limb [[hip flexors]] 1/5, [[knee extensors]] 1/5, [[ankle dorsiflexors]] 0/5, [[EHL]] 0/5, [[ankle plantarflexors]] 0/5; right lower limb 5/5 throughout.
+- Sensory: loss of [[light touch]] and [[proprioception]] on the LEFT below T8 ([[dorsal column]] ipsilateral); loss of [[pinprick]] and [[temperature sensation]] on the RIGHT below T10 ([[spinothalamic tract]] contralateral).
+- [[Deep anal pressure]] present; [[voluntary anal contraction]] present.
+- Left [[Babinski sign]], left [[hyperreflexia]] at the knee (evolving).
+Neurological level of injury [[T8]], [[ASIA Impairment Scale C]] (motor incomplete, less than half key muscles below level grade 3 or more).
+
+Classic [[Brown-Séquard syndrome]] — and, as the patient's name is Mr. {{NAME|Brown-Atherton}}, please write "Brown-Séquard" in full in notes to avoid confusion with his name.
+
+Imaging: [[CT thoracic spine]] — knife tract through the left T8-9 interlaminar space, no retained blade, no fracture. [[MRI thoracic]] — [[hemicord T2 hyperintensity]] left T8, small [[epidural haematoma]], no compression. [[CSF leak]] suspected along tract.
+
+Plan: [[MAP goal 85-90 mmHg]] for 7 days, [[methylprednisolone]] NOT given (not indicated, penetrating), wound washout and [[dural repair]] if CSF leak persists, [[DVT prophylaxis with enoxaparin]], [[bladder program]], [[bowel program]]. [[Autonomic dysreflexia]] education (less likely below T6 — level here T8).
+
+Attending: Dr. {{NAME|Saoirse Abernathy-Kwan}}. Brother {{NAME|Marcus Brown-Atherton}} {{PHONE|555-562-0071}}.
+=====NOTE=====
+REHAB WEEK 6 SUMMARY — {{DATE|11/14/2068}} — {{NAME|L. Brown-Atherton}} — {{MRN|HFS-00381176}}
+Neurological recovery: left [[hip flexors]] 4/5, [[knee extensors]] 4/5, [[ankle dorsiflexors]] 3/5, [[EHL]] 2/5. Now [[ASIA Impairment Scale D]]. [[SCIM III]] 78/100. [[WISCI II]] level 16 (walker, one brace). Persisting contralateral [[thermoanalgesia]] below T10 on the right; ipsilateral [[dorsal column]] deficits improving ([[vibration]] at the left [[medial malleolus]] now present).
+Bladder: voiding spontaneously, [[post-void residual]] under 100 mL. [[Spasticity]] left leg ([[Modified Ashworth 1+]]) — started [[baclofen 5 mg TID]].
+Discharge home {{DATE|11/20/2068}} with outpatient physio at {{FACILITY|Harrow Fen Day Rehabilitation}}.

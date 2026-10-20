@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE   St. Aldric Regional Medical Center
+Emergency Department                       09/13/2081  (Saturday)  arrival 06:52
+
+Patient: YILDER, MATTHEW    MRN 5520-1194    DOB 02/17/2027
+Also registered as Mehmet Yildirim, old chart, merge pending. Age 54 y.o. male.
+Triage RN: Rose Hope.   ED physician: Ioana Brabeanu, MD.   Room ED-7
+
+CHIEF COMPLAINT: chest pain since 5 o'clock morning.
+
+HPI: Patient is 54 years old man with history of diabetes mellitus type 2, hypertension, hypertriglyceridemia, obesity and prediabetes before. He come with wife Hulya who is speaking for him, becaus he has pressure in the chest, going to left arm, sweating, nausea, about 2 hours. He deny previous heart attack. Wife say "no no he had one before, in Turkey", but chart is not showing this, so I trust the chart. He says he never had Parkinson disease nor Bell's palsy, he is asking for no reason, I think he is afraid. Pain 8 from 10.
+Interpreter by phone, ID INT-40771, interpreter name Zeynep, language Turkish, for 11 minutes.
+
+PMH: DM2 since 2064, anemia, HTN, high trigliceride, loss of teeth, diabetic eye disease not yet. Meds before arrival: nebivolol (Bystolic) 10 mg, atorvastatin 40, HCTZ/valsartan, he is not sure, ask wife. Allergy no.
+SOCIAL: lives with wife and son Emre at 88 Quillfeather Road, Dayton. Works tile setter, part time Brightwater Tile Supply. Lost job before at Kestrel Heating and Air. Smoking no. Alcohol sometimes.
+
+EXAM: BP 168/100, pulse 104, sweating, pale. Heart tones regular, no murmur. Lungs clear. Abdomen soft.
+ECG: ST elevation anterior leads V2-V5. STEMI alarm activated at 07:05, cath lab team called, Dr Baek on call.
+TREATMENT: aspirin 325 chewed, nitroglycerin sublingual, heparin bolus, clopidogrel 300 loading. Pain after nitro 4 from 10.
+DISPOSITION: to cath lab emergently, then CCU. Wife inform. Patient consent signed by patient, witness Rose Hope RN.
+
+Electronically signed by Ioana Brabeanu, MD on 09/13/2081 08:40
+Note routed to: Wanda Pruitt (PCP), Joon-ho Baek
+Last edited by ibrabeanu on 09/13/2081 09:02 from 10.44.12.9
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="28" end="62" text="St. Aldric Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="63" end="83" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="106" end="116" text="09/13/2081" TYPE="DATE" comment="" />
+<NAME id="P3" start="154" end="169" text="YILDER, MATTHEW" TYPE="PATIENT" comment="" />
+<ID id="P4" start="177" end="186" text="5520-1194" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="194" end="204" text="02/17/2027" TYPE="DATE" comment="" />
+<NAME id="P6" start="224" end="239" text="Mehmet Yildirim" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="271" end="273" text="54" TYPE="AGE" comment="" />
+<NAME id="P8" start="296" end="305" text="Rose Hope" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="323" end="337" text="Ioana Brabeanu" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="350" end="354" text="ED-7" TYPE="ROOM" comment="" />
+<NAME id="P11" start="571" end="576" text="Hulya" TYPE="PATIENT" comment="" />
+<ID id="P12" start="970" end="979" text="INT-40771" TYPE="IDNUM" comment="" />
+<NAME id="P13" start="998" end="1004" text="Zeynep" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1056" end="1060" text="2064" TYPE="DATE" comment="" />
+<NAME id="P15" start="1291" end="1295" text="Emre" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="1299" end="1319" text="88 Quillfeather Road" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="1321" end="1327" text="Dayton" TYPE="CITY" comment="" />
+<PROFESSION id="P18" start="1335" end="1346" text="tile setter" TYPE="PROFESSION" comment="" />
+<LOCATION id="P19" start="1358" end="1381" text="Brightwater Tile Supply" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P20" start="1402" end="1425" text="Kestrel Heating and Air" TYPE="ORGANIZATION" comment="" />
+<NAME id="P21" start="1657" end="1664" text="Dr Baek" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1902" end="1911" text="Rose Hope" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="1942" end="1956" text="Ioana Brabeanu" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1964" end="1974" text="09/13/2081" TYPE="DATE" comment="" />
+<NAME id="P25" start="1997" end="2009" text="Wanda Pruitt" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="2017" end="2029" text="Joon-ho Baek" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="2058" end="2068" text="09/13/2081" TYPE="DATE" comment="" />
+<CONTACT id="P28" start="2080" end="2090" text="10.44.12.9" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

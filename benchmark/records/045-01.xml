@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW_ID,SITE,PT_NAME,MRN,DOB,SERVICE_DATE,AUTHOR,NOTE_TYPE,NOTE_TEXT
+RR-0418832,SANDIA VIEW MED CTR,"TRUONG, LINH MD",W20-774316,02/23/2040,09/10/2087,"WHITFIELD, RAMONA D",RADIOLOGY REPORT,"EXAM: XR CLAVICLE RIGHT 2 VIEWS. ACC XR87-229014. Ordering: Dr. Everett Calloway (ED). CLINICAL: 47 yo woman fall from bicycle this morning about 8 am, pain and deformity at right shoulder, car mirror hit her, driver go away. Police report number APD-87-130442, bike tag BK-554821, car plate partly seen by pt NM 482 KDV. | FINDINGS: There is fracture at middle third of right clavicle with displaced about one shaft width and 1.2 cm shortning. No comminution. AC joint is not wide. SC joint no well evaluate. Right lung apex clear, no pneumothorax. Bones are osteopenic no. Visible ribs no fracture. | IMPRESSION: 1. Displaced fracture mid right clavicle. 2. No pneumothorax at apex. Recommend orthopedic follow up and sling. Findings is discuss by phone with Dr. Calloway 09/10/2087 10:42, ext. 5-2214. | Read by Linh Truong, MD. Signed 09/10/2087 11:06 from 172.16.9.23"
+</TEXT>
+<TAGS>
+<ID id="P0" start="68" end="78" text="RR-0418832" TYPE="IDNUM" comment="" />
+<LOCATION id="P1" start="79" end="98" text="SANDIA VIEW MED CTR" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="100" end="115" text="TRUONG, LINH MD" TYPE="DOCTOR" comment="" />
+<ID id="P3" start="117" end="127" text="W20-774316" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="128" end="138" text="02/23/2040" TYPE="DATE" comment="" />
+<DATE id="P5" start="139" end="149" text="09/10/2087" TYPE="DATE" comment="" />
+<NAME id="P6" start="151" end="170" text="WHITFIELD, RAMONA D" TYPE="PATIENT" comment="" />
+<ID id="P7" start="227" end="238" text="XR87-229014" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="254" end="270" text="Everett Calloway" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="272" end="274" text="ED" TYPE="DEPARTMENT" comment="" />
+<AGE id="P10" start="287" end="289" text="47" TYPE="AGE" comment="" />
+<ID id="P12" start="437" end="450" text="APD-87-130442" TYPE="IDNUM" comment="" />
+<ID id="P13" start="461" end="470" text="BK-554821" TYPE="VEHICLE" comment="" />
+<ID id="P14" start="500" end="510" text="NM 482 KDV" TYPE="VEHICLE" comment="" />
+<NAME id="P15" start="955" end="963" text="Calloway" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="964" end="974" text="09/10/2087" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="987" end="993" text="5-2214" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1005" end="1016" text="Linh Truong" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1029" end="1039" text="09/10/2087" TYPE="DATE" comment="" />
+<CONTACT id="P20" start="1051" end="1062" text="172.16.9.23" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

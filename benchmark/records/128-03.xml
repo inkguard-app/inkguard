@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Linden Hollow Paediatric Associates - lab result comment to patient (portal)
+To: Mirela (copy to Jadwiga Frost? - NO, see confidential flag)
+Lab accession LB-66-4410287   Collected 10/24/2066   Resulted 10/26/2066
+
+Hi Mirela!! :)
+
+Your blood count results are back. Your white cell count was 6.7 which is normal. Your haemoglobin was 16.7 g/dL, a bit above the usual range for a girl your age (could be mild dehydration, being at altitude, or a lab thing). Nothing to worry about, but Dr. Aldridge-Okoye would like it repeated in about 2 to 3 weeks, same time of day, and drink water the evening before.
+
+Please dont stop your pill because of this, it is not related. Your BP will be rechecked by Nurse Fenn at school Monday (the 1st).
+
+Mirela Frost, you are doing great. If you have questions, message here or call 608-555-0177 (your cell).
+- Meenakshi Raghunathan, PA-C   (sent from my iPad)
+
+[Auto-text] Dear {FIRST_NAME}, your results for @RESULT_DATE@ are attached. MyChart-style link: https://portal.lindenhollow.example/r/66-4410287
+[Comment (tracked): sentence about Raynaud removed, not relevent]
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="35" text="Linden Hollow Paediatric Associates" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="81" end="87" text="Mirela" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="97" end="110" text="Jadwiga Frost" TYPE="PATIENT" comment="" />
+<ID id="P3" start="155" end="168" text="LB-66-4410287" TYPE="IDNUM" comment="" />
+<DATE id="P4" start="181" end="191" text="10/24/2066" TYPE="DATE" comment="" />
+<DATE id="P5" start="203" end="213" text="10/26/2066" TYPE="DATE" comment="" />
+<NAME id="P6" start="218" end="224" text="Mirela" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="489" end="503" text="Aldridge-Okoye" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="703" end="707" text="Fenn" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="718" end="724" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P10" start="730" end="733" text="1st" TYPE="DATE" comment="" />
+<NAME id="P11" start="737" end="749" text="Mirela Frost" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="816" end="828" text="608-555-0177" TYPE="PHONE" comment="" />
+<NAME id="P13" start="844" end="865" text="Meenakshi Raghunathan" TYPE="DOCTOR" comment="" />
+<CONTACT id="P14" start="991" end="1039" text="https://portal.lindenhollow.example/r/66-4410287" TYPE="URL" comment="" />
+</TAGS>
+</deIdi2b2>

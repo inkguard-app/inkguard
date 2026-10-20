@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>POSTNATAL PROGRESS NOTE (SOAP)  -  07/04/2067
+Clinic: Blue Mountain Women's Health   Seen by: Dr. Aalto   Rooming by volunteer Tyler (HS vol., supervised)
+
+Pt arrived super chill, "vibes were good", baby with grandma Lorna in the waiting room.
+
+S: Now ~6 wks post cesarean (05/23/2067). Feels well. Incision healed, no fever. Bleeding stopped 2 weeks ago. Breastfeeding mostly. Mood "tired but happy"; sleeps in 2-3 hr chunks. Not yet sexually active, and asks about options.
+O: Vitals normal, wt not recorded (scale broken). Pfannenstiel scar well healed, uterus involuted, no tenderness. Depression screen done today negative.
+A: 1. Postpartum, doing well. 2. Contraception counselling.
+P: Reviewed options. She will think about it, return in one week to discuss. Continue iron. Prediabetes -- repeat A1c at her next wellness exam in the spring.
+
+Ms. F. was reminded about the 4 week check she missed. Signed Dr. Aalto 07/04/2067.
+(Draft by Tyler: "The twenty-fourth of May was a big day for her.")
+</TEXT>
+<TAGS>
+<DATE id="P0" start="35" end="45" text="07/04/2067" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="54" end="82" text="Blue Mountain Women's Health" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="94" end="103" text="Dr. Aalto" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="127" end="132" text="Tyler" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="217" end="222" text="Lorna" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="274" end="284" text="05/23/2067" TYPE="DATE" comment="" />
+<NAME id="P6" start="853" end="855" text="F." TYPE="PATIENT" comment="" />
+<NAME id="P7" start="915" end="920" text="Aalto" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="921" end="931" text="07/04/2067" TYPE="DATE" comment="" />
+<NAME id="P9" start="943" end="948" text="Tyler" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="955" end="975" text="twenty-fourth of May" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

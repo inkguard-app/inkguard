@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|note_type|author|dept|text
+89977|HISTORY AND PHYSICAL|Tadeusz Wrona MD|Emergency Dept, Riverbend Medical Center|
+Name: Delphine &lt;&lt;insert surname&gt;&gt;   (sticker: Frost, Delphine A.)   DOB: 11/02/2048 [swapped?]   MRN 69077122
+Date 11/25/2086    Arrival by private car 01:10. Language line operator ID LL-44218 used x 10 min, pt's English fine but she wanted.
+CC: Labour pains, term pregnancy 38 yo G2P1 (miscarriage 2078).
+HPI: Eclampsia-in-pregnancy diagnosed 11/03/2086 per OB notes, BP under control, magnesium course done. Today contractions q3min, waters not broken. Husband Wayde Frost present, he is very supportive.
+PMH: chronic pain, sleep apnea, obesity, burn injury (2082, healed), IPV hx.
+Exam: Alert. BP 120/-. FHR normal. Cervix 8 cm.
+Plan: to L&amp;D now. Epidural. Delivery vaginal at 11/25/2086 05:48 - healthy boy, newborn band "Baby Boy Frost  BB-69077122-01" - note same number as mother, system issue.
+The weather was bad, hard frost on the road, she nearly did not arrive. Good outcome.
+Signed T. Wrona
+</TEXT>
+<TAGS>
+<NAME id="P0" start="61" end="74" text="Tadeusz Wrona" TYPE="DOCTOR" comment="" />
+<LOCATION id="P1" start="78" end="92" text="Emergency Dept" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="94" end="118" text="Riverbend Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P3" start="166" end="184" text="Frost, Delphine A." TYPE="PATIENT" comment="" />
+<DATE id="P4" start="193" end="203" text="11/02/2048" TYPE="DATE" comment="" />
+<ID id="P5" start="221" end="229" text="69077122" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="235" end="245" text="11/25/2086" TYPE="DATE" comment="" />
+<ID id="P7" start="305" end="313" text="LL-44218" TYPE="IDNUM" comment="" />
+<AGE id="P8" start="396" end="398" text="38" TYPE="AGE" comment="" />
+<DATE id="P9" start="420" end="424" text="2078" TYPE="DATE" comment="" />
+<DATE id="P10" start="465" end="475" text="11/03/2086" TYPE="DATE" comment="" />
+<NAME id="P11" start="584" end="595" text="Wayde Frost" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="801" end="811" text="11/25/2086" TYPE="DATE" comment="" />
+<NAME id="P13" start="847" end="861" text="Baby Boy Frost" TYPE="PATIENT" comment="" />
+<ID id="P14" start="863" end="877" text="BB-69077122-01" TYPE="IDNUM" comment="" />
+<NAME id="P15" start="1016" end="1024" text="T. Wrona" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

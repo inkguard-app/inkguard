@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER VISIT SUMMARY                                                              Larkmoor Children's Clinic
+Patient: BRANDVOLD, OTTOLINE F     MRN 7-0431882     DOB 06/30/2064     Visit 06/27/2066
+Provider: Dr. Yusuf Haddad-Lindgren   Dept: Orthopedic Clinic (picked from list in error -- this was a pediatrics f/u)
+
+S: Ottoline (nearly 2, "2 yrs" per mom) back for 8 week follow up of right clavicle fracture from April 27. Mom Nadezhda reports no pain for the last 2 wks, using the arm normaly, climbs on the couch again. Dad Lars took her to the daycare this am bc mom is at the bakery. She still takes the childrens Tylenol zero times a day.
+O: Wt 12.7 kg (from 6/21 visit). Bump at mid clavicle, non tender, full ROM both shoulders. X-ray shows bridging callus, good alignment.
+A: Healed clavicle fracture. 
+P: Cleared for full play incl. climbing. Stop sling. No more acetaminophen needed -- discontinued. Letter to the daycare (Pennywhistle Learning Garden) lifting restrictions will be mailed. Next well visit 12/2066 (age 2 1/2), bring the shot record.
+
+What to do at home:
+- let her move and play freely 
+- the bump will shrink over several months
+- call us if pain returns or she stops using the arm
+- fire/safety: remove the toddler bed rail she climbs on. The landlord (Mr. Cosmo Pellegrino) promised to fix the broken stair gate. If not done by next visit tell us and we can send a letter.
+
+Questions? call 218-555-0100 ext 221 (nurse line). After hrs: same number. Portal: https://portal.larkmoorkids.example
+
+&amp;nbsp;&amp;nbsp; Ref: Brandvolt, Ottoline - 06/27/66
+Signed: Dr. Haddad-Lindgren  06/27/2066 11:42     Page 1 of 1
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="81" end="107" text="Larkmoor Children's Clinic" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="117" end="138" text="BRANDVOLD, OTTOLINE F" TYPE="PATIENT" comment="" />
+<ID id="P2" start="147" end="156" text="7-0431882" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="165" end="175" text="06/30/2064" TYPE="DATE" comment="" />
+<DATE id="P4" start="186" end="196" text="06/27/2066" TYPE="DATE" comment="" />
+<NAME id="P5" start="211" end="232" text="Yusuf Haddad-Lindgren" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="241" end="258" text="Orthopedic Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P7" start="320" end="328" text="Ottoline" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="341" end="342" text="2" TYPE="AGE" comment="" />
+<DATE id="P9" start="415" end="423" text="April 27" TYPE="DATE" comment="" />
+<NAME id="P10" start="429" end="437" text="Nadezhda" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="528" end="532" text="Lars" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="666" end="670" text="6/21" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="935" end="963" text="Pennywhistle Learning Garden" TYPE="ORGANIZATION" comment="" />
+<DATE id="P14" start="1018" end="1025" text="12/2066" TYPE="DATE" comment="" />
+<AGE id="P15" start="1031" end="1036" text="2 1/2" TYPE="AGE" comment="" />
+<NAME id="P16" start="1287" end="1303" text="Cosmo Pellegrino" TYPE="PATIENT" comment="" />
+<CONTACT id="P17" start="1421" end="1441" text="218-555-0100 ext 221" TYPE="PHONE" comment="" />
+<CONTACT id="P18" start="1488" end="1523" text="https://portal.larkmoorkids.example" TYPE="URL" comment="" />
+<NAME id="P19" start="1543" end="1552" text="Brandvolt" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="1554" end="1562" text="Ottoline" TYPE="PATIENT" comment="" />
+<DATE id="P21" start="1565" end="1573" text="06/27/66" TYPE="DATE" comment="" />
+<NAME id="P22" start="1586" end="1601" text="Haddad-Lindgren" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1603" end="1613" text="06/27/2066" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL
+Red Prairie Community Health - Internal Medicine
+Patient: KUOL, PEACE N     DOB: 03/09/2021     MRN: RP-338120     Age: 52
+Date of service: 05/19/2073 (Friday)     Attending: Dr. Will Graves     Scribe: Nova Lindqvist
+@NAME@ is a @AGE@ y.o. female who presents for annual exam.   &lt;- smartphrase half-expanded
+
+CC: annual physical, "my back and my whole body hurts like always"
+
+HPI: 52 y/o woman, goes by "Peace" (first name is a word, pronounced the same as the English; please do not shorten to "Pea"), with fibromyalgia, chronic low back pain (since 2066), obesity listed in problem list although BMI today is 27.8. Last seen here 3/17 for vaccine. Pain 1/10 today, "better than last spring". Takes no regular medicines. Ran out of the Percocet 04/2069 and has not asked since. Tylenol and Advil prn, not daily.
+No hx of Parkinson's disease, no Bell's palsy, no Graves' disease in family (sister has Hashimoto thyroiditis). Please do not confuse with Dr. Graves - this is the attending, not the diagnosis.
+Hx of miscarriage March 2069; IUD (Liletta) in mid-June 2069, removed 06/10/2070.
+
+PMH: fibromyalgia, chronic LBP, gingivitis 5/8/71.
+FH: mother d. age 61, father unknown. Sister Rebecca Nyandeng in Nairobi, Kenya.
+SH: Married to Deng Kuol, works nights at Brightside Laundry (full time since April 2066). Lives at 508 Birchwood Lane, Apt 4B, Fargo, ND 58102. Few friends - "my church is my family", St. Gabriel Fellowship. No tobacco, no alcohol. Denies unsafe at home (screen negative)
+Emergency contact: SAME
+
+ROS: positive for fatigue, widespread aches; otherwise negative.
+PE: Wt 72.4 kg, BMI 27.8, BP 112/77. Gen well appearing. HEENT nl. CV RRR. Lungs CTA. Abd soft. MSK: tender points in the neck and shoulders. Neuro nl, no Babinski.
+
+A/P:
+1. Fibromyalgia - exercise, sleep, no opioids
+2. Chronic LBP
+3. Health maintenance: colon screening due, referral. Mammogram ordered. Vaccines up to date (last 03/17/2073, before that 2/24)
+Return next year, mid-May.
+
+Electronically signed by Will Graves, MD 05/19/2073 15:10
+Page 1 of 1  KUOL, PEACE N  MRN RP-338120
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="21" end="49" text="Red Prairie Community Health" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="52" end="69" text="Internal Medicine" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="79" end="92" text="KUOL, PEACE N" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="102" end="112" text="03/09/2021" TYPE="DATE" comment="" />
+<ID id="P4" start="122" end="131" text="RP-338120" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P5" start="141" end="143" text="52" TYPE="AGE" comment="" />
+<DATE id="P6" start="161" end="171" text="05/19/2073" TYPE="DATE" comment="" />
+<DATE id="P7" start="173" end="179" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P8" start="200" end="211" text="Will Graves" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="224" end="238" text="Nova Lindqvist" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="404" end="406" text="52" TYPE="AGE" comment="" />
+<NAME id="P11" start="427" end="432" text="Peace" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="574" end="578" text="2066" TYPE="DATE" comment="" />
+<DATE id="P13" start="655" end="659" text="3/17" TYPE="DATE" comment="" />
+<DATE id="P14" start="769" end="776" text="04/2069" TYPE="DATE" comment="" />
+<NAME id="P15" start="979" end="985" text="Graves" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1048" end="1058" text="March 2069" TYPE="DATE" comment="" />
+<DATE id="P17" start="1077" end="1090" text="mid-June 2069" TYPE="DATE" comment="" />
+<DATE id="P18" start="1100" end="1110" text="06/10/2070" TYPE="DATE" comment="" />
+<DATE id="P19" start="1156" end="1162" text="5/8/71" TYPE="DATE" comment="" />
+<AGE id="P20" start="1182" end="1184" text="61" TYPE="AGE" comment="" />
+<NAME id="P21" start="1209" end="1225" text="Rebecca Nyandeng" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="1229" end="1236" text="Nairobi" TYPE="CITY" comment="" />
+<LOCATION id="P23" start="1238" end="1243" text="Kenya" TYPE="COUNTRY" comment="" />
+<NAME id="P24" start="1260" end="1269" text="Deng Kuol" TYPE="PATIENT" comment="" />
+<LOCATION id="P25" start="1287" end="1305" text="Brightside Laundry" TYPE="ORGANIZATION" comment="" />
+<DATE id="P26" start="1323" end="1333" text="April 2066" TYPE="DATE" comment="" />
+<LOCATION id="P27" start="1345" end="1371" text="508 Birchwood Lane, Apt 4B" TYPE="STREET" comment="" />
+<LOCATION id="P28" start="1373" end="1378" text="Fargo" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="1380" end="1382" text="ND" TYPE="STATE" comment="" />
+<LOCATION id="P30" start="1383" end="1388" text="58102" TYPE="ZIP" comment="" />
+<LOCATION id="P31" start="1430" end="1452" text="St. Gabriel Fellowship" TYPE="LOCATION-OTHER" comment="" />
+<DATE id="P32" start="1939" end="1949" text="03/17/2073" TYPE="DATE" comment="" />
+<DATE id="P33" start="1963" end="1967" text="2/24" TYPE="DATE" comment="" />
+<DATE id="P34" start="1987" end="1994" text="mid-May" TYPE="DATE" comment="" />
+<NAME id="P35" start="2022" end="2033" text="Will Graves" TYPE="DOCTOR" comment="" />
+<DATE id="P36" start="2038" end="2048" text="05/19/2073" TYPE="DATE" comment="" />
+<NAME id="P37" start="2068" end="2081" text="KUOL, PEACE N" TYPE="PATIENT" comment="" />
+<ID id="P38" start="2087" end="2096" text="RP-338120" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

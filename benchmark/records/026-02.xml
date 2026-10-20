@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY                                                  Meridian Prairie Medical Center
+Transplant Surgery / Nephrology         Unit: 6 West Transplant   Bed 6W-14
+
+Patient: Mahlet T. Gebremariam      MRN E-0498127      DOB 07/02/2018
+Admitted: 05/11/2071     Discharged: 05/14/2071     Attending: Dr. Osagie Nwankwo
+Endocrine consult: Dr. Lowell Frost  Nephrology: Dr. Anneliese Bishop  Coordinator: Dana Rice, RN
+Discharge Dx: ***
+Primary care: Dr. Ruth Kowalczyk
+
+S:
+52 yo woman with T2DM c/b diabetic kidney disease (microalbuminuria 2060 -&gt; proteinuria 2066), CKD stage 4 since 02/21/2067, listed for deceased-donor kidney since mid-April 2067, adm 5/11 (Monday) for transplant after the call from the OPO at 04:10. Seen in clinic on the 4th (eGFR 4.7), 05/07/71 (pain 5/10, joint aches), 5/10 (pre-op). Husband Dawit Haile brought her, daughter Selam translating in the waiting area although the Tigrinya interpreter was booked for the consent. Feels "scared but ready". Denies fever, chest pain.
+Hx also: asthma (uses ProAir prn), HTN, IHD s/p CABG 01/17/2063, obesity, metabolic syndrome, miscarriage 2047, tubal ligation.
+
+O:
+Adm: eGFR 6.2, glucose 99.1 mg/dL, pain 2/10. Post-op labs 05/12/2071: WBC 6.6, Hgb 12.5, glucose 80.1; 05/13/2071: WBC 6.1, Hgb 12.4, glucose 80.1 (same value twice, lab copy-forward?). Graft functioning, urine output good by POD 1. No Cushing features, no steroid hyperglycemia. Induction + tacrolimus injection (Prograf) on the day of surgery, switched to once daily extended-release oral tacrolimus (Envarsus 1 mg) on 5/13. Pain controlled with acetaminophen.
+
+A:
+1. ESRD/CKD 4 s/p deceased-donor kidney transplant 05/11/2071, good early graft function.
+2. T2DM - glucose fine inpatient; high risk of post-transplant diabetes worsening on tacrolimus, endocrine to follow. Prediabetes label in chart is out of date.
+3. IHD s/p CABG - continue antiplatelet + statin.
+
+P:
+Meds on d/c: tacrolimus ER (Envarsus) 1 mg daily, clopidogrel 75 daily, simvastatin 20 nightly, metoprolol succinate 100 daily, nitroglycerin spray prn, diphenhydramine prn. STOP lisinopril and amlodipine (old list!). Insulin: none.
+Labs twice weekly, tacrolimus trough each visit. Clinic Mon 5/17? (coordinator to confirm) then every week. Endocrine last week of May.
+Social: lives 418 Corliss Avenue, Apt 3B, Minneapolis; transport arranged by case worker Marguerite Oduya of Harbor Light Resettlement. Arrived as a refugee from Eritrea via Sudan in 2054. Alien reg # on the transplant consent: A217-554-908.
+
+[ ] Lives alone   [x] Lives with spouse (name: Dawit)   [x] Needs interpreter (lang: Tigrinya)
+Comment (tracked, D. Rice): pls add the phone for the family - (612) 555-0193 is the home line, hubby's cell is 612-555-0138.
+[Inserted: Follow-up call by RN on 05/15/2071.]  [Deleted: Discharge to home on 05/13/2071.]
+
+Dictated by Osagie Nwankwo, MD; electronically signed 05/14/2071 17:42
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="67" end="98" text="Meridian Prairie Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="145" end="162" text="6 West Transplant" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="169" end="174" text="6W-14" TYPE="ROOM" comment="" />
+<NAME id="P3" start="185" end="206" text="Mahlet T. Gebremariam" TYPE="PATIENT" comment="" />
+<ID id="P4" start="216" end="225" text="E-0498127" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="235" end="245" text="07/02/2018" TYPE="DATE" comment="" />
+<DATE id="P6" start="256" end="266" text="05/11/2071" TYPE="DATE" comment="" />
+<DATE id="P7" start="283" end="293" text="05/14/2071" TYPE="DATE" comment="" />
+<NAME id="P8" start="313" end="327" text="Osagie Nwankwo" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="351" end="363" text="Lowell Frost" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="381" end="397" text="Anneliese Bishop" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="412" end="421" text="Dana Rice" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="462" end="476" text="Ruth Kowalczyk" TYPE="DOCTOR" comment="" />
+<AGE id="P13" start="481" end="483" text="52" TYPE="AGE" comment="" />
+<DATE id="P14" start="549" end="553" text="2060" TYPE="DATE" comment="" />
+<DATE id="P15" start="569" end="573" text="2066" TYPE="DATE" comment="" />
+<DATE id="P16" start="594" end="604" text="02/21/2067" TYPE="DATE" comment="" />
+<DATE id="P17" start="645" end="659" text="mid-April 2067" TYPE="DATE" comment="" />
+<DATE id="P18" start="665" end="669" text="5/11" TYPE="DATE" comment="" />
+<DATE id="P19" start="671" end="677" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P20" start="754" end="757" text="4th" TYPE="DATE" comment="" />
+<DATE id="P21" start="770" end="778" text="05/07/71" TYPE="DATE" comment="" />
+<DATE id="P22" start="805" end="809" text="5/10" TYPE="DATE" comment="" />
+<NAME id="P23" start="828" end="839" text="Dawit Haile" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="862" end="867" text="Selam" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="1067" end="1077" text="01/17/2063" TYPE="DATE" comment="" />
+<DATE id="P26" start="1120" end="1124" text="2047" TYPE="DATE" comment="" />
+<DATE id="P27" start="1205" end="1215" text="05/12/2071" TYPE="DATE" comment="" />
+<DATE id="P28" start="1250" end="1260" text="05/13/2071" TYPE="DATE" comment="" />
+<DATE id="P29" start="1568" end="1572" text="5/13" TYPE="DATE" comment="" />
+<DATE id="P30" start="1665" end="1675" text="05/11/2071" TYPE="DATE" comment="" />
+<DATE id="P31" start="2208" end="2211" text="Mon" TYPE="DATE" comment="" />
+<DATE id="P32" start="2212" end="2216" text="5/17" TYPE="DATE" comment="" />
+<DATE id="P33" start="2270" end="2286" text="last week of May" TYPE="DATE" comment="" />
+<LOCATION id="P34" start="2302" end="2320" text="418 Corliss Avenue" TYPE="STREET" comment="" />
+<LOCATION id="P35" start="2326" end="2328" text="3B" TYPE="ROOM" comment="" />
+<LOCATION id="P36" start="2330" end="2341" text="Minneapolis" TYPE="CITY" comment="" />
+<NAME id="P37" start="2377" end="2393" text="Marguerite Oduya" TYPE="PATIENT" comment="" />
+<LOCATION id="P38" start="2397" end="2422" text="Harbor Light Resettlement" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P39" start="2450" end="2457" text="Eritrea" TYPE="COUNTRY" comment="" />
+<LOCATION id="P40" start="2462" end="2467" text="Sudan" TYPE="COUNTRY" comment="" />
+<DATE id="P41" start="2471" end="2475" text="2054" TYPE="DATE" comment="" />
+<ID id="P42" start="2516" end="2528" text="A217-554-908" TYPE="IDNUM" comment="" />
+<NAME id="P43" start="2578" end="2583" text="Dawit" TYPE="PATIENT" comment="" />
+<NAME id="P44" start="2644" end="2651" text="D. Rice" TYPE="DOCTOR" comment="" />
+<CONTACT id="P45" start="2689" end="2703" text="(612) 555-0193" TYPE="PHONE" comment="" />
+<CONTACT id="P46" start="2738" end="2750" text="612-555-0138" TYPE="PHONE" comment="" />
+<DATE id="P47" start="2787" end="2797" text="05/15/2071" TYPE="DATE" comment="" />
+<DATE id="P48" start="2832" end="2842" text="05/13/2071" TYPE="DATE" comment="" />
+<NAME id="P49" start="2858" end="2872" text="Osagie Nwankwo" TYPE="DOCTOR" comment="" />
+<DATE id="P50" start="2900" end="2910" text="05/14/2071" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

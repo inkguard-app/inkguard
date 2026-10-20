@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST   ~ Well Child Visit ~
+Bow River Children's Clinic      Date: Sat 14 Jun 2092
+Done by: Hailey Tran (MA) w/ mom                Patient: Theodore Brook   7 yo
+DOB: 05/02/2085   MRN CH-2092-4417   Prov. health no. 4028-17766
+@NAME@ is a @AGE@ y.o. male. Mom Clare in room, Dad Sung-ho Park on the phone (dad is in Busan Korea for work, +82 51 555 0138)
+
+- Pt was awesome, little shy at first, vibes ok
+- weight 22.3 kg, BMI 15.2, BP 113/81 (he was wiggling), pain 3/10 "my tummy sometimes"
+- Dr. Venkataswamy reviewed everything
+
+PLEASE CONFIRM THE FOLLOWING:
+[ ] Amoxicillin 500 mg - OLD, from March 2087 ear infection (otitis media), finished, REMOVE
+[ ] Ibuprofen (Motrin) 100 mg - also from 03/2087, REMOVE
+[x] Acetaminophen (Tylenol) children's liquid as needed
+[x] Zyrtec in spring, per mother, not prescribed
+[ ] cough/cold syrup from 2089 - no longer
+[ ] Fluoride gel - dentist to apply next week, not a home med
+Allergies: Theodore Brook  (field filled wrong, no known drug allergies)
+Emergency contact: SAME
+Dental referral to Elbow Dental Kids, Dr. Anneliese Fournier, appt 21 June 09:00, fax +1 403 555 0177
+Vaccines: on schedule, per Alberta record, next due at age 9.
+
+Page 2 of 2  BROOK, THEODORE   14/06/2092   (printed by hailey.t from 10.30.2.144)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="54" end="81" text="Bow River Children's Clinic" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="93" end="108" text="Sat 14 Jun 2092" TYPE="DATE" comment="" />
+<NAME id="P2" start="118" end="129" text="Hailey Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="166" end="180" text="Theodore Brook" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="183" end="184" text="7" TYPE="AGE" comment="" />
+<DATE id="P5" start="193" end="203" text="05/02/2085" TYPE="DATE" comment="" />
+<ID id="P6" start="210" end="222" text="CH-2092-4417" TYPE="MEDICALRECORD" comment="" />
+<ID id="P7" start="242" end="252" text="4028-17766" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P8" start="286" end="291" text="Clare" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="305" end="317" text="Sung-ho Park" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="342" end="347" text="Busan" TYPE="CITY" comment="" />
+<LOCATION id="P11" start="348" end="353" text="Korea" TYPE="COUNTRY" comment="" />
+<CONTACT id="P12" start="364" end="379" text="+82 51 555 0138" TYPE="PHONE" comment="" />
+<NAME id="P13" start="524" end="536" text="Venkataswamy" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="623" end="633" text="March 2087" TYPE="DATE" comment="" />
+<DATE id="P15" start="723" end="730" text="03/2087" TYPE="DATE" comment="" />
+<DATE id="P16" start="870" end="874" text="2089" TYPE="DATE" comment="" />
+<NAME id="P17" start="960" end="974" text="Theodore Brook" TYPE="PATIENT" comment="" />
+<LOCATION id="P18" start="1065" end="1082" text="Elbow Dental Kids" TYPE="ORGANIZATION" comment="" />
+<NAME id="P19" start="1088" end="1106" text="Anneliese Fournier" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1113" end="1120" text="21 June" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1132" end="1147" text="+1 403 555 0177" TYPE="FAX" comment="" />
+<LOCATION id="P22" start="1175" end="1182" text="Alberta" TYPE="STATE" comment="" />
+<AGE id="P23" start="1207" end="1208" text="9" TYPE="AGE" comment="" />
+<NAME id="P24" start="1224" end="1239" text="BROOK, THEODORE" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="1242" end="1252" text="14/06/2092" TYPE="DATE" comment="" />
+<NAME id="P26" start="1267" end="1275" text="hailey.t" TYPE="USERNAME" comment="" />
+<CONTACT id="P27" start="1281" end="1292" text="10.30.2.144" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

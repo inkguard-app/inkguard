@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>GENESEE COMMUNITY CARE COORDINATION OFFICE  -  SOCIAL WORK / CASE MGMT
+PROGRESS NOTE (SOAP)       CASE # CCO-90-04417
+PT: WISNIEWSKI-REYES, TOMASZ   DOB 03/27/2065   MRN CM-2065-77812
+DATE OF SERVICE: 06/03/2090  (SAT)   WORKER: LORRAINE ABIODUN-KEATS, LCSW   ASSISTED BY HS VOLUNTEER BREE CASTELLANO-LUND
+
+S: PT IS A 25 Y/O MARRIED MALE, REFERRED AFTER LOSS OF HIS FULL TIME JOB AT BRIGHTWATER COLD STORAGE ON MAY 19. HE ARRIVED W/ WIFE DAWN AND KIDS SUNNY (4) AND JAX (2). "SUNNY" IS THE GIRL; IT IS NOT THE WEATHER, LOL (VOLUNTEER NOTE). 
+PT STATES HE HAS "NOBODY LEFT" BUT THEN LISTED BROTHER MAREK WISNIEWSKI IN BUFFALO, GRANDMOTHER HALINA WISNIEWSKA (AGE 94, LIVES W/ THEM), AND THE NEIGHBOR, MRS ODETTE FONTAINE (AGE 91) WHO WATCHES THE KIDS. HOUSING: RENTS AT 2205 ALDER CROSSING, APT 6, ROCHESTER NY 14607. LANDLORD BARTHOLOMEW QUIST OF PINEGROVE RENTALS GAVE A 14-DAY NOTICE. RENT PAST DUE.
+
+THE VOLUNTEER'S PART (LEFT IN):
+** "IN CONCLUSION, THE CLIENT'S JOURNEY IS ONE OF HOPE" **
+-&gt; TOMEK (TOMEK) WAS SUPER CHILL, "VIBES OKAY BUT TIRED". THE TWENTY-SEVENTH OF MARCH IS HIS BIRTHDAY. (THE TWENTY-SEVENTH OF MARCH)
+-&gt; HIS GRANDMA BABCIA HALINA IS IN HER NINETIES AND MAKES PIEROGI.
+
+O: ALERT, ORIENTED, TEARFUL TWICE. BP 136/94 (WELLNESS CHECK MAY 20). GAD-7 = 3. NO SI. LIMITED SOCIAL CONTACT, SOCIAL ISOLATION ON PROBLEM LIST.
+A: JOB LOSS, HOUSING INSTABILITY, STRESS. FOOD INSECURITY (PANTRY CARD RFC-0033871 FROM ROCHESTER FOOD CUPBOARD).
+P: 1) APPLY UNEMPLOYMENT BENEFITS ONLINE https://benefits.nyconnect.example/u/tomekwr. 2) CALL LANDLORD. 3) RENTAL ASSISTANCE APPLICATION. 4) F/U NEXT TUES. 5) PCP DR EVERETT NAIDOO FOR SLEEP/BP.
+ALLERGIES: EVICTION NOTICE # 2090-LT-0457
+SIGNED L. KEATS 06/03/2090 16:40  FROM 10.4.9.77
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="42" text="GENESEE COMMUNITY CARE COORDINATION OFFICE" TYPE="ORGANIZATION" comment="" />
+<ID id="P1" start="105" end="117" text="CCO-90-04417" TYPE="IDNUM" comment="" />
+<NAME id="P2" start="122" end="146" text="WISNIEWSKI-REYES, TOMASZ" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="153" end="163" text="03/27/2065" TYPE="DATE" comment="" />
+<ID id="P4" start="170" end="183" text="CM-2065-77812" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="201" end="211" text="06/03/2090" TYPE="DATE" comment="" />
+<DATE id="P6" start="214" end="217" text="SAT" TYPE="DATE" comment="" />
+<NAME id="P7" start="229" end="251" text="LORRAINE ABIODUN-KEATS" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="285" end="305" text="BREE CASTELLANO-LUND" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="318" end="320" text="25" TYPE="AGE" comment="" />
+<LOCATION id="P10" start="383" end="407" text="BRIGHTWATER COLD STORAGE" TYPE="ORGANIZATION" comment="" />
+<DATE id="P11" start="411" end="417" text="MAY 19" TYPE="DATE" comment="" />
+<NAME id="P12" start="438" end="442" text="DAWN" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="452" end="457" text="SUNNY" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="459" end="460" text="4" TYPE="AGE" comment="" />
+<NAME id="P15" start="466" end="469" text="JAX" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="471" end="472" text="2" TYPE="AGE" comment="" />
+<NAME id="P17" start="476" end="481" text="SUNNY" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="597" end="613" text="MAREK WISNIEWSKI" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="617" end="624" text="BUFFALO" TYPE="CITY" comment="" />
+<NAME id="P20" start="638" end="655" text="HALINA WISNIEWSKA" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="661" end="663" text="94" TYPE="AGE" comment="" />
+<NAME id="P22" start="703" end="718" text="ODETTE FONTAINE" TYPE="PATIENT" comment="" />
+<AGE id="P23" start="724" end="726" text="91" TYPE="AGE" comment="" />
+<LOCATION id="P24" start="768" end="794" text="2205 ALDER CROSSING, APT 6" TYPE="STREET" comment="" />
+<LOCATION id="P25" start="796" end="805" text="ROCHESTER" TYPE="CITY" comment="" />
+<LOCATION id="P26" start="806" end="808" text="NY" TYPE="STATE" comment="" />
+<LOCATION id="P27" start="809" end="814" text="14607" TYPE="ZIP" comment="" />
+<NAME id="P28" start="825" end="842" text="BARTHOLOMEW QUIST" TYPE="PATIENT" comment="" />
+<LOCATION id="P29" start="846" end="863" text="PINEGROVE RENTALS" TYPE="ORGANIZATION" comment="" />
+<NAME id="P30" start="996" end="1001" text="TOMEK" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="1003" end="1008" text="TOMEK" TYPE="PATIENT" comment="" />
+<DATE id="P32" start="1097" end="1124" text="THE TWENTY-SEVENTH OF MARCH" TYPE="DATE" comment="" />
+<NAME id="P33" start="1141" end="1154" text="BABCIA HALINA" TYPE="PATIENT" comment="" />
+<AGE id="P34" start="1165" end="1173" text="NINETIES" TYPE="AGE" comment="" />
+<DATE id="P35" start="1255" end="1261" text="MAY 20" TYPE="DATE" comment="" />
+<ID id="P36" start="1411" end="1422" text="RFC-0033871" TYPE="IDNUM" comment="" />
+<LOCATION id="P37" start="1428" end="1451" text="ROCHESTER FOOD CUPBOARD" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P38" start="1495" end="1539" text="https://benefits.nyconnect.example/u/tomekwr" TYPE="URL" comment="" />
+<DATE id="P39" start="1600" end="1609" text="NEXT TUES" TYPE="DATE" comment="" />
+<NAME id="P40" start="1621" end="1635" text="EVERETT NAIDOO" TYPE="DOCTOR" comment="" />
+<ID id="P41" start="1679" end="1691" text="2090-LT-0457" TYPE="IDNUM" comment="" />
+<NAME id="P42" start="1699" end="1707" text="L. KEATS" TYPE="DOCTOR" comment="" />
+<DATE id="P43" start="1708" end="1718" text="06/03/2090" TYPE="DATE" comment="" />
+<CONTACT id="P44" start="1731" end="1740" text="10.4.9.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

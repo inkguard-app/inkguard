@@ -1,0 +1,20 @@
+EMERGENCY DEPARTMENT — MVC WITH NECK PAIN
+{{FACILITY|Southmoor Valley Hospital}} ED — {{DATE|05/09/2079}} 17:45
+{{NAME|Delphine Gardner-Osei}}, 38 F, MRN {{MRN|SVH-3018829}}
+ED attending Dr. {{NAME|Montgomery Ilesanmi}}; PA {{NAME|Wren Castellano}}, PA-C (history)
+
+Restrained driver, [[T-bone collision]] at ~35 mph, airbags deployed. Now [[left neck pain]] radiating to the left jaw and eye, [[left-sided headache]], and her husband noticed her left eyelid drooping.
+Exam: [[left partial ptosis]], [[left miosis]] (anisocoria greater in the dark), [[facial anhidrosis]] absent (suggesting [[postganglionic]] lesion, consistent with [[ICA dissection]]); [[left tongue deviation]] — [[hypoglossal nerve palsy]] (CN XII); no limb weakness, [[NIHSS 0]]. [[Seat belt sign]] over the left neck. [[Canadian C-spine rule]] → imaging.
+[[CT C-spine]]: no fracture. [[CTA head and neck]]: [[left cervical ICA dissection]] beginning 2 cm above the bifurcation with a [[tapered stenosis (string sign)]] 70% and a small [[dissecting pseudoaneurysm]] 5 mm; [[Biffl grade III]] (pseudoaneurysm; [[Denver criteria]] screening positive) [[blunt cerebrovascular injury]]. Intracranial circulation intact.
+[[MRI brain DWI]]: no infarct. [[Fat-saturated T1 axial neck]]: crescentic [[intramural haematoma]].
+Plan: [[aspirin 325 mg]] then [[aspirin 81 mg]] daily (antiplatelet equivalent to anticoagulation per CADISS/TREAT-CAD context); BP control; neurology and vascular neurosurgery consults; repeat [[CTA]] at 3 months. [[Partial Horner syndrome]] expected to persist. Husband {{NAME|Kwabena Osei}} at bedside.
+=====NOTE=====
+NEUROLOGY CLINIC FOLLOW-UP — {{DATE|08/12/2079}} — {{NAME|D. Gardner-Osei}} — {{MRN|SVH-3018829}}
+Dr. {{NAME|Liora Bensaid}}, vascular neurology
+History (copied forward from ED): restrained driver, T-bone collision, left neck pain radiating to the jaw and eye, left ptosis.
+[[Repeat CTA neck]]: the [[left ICA dissection]] has healed with residual 20% narrowing; the [[pseudoaneurysm]] decreased to 3 mm. [[Hypoglossal palsy]] resolved; [[Horner syndrome]] persists (mild ptosis 1 mm). [[Apraclonidine 0.5% test]]: reversal of anisocoria confirming [[oculosympathetic denervation]]. Headache resolved. Continue [[aspirin 81 mg]] for 12 months. No [[TIA]] or [[stroke]].
+=====NOTE=====
+RECORDS REQUEST / ATTORNEY CORRESPONDENCE — {{DATE|09/30/2079}}
+From: {{NAME|Bartholomew Okonkwo-Reyes}}, Esq., {{ORG|Okonkwo-Reyes Trial Lawyers}}; case {{ID|CV-79-004418}}, {{ORG|Ridgeline Superior Court}}
+To: Medical Records, {{FACILITY|Southmoor Valley Hospital}}; HIPAA authorisation signed by {{NAME|Delphine Gardner-Osei}} on {{DATE|09/22/2079}}.
+Physician summary (Dr. {{NAME|L. Bensaid}}): [[traumatic left ICA dissection]] with [[pseudoaneurysm]] and [[Horner syndrome]] and transient [[hypoglossal nerve palsy]], caused within reasonable medical probability by the collision ([[seat belt sign]], temporal association). She remains at small risk of [[recurrent dissection]]; [[cosmetic ptosis]] may persist and can be corrected by [[Müller muscle-conjunctival resection]] by oculoplastics. Defence counsel {{NAME|Imogen Faraday}}, {{ORG|Faraday Whitcombe Insurance Defense}}, has requested a [[deposition]] date.

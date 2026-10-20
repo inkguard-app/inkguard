@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE  01/10/2086  09:12     Unit: Ortho Clinic     RN: Chidi Mbeki
+Pt: Everet Sage     45 y/o M     MRN PH-2290417
+
+- Pt in for f/u R shoulder -- says it is much better after PT x 6 wks
+- pain 0-1/10 now, was 3 on 12/2 per PT sheet
+- sleeping thru nite again since "right after Christmas Eve" 
+- back at work light duty since the 3rd, full duty planned next Monday
+- vitals: not retaken, wt 83 kg per scale in hall
+- allergies: wasp, same. Meds: loratadine, hydrocortisone cream prn, epinephrine pen at home (EpiPen expired? pt to check)
+- c/o stuffy nose, hx chronic sinusitis, no fever
+- Dr. Solberg in to see, cleared; f/u prn
+
+&gt;&gt;&gt; pasted from consult note 10/31/2085 so we dont lose it:
+ Reason: R shoulder pain x ~2 wks, worse overhead and at nite
+ Exam: Neer +, Hawkins-Kennedy +, Jobe + weakness 4/5, drop arm neg
+ Plan: MRI R shoulder, PT referral x 6 wks, no lifting &gt; 10 lb. 
+ Pt: SAGE, EVERETT L  Ingrid Solberg MD e-signed 10/31/2085
+
+- MRI done 11/19: partial thickness supraspinatus tear, no full tear (result in chart). 
+- Pt said he'd tell his brother Julian about PT exercises, brother also has shoulder trouble. Pt's number 802-555-0118, home addr 902 Quarry Hill Rd Unit 4 -- unchanged.
+- Discharged home 10:05. Handout given.
+CM RN   e-signed 1/10/86 10:41
+</TEXT>
+<TAGS>
+<DATE id="P0" start="14" end="24" text="01/10/2086" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="42" end="54" text="Ortho Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="63" end="74" text="Chidi Mbeki" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="79" end="90" text="Everet Sage" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="95" end="97" text="45" TYPE="AGE" comment="" />
+<ID id="P5" start="112" end="122" text="PH-2290417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="222" end="226" text="12/2" TYPE="DATE" comment="" />
+<DATE id="P7" start="286" end="299" text="Christmas Eve" TYPE="DATE" comment="" />
+<DATE id="P8" start="334" end="341" text="the 3rd" TYPE="DATE" comment="" />
+<DATE id="P9" start="361" end="372" text="next Monday" TYPE="DATE" comment="" />
+<NAME id="P10" start="602" end="609" text="Solberg" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="668" end="678" text="10/31/2085" TYPE="DATE" comment="" />
+<NAME id="P12" start="899" end="914" text="SAGE, EVERETT L" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="916" end="930" text="Ingrid Solberg" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="943" end="953" text="10/31/2085" TYPE="DATE" comment="" />
+<DATE id="P15" start="966" end="971" text="11/19" TYPE="DATE" comment="" />
+<NAME id="P16" start="1076" end="1082" text="Julian" TYPE="PATIENT" comment="" />
+<CONTACT id="P17" start="1150" end="1162" text="802-555-0118" TYPE="PHONE" comment="" />
+<LOCATION id="P18" start="1174" end="1199" text="902 Quarry Hill Rd Unit 4" TYPE="STREET" comment="" />
+<NAME id="P19" start="1254" end="1256" text="CM" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1271" end="1278" text="1/10/86" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

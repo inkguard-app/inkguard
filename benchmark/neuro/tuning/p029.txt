@@ -1,0 +1,22 @@
+MATERNAL-FETAL MEDICINE / FETAL SURGERY CONSULT
+{{FACILITY|Silverbirch Fetal Care Center}}
+Patient: {{NAME|Anneliese Kuroda-Bannister}}   MRN {{MRN|SFC-61902245}}   Date {{DATE|03/18/2078}}
+Partner: {{NAME|Evander Bannister}}
+
+31 y/o [[G2P1001]] at [[23 weeks 2 days gestational age]] by first-trimester ultrasound ([[EDD]] {{DATE|07/13/2078}}). Referred after anatomy scan showed fetal [[open neural tube defect]]. [[Maternal serum AFP]] 4.1 MoM.
+
+Fetal ultrasound and [[fetal MRI]]: [[lumbosacral myelomeningocele]] with upper level of the bony defect at [[L3]], sac present; [[Chiari II malformation]] with [[hindbrain herniation]], [[lemon sign]] and [[banana sign]]; [[ventriculomegaly]] atrial width 13 mm; bilateral leg movement present; no [[clubfoot]]. Normal [[microarray]] (amniocentesis). Placenta posterior.
+
+Discussion: [[prenatal (open hysterotomy) myelomeningocele repair]] per MOMS-trial criteria (gestational age 19-25 6/7 weeks, upper level T1-S1, Chiari II), versus [[fetoscopic repair]], versus [[postnatal repair within 48 hours]]. Benefits: reduced need for [[CSF shunting]], improved [[motor function]]. Risks: [[preterm birth]], [[uterine dehiscence]], requirement for [[caesarean delivery]] in this and future pregnancies. Maternal BMI 27, no contraindication.
+
+Dr. {{NAME|Yolanda Merriweather-Osei}}, MFM; Dr. {{NAME|Casimir Lindgren}}, Pediatric Neurosurgery
+Social work: {{NAME|Tamsin O'Hare}}, LCSW, met family re: lodging at {{ORG|Fenwick Family House}}.
+=====NOTE=====
+OPERATIVE NOTE — FETAL MYELOMENINGOCELE REPAIR — {{DATE|03/27/2078}}
+Maternal pt {{NAME|KURODA-BANNISTER, ANNELIESE}} {{MRN|SFC-61902245}}; GA [[24w4d]]
+Surgeons {{NAME|C. Lindgren}} (neurosurgery), {{NAME|Y. Merriweather-Osei}} (MFM)
+Maternal [[general anaesthesia]] with high-dose [[volatile agent for uterine relaxation]], [[fetal fentanyl and vecuronium IM]], [[atropine]]. Low transverse laparotomy, uterus exteriorised, [[hysterotomy]] with uterine stapler after ultrasound mapping of the placenta. Fetal back exposed. [[Placode]] dissected from the zona epithelialis and released, [[neural placode]] allowed to drop into the canal; [[dura]] closed as a separate layer; [[myofascial flaps]] and skin closed primarily. Fetal heart rate monitored by echocardiography — stable 140s. [[Fetal heart rate]] and [[ductus arteriosus]] monitored for [[indomethacin]] effect. Uterus closed in two layers, [[amniotic fluid]] restored with warm saline. [[Magnesium sulfate]] tocolysis, [[indomethacin]] 48 h.
+=====NOTE=====
+NICU ADMISSION — NEONATE — {{DATE|06/29/2078}}
+Baby boy {{NAME|Bannister}} ("Baby Boy {{NAME|Kuroda-Bannister}}"), MRN {{MRN|SFC-61902901}}, born by planned [[caesarean section]] at [[38w1d]] (scheduled; EDD was {{DATE|07/13/2078}}), BW 3.05 kg, [[Apgar 8 and 9]].
+Repair site healed, no CSF leak. [[Head circumference]] 35 cm (50th centile). [[Anterior fontanelle]] soft. Cranial US: ventricles stable, atrial width 14 mm, no need for [[ETV/CPC]] or [[VP shunt]] at this time. [[Hip flexion]] and [[knee extension]] present bilaterally; [[ankle dorsiflexion]] weak; [[functional level L4]]. Urology: [[clean intermittent catheterisation]] training, [[renal bladder ultrasound]], [[VCUG]] at 3 months. Older sister {{NAME|Juniper Bannister}} (age 3) visiting with father. [[Chiari II malformation]] signs: no [[stridor]], no [[apnoea]], normal suck and swallow. [[Lower extremity motor exam]] documented by physical therapy. Pediatrician to follow at {{FACILITY|Maplestead Pediatric Associates}}.

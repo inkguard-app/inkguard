@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>RIDGELINE FAMILY MEDICINE  Scranton PA
+H&amp;P  -  10/10/2071   MA intake: Tori Beckett
+Pt: Kasimir Ostrowicz  (fka Casey Ostrow per pt, name chg legal 2069)  MRN 3318-0472
+DOB 03/09/2046  25 yo M   PCP Priya Nambiar MD
+
+CC: annual, "work wants a form"
+HPI: 25 yo M here for CPE. No new cx. Denies hx of bronchitis, says never had it - chart shows acute bronchitis 2065 tx'd w/ tylenol, resolved. Pt also states appy at age 14, NO scar on exam, no record. Pt thinks we have his DOB as 9/3/2046, wife Dana Ostrowitz corrected him in room, 3/9 is right.
+.HPI  @NAME@ is a @AGE@ y.o. male w/ hx obesity, stress (resolved), social isolation (resolved 10/06/2068).
+
+PMH: BMI 30+, hx stress, hx viral sinusitis, gingivitis. Anxiety screen 10/06/2068 GAD-7 12 -&gt; today repeat done, see below.
+Meds: none rx. APAP prn. (sodium fluoride gel d/c'd yrs ago - copy fwd, stale)
+All: NKDA
+
+SH: lives w/ wife Dana Ostrowicz + dtr Wren (2) + son Teodor (6 mo) @ 214 Pargeter Lane Apt 3B, Scranton. Landlord Mr Birdsall - pt c/o leak, brought txt: "kazimir this is birdsall, plumber coming thurs, leave the key w/ halloran in 2A, -B. 570-555-0188" 
+Neighbor Mrs Halloran 2A helps w/ kids. Works dispatcher FT at Gantry Freight Logistics since 09/2064. Grandfather Stanislaw Ostrow 91 yo / ninety-one / age 9l in old note, lives w/ them some weeks, "the reason i changed it back". ETOH social. No drugs per pt. Safe at home yes. [x] Lives w/ spouse  [ ] Lives alone  [ ] Homeless
+Pasted from 10/06/2068: "Pt Casey Ostrow 22 yo M, lives alone, no friends in town, isolated. GAD-7 12." (OLD - he is not alone now)
+Mail: parcel box for retainer came to office, label "CASEY OSTROW 214 Pargeter La, track 1Z 88X 4410 0629 117" - returned to pt.
+
+ROS: neg except mild gum bleeding.
+VS: BP 127/74  wt 88.9 kg  BMI 30.1  pain 1/10
+PE: NAD, well app. Gingiva red, bleeds w/ probing. Lungs CTA. RRR. abd soft. no appy scar.
+Screens: depression neg, subst use neg, med rec done.
+A/P: 1 obesity - diet/exercise counsel, recheck 1 yr. 2 gingivitis -&gt; dental ref, Alan Whitcombe DDS. 3 anxiety hx - GAD-7 repeat, f/u prn. 4 health maint. Work form completed.
+Electronically signed Priya Nambiar MD 10/10/2071 16:42
+Last edited by tbeckett 10/10/2071 17:05 from 10.20.4.55
+</TEXT>
+<TAGS>
+<DATE id="P0" start="47" end="57" text="10/10/2071" TYPE="DATE" comment="" />
+<NAME id="P1" start="71" end="83" text="Tori Beckett" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="88" end="105" text="Kasimir Ostrowicz" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="112" end="124" text="Casey Ostrow" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="148" end="152" text="2069" TYPE="DATE" comment="" />
+<ID id="P5" start="159" end="168" text="3318-0472" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="173" end="183" text="03/09/2046" TYPE="DATE" comment="" />
+<AGE id="P7" start="185" end="187" text="25" TYPE="AGE" comment="" />
+<NAME id="P8" start="199" end="212" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="254" end="256" text="25" TYPE="AGE" comment="" />
+<DATE id="P10" start="361" end="365" text="2065" TYPE="DATE" comment="" />
+<AGE id="P11" start="420" end="422" text="14" TYPE="AGE" comment="" />
+<DATE id="P12" start="481" end="489" text="9/3/2046" TYPE="DATE" comment="" />
+<NAME id="P13" start="496" end="510" text="Dana Ostrowitz" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="643" end="653" text="10/06/2068" TYPE="DATE" comment="" />
+<DATE id="P15" start="729" end="739" text="10/06/2068" TYPE="DATE" comment="" />
+<NAME id="P16" start="890" end="904" text="Dana Ostrowicz" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="911" end="915" text="Wren" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="917" end="918" text="2" TYPE="AGE" comment="" />
+<NAME id="P19" start="926" end="932" text="Teodor" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="934" end="938" text="6 mo" TYPE="AGE" comment="" />
+<LOCATION id="P21" start="942" end="966" text="214 Pargeter Lane Apt 3B" TYPE="STREET" comment="" />
+<LOCATION id="P22" start="968" end="976" text="Scranton" TYPE="CITY" comment="" />
+<NAME id="P23" start="987" end="998" text="Mr Birdsall" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1028" end="1035" text="kazimir" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1044" end="1052" text="birdsall" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1069" end="1074" text="thurs" TYPE="DATE" comment="" />
+<NAME id="P27" start="1093" end="1101" text="halloran" TYPE="PATIENT" comment="" />
+<CONTACT id="P28" start="1113" end="1125" text="570-555-0188" TYPE="PHONE" comment="" />
+<NAME id="P29" start="1137" end="1149" text="Mrs Halloran" TYPE="PATIENT" comment="" />
+<PROFESSION id="P30" start="1174" end="1184" text="dispatcher" TYPE="PROFESSION" comment="" />
+<LOCATION id="P31" start="1191" end="1215" text="Gantry Freight Logistics" TYPE="ORGANIZATION" comment="" />
+<DATE id="P32" start="1222" end="1229" text="09/2064" TYPE="DATE" comment="" />
+<NAME id="P33" start="1243" end="1259" text="Stanislaw Ostrow" TYPE="PATIENT" comment="" />
+<AGE id="P34" start="1260" end="1262" text="91" TYPE="AGE" comment="" />
+<AGE id="P35" start="1268" end="1278" text="ninety-one" TYPE="AGE" comment="" />
+<AGE id="P36" start="1285" end="1287" text="9l" TYPE="AGE" comment="" />
+<DATE id="P37" start="1470" end="1480" text="10/06/2068" TYPE="DATE" comment="" />
+<NAME id="P38" start="1486" end="1498" text="Casey Ostrow" TYPE="PATIENT" comment="" />
+<AGE id="P39" start="1499" end="1501" text="22" TYPE="AGE" comment="" />
+<NAME id="P40" start="1643" end="1655" text="CASEY OSTROW" TYPE="PATIENT" comment="" />
+<LOCATION id="P41" start="1656" end="1671" text="214 Pargeter La" TYPE="STREET" comment="" />
+<ID id="P42" start="1679" end="1699" text="1Z 88X 4410 0629 117" TYPE="IDNUM" comment="" />
+<NAME id="P43" start="2029" end="2043" text="Alan Whitcombe" TYPE="DOCTOR" comment="" />
+<NAME id="P44" start="2146" end="2159" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P45" start="2163" end="2173" text="10/10/2071" TYPE="DATE" comment="" />
+<DATE id="P46" start="2204" end="2214" text="10/10/2071" TYPE="DATE" comment="" />
+<CONTACT id="P47" start="2226" end="2236" text="10.20.4.55" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

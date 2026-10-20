@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,mrn,pt_name,dob,note_date,note_type,author,note_text
+48812,7041-2285,"FROST, DESMOND",09/14/1993,04/30/2068,LTR-INS,achterberg,"Northfield Mutual Health, Appeals Dept. Re: member NMH 90-4417-23, claim CLM-2068-118842. Dear Sir or Madam, I write on behalf of Mr. Frost re denied cisplatin/etoposide cycle given 04/29. 74 yo M, SCLC dx 06/2066, extensive stage, CAD s/p CABG, CKD2, DM2. Chemo is std of care, not experimental. Pls overturn. His hope is to see his son graduate - not a clinical reason but you should know. Reviewer's notes list pt as Desmond Pike (prior legal name, chgd 2017) - same pt, same DOB. Pt told your rep he never drank, chart has alcoholism dx since 2018, I do not think this changes cover. Call my office 802-555-0100. Sincerly, I. Achterberg MD, signed 04/30/2068 -IA"
+</TEXT>
+<TAGS>
+<ID id="P0" start="66" end="75" text="7041-2285" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="77" end="91" text="FROST, DESMOND" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="93" end="103" text="09/14/1993" TYPE="DATE" comment="" />
+<DATE id="P3" start="104" end="114" text="04/30/2068" TYPE="DATE" comment="" />
+<NAME id="P4" start="123" end="133" text="achterberg" TYPE="USERNAME" comment="" />
+<LOCATION id="P5" start="135" end="159" text="Northfield Mutual Health" TYPE="ORGANIZATION" comment="" />
+<ID id="P6" start="186" end="200" text="NMH 90-4417-23" TYPE="HEALTHPLAN" comment="" />
+<ID id="P7" start="208" end="223" text="CLM-2068-118842" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="269" end="274" text="Frost" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="317" end="322" text="04/29" TYPE="DATE" comment="" />
+<AGE id="P10" start="324" end="326" text="74" TYPE="AGE" comment="" />
+<DATE id="P11" start="341" end="348" text="06/2066" TYPE="DATE" comment="" />
+<NAME id="P12" start="555" end="567" text="Desmond Pike" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="592" end="596" text="2017" TYPE="DATE" comment="" />
+<DATE id="P14" start="682" end="686" text="2018" TYPE="DATE" comment="" />
+<CONTACT id="P15" start="738" end="750" text="802-555-0100" TYPE="PHONE" comment="" />
+<NAME id="P16" start="765" end="775" text="Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="787" end="797" text="04/30/2068" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

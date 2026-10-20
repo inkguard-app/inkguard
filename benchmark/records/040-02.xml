@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>From: wsantangelo.toledo@mailbox.example
+To: Maumee Bend Health Partners patient messages
+Sent: 04/16/2080 7:12 AM
+Subject: wrist, and a question about my records
+
+hello Dr. Bellwether,
+
+its Billy Santangelo. i went to the ER yesterday at Toledo Riverside Emergency Department, i fell off the back steps at 1409 Marlowe Avenue carrying laundry and my right wrist is badly sprained, they wrapped it and said the doctor was Dr. Albrect-Tan? or Albrecht Tan, the paper has it both ways. told me no break on the xray. ibuprofen i have at home. i am not working anywhere right now as you know since the poultry place let me go so i cant afford the splint they wanted to sell me.
+
+Questions
+1. when can i go back to lifting things, my son Ezekial is 5 and i carry him.
+2. my landlord Anselmo Duarte Whitfield says i have to pay for the steps. he is saying its my fault. can you write something saying the step was loose. his number is (419) 555-0194 if you want to call him but please dont tell him my medical stuff.
+3. Obadiah Fenwick (the neighbour, mr fenwik to my kids) drove me to the ER and his dog is ALSO named Ezekiel, which confuses my son. please dont mix them up in my chart, the dog is not a patient lol.
+4. my mother Rosalind and my sister Dorothea keep calling the office pretending to be me. they dont have my permission for anything. only Marisela my daughter can get info and she is 17, i know, i will fix it when she is 18.
+
+also the ride company wanted a voucher number for the clinic visit next week, its TV-2080-004471, can you put it on the form. they said my account number is the same as the voucher number.
+
+thank you,
+Wilhemina (Billie) Santangelo
+(419) 555-0177
+Sent from my phone. Wi-Fi: Marlowe3C_guest, IP 192.168.1.44
+
+------ Auto-reply from Maumee Bend Health Partners portal ------
+Your message was received 04/16/2080 7:12 AM and will be answered within 2 business days. Do not use this for emergencies. &lt;&lt;PATIENT_NAME&gt;&gt; we have your request.
+Routed to: Rafael Quist MA; Pauline Achterberg
+</TEXT>
+<TAGS>
+<CONTACT id="P0" start="6" end="40" text="wsantangelo.toledo@mailbox.example" TYPE="EMAIL" comment="" />
+<DATE id="P1" start="96" end="106" text="04/16/2080" TYPE="DATE" comment="" />
+<NAME id="P2" start="174" end="184" text="Bellwether" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="191" end="196" text="Billy" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="239" end="276" text="Toledo Riverside Emergency Department" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="307" end="326" text="1409 Marlowe Avenue" TYPE="STREET" comment="" />
+<NAME id="P6" start="426" end="437" text="Albrect-Tan" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="442" end="454" text="Albrecht Tan" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="733" end="740" text="Ezekial" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="778" end="802" text="Anselmo Duarte Whitfield" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="929" end="943" text="(419) 555-0194" TYPE="PHONE" comment="" />
+<NAME id="P11" start="1014" end="1029" text="Obadiah Fenwick" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="1049" end="1055" text="fenwik" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1113" end="1120" text="Ezekiel" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1225" end="1233" text="Rosalind" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1248" end="1256" text="Dorothea" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1350" end="1358" text="Marisela" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="1395" end="1397" text="17" TYPE="AGE" comment="" />
+<ID id="P18" start="1520" end="1534" text="TV-2080-004471" TYPE="ACCOUNT" comment="" />
+<NAME id="P19" start="1639" end="1668" text="Wilhemina (Billie) Santangelo" TYPE="PATIENT" comment="" />
+<CONTACT id="P20" start="1669" end="1683" text="(419) 555-0177" TYPE="PHONE" comment="" />
+<ID id="P21" start="1711" end="1726" text="Marlowe3C_guest" TYPE="IDNUM" comment="" />
+<CONTACT id="P22" start="1731" end="1743" text="192.168.1.44" TYPE="IPADDR" comment="" />
+<LOCATION id="P23" start="1768" end="1795" text="Maumee Bend Health Partners" TYPE="HOSPITAL" comment="" />
+<DATE id="P24" start="1836" end="1846" text="04/16/2080" TYPE="DATE" comment="" />
+<NAME id="P25" start="1983" end="1995" text="Rafael Quist" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="2000" end="2018" text="Pauline Achterberg" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

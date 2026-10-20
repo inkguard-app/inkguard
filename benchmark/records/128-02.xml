@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE                                   FROST, MIRELA   7748203   Page 1 of 2
+Linden Hollow Paediatric Associates, 1450 Alder Mews, Madison, Wisconsin
+Date of service: 24 October 2066      Author: Dr Humphrey Aldridge-Okoye, Consultant Paediatrician
+
+This is a dictation which I have not had the chance to read through. Dictated but not read.
+
+Mirela is a sixteen-year-old girl, date of birth 14th May 2050, who attended today for her annual well adolescent review, accompanied by her mother Mrs Jadwiga Frost, and I am writing this note primarily so that the several people who look after her in different places have the same picture. I have spoken to Mirela on her own for part of the visit, as is our practice, and what follows reflects what she was content to have shared.
+
+Her blood pressure today was 143 over 89 on the first reading, which is consistent with the readings of 140 over 93 in October 2063 and 142 over 90 in October 2064, and I think we can no longer call this white-coat effect. Weight 50.6 kilograms, BMI 19.4, she has gained steadily since 2061. Haemoglobin came back at 16.7, a little higher than I would expect; I have asked for a repeat. Anxiety score was zero and depression screening negative; I was reassured. She is taking the progestogen-only pill started on 31 August and tolerating it, and her mother does not need to be told which pill.
+
+Coordination, point by point.
+One. School. Her counsellor Ms Brigid Tanaka-Whelan and school nurse Odalys Fenn at Orchard Lane High School will receive a letter, with Mirela's agreement, about PE and the repeat BP check. Student ID S-0412-77. Fax to the nurse's office (608) 555-0134.
+Two. Her father, Mr Kiran Mehta, lives in India at Flat 4B, Shanti Heights, Baner Road, Pune 411045, Maharashtra, India, and has asked for a copy of the vaccine record by post and by email k.mehta@meridian-pune.example. Mother is not keen. I have asked the front desk to send the immunisation record only, not this note.
+Three. Her maternal grandmother Mrs Halina Wroblewska, ul. Floriańska 14/6, 31-019 Kraków, Poland, looks after Mirela for six weeks each summer; she has no need for medical information beyond a travel letter.
+Four. Dental referral for 7 November, the practice will ring Mirela directly on (608) 555-0177, mother's number is (608) 555-0129 (some old lists show (680) 555-0129, a transposition).
+Five. Her friend Hope has been supportive; Mirela mentioned this unprompted. The frost on the windscreen that morning made her late, she said, which is the only reason I record it.
+
+Previous-medical-history paragraph carried over from 03/15/2065: encounter for check up, pharyngitis resolved, Bell's palsy in mother, grandfather with Parkinson's disease. [Tracked change: "Mirella" deleted, "Mirela" inserted] [Comment: please check spelling of the surname of the grandmother, I think it is Wróblewska with the accents]
+
+Yours sincerely,
+Dr Aldridge Okoye
+cc: Ms Tanaka-Whelan; school nurse; Dr Raghunathan PA
+Electronically signed 10/24/2066 18:47 by haldridge from 192.168.11.30
+</TEXT>
+<TAGS>
+<NAME id="P0" start="57" end="70" text="FROST, MIRELA" TYPE="PATIENT" comment="" />
+<ID id="P1" start="73" end="80" text="7748203" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P2" start="95" end="130" text="Linden Hollow Paediatric Associates" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="132" end="147" text="1450 Alder Mews" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="149" end="156" text="Madison" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="158" end="167" text="Wisconsin" TYPE="STATE" comment="" />
+<DATE id="P6" start="185" end="200" text="24 October 2066" TYPE="DATE" comment="" />
+<NAME id="P7" start="217" end="240" text="Humphrey Aldridge-Okoye" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="361" end="367" text="Mirela" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="373" end="380" text="sixteen" TYPE="AGE" comment="" />
+<DATE id="P10" start="410" end="423" text="14th May 2050" TYPE="DATE" comment="" />
+<NAME id="P11" start="513" end="526" text="Jadwiga Frost" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="671" end="677" text="Mirela" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="915" end="927" text="October 2063" TYPE="DATE" comment="" />
+<DATE id="P14" start="947" end="959" text="October 2064" TYPE="DATE" comment="" />
+<DATE id="P15" start="1309" end="1318" text="31 August" TYPE="DATE" comment="" />
+<NAME id="P16" start="1452" end="1472" text="Brigid Tanaka-Whelan" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1490" end="1501" text="Odalys Fenn" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="1505" end="1529" text="Orchard Lane High School" TYPE="ORGANIZATION" comment="" />
+<NAME id="P19" start="1558" end="1564" text="Mirela" TYPE="PATIENT" comment="" />
+<ID id="P20" start="1623" end="1632" text="S-0412-77" TYPE="IDNUM" comment="" />
+<CONTACT id="P21" start="1660" end="1674" text="(608) 555-0134" TYPE="FAX" comment="" />
+<NAME id="P22" start="1696" end="1707" text="Kiran Mehta" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="1736" end="1762" text="Shanti Heights, Baner Road" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="1764" end="1768" text="Pune" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="1769" end="1775" text="411045" TYPE="ZIP" comment="" />
+<LOCATION id="P26" start="1777" end="1788" text="Maharashtra" TYPE="STATE" comment="" />
+<LOCATION id="P27" start="1790" end="1795" text="India" TYPE="COUNTRY" comment="" />
+<CONTACT id="P28" start="1865" end="1894" text="k.mehta@meridian-pune.example" TYPE="EMAIL" comment="" />
+<NAME id="P29" start="2033" end="2050" text="Halina Wroblewska" TYPE="PATIENT" comment="" />
+<LOCATION id="P30" start="2052" end="2071" text="ul. Floriańska 14/6" TYPE="STREET" comment="" />
+<LOCATION id="P31" start="2073" end="2079" text="31-019" TYPE="ZIP" comment="" />
+<LOCATION id="P32" start="2080" end="2086" text="Kraków" TYPE="CITY" comment="" />
+<LOCATION id="P33" start="2088" end="2094" text="Poland" TYPE="COUNTRY" comment="" />
+<NAME id="P34" start="2108" end="2114" text="Mirela" TYPE="PATIENT" comment="" />
+<DATE id="P35" start="2232" end="2242" text="7 November" TYPE="DATE" comment="" />
+<NAME id="P36" start="2267" end="2273" text="Mirela" TYPE="PATIENT" comment="" />
+<CONTACT id="P37" start="2286" end="2300" text="(608) 555-0177" TYPE="PHONE" comment="" />
+<CONTACT id="P38" start="2321" end="2335" text="(608) 555-0129" TYPE="PHONE" comment="" />
+<CONTACT id="P39" start="2357" end="2371" text="(680) 555-0129" TYPE="PHONE" comment="" />
+<NAME id="P40" start="2408" end="2412" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P41" start="2434" end="2440" text="Mirela" TYPE="PATIENT" comment="" />
+<DATE id="P42" start="2626" end="2636" text="03/15/2065" TYPE="DATE" comment="" />
+<NAME id="P43" start="2764" end="2771" text="Mirella" TYPE="PATIENT" comment="" />
+<NAME id="P44" start="2783" end="2789" text="Mirela" TYPE="PATIENT" comment="" />
+<NAME id="P45" start="2932" end="2946" text="Aldridge Okoye" TYPE="DOCTOR" comment="" />
+<NAME id="P46" start="2954" end="2967" text="Tanaka-Whelan" TYPE="DOCTOR" comment="" />
+<NAME id="P47" start="2986" end="2997" text="Raghunathan" TYPE="DOCTOR" comment="" />
+<DATE id="P48" start="3023" end="3033" text="10/24/2066" TYPE="DATE" comment="" />
+<NAME id="P49" start="3043" end="3052" text="haldridge" TYPE="USERNAME" comment="" />
+<CONTACT id="P50" start="3058" end="3071" text="192.168.11.30" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

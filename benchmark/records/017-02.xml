@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Larkspur Recovery Program
+915 Quill Hollow Blvd, Suite 4
+Zanesville, OH 43701
+Tel (740) 555-0142   Fax (740) 555-0143
+
+06/20/2080
+
+Beacon Ridge Health Plan
+Attn: Utilization Review
+PO Box 2290
+Columbus, OH 43216
+
+RE: CRANE, NOREEN F   Member ID BRH-8830-2271-04   DOB 02/09/2019
+Dear &lt;&lt;PAYER_CONTACT&gt;&gt;,
+
+Writing to req continued auth for outpt rehab tx (monthly) for above pt. Dx: opioid dep. Pt in tx siince 09/03/2079 dx; monthly ssesions 11/02/2079, 12/02/2079, 05/13/2080, 06/12/2080, and 07/12/2080 sched. NB gap Jan-Apr 2080 -- pt had transport prob, bus route cut. Not nonadherence.
+
+Ms. Crane is 61 y/o, lives alone, prev employed as bindery machine operator at Brindle &amp; Moss Printing until laid off, now unemployed. Pt asks that all corespondence go to her address, 2218 Tallow Mill Rd, Apt 3B Zanesville 4370 NOT to sister's. Do NOT contact former partner.
+
+Clinically: abstinnent per self-report &amp; UDS neg x3. GAD-7 =7 at screen 10/03/2079. wt 74.5kg stable. Pt would be harmed by discontinuation -- risk of relapse &amp; OD high w/o. Pls auth 6 more mos.
+
+Sincerely,
+
+Samir Vashisht, MD
+Addiction Medicine, Larkspur Recovery Program
+Electronically signed by svashisht on 06/20/2080 16:41 from 10.31.8.204
+cc: Tobias Renkel MD (PCP), pt, file Crane_N_auth_2080.pdf
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="25" text="Larkspur Recovery Program" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="26" end="47" text="915 Quill Hollow Blvd" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="57" end="67" text="Zanesville" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="69" end="71" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="72" end="77" text="43701" TYPE="ZIP" comment="" />
+<CONTACT id="P5" start="82" end="96" text="(740) 555-0142" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="103" end="117" text="(740) 555-0143" TYPE="FAX" comment="" />
+<DATE id="P7" start="119" end="129" text="06/20/2080" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="131" end="155" text="Beacon Ridge Health Plan" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P9" start="193" end="201" text="Columbus" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="203" end="205" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P11" start="206" end="211" text="43216" TYPE="ZIP" comment="" />
+<NAME id="P12" start="217" end="232" text="CRANE, NOREEN F" TYPE="PATIENT" comment="" />
+<ID id="P13" start="245" end="261" text="BRH-8830-2271-04" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P14" start="268" end="278" text="02/09/2019" TYPE="DATE" comment="" />
+<DATE id="P15" start="409" end="419" text="09/03/2079" TYPE="DATE" comment="" />
+<DATE id="P16" start="441" end="451" text="11/02/2079" TYPE="DATE" comment="" />
+<DATE id="P17" start="453" end="463" text="12/02/2079" TYPE="DATE" comment="" />
+<DATE id="P18" start="465" end="475" text="05/13/2080" TYPE="DATE" comment="" />
+<DATE id="P19" start="477" end="487" text="06/12/2080" TYPE="DATE" comment="" />
+<DATE id="P20" start="493" end="503" text="07/12/2080" TYPE="DATE" comment="" />
+<DATE id="P21" start="518" end="521" text="Jan" TYPE="DATE" comment="" />
+<DATE id="P22" start="522" end="530" text="Apr 2080" TYPE="DATE" comment="" />
+<NAME id="P23" start="595" end="600" text="Crane" TYPE="PATIENT" comment="" />
+<AGE id="P24" start="604" end="606" text="61" TYPE="AGE" comment="" />
+<PROFESSION id="P25" start="642" end="666" text="bindery machine operator" TYPE="PROFESSION" comment="" />
+<LOCATION id="P26" start="670" end="693" text="Brindle &amp; Moss Printing" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P27" start="776" end="803" text="2218 Tallow Mill Rd, Apt 3B" TYPE="STREET" comment="" />
+<LOCATION id="P28" start="804" end="814" text="Zanesville" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="815" end="819" text="4370" TYPE="ZIP" comment="" />
+<DATE id="P30" start="941" end="951" text="10/03/2079" TYPE="DATE" comment="" />
+<NAME id="P31" start="1077" end="1091" text="Samir Vashisht" TYPE="DOCTOR" comment="" />
+<LOCATION id="P32" start="1116" end="1141" text="Larkspur Recovery Program" TYPE="HOSPITAL" comment="" />
+<NAME id="P33" start="1167" end="1176" text="svashisht" TYPE="USERNAME" comment="" />
+<DATE id="P34" start="1180" end="1190" text="06/20/2080" TYPE="DATE" comment="" />
+<CONTACT id="P35" start="1202" end="1213" text="10.31.8.204" TYPE="IPADDR" comment="" />
+<NAME id="P36" start="1218" end="1231" text="Tobias Renkel" TYPE="DOCTOR" comment="" />
+<NAME id="P37" start="1251" end="1256" text="Crane" TYPE="PATIENT" comment="" />
+<DATE id="P38" start="1264" end="1268" text="2080" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

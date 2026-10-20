@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Halvorsen Valley General Hospital - Radiology
+Patient name: OKONKWO-HALE CHIDI EMEKA      Hospital no: HV-6021-553      DOB: 02-Apr-2017      Age: 48 Y
+Examination: X-RAY BOTH HANDS (PA and oblique)       Date: 26 June 2065
+Requested by: Dr T. Veselinovic        Report by: Dr Anjali Deshpande-Krüger, Consultant Radiologist
+
+Clinical details: Pain and stiffness both hands, since 3 months. ?arthritis. Hx of left forearm laceration Nov 2063.
+
+Findings:
+Joint space narrowing with osteophytes involving the distal interphalangeal joints of the index, middle and ring fingers bilaterally, and the first carpometacarpal joints. Subchondral sclerosis present. No erosions. No chondrocalcinosis. Bone mineral density appears preserved. The carpal alignment is maintained. Soft tissues unremarkable. No foreign body seen in relation to the previous forearm laceration (not imaged).
+
+Impression:
+Features of primary osteoarthritis of the hands, in keeping with the clinical history. No inflammatory erosive change.
+
+Dictated using voice recognition: "oh steo arthritis" corrected. Final report electronically authorised 26/06/2065 16:12 by adkruger at workstation 172.20.5.18.
+Copy to: Dr Veselinovic, Orthopaedic Clinic
+</TEXT>
+<TAGS>
+<NAME id="P0" start="60" end="84" text="OKONKWO-HALE CHIDI EMEKA" TYPE="PATIENT" comment="" />
+<ID id="P1" start="103" end="114" text="HV-6021-553" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="125" end="136" text="02-Apr-2017" TYPE="DATE" comment="" />
+<AGE id="P3" start="147" end="149" text="48" TYPE="AGE" comment="" />
+<DATE id="P4" start="211" end="223" text="26 June 2065" TYPE="DATE" comment="" />
+<NAME id="P5" start="241" end="255" text="T. Veselinovic" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="277" end="300" text="Anjali Deshpande-Krüger" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="433" end="441" text="Nov 2063" TYPE="DATE" comment="" />
+<DATE id="P8" start="1114" end="1124" text="26/06/2065" TYPE="DATE" comment="" />
+<NAME id="P9" start="1134" end="1142" text="adkruger" TYPE="USERNAME" comment="" />
+<CONTACT id="P10" start="1158" end="1169" text="172.20.5.18" TYPE="IPADDR" comment="" />
+<NAME id="P11" start="1183" end="1194" text="Veselinovic" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="1196" end="1214" text="Orthopaedic Clinic" TYPE="DEPARTMENT" comment="" />
+</TAGS>
+</deIdi2b2>

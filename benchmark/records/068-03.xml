@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER-VISIT SUMMARY :heart:  Fairhaven Heart and Vascular Institute
+~ Cardiology Clinic ~
+
+Hi Kalinda!!  Here's what we talked about today (March 3rd, 2080)
+
+Patient: Ostrowski, Kalinda   DOB: 07-22-2057   Age: 22 yrs
+You saw: Dr. Sid Ranganathan  |  Check-in by: Jaylen Okoro, MA
+
+"Why you came"
+- Skipping heartbeats (palpitations)
+- Past pre-eclampsia = extra heart risk, nothing scary today
+
+"Your to-do list"
+-&gt; Wear the patch monitor for 14 days (put on at the front desk)
+-&gt; Echo of the heart booked for the 14th of March at 9:30 
+-&gt; Take BP 2x per day, write it down
+-&gt; Keep taking: birth control pill (norethindrone), Tylenol if needed
+
+**Jaylen's notes** pt was super chill, vibes very positive, brought Noor (age 5) who colored on our wall lol. In conclusion, the patient's journey to heart health has begun!
+
+Questions? Call (360) 555-0140 ext 3306 or the portal at https://portal.fairhavenheart.example/kostrowski.
+Next visit: Tuesday, 4/14.
+
+Page 2 of 2 -- OSTROWSKI, KALINDA   MRN 20-663108   DOB 01/01/1900
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="29" end="67" text="Fairhaven Heart and Vascular Institute" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="94" end="101" text="Kalinda" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="140" end="149" text="March 3rd" TYPE="DATE" comment="" />
+<NAME id="P3" start="167" end="185" text="Ostrowski, Kalinda" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="193" end="203" text="07-22-2057" TYPE="DATE" comment="" />
+<AGE id="P5" start="211" end="213" text="22" TYPE="AGE" comment="" />
+<NAME id="P6" start="231" end="246" text="Sid Ranganathan" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="264" end="276" text="Jaylen Okoro" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="515" end="519" text="14th" TYPE="DATE" comment="" />
+<DATE id="P9" start="523" end="528" text="March" TYPE="DATE" comment="" />
+<NAME id="P10" start="714" end="718" text="Noor" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="724" end="725" text="5" TYPE="AGE" comment="" />
+<CONTACT id="P12" start="837" end="851" text="(360) 555-0140" TYPE="PHONE" comment="" />
+<ID id="P13" start="856" end="860" text="3306" TYPE="IDNUM" comment="" />
+<CONTACT id="P14" start="878" end="926" text="https://portal.fairhavenheart.example/kostrowski" TYPE="URL" comment="" />
+<DATE id="P15" start="940" end="947" text="Tuesday" TYPE="DATE" comment="" />
+<DATE id="P16" start="949" end="953" text="4/14" TYPE="DATE" comment="" />
+<ID id="P17" start="996" end="1005" text="20-663108" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P18" start="1012" end="1022" text="01/01/1900" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

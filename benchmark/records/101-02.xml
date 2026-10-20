@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL - Internal Medicine / CCU admission
+St. Aldric Regional Medical Center      Date of admission: 09/13/2081
+FERRIS, ...  oh sorry that is other patient. Name: Mathew Yilder     MRN: 5520-1194     DOB: 2/17/2027
+Admitting: Venkataraman Iyer, MD        Attending of record: Dr. Iyer
+Source of history: patient, wife Hulia Yilder, old chart, and ED note by Dr. Brabeanu.
+
+Reason: Anterior STEMI, s/p primary PCI few hours ago.
+
+HPI: This is a 54 year-old gentleman, married, who developed crushing chest pain this morning. In ED anterior ST elevation was seen. Taken emergently to catheterisation lab by Dr. Baek, see his operative note. Now pain-free, in CCU, vitals stable. He tell me he have no diabetes ("only sugar a little"), but chart is clear: DM2 and hba1c in July 2081 was fine, 6.9 around. Also patient says he was operated on heart in 2070 in Turkey; there is no scar on sternum, no document, I am not believing.
+
+PAST HISTORY: type 2 diabetes mellitus (2064), metabolic syndrome, essential hypertension (2073), hypertriglyceridemia, anaemia, obesity, loss of teeth, bronchitis 2077 resolved, whiplash neck April 2079 (car accident, naproxen). Domestic violence history: closed 2077, patient deny, wife is in room, I did not ask more. Social worker will see him alone.
+Previous name: patient was Mehmet Yildirim until naturalisation, change of name through court 2074. Wife still call him "Mehmet" in the room - not a other patient.
+
+MEDICATIONS ON ADMISSION: aspirin 81, prasugrel 10, nebivolol 10 (Bystolic), atorvastatin 40, valsartan/hydrochlorothiazide 160/12.5. Lisinopril 10 mg - STILL LISTED from 2076, stopped 03/26/2077, stale, please remove.
+ALLERGIES: no known. Wife says "penicilin" - not in the chart, clarify.
+
+SOCIAL: lives in Dayton, Ohio. Born in Izmir, Turkey. Wife Hulya Yilder; son Emre (student). Mother Fatma Yildirim, 88, in Izmir; brother Kemal there too. No tobacco.
+
+EXAM: BP 142/88, HR 78, SpO2 98%, weight 86 kg. Right radial access site clean, no hematoma. Lungs clear, no S3. Pedal pulses ok.
+
+ASSESSMENT/PLAN
+1. STEMI anterior, post PCI - DAPT with prasugrel plus aspirin, beta blocker nebivolol, statin atorvastatin 40, echo tomorrow, telemetry.
+2. DM2 - hold oral agents, sliding scale, hba1c.
+3. HTN - valsartan/HCTZ continue, watch potassium.
+4. Anaemia - check iron.
+5. Disposition: CCU, cardiology consult Dr. Dabrowski for tomorrow.
+
+Electronically signed by Venkataraman Iyer MD 09/13/2081 15:20
+cc: Wanda Pruitt fax (937) 555-0152
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="57" end="91" text="St. Aldric Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="116" end="126" text="09/13/2081" TYPE="DATE" comment="" />
+<NAME id="P2" start="127" end="133" text="FERRIS" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="178" end="191" text="Mathew Yilder" TYPE="PATIENT" comment="" />
+<ID id="P4" start="201" end="210" text="5520-1194" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="220" end="229" text="2/17/2027" TYPE="DATE" comment="" />
+<NAME id="P6" start="241" end="258" text="Venkataraman Iyer" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="291" end="299" text="Dr. Iyer" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="333" end="345" text="Hulia Yilder" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="373" end="385" text="Dr. Brabeanu" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="620" end="628" text="Dr. Baek" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="785" end="794" text="July 2081" TYPE="DATE" comment="" />
+<DATE id="P12" start="863" end="867" text="2070" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="871" end="877" text="Turkey" TYPE="COUNTRY" comment="" />
+<DATE id="P14" start="982" end="986" text="2064" TYPE="DATE" comment="" />
+<DATE id="P15" start="1033" end="1037" text="2073" TYPE="DATE" comment="" />
+<DATE id="P16" start="1106" end="1110" text="2077" TYPE="DATE" comment="" />
+<DATE id="P17" start="1135" end="1145" text="April 2079" TYPE="DATE" comment="" />
+<DATE id="P18" start="1206" end="1210" text="2077" TYPE="DATE" comment="" />
+<NAME id="P19" start="1324" end="1339" text="Mehmet Yildirim" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="1391" end="1395" text="2074" TYPE="DATE" comment="" />
+<NAME id="P21" start="1418" end="1424" text="Mehmet" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="1633" end="1637" text="2076" TYPE="DATE" comment="" />
+<DATE id="P23" start="1647" end="1657" text="03/26/2077" TYPE="DATE" comment="" />
+<LOCATION id="P24" start="1771" end="1777" text="Dayton" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="1779" end="1783" text="Ohio" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="1793" end="1798" text="Izmir" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="1800" end="1806" text="Turkey" TYPE="COUNTRY" comment="" />
+<NAME id="P28" start="1813" end="1825" text="Hulya Yilder" TYPE="PATIENT" comment="" />
+<NAME id="P29" start="1831" end="1835" text="Emre" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1854" end="1868" text="Fatma Yildirim" TYPE="PATIENT" comment="" />
+<AGE id="P31" start="1870" end="1872" text="88" TYPE="AGE" comment="" />
+<NAME id="P32" start="1892" end="1897" text="Kemal" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="2372" end="2385" text="Dr. Dabrowski" TYPE="DOCTOR" comment="" />
+<NAME id="P34" start="2426" end="2443" text="Venkataraman Iyer" TYPE="DOCTOR" comment="" />
+<DATE id="P35" start="2447" end="2457" text="09/13/2081" TYPE="DATE" comment="" />
+<NAME id="P36" start="2468" end="2480" text="Wanda Pruitt" TYPE="DOCTOR" comment="" />
+<CONTACT id="P37" start="2485" end="2499" text="(937) 555-0152" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

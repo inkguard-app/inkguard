@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>*** FAX ***
+To: Kindred Meadow Hospice - Intake      Fax: (513) 555-0137     Phone: (513) 555-0130
+From: Lake Torres, RN, Care Coordination, Harrowgate Memorial Hospital
+Fax: (513) 555-0164     Phone: (513) 555-0161 x2
+Date: 08/11/2068     Pages (incl cover): 6
+Re: WINTER, KASH   DOB 03/19/1993   MRN HM-5530921
+
+[x] Urgent   [ ] Please reply   [x] For review   [ ] Please recycle
+
+COVER MESSAGE
+Hi team, hope you are well. Attached is the referral for hospice evaluation for Mr. Winter (the pt prefers Kash, and yes its spelled with a K). Enclosed: referral letter, face sheet, med list, last onc note, PHQ-9 and GAD-7 from today's visit.
+
+Wife is the contact: Miracle Winter, cell (513) 555-0198. Son Nyne also OK to call - his number is (513) 555-0119 (that is nyne, not nine, he spelled it for me twice).
+Mother, Wednesday Winter, ninety-three, is not to be called after 8 pm. She does not hear well.
+
+Please call Lake Torres at the number above, or ask for "the Lake in care coordination" (Lake), there are 2 of us on the floor.
+Visit is Thursday if possible. If you can not make Thursday, please call before the 14th.
+
+Pt address on the face sheet is 2204 Bramble Hollow Rd, Marlowe, OH 45132 - I think the old ZIP on the sheet is wrong, pls verify.
+
+cc: Ifeoma Kessler, MD (Oncology) - fax (513) 555-0170
+    Dr. Blue Aldana - b.aldana@harrowgatefamily.example
+
+CONFIDENTIALITY NOTICE: This fax is intended only for the addressee. If you are not &lt;&lt;insert name&gt;&gt;... if received in error call us.
+Sent by ltorres_cc 08/11/2068 15:44
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="16" end="38" text="Kindred Meadow Hospice" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P1" start="58" end="72" text="(513) 555-0137" TYPE="FAX" comment="" />
+<CONTACT id="P2" start="84" end="98" text="(513) 555-0130" TYPE="PHONE" comment="" />
+<NAME id="P3" start="105" end="116" text="Lake Torres" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="141" end="169" text="Harrowgate Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P5" start="175" end="189" text="(513) 555-0164" TYPE="FAX" comment="" />
+<CONTACT id="P6" start="201" end="218" text="(513) 555-0161 x2" TYPE="PHONE" comment="" />
+<DATE id="P7" start="225" end="235" text="08/11/2068" TYPE="DATE" comment="" />
+<NAME id="P8" start="266" end="278" text="WINTER, KASH" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="285" end="295" text="03/19/1993" TYPE="DATE" comment="" />
+<ID id="P10" start="302" end="312" text="HM-5530921" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P11" start="481" end="487" text="Winter" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="504" end="508" text="Kash" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="663" end="677" text="Miracle Winter" TYPE="PATIENT" comment="" />
+<CONTACT id="P14" start="684" end="698" text="(513) 555-0198" TYPE="PHONE" comment="" />
+<NAME id="P15" start="704" end="708" text="Nyne" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="741" end="755" text="(513) 555-0119" TYPE="PHONE" comment="" />
+<NAME id="P17" start="765" end="769" text="nyne" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="818" end="834" text="Wednesday Winter" TYPE="PATIENT" comment="" />
+<AGE id="P19" start="836" end="848" text="ninety-three" TYPE="AGE" comment="" />
+<NAME id="P20" start="919" end="930" text="Lake Torres" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="996" end="1000" text="Lake" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1044" end="1052" text="Thursday" TYPE="DATE" comment="" />
+<LOCATION id="P23" start="1158" end="1180" text="2204 Bramble Hollow Rd" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="1182" end="1189" text="Marlowe" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="1191" end="1193" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="1194" end="1199" text="45132" TYPE="ZIP" comment="" />
+<NAME id="P27" start="1262" end="1276" text="Ifeoma Kessler" TYPE="DOCTOR" comment="" />
+<CONTACT id="P28" start="1298" end="1312" text="(513) 555-0170" TYPE="FAX" comment="" />
+<NAME id="P29" start="1321" end="1332" text="Blue Aldana" TYPE="DOCTOR" comment="" />
+<CONTACT id="P30" start="1335" end="1368" text="b.aldana@harrowgatefamily.example" TYPE="EMAIL" comment="" />
+<NAME id="P31" start="1511" end="1521" text="ltorres_cc" TYPE="USERNAME" comment="" />
+<DATE id="P32" start="1522" end="1532" text="08/11/2068" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

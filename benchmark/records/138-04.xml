@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE
+03/19/2082   Care coordinator: Nkechi Dube, RN-CC   Pt: W. Bright ("Winnie")   MRN ONC-6618203
+S: Dental visit today per referral of 03/05/2082: gingival exam, cleaning (sub/supragingival), bitewing xray, oral health ed. Rehab therapy visits continue (last 03/21/2082? sched; monthly after).
+O: Pt's husband's car (VT-HXN-204) double parked, he waited. Infusion port card in wallet: serial PC-8832-117. Hmm - she has no port that I can see in the chart!! check.
+A: Transport good. Drug dependence tx in progress. 
+P: * coordinate dental w/ cardiology re clopidogrel
+   * monthly rehab 04/20/2082, 05/20/2082, 06/19/2082, 07/19/2082
+   * give pt's daughter Story the contact sheet
+&gt;&gt;&gt; per prior note (02/12/2082): CABG 02/08/2073, sister Opal.
+BRIGHT, WINIFRED  -&gt;  PELL, WINIFRED (maiden) : PELL, WINIFRED
+Signed N. Dube
+</TEXT>
+<TAGS>
+<DATE id="P0" start="23" end="33" text="03/19/2082" TYPE="DATE" comment="" />
+<NAME id="P1" start="54" end="65" text="Nkechi Dube" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="79" end="88" text="W. Bright" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="91" end="97" text="Winnie" TYPE="PATIENT" comment="" />
+<ID id="P4" start="106" end="117" text="ONC-6618203" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="156" end="166" text="03/05/2082" TYPE="DATE" comment="" />
+<DATE id="P6" start="280" end="290" text="03/21/2082" TYPE="DATE" comment="" />
+<ID id="P7" start="338" end="348" text="VT-HXN-204" TYPE="VEHICLE" comment="" />
+<ID id="P8" start="413" end="424" text="PC-8832-117" TYPE="DEVICE" comment="" />
+<DATE id="P9" start="608" end="618" text="04/20/2082" TYPE="DATE" comment="" />
+<DATE id="P10" start="620" end="630" text="05/20/2082" TYPE="DATE" comment="" />
+<DATE id="P11" start="632" end="642" text="06/19/2082" TYPE="DATE" comment="" />
+<DATE id="P12" start="644" end="654" text="07/19/2082" TYPE="DATE" comment="" />
+<DATE id="P13" start="723" end="733" text="02/12/2082" TYPE="DATE" comment="" />
+<DATE id="P14" start="741" end="751" text="02/08/2073" TYPE="DATE" comment="" />
+<NAME id="P15" start="760" end="764" text="Opal" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="814" end="828" text="PELL, WINIFRED" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="836" end="843" text="N. Dube" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

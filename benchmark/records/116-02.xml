@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Riverbend Medical Center - Emergency Department
+ED PROVIDER NOTE        01/16/2068  02:14
+Pt: Cassidy Paige  (27 yo F)   MRN 5530-9172   DOB 1/15/41   Room ED-7
+Attending: Dr. Hope Bell     RN Tricia Doyle     Dictation software on.
+
+CC: found unresponsive. Brought by boyfriend Marcus Teel who called 911 at about 1am, he gave nalox... Narcan, intranasal, 4 mg x1 before EMS. Patient is twenty seven and 35 weeks pregnant.
+
+HPI: This is a 27 year old gravida 3 who has a history of opiod use disorder, chronic low back pain, intractable migrane, and previous overdose in April 2066. Per Mr. Teal she took "something she shouldnt" after an argument, he does not know what. Her mother, Joanne Page, is on the way. Patient became responsive after the narcan and EMS second dose, RR improved from 6 to 16. She is now awake, tearful, says "i took two of my old hydrocodone pills from 2061 and then some others a friend gave me."  Denies suicidal intent, says she wanted to sleep, sleep. Fetal heart tones 145.
+
+PMH: Migraine, Chronic pain, hx abuse (intimate partner) resolved 6/8/2063, anxiety. No history of Parkinson disease, Hashimoto's thyroiditis or Crohn's. Meds: Tylenol prn, Ibu 400 prn (stopped), prenatal vitamins. Allergies: NKDA.
+
+EXAM: Somnolent but arousable, pupils 3 mm. Chest clear. Abdomen gravid. No track marks. Neuro: face symmetric, no Bell's palsy or other focal deficit.
+
+MDM/ED course: Observe 6 hrs for renarcotisation. Fetal monitoring reassuring. OB, Dr. Mukherjee, paged and will see. Social work and addiction medicine to consult. Pt is a rich source of history I suppose but unreliable on timing. Plan admit to obstetrics for monitoring and start treatment for opioid use disorder.
+Dx: Opioid overdose, 35 wk IUP.
+
+Hope Bell MD  signed 01/16/2068 07:51 /// Discharge/Transfer: admit OB. cc: Lindsey Frame PharmD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="24" text="Riverbend Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="27" end="47" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="72" end="82" text="01/16/2068" TYPE="DATE" comment="" />
+<NAME id="P3" start="94" end="107" text="Cassidy Paige" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="110" end="112" text="27" TYPE="AGE" comment="" />
+<ID id="P5" start="125" end="134" text="5530-9172" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="141" end="148" text="1/15/41" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="156" end="160" text="ED-7" TYPE="ROOM" comment="" />
+<NAME id="P8" start="176" end="185" text="Hope Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="193" end="205" text="Tricia Doyle" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="279" end="290" text="Marcus Teel" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="388" end="400" text="twenty seven" TYPE="AGE" comment="" />
+<DATE id="P12" start="572" end="582" text="April 2066" TYPE="DATE" comment="" />
+<NAME id="P13" start="592" end="596" text="Teal" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="685" end="696" text="Joanne Page" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="880" end="884" text="2061" TYPE="DATE" comment="" />
+<DATE id="P16" start="1073" end="1081" text="6/8/2063" TYPE="DATE" comment="" />
+<NAME id="P17" start="1480" end="1489" text="Mukherjee" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1743" end="1752" text="Hope Bell" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1764" end="1774" text="01/16/2068" TYPE="DATE" comment="" />
+<NAME id="P20" start="1819" end="1832" text="Lindsey Frame" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

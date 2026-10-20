@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>                 Cedar Grove Children's Clinic
+        410 Alder Street  *  Burlington, Vermont 05401
+                       FAX TRANSMISSION - URGENT
+
+TO:       Dr. Wen Lee Castle Yanos, Bright Smile Pediatric Dentistry
+FAX:      (802) 555-0166              PHONE: (802) 555-0167
+FROM:     Adaeze Obi-Thornton, MD                         FAX: (802) 555-0101
+DATE:     February 4th, 2075                        PAGES (incl. cover): 4   of 3
+RE:       Dental referral - Lipika Whitlock, DOB 2/27/2072, MRN PD-2072-0048
+CC:       &lt;&lt;PARENT_NAME&gt;&gt;
+
+COVER MESSAGE (dictated, not proof read)
+
+Dear Doctor Castellanos, comma
+
+Thank you for seeing Lipika who turned three on February 27th... correction, will turn three this coming February 27th, she is currently two years eleven months old. I saw her today at her well child check and her mother Rukhsana Anwar asked me to refer her for a first dental visit and a cleaning because the preschool, Little Acorns Montessori Preschool, whose director Ms Tabitha Greer has asked for a dental screening form by the end of March. Her gums have been red at the lower front teeth for about a month, mother brushes twice a day with a fluoride free paste since the fluoride varnish was not done. Weight today thirteen point three kilograms, BMI fifteen point one, blood pressure one oh eight over seventy four, pain score three out of ten but she was crying when I took it.
+
+Past history is otitis media in June 2073 treated with cefuroxime and ibuprofen and bronchitis in December 2074. No known drug allergies, no heart problems, no bleeding problems. Parents are Rukhsana and Callum Whitlock. Mother's cell 802-555-0137, email rukhsana.anwar@northgatemail.example. Father drives a food truck called "Lippy's Dumplings" so is hard to reach at lunch time. The family lives at 5 Merrimack Lane, Burlington.
+
+Please send your report to my fax above and a copy to the preschool. Dictated but not read. Regards, Dr Obi Thornton.
+
+----- previous note pasted below for your convenience (ignore the header, wrong clinic) -----
+Cedar Grove Children's Clinic                                  TELEPHONE ENCOUNTER
+Patient name: Lipika Whitlock        Date of birth: 02/27/2072        MRN PD-2072-0048
+Date of call: December 26th 2074  Caller: mother, Rukhsana Anwar      Taken by Priya Nambiar RN
+Mother called to say the cough is not better since the visit on December 16th. Child is 2 years 9 months old. Great grandmother Hester who is 94 yr old is visiting from Rutland and is also coughing. Continue bedtime dose only. Electronically signed by P. Nambiar RN
+
+CONFIDENTIALITY NOTICE: this transmission is intended only for the addressee. If you received it in error please call (802) 555-0100 then destroy it.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="17" end="46" text="Cedar Grove Children's Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="55" end="71" text="410 Alder Street" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="76" end="86" text="Burlington" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="88" end="95" text="Vermont" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="96" end="101" text="05401" TYPE="ZIP" comment="" />
+<NAME id="P5" start="166" end="186" text="Wen Lee Castle Yanos" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="188" end="220" text="Bright Smile Pediatric Dentistry" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P7" start="231" end="245" text="(802) 555-0166" TYPE="FAX" comment="" />
+<CONTACT id="P8" start="266" end="280" text="(802) 555-0167" TYPE="PHONE" comment="" />
+<NAME id="P9" start="291" end="310" text="Adaeze Obi-Thornton" TYPE="DOCTOR" comment="" />
+<CONTACT id="P10" start="344" end="358" text="(802) 555-0101" TYPE="FAX" comment="" />
+<DATE id="P11" start="369" end="387" text="February 4th, 2075" TYPE="DATE" comment="" />
+<NAME id="P12" start="469" end="484" text="Lipika Whitlock" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="490" end="499" text="2/27/2072" TYPE="DATE" comment="" />
+<ID id="P14" start="505" end="517" text="PD-2072-0048" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P15" start="599" end="610" text="Castellanos" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="640" end="646" text="Lipika" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="667" end="680" text="February 27th" TYPE="DATE" comment="" />
+<DATE id="P18" start="724" end="737" text="February 27th" TYPE="DATE" comment="" />
+<AGE id="P19" start="756" end="779" text="two years eleven months" TYPE="AGE" comment="" />
+<NAME id="P20" start="840" end="854" text="Rukhsana Anwar" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="940" end="974" text="Little Acorns Montessori Preschool" TYPE="ORGANIZATION" comment="" />
+<NAME id="P22" start="991" end="1007" text="Ms Tabitha Greer" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="1060" end="1065" text="March" TYPE="DATE" comment="" />
+<DATE id="P24" start="1440" end="1449" text="June 2073" TYPE="DATE" comment="" />
+<DATE id="P25" start="1506" end="1519" text="December 2074" TYPE="DATE" comment="" />
+<NAME id="P26" start="1599" end="1607" text="Rukhsana" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1612" end="1627" text="Callum Whitlock" TYPE="PATIENT" comment="" />
+<CONTACT id="P28" start="1643" end="1655" text="802-555-0137" TYPE="PHONE" comment="" />
+<CONTACT id="P29" start="1663" end="1699" text="rukhsana.anwar@northgatemail.example" TYPE="EMAIL" comment="" />
+<LOCATION id="P30" start="1736" end="1753" text="Lippy's Dumplings" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P31" start="1810" end="1826" text="5 Merrimack Lane" TYPE="STREET" comment="" />
+<LOCATION id="P32" start="1828" end="1838" text="Burlington" TYPE="CITY" comment="" />
+<NAME id="P33" start="1945" end="1957" text="Obi Thornton" TYPE="DOCTOR" comment="" />
+<LOCATION id="P34" start="2054" end="2083" text="Cedar Grove Children's Clinic" TYPE="HOSPITAL" comment="" />
+<NAME id="P35" start="2151" end="2166" text="Lipika Whitlock" TYPE="PATIENT" comment="" />
+<DATE id="P36" start="2189" end="2199" text="02/27/2072" TYPE="DATE" comment="" />
+<ID id="P37" start="2211" end="2223" text="PD-2072-0048" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P38" start="2238" end="2256" text="December 26th 2074" TYPE="DATE" comment="" />
+<NAME id="P39" start="2274" end="2288" text="Rukhsana Anwar" TYPE="PATIENT" comment="" />
+<NAME id="P40" start="2303" end="2316" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P41" start="2384" end="2397" text="December 16th" TYPE="DATE" comment="" />
+<AGE id="P42" start="2408" end="2424" text="2 years 9 months" TYPE="AGE" comment="" />
+<NAME id="P43" start="2448" end="2454" text="Hester" TYPE="PATIENT" comment="" />
+<AGE id="P44" start="2462" end="2471" text="94 yr old" TYPE="AGE" comment="" />
+<LOCATION id="P45" start="2489" end="2496" text="Rutland" TYPE="CITY" comment="" />
+<NAME id="P46" start="2572" end="2582" text="P. Nambiar" TYPE="DOCTOR" comment="" />
+<CONTACT id="P47" start="2705" end="2719" text="(802) 555-0100" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

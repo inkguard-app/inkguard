@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Bow River Children's Clinic
+Unit 204, 1190 Crowchild Trail NW, Calgary, Alberta T2N 1N4, Canada
+Tel +1 403 555 0120   Fax +1 403 555 0121
+
+24 September 2091
+
+The Principal, Maplewood Elementary School
+Attn: Mr. Fitzgerald Okonjo, copy to class teacher Mrs. Dorothea Quick (Grade 2)
+
+Dear Mr. Okonjo, Dear Sir/Madam,
+
+Re: Theodore Brook ("Theo"), aged six, born 2 May 2085; student number MW-31187; lunch account L-0045921, PIN 7731
+
+I saw Theo in our clinic on Saturday 22 September with a sore throat and a temperature. A throat swab was taken and the culture has come back negative, so this was a viral pharyngitis (not strep). I would be grateful if you would excuse his absence from school on Monday 24th and Tuesday 25th. He may return on Wednesday provided he is feverfree and eating, and there is no need for a doctor's note thereafter. There is no restriction on gym or recess. He does not need any medication at school and does not carry an inhaler or epinephrine. Please keep treating the Zyrtec rumour as just that. :)
+
+Two practical points for your office, as his mother Dr. Clare Brook asked me to mention them. First, pick up from after-school care is by his father Sung-ho Park (Mr. Park Sung-ho on the school's record) on Tuesdays and Thursdays and the bus driver, Mr. Lyle Wardrop, route 14B stop at the corner of Ridgemont Crescent, may release him to the neighbour Mrs. Imelda Szczepanski. Second, the family will be in Seoul, South Korea from the middle of December visiting his paternal grandparents, (Park Dong-hyun and Kim Soo-jin), c/o 114 Teheran-ro, Gangnam-gu, Seoul 06142; school work may be emailed to c.brook@familymail.example.
+
+Kind regards,
+
+Siddharth Venkataswamy, MD, FRCPC (Paediatrics)
+Consultant Paediatrician
+
+[Comment by SV: Clare says the lunch PIN should not be on this letter - remove before sending]
+[Tracked deletion by kbennett: "he's allergic to peanuts"  - this is wrong chart, see Emmeline Vo]
+Dictated but not read. Typed by Katrina Bennett 24/09/2091.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="Bow River Children's Clinic" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="38" end="61" text="1190 Crowchild Trail NW" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="63" end="70" text="Calgary" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="72" end="79" text="Alberta" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="80" end="87" text="T2N 1N4" TYPE="ZIP" comment="" />
+<LOCATION id="P5" start="89" end="95" text="Canada" TYPE="COUNTRY" comment="" />
+<CONTACT id="P6" start="100" end="115" text="+1 403 555 0120" TYPE="PHONE" comment="" />
+<CONTACT id="P7" start="122" end="137" text="+1 403 555 0121" TYPE="FAX" comment="" />
+<DATE id="P8" start="139" end="156" text="24 September 2091" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="173" end="200" text="Maplewood Elementary School" TYPE="ORGANIZATION" comment="" />
+<NAME id="P10" start="211" end="228" text="Fitzgerald Okonjo" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="257" end="271" text="Dorothea Quick" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="292" end="298" text="Okonjo" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="321" end="335" text="Theodore Brook" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="338" end="342" text="Theo" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="351" end="354" text="six" TYPE="AGE" comment="" />
+<DATE id="P16" start="361" end="371" text="2 May 2085" TYPE="DATE" comment="" />
+<ID id="P17" start="388" end="396" text="MW-31187" TYPE="IDNUM" comment="" />
+<ID id="P18" start="412" end="421" text="L-0045921" TYPE="ACCOUNT" comment="" />
+<ID id="P19" start="427" end="431" text="7731" TYPE="IDNUM" comment="" />
+<DATE id="P20" start="461" end="482" text="Saturday 22 September" TYPE="DATE" comment="" />
+<DATE id="P21" start="697" end="708" text="Monday 24th" TYPE="DATE" comment="" />
+<DATE id="P22" start="713" end="725" text="Tuesday 25th" TYPE="DATE" comment="" />
+<DATE id="P23" start="744" end="753" text="Wednesday" TYPE="DATE" comment="" />
+<NAME id="P24" start="1087" end="1098" text="Clare Brook" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1180" end="1192" text="Sung-ho Park" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1198" end="1210" text="Park Sung-ho" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1285" end="1297" text="Lyle Wardrop" TYPE="PATIENT" comment="" />
+<LOCATION id="P28" start="1305" end="1308" text="14B" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P29" start="1331" end="1349" text="Ridgemont Crescent" TYPE="STREET" comment="" />
+<NAME id="P30" start="1389" end="1407" text="Imelda Szczepanski" TYPE="PATIENT" comment="" />
+<LOCATION id="P31" start="1439" end="1444" text="Seoul" TYPE="CITY" comment="" />
+<LOCATION id="P32" start="1446" end="1457" text="South Korea" TYPE="COUNTRY" comment="" />
+<DATE id="P33" start="1477" end="1485" text="December" TYPE="DATE" comment="" />
+<NAME id="P34" start="1523" end="1537" text="Park Dong-hyun" TYPE="PATIENT" comment="" />
+<NAME id="P35" start="1542" end="1553" text="Kim Soo-jin" TYPE="PATIENT" comment="" />
+<LOCATION id="P36" start="1560" end="1586" text="114 Teheran-ro, Gangnam-gu" TYPE="STREET" comment="" />
+<LOCATION id="P37" start="1588" end="1593" text="Seoul" TYPE="CITY" comment="" />
+<LOCATION id="P38" start="1594" end="1599" text="06142" TYPE="ZIP" comment="" />
+<CONTACT id="P39" start="1631" end="1657" text="c.brook@familymail.example" TYPE="EMAIL" comment="" />
+<NAME id="P40" start="1675" end="1697" text="Siddharth Venkataswamy" TYPE="DOCTOR" comment="" />
+<NAME id="P41" start="1761" end="1763" text="SV" TYPE="DOCTOR" comment="" />
+<NAME id="P42" start="1865" end="1873" text="kbennett" TYPE="USERNAME" comment="" />
+<NAME id="P43" start="1930" end="1941" text="Emmeline Vo" TYPE="PATIENT" comment="" />
+<NAME id="P44" start="1975" end="1990" text="Katrina Bennett" TYPE="DOCTOR" comment="" />
+<DATE id="P45" start="1991" end="2001" text="24/09/2091" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Patient Portal - Message from Patient
+From: ngozi eze &lt;nozzy.eze.7@mailbox-example.net&gt;
+To: Harbor Street Family Practice - Dr Figueiredo
+Sent: 09/05/2060 21:37
+Subject: IUD removal + a few questions!!
+
+Hi Dr F,
+
+hope ur well!! its Ngozi Eze (my chart might still say Halvorsen, the divorce went thru in July so im Eze again, pls change it everywhere 🙏). Also Halverson is how the insurance spells it lol, so there may be 3 of me in ur system.
+
+Im booked on the 19th to take the IUD out, been 2 yrs, the nurse said it was the 5 yr kind?? i thought it was 3. I'm also still having alot of crampy pain and a bit of spoting, is that normal ? Ada is 2 and started daycare so i get sick every week haha.
+
+Another thing: my dad Chukwuemeke is 91 or 92, my sister says 93 and he insists he's 89, whatever, he fell again. Can u send the colonoscopy results to him? no wait DONT, he doesnt know about it. send only to me.
+
+I'm moving!! Job in Manchester UK starting January at Corvid Analytics UK office. Will need all my records. Where do I sign? My address till Dec is 7 Wickersham Close, Lowell, 1852 (the zip starts with a 0, portal wont let me).
+
+Wifi at home is "EzeFamilyHub_5G" if the video visit drops 😅. Pickup code for Ada's daycare is 4471-ADA (why did I put that here lol)
+
+thanks!!
+Ngozi E. | 978-555-0133 | pls dont call after 9pm
+Sent from my phone
+</TEXT>
+<TAGS>
+<NAME id="P0" start="44" end="53" text="ngozi eze" TYPE="PATIENT" comment="" />
+<CONTACT id="P1" start="55" end="86" text="nozzy.eze.7@mailbox-example.net" TYPE="EMAIL" comment="" />
+<LOCATION id="P2" start="92" end="121" text="Harbor Street Family Practice" TYPE="DEPARTMENT" comment="" />
+<NAME id="P3" start="127" end="137" text="Figueiredo" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="144" end="154" text="09/05/2060" TYPE="DATE" comment="" />
+<NAME id="P5" start="209" end="210" text="F" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="232" end="241" text="Ngozi Eze" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="268" end="277" text="Halvorsen" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="304" end="308" text="July" TYPE="DATE" comment="" />
+<NAME id="P9" start="315" end="318" text="Eze" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="360" end="369" text="Halverson" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="462" end="466" text="19th" TYPE="DATE" comment="" />
+<NAME id="P12" start="639" end="642" text="Ada" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="646" end="647" text="2" TYPE="AGE" comment="" />
+<NAME id="P14" start="722" end="733" text="Chukwuemeke" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="737" end="739" text="91" TYPE="AGE" comment="" />
+<AGE id="P16" start="743" end="745" text="92" TYPE="AGE" comment="" />
+<AGE id="P17" start="762" end="764" text="93" TYPE="AGE" comment="" />
+<AGE id="P18" start="785" end="787" text="89" TYPE="AGE" comment="" />
+<DATE id="P19" start="957" end="964" text="January" TYPE="DATE" comment="" />
+<LOCATION id="P20" start="968" end="984" text="Corvid Analytics" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P21" start="1062" end="1080" text="7 Wickersham Close" TYPE="STREET" comment="" />
+<LOCATION id="P22" start="1082" end="1088" text="Lowell" TYPE="CITY" comment="" />
+<LOCATION id="P23" start="1090" end="1094" text="1852" TYPE="ZIP" comment="" />
+<LOCATION id="P24" start="1160" end="1175" text="EzeFamilyHub_5G" TYPE="LOCATION-OTHER" comment="" />
+<NAME id="P25" start="1221" end="1224" text="Ada" TYPE="PATIENT" comment="" />
+<ID id="P26" start="1238" end="1246" text="4471-ADA" TYPE="IDNUM" comment="" />
+<NAME id="P27" start="1287" end="1295" text="Ngozi E." TYPE="PATIENT" comment="" />
+<CONTACT id="P28" start="1298" end="1310" text="978-555-0133" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

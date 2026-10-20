@@ -1,0 +1,34 @@
+RADIOLOGY REPORT
+{{FACILITY|Mercer Plains Diagnostic Imaging}}
+Patient: {{NAME|Jolene Varga-Whitcombe}}   MRN {{MRN|MPD-80013377}}   Accession {{ID|MPD-ACC-69-117402}}
+Exam: [[MRI CERVICAL SPINE WITHOUT CONTRAST]]   Date: {{DATE|09/14/2069}}
+Ordering: Dr. {{NAME|Reuben Castellanos}}, Family Medicine
+
+CLINICAL HISTORY: 44 F rear-ended at a stop light (MVC {{DATE|08/29/2069}}), neck pain radiating to the right arm, paraesthesia of the right thumb.
+COMPARISON: [[Cervical spine X-ray series]] (AP, lateral, odontoid, flexion-extension) from {{FACILITY|Larkin Urgent Care}}, images received on CD from the outside facility and uploaded to PACS.
+TECHNIQUE: 1.5T. [[Sagittal T1]], [[sagittal T2]], [[sagittal STIR]], [[axial T2 gradient echo]], [[axial T2 FSE]]. The axial images were initially degraded by motion artefact (patient discomfort); the axial sequences were repeated after positioning with additional padding — repeat sequences diagnostic.
+FINDINGS:
+Alignment: [[straightening of the cervical lordosis]], which may be positional or related to [[muscle spasm]]. No [[spondylolisthesis]].
+Vertebral bodies: no fracture, no [[bone marrow oedema]] on STIR. No [[prevertebral soft tissue swelling]]. No [[ligamentous injury]] on STIR ([[interspinous ligament]] and [[ligamentum nuchae]] intact).
+C2-3, C3-4: normal.
+C4-5: small [[central disc protrusion]] without cord contact.
+C5-6: [[right paracentral/foraminal disc extrusion]] measuring 5 mm with superior migration, causing moderate-to-severe [[right neural foraminal stenosis]] and contacting the exiting [[right C6 nerve root]]. Mild [[central canal stenosis]]; cord not compressed; no [[myelomalacia]].
+C6-7: mild [[disc-osteophyte complex]], patent foramina.
+Spinal cord: normal signal and calibre.
+IMPRESSION:
+1. [[C5-6 right foraminal disc extrusion]] with compression of the right C6 nerve root, correlating with the clinical [[C6 radiculopathy]]. Acuity cannot be determined by MRI.
+2. No acute osseous or ligamentous injury.
+Electronically signed: Dr. {{NAME|Anastasia Pereira-Lowe}}, Neuroradiology
+=====NOTE=====
+PM&R / SPINE CLINIC — {{DATE|10/02/2069}} — {{NAME|Jolene Varga-Whitcombe}} — {{MRN|MPD-80013377}}
+History (copied forward from intake by {{NAME|Donovan Ashby}}, PA-C): 44 F rear-ended at a stop light, neck pain radiating to the right arm, paraesthesia of the right thumb. Re-examined today by Dr. {{NAME|Celestine Abernathy}}, PM&R.
+Exam: [[Spurling test]] positive right, [[shoulder abduction relief sign]] positive, [[biceps reflex]] diminished right, [[brachioradialis reflex]] diminished right, [[wrist extensors]] 4+/5 right, decreased pinprick in the [[C6 dermatome]]. [[Hoffmann sign]] negative. [[Upper limb tension test]] positive.
+[[NDI 44%]], [[VAS arm 7/10]].
+[[EMG/NCS]]: acute [[right C6 radiculopathy]] (positive sharp waves in [[pronator teres]], [[flexor carpi radialis]], cervical paraspinals); normal median and ulnar NCS (no [[carpal tunnel syndrome]]).
+Plan: [[right C5-6 transforaminal epidural steroid injection]] under fluoroscopy ([[dexamethasone 10 mg]], non-particulate) vs [[interlaminar C7-T1 ESI]]; [[physical therapy]] with [[cervical traction]]; [[gabapentin 300 mg TID]]. If refractory at 6-12 weeks: [[ACDF C5-6]] or [[posterior cervical foraminotomy]]. [[ICD-10 M50.121]], [[V43.52XA]]. [[CPT 64479]].
+=====NOTE=====
+NARRATIVE REPORT FOR COUNSEL — {{DATE|12/20/2069}}
+To: {{NAME|Ignatius Fairweather}}, Esq., {{ORG|Fairweather and Lund LLP}}; cc {{NAME|Corinne Bassett}}, adjuster, {{ORG|Pinnacle Shield Auto Insurance}} (claim {{ID|PSA-69-883012}})
+Re: {{NAME|Jolene Varga-Whitcombe}}, date of loss {{DATE|08/29/2069}}
+Ms. {{NAME|Varga-Whitcombe}} had no prior neck complaints in records reviewed. After the collision she developed a [[right C6 radiculopathy]] with MRI-confirmed [[C5-6 foraminal disc extrusion]] and concordant [[EMG]] findings. She received a [[C5-6 transforaminal ESI]] with 60% relief for 5 weeks. Causation: within reasonable medical probability, the [[disc extrusion]] is causally related to the collision, though [[pre-existing degenerative disc disease]] at C6-7 is incidental. Current deficits: [[Spurling test]] positive, [[biceps reflex]] diminished, [[wrist extension]] 4+/5. [[NDI 38%]]. Future care may include [[ACDF C5-6]] ([[CPT 22551]]), repeat [[transforaminal ESI]] ([[CPT 64479]]), [[physical therapy]] and [[MRI cervical spine]]. Treatment is being provided under a [[letter of protection]].
+Dr. {{NAME|C. Abernathy}}

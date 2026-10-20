@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP)   Family Medicine, Northshore Family Clinic
+Visit date: 10/26/2085   Provider: Dr. Wei-Ling Sutanto   MA: Joao Pereira
+Patient: Matthew Brandt (formerly Mateus Oliveira-Brandt)  MRN 6128-0354  DOB 08/29/2056  Age 29
+Page 1 of 2    BRANDT, MATTEW   MRN 6128-0345
+
+S: 29 y.o. man with sore throat since 2 days, fever, painfull swalowing. No cough. Wife Camilla Brandt and son Theo Brandt (age 3) had the same last week. Patient says "I am allergic to penicillin, rash" - but chart no allergy and he took Amoxicillin? no, chart not show. Patient deny alcohol ("I never drink") however in 2081 AUDIT-C was positive and also 05/20/2081 note say drinking behaviour. Patient also say "I never had operation", but have scar umbilicus and appendectomy April 2079. Reliable? low.
+Social: lives 9 Tamarack Court Apt 4, Duluth, MN 55802 (told us last year he lived on Birch Street). Landlord Percy Dunleavy no heating problem. Neighbor Hattie Vance watch the child. Employer now Lakeshore Bike Co-op part time, before Superior Ridge Roofing until 5/19/2081. No car, lack of transport, bus. Grandmother Lourdes Oliveira, 91 yo, live in Fortaleza, Brazil, patient worry about her (ninety-one). Mother Fernanda Oliveira.
+O: T 38.4, HR 92, BP 124/80. Throat erythema, tonsil exudate, tender anterior nodes. Rapid strep positive? throat culture sent. Ankle sprain of 8/20 healed, sinusitis 9/3 resolved.
+A: Streptococal sore throat probable.
+P: Penicillin V 500 mg po for 10 days started 10/26 (if rash, stop, call). Rest, fluids. Culture result by phone. RTC if no better. Wife will pick medicine at pharmacy.
+Electronically signed by Wei-Ling Sutanto, MD on 10/26/2085 17:48
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="23" end="38" text="Family Medicine" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P1" start="40" end="64" text="Northshore Family Clinic" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="77" end="87" text="10/26/2085" TYPE="DATE" comment="" />
+<NAME id="P3" start="104" end="120" text="Wei-Ling Sutanto" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="127" end="139" text="Joao Pereira" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="149" end="163" text="Matthew Brandt" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="174" end="196" text="Mateus Oliveira-Brandt" TYPE="PATIENT" comment="" />
+<ID id="P7" start="203" end="212" text="6128-0354" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P8" start="218" end="228" text="08/29/2056" TYPE="DATE" comment="" />
+<AGE id="P9" start="234" end="236" text="29" TYPE="AGE" comment="" />
+<ID id="P10" start="273" end="282" text="6128-0345" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P11" start="372" end="386" text="Camilla Brandt" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="395" end="406" text="Theo Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="606" end="610" text="2081" TYPE="DATE" comment="" />
+<DATE id="P14" start="641" end="651" text="05/20/2081" TYPE="DATE" comment="" />
+<DATE id="P15" start="764" end="774" text="April 2079" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="805" end="821" text="9 Tamarack Court" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="829" end="835" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="837" end="839" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="840" end="845" text="55802" TYPE="ZIP" comment="" />
+<LOCATION id="P21" start="877" end="889" text="Birch Street" TYPE="STREET" comment="" />
+<NAME id="P22" start="901" end="915" text="Percy Dunleavy" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="945" end="957" text="Hattie Vance" TYPE="PATIENT" comment="" />
+<LOCATION id="P24" start="988" end="1008" text="Lakeshore Bike Co-op" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P25" start="1027" end="1049" text="Superior Ridge Roofing" TYPE="ORGANIZATION" comment="" />
+<DATE id="P26" start="1056" end="1065" text="5/19/2081" TYPE="DATE" comment="" />
+<NAME id="P27" start="1111" end="1127" text="Lourdes Oliveira" TYPE="PATIENT" comment="" />
+<AGE id="P28" start="1129" end="1131" text="91" TYPE="AGE" comment="" />
+<LOCATION id="P29" start="1144" end="1153" text="Fortaleza" TYPE="CITY" comment="" />
+<LOCATION id="P30" start="1155" end="1161" text="Brazil" TYPE="COUNTRY" comment="" />
+<AGE id="P31" start="1188" end="1198" text="ninety-one" TYPE="AGE" comment="" />
+<NAME id="P32" start="1208" end="1225" text="Fernanda Oliveira" TYPE="PATIENT" comment="" />
+<DATE id="P33" start="1371" end="1375" text="8/20" TYPE="DATE" comment="" />
+<DATE id="P34" start="1394" end="1397" text="9/3" TYPE="DATE" comment="" />
+<DATE id="P35" start="1492" end="1497" text="10/26" TYPE="DATE" comment="" />
+<NAME id="P36" start="1640" end="1656" text="Wei-Ling Sutanto" TYPE="DOCTOR" comment="" />
+<DATE id="P37" start="1664" end="1674" text="10/26/2085" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

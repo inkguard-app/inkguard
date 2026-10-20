@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Ashfield Valley Medical Center
+Geriatrics Clinic - 3rd floor
+
+April 10th, 2070
+
+To: Human Resources, Calder Peak Insurance Brokers
+Re: Family and medical leave certification for employee Priscilla Hollis-Mbeki
+Pt (parent): Winifred Lindqvist-Hollis, DOB 03/02/1989
+
+Dear [HR_NAME],
+
+I am writing as the treating physician. Ms. Hollis-Mbeki's mother, a 81 year old woman with moderate dementia from Alzheimers disease, requires supervision 24 hours a day. Her husband, 92, can no longer supply this. Ms. Hollis-Mbeki is the primary caregiver and has been since 2068. We certify intermittent leave of up to 12 hours per week, starting 04/13/2070 through 10/13/2070.
+
+Pls note the pt's Medicare Advantage number (EVG-4417-82960) is on file with Evergreen Senior Advantage.
+
+Sincerly,
+
+Margit Soltész, MD
+Geriatrics
+Tel (828) 555-0100  Fax (828) 555-0101
+cc: pt chart; Tendai Mbeki; "Pris" by email pris.mbeki@mailbox.example.org
+Electronically signed 04/10/2070 16:40
+
+[Comment by Tyler Osgood: the patient's husband Zeke is 93 now? check]
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="30" text="Ashfield Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="31" end="48" text="Geriatrics Clinic" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="62" end="78" text="April 10th, 2070" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="101" end="130" text="Calder Peak Insurance Brokers" TYPE="ORGANIZATION" comment="" />
+<NAME id="P4" start="187" end="209" text="Priscilla Hollis-Mbeki" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="223" end="248" text="Winifred Lindqvist-Hollis" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="254" end="264" text="03/02/1989" TYPE="DATE" comment="" />
+<NAME id="P7" start="327" end="339" text="Hollis-Mbeki" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="352" end="354" text="81" TYPE="AGE" comment="" />
+<AGE id="P9" start="468" end="470" text="92" TYPE="AGE" comment="" />
+<DATE id="P10" start="560" end="564" text="2068" TYPE="DATE" comment="" />
+<DATE id="P11" start="633" end="643" text="04/13/2070" TYPE="DATE" comment="" />
+<DATE id="P12" start="652" end="662" text="10/13/2070" TYPE="DATE" comment="" />
+<ID id="P13" start="710" end="724" text="EVG-4417-82960" TYPE="HEALTHPLAN" comment="" />
+<LOCATION id="P14" start="742" end="768" text="Evergreen Senior Advantage" TYPE="ORGANIZATION" comment="" />
+<NAME id="P15" start="782" end="796" text="Margit Soltész" TYPE="DOCTOR" comment="" />
+<CONTACT id="P16" start="816" end="830" text="(828) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P17" start="836" end="850" text="(828) 555-0101" TYPE="FAX" comment="" />
+<NAME id="P18" start="865" end="877" text="Tendai Mbeki" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="880" end="884" text="Pris" TYPE="PATIENT" comment="" />
+<CONTACT id="P20" start="895" end="925" text="pris.mbeki@mailbox.example.org" TYPE="EMAIL" comment="" />
+<DATE id="P21" start="948" end="958" text="04/10/2070" TYPE="DATE" comment="" />
+<NAME id="P22" start="1014" end="1018" text="Zeke" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

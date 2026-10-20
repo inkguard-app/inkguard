@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>RADIOLOGY REPORT -- Marrowgate Regional Medical Center
+Imaging Services, reporting radiologist Dr Imogen Fairweather-Sadiq FRCR
+
+PATIENT: PRUITT, GARRETT L          MRN 0418-2297       DOB 09/03/2027
+Accession: RAD-76-0924-3318      Examination date: 24/09/2076
+Referrer: Dr Priyanka Venkataraghavan, Emergency Department
+
+EXAMINATION: Right hand and wrist, three views.
+
+CLINICAL INFORMATION: 49-year-old gentleman, steam burn to the right hand, ?? foreign body. Please exclude fracture.
+
+FINDINGS: No acute fracture or dislocation. Alignment is anatomical. There is soft tissue swelling over the dorsum of the hand consistent with the history of a burn. No radiopaque foreign body. The joint spaces are preserved. Mild degenerative change at the first carpometacarpal joint, not unexpected for age. Of incidental note the metacarpal heads are normal. The ilium is not included, this is a hand film (dictation software insists otherwise, please disregard).
+
+IMPRESSION: Soft tissue swelling only. No fracture, no foreign body.
+
+Report dictated using voice recognition, apologies for any errors; patient name read back as "Garret Pruit" on the worklist, corrected above.
+Verified 24/09/2076 11:47 by I. Fairweather-Sadiq
+cc: Dr Samir Oduya, fax (937) 555-0142
+</TEXT>
+<TAGS>
+<NAME id="P0" start="98" end="122" text="Imogen Fairweather-Sadiq" TYPE="DOCTOR" comment="" />
+<ID id="P1" start="169" end="178" text="0418-2297" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="189" end="199" text="09/03/2027" TYPE="DATE" comment="" />
+<ID id="P3" start="211" end="227" text="RAD-76-0924-3318" TYPE="IDNUM" comment="" />
+<DATE id="P4" start="251" end="261" text="24/09/2076" TYPE="DATE" comment="" />
+<NAME id="P5" start="275" end="299" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="301" end="321" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<AGE id="P7" start="394" end="396" text="49" TYPE="AGE" comment="" />
+<DATE id="P8" start="1180" end="1190" text="24/09/2076" TYPE="DATE" comment="" />
+<NAME id="P9" start="1200" end="1220" text="I. Fairweather-Sadiq" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1228" end="1239" text="Samir Oduya" TYPE="DOCTOR" comment="" />
+<CONTACT id="P11" start="1245" end="1259" text="(937) 555-0142" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

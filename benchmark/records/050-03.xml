@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Date of call: 11/07/2061   Taken by: Bryony Teague, MA
+Caller: pt Ngozi Adebayo-Marsh ngozi on 416-555-0187 (home) -- also left msg on cell, number in chart is (416) 555-0178 ??? digits swapped probably
+
+pt called, sounded tired but "vibes ok". Was discharged Wed after the heart attack (NSTEMI, Oct 31) and has questions:
+-- &gt;&gt; atenolol 50 mg once a day, atorvastatin 20, and the water pill + losartan combo. She's also still got simvastatin bottle at home from before, and asked if take both. I told her NO, do not take both until the doctor calls back.
+-- &gt;&gt; nitroglycerin spray?? tablet under tongue only if chest pain
+-- &gt;&gt; who is Dr. Venkatraman vs Dr. Achterberg
+
+Pt states she lives alone, daughter-in-law "Mercy" Mercy Adebayo-Marsh helps with shopping (hmm chart says single, no children?? asked pt, she laughed, said Mercy is her niece, Folasade's girl). Spelled name: M-E-R-C-Y.
+
+Mother Chinwe Adebayo phoned from Lagos during the call, pt put her on speaker.
+
+Message routed to: Dr. Priyanka Venkataraman; cc Samuel Achterberg fax (416) 555-0142.
+Pharmacy rx # RX-4471093 for the atorvastatin, picked up.
+Note by bteague 11/07/2061 15:48 from 10.20.4.61
+</TEXT>
+<TAGS>
+<DATE id="P0" start="34" end="44" text="11/07/2061" TYPE="DATE" comment="" />
+<NAME id="P1" start="57" end="70" text="Bryony Teague" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="86" end="105" text="Ngozi Adebayo-Marsh" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="106" end="111" text="ngozi" TYPE="PATIENT" comment="" />
+<CONTACT id="P4" start="115" end="127" text="416-555-0187" TYPE="PHONE" comment="" />
+<CONTACT id="P5" start="180" end="194" text="(416) 555-0178" TYPE="PHONE" comment="" />
+<DATE id="P6" start="280" end="283" text="Wed" TYPE="DATE" comment="" />
+<DATE id="P7" start="316" end="322" text="Oct 31" TYPE="DATE" comment="" />
+<NAME id="P8" start="660" end="671" text="Venkatraman" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="679" end="689" text="Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="735" end="740" text="Mercy" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="742" end="761" text="Mercy Adebayo-Marsh" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="848" end="853" text="Mercy" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="868" end="876" text="Folasade" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="900" end="909" text="M-E-R-C-Y" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="919" end="933" text="Chinwe Adebayo" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="946" end="951" text="Lagos" TYPE="CITY" comment="" />
+<NAME id="P17" start="1016" end="1037" text="Priyanka Venkataraman" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1042" end="1059" text="Samuel Achterberg" TYPE="DOCTOR" comment="" />
+<CONTACT id="P19" start="1064" end="1078" text="(416) 555-0142" TYPE="FAX" comment="" />
+<ID id="P20" start="1094" end="1104" text="RX-4471093" TYPE="IDNUM" comment="" />
+<NAME id="P21" start="1146" end="1153" text="bteague" TYPE="USERNAME" comment="" />
+<DATE id="P22" start="1154" end="1164" text="11/07/2061" TYPE="DATE" comment="" />
+<CONTACT id="P23" start="1176" end="1186" text="10.20.4.61" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

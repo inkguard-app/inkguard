@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Hudson Crossing Cancer and Genetics Center
+January 10, 2090
+
+To Whom It May Concern:
+Riverbend Municipal Credit Union, Human Resources
+
+RE: Employee Marguerite A. Hartley-Nwosu (Employee ID RMCU-30981)
+
+This letter is to confirm that the above-named employee is under the care of our centre and will need to attend a number of scheduled appointments between now and her due date in the summer. She is also receiving routine prenatal care elsewhere. She is able to continue full-time work. We request reasonable flexibility for appointments, including some mornings.
+
+I am dictating this letter on her behalf and signing in a hurry, forgive the format, Dear [NAME]. No details of diagnosis are provided here as the patient has asked us to keep the reason for referral confidential.
+
+Please direct questions to my office, (518) 555-0160.
+
+Sincerely,
+
+Ngaire Tamihana, MD
+Consultant, Hereditary Risk Clinic
+
+Dictated but not read.
+cc: Mrs. Hartley-Nwosu, 47 Cobbler's Row, Unit 6, Albany, NY 1220
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="42" text="Hudson Crossing Cancer and Genetics Center" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="43" end="59" text="January 10, 2090" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="85" end="117" text="Riverbend Municipal Credit Union" TYPE="ORGANIZATION" comment="" />
+<NAME id="P3" start="149" end="176" text="Marguerite A. Hartley-Nwosu" TYPE="PATIENT" comment="" />
+<ID id="P4" start="190" end="200" text="RMCU-30981" TYPE="IDNUM" comment="" />
+<CONTACT id="P5" start="820" end="834" text="(518) 555-0160" TYPE="PHONE" comment="" />
+<NAME id="P6" start="849" end="864" text="Ngaire Tamihana" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="937" end="950" text="Hartley-Nwosu" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="952" end="976" text="47 Cobbler's Row, Unit 6" TYPE="STREET" comment="" />
+<LOCATION id="P9" start="978" end="984" text="Albany" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="986" end="988" text="NY" TYPE="STATE" comment="" />
+<LOCATION id="P11" start="989" end="993" text="1220" TYPE="ZIP" comment="" />
+</TAGS>
+</deIdi2b2>

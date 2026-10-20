@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST -- discharge
+**Pt:** Leo Dufrene   **DOB:** 6/12/2041   **MRN:** WR-5528140
+**Date:** 03/30/2088 (post-op day 2)
+**Compiled by:** Tyrell Vance (MA, student helper on 4 West) with Linh Thach, PharmD
+
+--&gt; Allergies: NKDA (confirmed w/ patient AND his sister Colette)
+--&gt; Room: 4W-12  &lt;- he was moved from 4W-14 last night
+
+"HOME MEDS (verified)"
+- Clopidogrel 75 mg daily (started Jan 6)
+- Simvastatin 20 mg nightly
+- Metoprolol succinate ER 100 mg daily
+- Nitroglycerin spray 0.4 mg PRN chest pain
+- Hydrochlorothiazide 25 mg  &lt;- STOPPED in 2084, still in template, ignore
+
+"INPATIENT ONLY / ONE TIME (surgery 3/28)"
+Cefazolin, heparin, protamine, ondansetron, midazolam, propofol, rocuronium, isoflurane, remifentanil
+
+"Pharmacy"
+Hawthorne Corner Pharmacy, Rx RX 7714330 and RX 7714331. Pharmacist B. Quill said call him on his pager 503-555-0107 ext. 214.
+
+Home tele-monitoring set up: home Wi-Fi network Dufresne_Home_5G, password written on a sticky note (not recorded here lol).
+
+Pt was super chill and joked about his zipper (scar). He said his mother who is 93yo "doesnt take anything but tea". In conclusion, the patient's journey through this admission was smooth and his vibes are good.
+
+Copied from previous admission note: "Mr. Dufresne lives with his wife and two children." &lt;- NOT true, he is single!! (wrong template)
+</TEXT>
+<TAGS>
+<NAME id="P0" start="52" end="63" text="Leo Dufrene" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="75" end="84" text="6/12/2041" TYPE="DATE" comment="" />
+<ID id="P2" start="96" end="106" text="WR-5528140" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="117" end="127" text="03/30/2088" TYPE="DATE" comment="" />
+<NAME id="P4" start="161" end="173" text="Tyrell Vance" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="197" end="203" text="4 West" TYPE="DEPARTMENT" comment="" />
+<NAME id="P6" start="210" end="220" text="Linh Thach" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="287" end="294" text="Colette" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="306" end="311" text="4W-12" TYPE="ROOM" comment="" />
+<DATE id="P9" start="410" end="415" text="Jan 6" TYPE="DATE" comment="" />
+<DATE id="P10" start="571" end="575" text="2084" TYPE="DATE" comment="" />
+<DATE id="P11" start="640" end="644" text="3/28" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="761" end="786" text="Hawthorne Corner Pharmacy" TYPE="ORGANIZATION" comment="" />
+<ID id="P13" start="791" end="801" text="RX 7714330" TYPE="IDNUM" comment="" />
+<ID id="P14" start="806" end="816" text="RX 7714331" TYPE="IDNUM" comment="" />
+<NAME id="P15" start="829" end="837" text="B. Quill" TYPE="DOCTOR" comment="" />
+<CONTACT id="P16" start="865" end="877" text="503-555-0107" TYPE="PHONE" comment="" />
+<ID id="P17" start="883" end="886" text="214" TYPE="IDNUM" comment="" />
+<ID id="P18" start="937" end="953" text="Dufresne_Home_5G" TYPE="DEVICE" comment="" />
+<AGE id="P19" start="1095" end="1097" text="93" TYPE="AGE" comment="" />
+<NAME id="P20" start="1270" end="1278" text="Dufresne" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

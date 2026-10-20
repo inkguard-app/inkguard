@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|note_type|author|facility|text
+20977|DISCHARGE SUMMARY - care mgmt prog|L. Vasquez RN|Genesee Valley Primary Care Group|
+BRIGHT, WREN    MR 3300418    DOB 3/9/2046    (Bright, Wren)
+Enrolled: 02/18/2094   Discharged from prog: 03/02/2095   Dc dx: HTN (essential) controlled
+49 yo F. NOTE legal name chnge 11/2092, chart now Wren Bright; ins + CPAP vendor still show Wendy Weiss. Pls use WREN. pt also answers to "Wendi" w/ older staff, no problem.
+Course: BP 2/18/94 154/-- , started lisinopril then HCTZ 25mg 03/20/2094. f/u BP 5/19 129, 7/18 120, 02/24/95 126. HCTZ stopped at dc visit per MD (lisinopril/HCTZ BOTH d/c, no AHT now). wt 78.0 kg (was 85.3). TC 199.9 LDL 135.5.
+Dc plan: home BP log, naproxen prn only (pt takes daily - counseled), CPAP nightly, f/u PCP 6 mo.
+Contraception: Natazia pack started 10/25/2094. IUD replaced 12/23/2094 (both listed - pt states "just the pill", chart says both).
+Soc: lives alone 1409 Tamarack Street Apt 12, Rochester NY 14609. worked Corner Loaf Bakery Cafe PT until 2/9/2090. social isolation. sister Gail.
+Pt denies miscarriage 11/28/2068 (chart has it).
+&gt;&gt;&gt;
+Pasted from prior RN note 01/26/2090 by Tobias Reinhardt RN: WEISS, WENDY - 44 yo F, pt states DOB 09/03/1946 (??). No-show. Phone (585) 555-0172 disconnected, left msg w June at work.
+Pasted wrong chart?: Marguerite Pell MR 3300481 61yo F HF, dc to snf Rm 4B
+Signed Lenore Vasquez RN  03/02/2095 11:48   Portal: https://portal.gvpcg.example/u/wrenbright   edited from 172.16.8.41
+</TEXT>
+<TAGS>
+<NAME id="P0" start="79" end="89" text="L. Vasquez" TYPE="DOCTOR" comment="" />
+<LOCATION id="P1" start="93" end="126" text="Genesee Valley Primary Care Group" TYPE="HOSPITAL" comment="" />
+<ID id="P2" start="147" end="154" text="3300418" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="162" end="170" text="3/9/2046" TYPE="DATE" comment="" />
+<NAME id="P4" start="175" end="187" text="Bright, Wren" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="199" end="209" text="02/18/2094" TYPE="DATE" comment="" />
+<DATE id="P6" start="234" end="244" text="03/02/2095" TYPE="DATE" comment="" />
+<AGE id="P7" start="281" end="283" text="49" TYPE="AGE" comment="" />
+<DATE id="P8" start="312" end="319" text="11/2092" TYPE="DATE" comment="" />
+<NAME id="P9" start="373" end="384" text="Wendy Weiss" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="420" end="425" text="Wendi" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="466" end="473" text="2/18/94" TYPE="DATE" comment="" />
+<DATE id="P12" start="517" end="527" text="03/20/2094" TYPE="DATE" comment="" />
+<DATE id="P13" start="536" end="540" text="5/19" TYPE="DATE" comment="" />
+<DATE id="P14" start="546" end="550" text="7/18" TYPE="DATE" comment="" />
+<DATE id="P15" start="556" end="564" text="02/24/95" TYPE="DATE" comment="" />
+<DATE id="P16" start="819" end="829" text="10/25/2094" TYPE="DATE" comment="" />
+<DATE id="P17" start="844" end="854" text="12/23/2094" TYPE="DATE" comment="" />
+<LOCATION id="P18" start="932" end="959" text="1409 Tamarack Street Apt 12" TYPE="STREET" comment="" />
+<LOCATION id="P19" start="961" end="970" text="Rochester" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="971" end="973" text="NY" TYPE="STATE" comment="" />
+<LOCATION id="P21" start="974" end="979" text="14609" TYPE="ZIP" comment="" />
+<LOCATION id="P22" start="988" end="1011" text="Corner Loaf Bakery Cafe" TYPE="ORGANIZATION" comment="" />
+<DATE id="P23" start="1021" end="1029" text="2/9/2090" TYPE="DATE" comment="" />
+<NAME id="P24" start="1056" end="1060" text="Gail" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="1084" end="1094" text="11/28/2068" TYPE="DATE" comment="" />
+<DATE id="P26" start="1141" end="1151" text="01/26/2090" TYPE="DATE" comment="" />
+<NAME id="P27" start="1155" end="1171" text="Tobias Reinhardt" TYPE="DOCTOR" comment="" />
+<AGE id="P28" start="1191" end="1193" text="44" TYPE="AGE" comment="" />
+<DATE id="P29" start="1214" end="1224" text="09/03/1946" TYPE="DATE" comment="" />
+<CONTACT id="P30" start="1246" end="1260" text="(585) 555-0172" TYPE="PHONE" comment="" />
+<NAME id="P31" start="1286" end="1290" text="June" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="1321" end="1336" text="Marguerite Pell" TYPE="PATIENT" comment="" />
+<ID id="P33" start="1340" end="1347" text="3300481" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P34" start="1348" end="1350" text="61" TYPE="AGE" comment="" />
+<LOCATION id="P35" start="1369" end="1374" text="Rm 4B" TYPE="ROOM" comment="" />
+<NAME id="P36" start="1382" end="1396" text="Lenore Vasquez" TYPE="DOCTOR" comment="" />
+<DATE id="P37" start="1401" end="1411" text="03/02/2095" TYPE="DATE" comment="" />
+<CONTACT id="P38" start="1428" end="1469" text="https://portal.gvpcg.example/u/wrenbright" TYPE="URL" comment="" />
+<CONTACT id="P39" start="1484" end="1495" text="172.16.8.41" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

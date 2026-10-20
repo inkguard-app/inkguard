@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL -- ANNUAL EXAM                 Capital Hollow Primary Care
+Visit date: 07/14/2060      Provider: Dr. Oksana Pylypchuk
+Patient: ASHDOWN, CALLUM     DOB 01/23/2019     Age @AGE@     MRN 0771-2096
+
+Chief complain: Annual exam. Patient say he is feeling "ok but tired".
+
+HPI:
+Patient is 41 years old man, married, with history of chronic neck pain, right knee meniscus tear (healed), obesity (BMI improved), and depression screened in past. He come today for yearly examination. Since last year he have lost weight, now 90.6 kg, no change from before. Neck pain is 1 out of 10, he is not taking any opioids from 2051. He deny chest pain, shortness breath. He sleep 6 hour. Wife Marisol accompany him today and she say he drinks coffee all the day.
+
+PMH/PSH: As above. No surgery. 
+Medications: Reviewed (medication reconciliation done by nurse). Taking only ibuprofen sometimes. Percocet 10 mg still on list -- stopped 05/24/2051 --- remove.
+Allergies: No known.
+Social: Lives with wife and two children, Theo and Imogen, in own house 58 Fennimore Road. Grandmother Winifred passed away last year at age ninety-five. Not working now (stopped 2053). Transport problem -- does not have car, uses the bus. Past intimate partner abuse in 2053, now no more, feels safe at home. Screening for health and social care needs done.
+
+ROS: Negative except fatigue and mild anxiety.
+
+Examination:
+BP 125/69, weight 90.6 kg, BMI 27.3. General: well appear, no distress. Heart: regular rhythm, no murmur. Lungs: clear. Neck: mild tenderness, normal movement. Gum: mild redness. Neuro intact.
+GAD-7 = 7 (mild anxiety). Depression screening negative today.
+
+Assessment and Plan:
+1. Annual exam, healthy. 
+2. Mild anxiety -- counseling, follow in 3 months.
+3. Chronic neck pain, stable, no opioids.
+4. Gingivitis tendency -- referral to dentist Tupelo Dental Group, fax today.
+5. Transport -- give information about transport service.
+
+&gt;&gt;&gt; Pasted from note of 07/02/2057 (portal): "...Since i lost the job at the boat yard (it was 2053) money has been tight and wife Marisol is picking up double shifts so i'm home with the kids..." -- Callum Ashdon
+&gt;&gt;&gt; Pasted from consult 05/24/2051, Dr. Chaudhary-Moore: "Plan: We will taper both opioids slowly and stop completely today."
+
+Thank you. Dictated and electronically signed by Oksana Pylypchuk, MD, 07/14/2060 12:12. 
+Priviet Callum! (greeting in my language -- test of the autotext, please ignore).
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="52" end="79" text="Capital Hollow Primary Care" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="92" end="102" text="07/14/2060" TYPE="DATE" comment="" />
+<NAME id="P2" start="122" end="138" text="Oksana Pylypchuk" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="148" end="163" text="ASHDOWN, CALLUM" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="172" end="182" text="01/23/2019" TYPE="DATE" comment="" />
+<ID id="P5" start="205" end="214" text="0771-2096" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P6" start="304" end="306" text="41" TYPE="AGE" comment="" />
+<DATE id="P7" start="629" end="633" text="2051" TYPE="DATE" comment="" />
+<NAME id="P8" start="695" end="702" text="Marisol" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="936" end="946" text="05/24/2051" TYPE="DATE" comment="" />
+<NAME id="P10" start="1022" end="1026" text="Theo" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="1031" end="1037" text="Imogen" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="1052" end="1069" text="58 Fennimore Road" TYPE="STREET" comment="" />
+<NAME id="P13" start="1083" end="1091" text="Winifred" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="1121" end="1132" text="ninety-five" TYPE="AGE" comment="" />
+<DATE id="P15" start="1159" end="1163" text="2053" TYPE="DATE" comment="" />
+<DATE id="P16" start="1251" end="1255" text="2053" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="1844" end="1863" text="Tupelo Dental Group" TYPE="HOSPITAL" comment="" />
+<DATE id="P18" start="1959" end="1969" text="07/02/2057" TYPE="DATE" comment="" />
+<DATE id="P19" start="2030" end="2034" text="2053" TYPE="DATE" comment="" />
+<NAME id="P20" start="2066" end="2073" text="Marisol" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="2135" end="2148" text="Callum Ashdon" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="2173" end="2183" text="05/24/2051" TYPE="DATE" comment="" />
+<NAME id="P23" start="2189" end="2204" text="Chaudhary-Moore" TYPE="DOCTOR" comment="" />
+<NAME id="P24" start="2325" end="2341" text="Oksana Pylypchuk" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="2347" end="2357" text="07/14/2060" TYPE="DATE" comment="" />
+<NAME id="P26" start="2374" end="2380" text="Callum" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

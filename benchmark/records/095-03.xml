@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE NOTE                                               Greater Riverside Medical Center OR 3
+Date of surgery: 12/26/2057 (the day after Christmas)   Start 21:40   End 02:15 next day
+Patient: Justice K Mensah    DOB: 09/22/1972    Age: 85    MRN: GR-0477123
+Surgeon: Noble Adjei, MD    Assistant: Ruth Silver    Anaesthesia: Wilder Pike    Scrub: Charity Owusu, RN
+PREOP DX: End-stage renal disease (dx 08/22/2057), diabetic nephropathy
+POSTOP DX: same
+PROCEDURE: Deceased-donor kidney transplant, right iliac fossa. Donor id DN-57-30416.
+INDICATION: Patient on waitlist since 11/04/2054.
+FINDINGS: Good quality graft, cold ischemia 14 h. Immediate flow after reperfusion. Single artery, single vein, ureter to bladder over stent.
+DESCRIPTION: Pt in supine position. Hockey stick incision R lower quadrant. Vessels exposed. Art. anastomosis to ext iliac, vein end to side. Kidney reperfused at 23:58, pink and firm. Urine within minutes. Ureteroneocystostomy with stent. Closed in layers. Tacrolimus IV (Prograf) given.
+EBL 250 ml. Counts correct x2. To PACU stable.
+Family: wife Mercy and son Prince updated in waiting room, grandson Sky asleep on the chairs.
+[Template header from last op note: Patient: MENSAH, J  -  but ALLERGIES: Mercy, hx 2/3/55 ... ] 
+Dictated by Noble Adjei 12/27/2057 06:10 - "sinus" heard as "sign us" in dictation, corrected
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="61" end="93" text="Greater Riverside Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="94" end="98" text="OR 3" TYPE="ROOM" comment="" />
+<DATE id="P2" start="116" end="126" text="12/26/2057" TYPE="DATE" comment="" />
+<DATE id="P3" start="128" end="151" text="the day after Christmas" TYPE="DATE" comment="" />
+<NAME id="P4" start="197" end="213" text="Justice K Mensah" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="222" end="232" text="09/22/1972" TYPE="DATE" comment="" />
+<AGE id="P6" start="241" end="243" text="85" TYPE="AGE" comment="" />
+<ID id="P7" start="252" end="262" text="GR-0477123" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="272" end="283" text="Noble Adjei" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="302" end="313" text="Ruth Silver" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="330" end="341" text="Wilder Pike" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="352" end="365" text="Charity Owusu" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="408" end="418" text="08/22/2057" TYPE="DATE" comment="" />
+<ID id="P13" start="531" end="542" text="DN-57-30416" TYPE="IDNUM" comment="" />
+<DATE id="P14" start="582" end="592" text="11/04/2054" TYPE="DATE" comment="" />
+<NAME id="P15" start="1085" end="1090" text="Mercy" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1099" end="1105" text="Prince" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1140" end="1143" text="Sky" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1240" end="1245" text="Mercy" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="1250" end="1256" text="2/3/55" TYPE="DATE" comment="" />
+<NAME id="P20" start="1276" end="1287" text="Noble Adjei" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1288" end="1298" text="12/27/2057" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>After-Visit Summary -- Marrowgate Regional Medical Center
+Ambulatory Burn Follow-up
+
+Dear Mr Pruitt,     Dear [PATIENT],
+
+Thank you for coming in on Friday, October 16, 2076. You were seen for a partial thickness burn of your right forearm and hand. It has healed well over the past 3 weeks.
+
+Patient: Garrett L Pruitt      DOB: 03/09/2027      Age: 49
+Your provider today: Dr. Harold Teague
+
+WHAT WE DID
+ - Looked at the wound, removed the old dressing.
+ - Stopped your antibiotic (cefuroxime) and acetaminophen as of today.
+ - The meperidine should be finished by 11/01/2076. Do not drive while taking it.
+
+WHAT TO DO AT HOME
+ 1. Keep the skin moisturised and out of the sun.
+ 2. Call us if you see redness, pus or fever.
+ 3. Your sleep apnea still needs treatment. Please ask Dr. Oduya about a new CPAP mask.
+ 4. Prediabetes: HbA1c was 6.3 last year, we will check again at your yearly visit.
+
+Your wife Marisol asked about going back to work at Calloway Freight Systems. Light duty only until cleared. A letter was sent to the HR office.
+
+Questions? Call 937-555-0171 or use the portal, username gpruitt_kett27. Pls dont reply to this auto message.
+
+Page 1 of 1   PRUITT, GARRETT   MRN 0418-2297   DOB 01/01/1900
+Printed 10/16/2076 by kbrennan
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="58" end="83" text="Ambulatory Burn Follow-up" TYPE="DEPARTMENT" comment="" />
+<NAME id="P1" start="93" end="99" text="Pruitt" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="149" end="155" text="Friday" TYPE="DATE" comment="" />
+<DATE id="P3" start="157" end="173" text="October 16, 2076" TYPE="DATE" comment="" />
+<NAME id="P4" start="302" end="318" text="Garrett L Pruitt" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="329" end="339" text="03/09/2027" TYPE="DATE" comment="" />
+<AGE id="P6" start="350" end="352" text="49" TYPE="AGE" comment="" />
+<NAME id="P7" start="378" end="391" text="Harold Teague" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="566" end="576" text="11/01/2076" TYPE="DATE" comment="" />
+<NAME id="P9" start="779" end="788" text="Dr. Oduya" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="907" end="914" text="Marisol" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="949" end="973" text="Calloway Freight Systems" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P12" start="1059" end="1071" text="937-555-0171" TYPE="PHONE" comment="" />
+<NAME id="P13" start="1100" end="1114" text="gpruitt_kett27" TYPE="USERNAME" comment="" />
+<ID id="P14" start="1190" end="1199" text="0418-2297" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P15" start="1206" end="1216" text="01/01/1900" TYPE="DATE" comment="" />
+<DATE id="P16" start="1225" end="1235" text="10/16/2076" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NORTHGATE CARDIOLOGY ASSOCIATES - NURSING NOTE
+Pt: FAULKNER, ELWOOD T    MRN 063-88145    DOB 02/17/2021    Age 52
+Date of service: 01/30/2074    Nurse: Joy Park, RN (ext x4417, pager 5521)    Provider: Lane Winter, MD
+
+CHIEF COMPLAINT: BP follow up, ischemic heart disease (IHD) f/u.
+
+SUBJECTIVE: Pt says he goes by "Tre", please use. No chest pain, no SOB walking to the car. Takes meds every morning with coffee. Wife Honor passed years ago, daughter Legend calls him every nite. Lives alone at 1190 Harlan Road, Lot 14.
+
+OBJECTIVE: BP 107 (sitting, left arm), repeat 107 stand. HR 62 regular. Wt 82.1 kg. 
+Meds per list (reviewed w/ pt): clopidogrel 75 daily, simvastatin 20, metoprolol succ ER 100, nitroglycerin spray prn, amlodipine 2.5 daily, naproxen 220 prn knee/hand pain, lisinopril 10.
+(copied fwd from 12/02/2073: naproxen listed -- verify, MD stopped it)
+
+TRANSPORT: lack of transport again. Missed rides twice. Pt's ride today: pasted below
+&gt;&gt;&gt; RideNow confirmation 01/30/2074 07:58 -- code RB-48820-TF, driver "Marcus" -- plate TN 7TRE441, pickup 1190 Harlan Rd. Fare billed to acct 44-0071-9932. Questions: reply STOP.
+Church van driver Deacon Hale may help on Sundays.
+
+ASSESSMENT: BP low-normal on amlodipine, asymptomatic. Plan per Dr. Wintner: continue, stop naproxen for sure, labs due. Education: sign in at https://portal.northgatecardio.example/p/tre.faulkner63 
+
+Education given re: hypotension symtoms, stand slowly.
+Charted by jpark on 01/30/2074 10:14 from 10.44.2.187
+Note routed to: Lane Winter; Dash Okeke (MA)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="NORTHGATE CARDIOLOGY ASSOCIATES" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="51" end="69" text="FAULKNER, ELWOOD T" TYPE="PATIENT" comment="" />
+<ID id="P2" start="77" end="86" text="063-88145" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="94" end="104" text="02/17/2021" TYPE="DATE" comment="" />
+<AGE id="P4" start="112" end="114" text="52" TYPE="AGE" comment="" />
+<DATE id="P5" start="132" end="142" text="01/30/2074" TYPE="DATE" comment="" />
+<NAME id="P6" start="153" end="161" text="Joy Park" TYPE="DOCTOR" comment="" />
+<CONTACT id="P7" start="171" end="176" text="x4417" TYPE="PHONE" comment="" />
+<CONTACT id="P8" start="184" end="188" text="5521" TYPE="PHONE" comment="" />
+<NAME id="P9" start="203" end="214" text="Lane Winter" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="318" end="321" text="Tre" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="421" end="426" text="Honor" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="454" end="460" text="Legend" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="498" end="522" text="1190 Harlan Road, Lot 14" TYPE="STREET" comment="" />
+<DATE id="P14" start="816" end="826" text="12/02/2073" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="961" end="968" text="RideNow" TYPE="ORGANIZATION" comment="" />
+<DATE id="P16" start="982" end="992" text="01/30/2074" TYPE="DATE" comment="" />
+<ID id="P17" start="1007" end="1018" text="RB-48820-TF" TYPE="IDNUM" comment="" />
+<NAME id="P18" start="1028" end="1034" text="Marcus" TYPE="PATIENT" comment="" />
+<ID id="P19" start="1045" end="1055" text="TN 7TRE441" TYPE="VEHICLE" comment="" />
+<LOCATION id="P20" start="1064" end="1078" text="1190 Harlan Rd" TYPE="STREET" comment="" />
+<ID id="P21" start="1100" end="1112" text="44-0071-9932" TYPE="ACCOUNT" comment="" />
+<NAME id="P22" start="1155" end="1166" text="Deacon Hale" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="1179" end="1186" text="Sundays" TYPE="DATE" comment="" />
+<NAME id="P24" start="1257" end="1264" text="Wintner" TYPE="DOCTOR" comment="" />
+<CONTACT id="P25" start="1332" end="1387" text="https://portal.northgatecardio.example/p/tre.faulkner63" TYPE="URL" comment="" />
+<NAME id="P26" start="1456" end="1461" text="jpark" TYPE="USERNAME" comment="" />
+<DATE id="P27" start="1465" end="1475" text="01/30/2074" TYPE="DATE" comment="" />
+<CONTACT id="P28" start="1487" end="1498" text="10.44.2.187" TYPE="IPADDR" comment="" />
+<NAME id="P29" start="1515" end="1526" text="Lane Winter" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="1528" end="1538" text="Dash Okeke" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

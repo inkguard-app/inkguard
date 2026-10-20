@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>BLACKFOOT IMAGING ASSOCIATES                           RADIOLOGY REPORT
+PATIENT: PAGE, DESMUND                  DOB: 09/12/2021   AGE/SEX: 61/M
+MRN: VBH-7-318402              ACCESSION: BIA-83-09-0417
+EXAM: CT ABDOMEN AND PELVIS WITH IV CONTRAST       DATE: 09/10/2083
+REFERRING: Sunita Vazhappilly, MD
+
+CLINICAL HISTORY: Colonic polyp (9/4 colonoscopy), pathology showing overlapping malignant neoplasm of the colon. Staging.
+
+TECHNIQUE: Axial images through abdomen and pelvis after IV contrast. 
+
+FINDINGS: There is a 3.4 cm mass in the ascending colon with mild pericolic stranding. A few small pericolic nodes, largest 8 mm. No liver lesions. Spleen, pancreas, kidneys unremarkable. No free fluid. No hydronephrosis. Bones: no suspicious lesion. Lung bases clear.
+Page 2: see addendum. Patient's page-two images (the second page) are on a separate CD.
+
+IMPRESSION: 
+1. Ascending colon mass compatible with known malignancy, with borderline regional nodes.
+2. No distant metastasis identified.
+
+Dictated by Dr. Mateus Rodrigues-Fell 09/10/2083 16:15, signed 09/11/2083
+cc: Dr. Ingrid Valtteri-Osei (surgery)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="28" text="BLACKFOOT IMAGING ASSOCIATES" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="81" end="94" text="PAGE, DESMUND" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="117" end="127" text="09/12/2021" TYPE="DATE" comment="" />
+<AGE id="P3" start="139" end="141" text="61" TYPE="AGE" comment="" />
+<ID id="P4" start="149" end="161" text="VBH-7-318402" TYPE="MEDICALRECORD" comment="" />
+<ID id="P5" start="186" end="200" text="BIA-83-09-0417" TYPE="IDNUM" comment="" />
+<DATE id="P6" start="258" end="268" text="09/10/2083" TYPE="DATE" comment="" />
+<NAME id="P7" start="280" end="298" text="Sunita Vazhappilly" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="337" end="340" text="9/4" TYPE="DATE" comment="" />
+<NAME id="P9" start="1015" end="1036" text="Mateus Rodrigues-Fell" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="1037" end="1047" text="09/10/2083" TYPE="DATE" comment="" />
+<DATE id="P11" start="1062" end="1072" text="09/11/2083" TYPE="DATE" comment="" />
+<NAME id="P12" start="1081" end="1101" text="Ingrid Valtteri-Osei" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

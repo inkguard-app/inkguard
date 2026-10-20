@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Brightwater Endocrine Associates
+February 3, 2063
+
+Cobalt Mutual Health, Prior Authorization Dept
+Re: Member Winifred Bright, member ID CM-7741-0082-A, DOB 08/22/2001
+Request: continuation of simvastatin 10 mg
+
+To Whom it May Concern,
+
+I am writting on behalf of my patient, Ms. Bright, who has been under my care for hyperlipidemia since January 2062. On 01/06/2062 her total cholesterol was 304.1 mg/dL and LDL 180.5 mg/dL. After one year of simvastatin (started 01/27/2062, supply ended 01/27/2063) her labs drawn on 01/27/2063 show total cholesterol 192.1 and LDL 141.6, better but still above goal. Her glucose was 68.0 and eGFR 75.4.
+
+She also has essential hypertension, obesity and chronic low back pain. Ms. Bright is 61 years old. Stopping therapy now risks rebound, so we ask that you approve a further 12 months. I enclose the lab slips (file name Bright_W_lipids_2063.pdf).
+
+Please call (740) 555-0190 or fax (740) 555-0190 with a decision. [NAME] [FIRST_NAME] has been left blank in our template for the appeal number: APPEAL # ______.
+
+Sincerely,
+Anselm Okonkwo-Reyes, MD
+Drafted by Caleb Tran, volunteer -- "In conclusion, this patient deserves coverage for the road ahead."
+cc: Winifred Bright; chart 5530-4217
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="32" text="Brightwater Endocrine Associates" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="33" end="49" text="February 3, 2063" TYPE="DATE" comment="" />
+<NAME id="P2" start="109" end="124" text="Winifred Bright" TYPE="PATIENT" comment="" />
+<ID id="P3" start="136" end="150" text="CM-7741-0082-A" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P4" start="156" end="166" text="08/22/2001" TYPE="DATE" comment="" />
+<NAME id="P5" start="279" end="285" text="Bright" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="339" end="351" text="January 2062" TYPE="DATE" comment="" />
+<DATE id="P7" start="356" end="366" text="01/06/2062" TYPE="DATE" comment="" />
+<DATE id="P8" start="465" end="475" text="01/27/2062" TYPE="DATE" comment="" />
+<DATE id="P9" start="490" end="500" text="01/27/2063" TYPE="DATE" comment="" />
+<DATE id="P10" start="520" end="530" text="01/27/2063" TYPE="DATE" comment="" />
+<NAME id="P11" start="717" end="723" text="Bright" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="727" end="729" text="61" TYPE="AGE" comment="" />
+<CONTACT id="P13" start="860" end="884" text="Bright_W_lipids_2063.pdf" TYPE="URL" comment="" />
+<CONTACT id="P14" start="900" end="914" text="(740) 555-0190" TYPE="PHONE" comment="" />
+<CONTACT id="P15" start="922" end="936" text="(740) 555-0190" TYPE="FAX" comment="" />
+<NAME id="P16" start="1062" end="1082" text="Anselm Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1098" end="1108" text="Caleb Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1195" end="1210" text="Winifred Bright" TYPE="PATIENT" comment="" />
+<ID id="P19" start="1218" end="1227" text="5530-4217" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Patient: Desmund Marsh   DOB: 02/11/1989   MRN: MH-203391
+Date/time: 07/27/2062 14:05      Call type: outgoing        Dept: Cardiology Clinic
+Spoke with: patient    Caller: Dana Tran, RN    Ordering: Dr. Joaquin Lane
+
+Reason for call: follow up after clinic visit Monday 7/24 new meds and cath results
+
+Dictated: Called mr. marsh at home number (937) 555-0118 period he picked up on the third ring period new paragraph.
+
+[COMMENT dtran 07/27/2062 14:21: speech software wrote "mr. marsh" in lower case again, fix the voice profile]
+
+Patient reports he is taking play licks 75 milligrams once daily, that is Plavix, clopidogrel, started 7/24, and Zocor, simvastatin 20 mg at night, plus the long acting metoprolol succinate 100 mg. He also has nitro spray, Nitrolingual. He says he has not needed the spray since Sunday. Denies chest pain at rest, dyspnea. Pt says he stood up fast yesterday and got "swimmy", BP at home 118 over 74. Lies in a pril 40 mg still on his list from the heart attack and he confirms he takes it every morning, also aspirin 81 and atorvastatin 80 from the 2061 list, he says Dr. Lane switched him to the Zocor so stop the atorvastatin, med list needs cleaning.
+
+He asked if the "abnormal findings on imaging" means he needs a bypass, I said Dr. Lane will go over the angiogram at the 7/31 visit, not a nurse call. Pt voices understanding. His wife Corrine is on the other line taking notes. His 73 yo and says "I just want to go back to work", currently unemployed per chart.
+
+Pt also asked about father Eugene's tremor (Parkinson's disease dx last year) and whether it is genetic, told to ask PCP. Neighbor Mr. Bell had Bell's palsy in march, pt wondering if the stress caused it, no relation to heart per Dr. Lane.
+
+Pharmacy: Harwick Street Pharmacy confirmed Plavix filled 07/24 (Rx 2290-4417), pharmacist Sharp said no interactions. Brilinta was stopped 6/17/2061. Effient, prasugrel 10 mg, is STILL on the active list but pt says clopidogrel replaced it, so delete prasugrel to avoid double antiplatelet, will ask Dr. Lane to sign.
+
+Plan: continue meds, keep 7/31 appt at 09:30, bring med bottles. BP log. ED if chest pain &gt;15 min. Callback number given for cardiology triage 937-555-0166 pager 4471. Time 12 min.
+
+[DEL dtran 07/27/2062 14:30: Patient: Hollis Brandt MRN MH-203139]
+[INS dtran 07/27/2062 14:30: Patient: Desmond Marsh]
+
+Electronically signed by Dana Tran, RN on 07/27/2062 14:48. Routed to Dr. Lane; cc Dr. Sung-min Ito (PCP).
+</TEXT>
+<TAGS>
+<NAME id="P0" start="29" end="42" text="Desmund Marsh" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="50" end="60" text="02/11/1989" TYPE="DATE" comment="" />
+<ID id="P2" start="68" end="77" text="MH-203391" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="89" end="99" text="07/27/2062" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="144" end="161" text="Cardiology Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P5" start="193" end="202" text="Dana Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="224" end="236" text="Joaquin Lane" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="284" end="290" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P8" start="291" end="295" text="7/24" TYPE="DATE" comment="" />
+<NAME id="P9" start="344" end="349" text="marsh" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="365" end="379" text="(937) 555-0118" TYPE="PHONE" comment="" />
+<NAME id="P11" start="450" end="455" text="dtran" TYPE="USERNAME" comment="" />
+<DATE id="P12" start="456" end="466" text="07/27/2062" TYPE="DATE" comment="" />
+<NAME id="P13" start="501" end="506" text="marsh" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="656" end="660" text="7/24" TYPE="DATE" comment="" />
+<DATE id="P15" start="832" end="838" text="Sunday" TYPE="DATE" comment="" />
+<DATE id="P17" start="1102" end="1106" text="2061" TYPE="DATE" comment="" />
+<NAME id="P18" start="1125" end="1129" text="Lane" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1291" end="1295" text="Lane" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1330" end="1334" text="7/31" TYPE="DATE" comment="" />
+<NAME id="P21" start="1394" end="1401" text="Corrine" TYPE="PATIENT" comment="" />
+<AGE id="P22" start="1441" end="1443" text="73" TYPE="AGE" comment="" />
+<NAME id="P23" start="1550" end="1556" text="Eugene" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1658" end="1662" text="Bell" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1683" end="1688" text="march" TYPE="DATE" comment="" />
+<NAME id="P27" start="1757" end="1761" text="Lane" TYPE="DOCTOR" comment="" />
+<LOCATION id="P28" start="1774" end="1797" text="Harwick Street Pharmacy" TYPE="ORGANIZATION" comment="" />
+<DATE id="P29" start="1822" end="1827" text="07/24" TYPE="DATE" comment="" />
+<ID id="P30" start="1832" end="1841" text="2290-4417" TYPE="IDNUM" comment="" />
+<NAME id="P31" start="1855" end="1860" text="Sharp" TYPE="DOCTOR" comment="" />
+<DATE id="P32" start="1904" end="1913" text="6/17/2061" TYPE="DATE" comment="" />
+<NAME id="P33" start="2069" end="2073" text="Lane" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="2110" end="2114" text="7/31" TYPE="DATE" comment="" />
+<LOCATION id="P35" start="2209" end="2226" text="cardiology triage" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P36" start="2227" end="2239" text="937-555-0166" TYPE="PHONE" comment="" />
+<CONTACT id="P37" start="2246" end="2250" text="4471" TYPE="PHONE" comment="" />
+<NAME id="P38" start="2271" end="2276" text="dtran" TYPE="USERNAME" comment="" />
+<DATE id="P39" start="2277" end="2287" text="07/27/2062" TYPE="DATE" comment="" />
+<NAME id="P40" start="2304" end="2317" text="Hollis Brandt" TYPE="PATIENT" comment="" />
+<ID id="P41" start="2322" end="2331" text="MH-203139" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P42" start="2338" end="2343" text="dtran" TYPE="USERNAME" comment="" />
+<DATE id="P43" start="2344" end="2354" text="07/27/2062" TYPE="DATE" comment="" />
+<NAME id="P44" start="2371" end="2384" text="Desmond Marsh" TYPE="PATIENT" comment="" />
+<NAME id="P45" start="2412" end="2421" text="Dana Tran" TYPE="DOCTOR" comment="" />
+<DATE id="P46" start="2429" end="2439" text="07/27/2062" TYPE="DATE" comment="" />
+<NAME id="P47" start="2461" end="2465" text="Lane" TYPE="DOCTOR" comment="" />
+<NAME id="P48" start="2474" end="2486" text="Sung-min Ito" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

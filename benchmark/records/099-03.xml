@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 2447 | note_type=REFERRAL LETTER | author=Lake Armitage MD
+Larkspur Children's Clinic
+Dept of General Pediatrics
+Date: 06/19/2073
+
+Dear Dr. Reyes-Tran,
+
+Re: Miracle Frost, DOB 05/19/2067, 6 years
+    418 Pargeter Lane, Dunmore, PA 18512
+    Referral no. REF-2073-0619-A
+
+Thank you for seeing this lovely girl again.
+- well child visit today, growth on track: wt 21.3 kg, BMI 14.1
+- BP 143/90 (repeat was similar, cuff probably too big -- will recheck)
+- pain 3/10, she points to a lower back tooth on the left
+- Hgb 12.4, WBC 7.9, no concerns
+- past: otitis media x2 (most recent 08/2072)
+- no meds now, NKDA
+- hx of two prior dental visits (12/2070 and 06/2072), cleaning only
+
+Request: eval of the sore molar, x-ray if needed, cleaning, and fluoride.
+Mom Justice Frost (570-555-0147) and dad Royal Frost are both keen.  Her grandmother, Apple Frost, usually brings her on Thursdays - she is called Mama Apple by everyone, so if the desk says "Apple's here" it is the grandma, not a patient.
+
+Photo attached: Miracle_Frost_horse_drawing.png -- from her teacher Story Finch's email, she wanted you to see she can draw even with the sore tooth, ha.
+Kind regards,
+
+Lake Armitage, MD
+Electronically signed 06/19/2073 16:20  cc: Hope Rich RN; chart FC-0482913
+Last edited by larmitage from 10.20.4.71
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="63" end="89" text="Larkspur Children's Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="98" end="116" text="General Pediatrics" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="123" end="133" text="06/19/2073" TYPE="DATE" comment="" />
+<NAME id="P3" start="144" end="154" text="Reyes-Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="161" end="174" text="Miracle Frost" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="180" end="190" text="05/19/2067" TYPE="DATE" comment="" />
+<AGE id="P6" start="192" end="193" text="6" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="204" end="221" text="418 Pargeter Lane" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="223" end="230" text="Dunmore" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="232" end="234" text="PA" TYPE="STATE" comment="" />
+<LOCATION id="P10" start="235" end="240" text="18512" TYPE="ZIP" comment="" />
+<ID id="P11" start="258" end="273" text="REF-2073-0619-A" TYPE="IDNUM" comment="" />
+<DATE id="P12" start="584" end="591" text="08/2072" TYPE="DATE" comment="" />
+<DATE id="P13" start="646" end="653" text="12/2070" TYPE="DATE" comment="" />
+<DATE id="P14" start="658" end="665" text="06/2072" TYPE="DATE" comment="" />
+<NAME id="P15" start="761" end="774" text="Justice Frost" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="776" end="788" text="570-555-0147" TYPE="PHONE" comment="" />
+<NAME id="P17" start="798" end="809" text="Royal Frost" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="843" end="854" text="Apple Frost" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="878" end="887" text="Thursdays" TYPE="DATE" comment="" />
+<NAME id="P20" start="909" end="914" text="Apple" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="949" end="954" text="Apple" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1066" end="1077" text="Story Finch" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1167" end="1180" text="Lake Armitage" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1207" end="1217" text="06/19/2073" TYPE="DATE" comment="" />
+<NAME id="P25" start="1229" end="1238" text="Hope Rich" TYPE="DOCTOR" comment="" />
+<ID id="P26" start="1249" end="1259" text="FC-0482913" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P27" start="1275" end="1284" text="larmitage" TYPE="USERNAME" comment="" />
+<CONTACT id="P28" start="1290" end="1300" text="10.20.4.71" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

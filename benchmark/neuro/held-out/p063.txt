@@ -1,0 +1,14 @@
+NEUROLOGY INPATIENT CONSULT
+{{FACILITY|Briarcliff Hollow Medical Center}} — {{DATE|07/07/2076}}
+{{NAME|Wilhelmina Strachey-Obuya}}, 72 F, MRN {{MRN|BHM-1103828}}
+Consultant: Dr. {{NAME|Augustin Weber}}, Neurology; resident Dr. {{NAME|Priyanka Iyer-Hollis}}
+
+Acute onset of double vision and right-sided weakness this morning. [[Atrial fibrillation]] not on anticoagulation (prior GI bleed).
+Exam: [[left oculomotor nerve palsy]] — complete [[ptosis]], eye [[down and out]], [[dilated non-reactive left pupil]] (pupil-involving); [[right hemiparesis]] face/arm/leg 3/5; [[right Babinski]]. No [[ataxia]], no [[tremor]] — so not [[Benedikt syndrome]] or [[Claude syndrome]].
+Impression: [[Weber syndrome]] — [[ventral midbrain]] infarct involving the [[oculomotor fascicles]] and the [[cerebral peduncle]]. (Note: the consultant, Dr. {{NAME|Weber}}, is not the eponym; please write "[[Weber syndrome (ventral midbrain syndrome)]]" in the problem list.)
+[[MRI DWI/ADC]]: acute infarct in the left [[cerebral peduncle]] and [[interpeduncular]] midbrain, territory of the [[paramedian branches of the PCA (P1)]]. [[MRA]]: left P1 irregularity. [[NIHSS 9]]. Outside the window for [[thrombolysis]]; no LVO.
+Plan: [[DOAC]] — [[apixaban 5 mg BID]] starting day 3-6 (moderate infarct) after GI review; [[left atrial appendage occlusion (Watchman)]] referral given bleed history; [[eye patch]] for diplopia; PT/OT.
+=====NOTE=====
+STROKE CLINIC — {{DATE|10/10/2076}} — {{NAME|W. Strachey-Obuya}} — {{MRN|BHM-1103828}}
+Seen by {{NAME|Rhiannon Ferreira-Tull}}, NP, and Dr. {{NAME|A. Weber}}
+[[Ptosis]] partial; [[adduction deficit]] improving; [[aberrant regeneration of CN III]] not seen. [[Right hemiparesis]] 4+/5; walking with cane. [[NIHSS 3]], [[mRS 2]]. On [[apixaban 5 mg BID]], no bleeding. [[Watchman FLX]] implanted by cardiology {{DATE|09/18/2076}} — continue apixaban 45 days then [[DAPT]] per protocol. [[Prism glasses]] for residual diplopia. Daughter {{NAME|Corinna Strachey}} {{EMAIL|c.strachey@example.com}}.

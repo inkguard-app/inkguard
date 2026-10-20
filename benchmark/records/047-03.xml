@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Kitsilano Family Practice       AFTER-VISIT SUMMARY
+For: Anand Takeda-Raman      Date of visit: March 13, 2071      Doctor: Dr. Marguerite Lachance
+Your 11 year old's visit today (Friday) was for: Sinusitis.
+
+What we talked about
+- Anand's sinus infection is still not completely gone. It is the same problem we saw on February 14.
+- He has been sleeping better but the cough continues.
+- Referral for dental care was made on March 6: Hollis Bay Dental Clinic, ph 604-555-0162. The dentist on the referral is Dr. Sunita Bhargava; hygienist Nolan Price. (Mr. Price is not a clinician in the ordinary sense - this is the hygienist.)
+
+Your medicines
+- Continue saline rinse twice a day
+- Continue nasal spray (Flonase)
+- Tylenol or Advil only if needed for fever or pain
+- STOP: Zyrtec was stopped; copied forward by mistake in the list below.
+Zyrtec 5 mg daily  &lt;- old
+Last visit copy: "Plan Augmentin, return in 4 weeks. Father Hiroshi will call Friday."
+
+Follow up
+- Check-up on March 20 (outpatient) and again 2071-03-27.
+- Call 604-555-0100 if fever over 39, severe headache, swelling around the eye.
+Questions: our nurse Beatrice Okoye, RN. Patient portal: https://portal.kitsfp.example username atakeda59.
+You can also page the on-call by dialling 604-555-0100 and saying "hope" - this is the on-call extension name (the word hope is just the code).
+Printed 2071-03-13 for ANAND TAKEDA-RAMAN.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="25" text="Kitsilano Family Practice" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="57" end="75" text="Anand Takeda-Raman" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="96" end="110" text="March 13, 2071" TYPE="DATE" comment="" />
+<NAME id="P3" start="128" end="147" text="Marguerite Lachance" TYPE="DOCTOR" comment="" />
+<AGE id="P4" start="153" end="155" text="11" TYPE="AGE" comment="" />
+<DATE id="P5" start="180" end="186" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P6" start="232" end="237" text="Anand" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="319" end="330" text="February 14" TYPE="DATE" comment="" />
+<DATE id="P8" start="426" end="433" text="March 6" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="435" end="459" text="Hollis Bay Dental Clinic" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P10" start="464" end="476" text="604-555-0162" TYPE="PHONE" comment="" />
+<NAME id="P11" start="513" end="528" text="Sunita Bhargava" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="540" end="551" text="Nolan Price" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="558" end="563" text="Price" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="927" end="934" text="Hiroshi" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="945" end="951" text="Friday" TYPE="DATE" comment="" />
+<DATE id="P16" start="979" end="987" text="March 20" TYPE="DATE" comment="" />
+<DATE id="P17" start="1011" end="1021" text="2071-03-27" TYPE="DATE" comment="" />
+<CONTACT id="P18" start="1030" end="1042" text="604-555-0100" TYPE="PHONE" comment="" />
+<NAME id="P19" start="1124" end="1138" text="Beatrice Okoye" TYPE="DOCTOR" comment="" />
+<CONTACT id="P20" start="1160" end="1189" text="https://portal.kitsfp.example" TYPE="URL" comment="" />
+<NAME id="P21" start="1199" end="1208" text="atakeda59" TYPE="USERNAME" comment="" />
+<DATE id="P22" start="1362" end="1372" text="2071-03-13" TYPE="DATE" comment="" />
+<NAME id="P23" start="1377" end="1395" text="ANAND TAKEDA-RAMAN" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CEDARMOOR REGIONAL HOSPITAL  -  DEPARTMENT OF RADIOLOGY
+RADIOLOGY REPORT
+Exam: Chest X-ray, 2 views (PA + lateral)
+Patient: WARD, LEGEND D      MRN: CR-5518203      Accession: RAD-61-118204
+DOB: 03/14/2031      Age: 30      Sex: M
+Date of exam: 5/11/61 02:15     Ordering: Dr. Hope Lindqvist (Cardiology)
+Location: ED, then moved up to Ward 6 East (pt is on the ward since the 11th)
+
+CLINICAL HISTORY
+- chronic CHF since 11/2055, increasing SOB, orthopnea x 3 days
+- no chest pain. weight 94.3 kg
+- last echo done ... (see chart), BNP pending
+- prior CXR 11/23/2057 for comparison (during the shock admission)
+
+FINDINGS
+- cardiomegaly, CTR approx 0.62
+- interstitial edema with Kerley B lines at both bases
+- small bilateral pleural effusions R &gt; L
+- no focal consolidation, no pneumothorax
+- no pnuemothorax confirmed on lat view
+- osseous structures unremarkable
+
+IMPRESSION
+1. Findings consistent w/ decompensated heart failure, interstitial edema.
+2. Small bilat effusions.
+3. No pneumonia.
+
+Mr. Ward was prone for the lateral so positioning was awkward; ward clerk called Lindqvist at x4417 w/ critical result.
+Dictated by Will Marchetti, MD on 05/11/2061; transcribed by voice recog ("Dr. Will Marshall-Eddy")
+Electronically signed by Will Marchetti MD 5/11/61 03:02  workstation 10.44.9.12  user wmarchetti
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="CEDARMOOR REGIONAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="46" end="55" text="RADIOLOGY" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="124" end="138" text="WARD, LEGEND D" TYPE="PATIENT" comment="" />
+<ID id="P3" start="149" end="159" text="CR-5518203" TYPE="MEDICALRECORD" comment="" />
+<ID id="P4" start="176" end="189" text="RAD-61-118204" TYPE="IDNUM" comment="" />
+<DATE id="P5" start="195" end="205" text="03/14/2031" TYPE="DATE" comment="" />
+<AGE id="P6" start="216" end="218" text="30" TYPE="AGE" comment="" />
+<DATE id="P7" start="245" end="252" text="5/11/61" TYPE="DATE" comment="" />
+<NAME id="P8" start="277" end="291" text="Hope Lindqvist" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="336" end="347" text="Ward 6 East" TYPE="ROOM" comment="" />
+<DATE id="P10" start="373" end="381" text="the 11th" TYPE="DATE" comment="" />
+<DATE id="P11" start="421" end="428" text="11/2055" TYPE="DATE" comment="" />
+<DATE id="P12" start="555" end="565" text="11/23/2057" TYPE="DATE" comment="" />
+<NAME id="P13" start="1000" end="1004" text="Ward" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1077" end="1086" text="Lindqvist" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="1090" end="1095" text="x4417" TYPE="PHONE" comment="" />
+<NAME id="P16" start="1128" end="1142" text="Will Marchetti" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1150" end="1160" text="05/11/2061" TYPE="DATE" comment="" />
+<NAME id="P18" start="1195" end="1213" text="Will Marshall-Eddy" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1241" end="1255" text="Will Marchetti" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1259" end="1266" text="5/11/61" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1286" end="1296" text="10.44.9.12" TYPE="IPADDR" comment="" />
+<NAME id="P22" start="1303" end="1313" text="wmarchetti" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

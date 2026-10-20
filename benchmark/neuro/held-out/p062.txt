@@ -1,0 +1,17 @@
+CODE STROKE — BASILAR OCCLUSION
+{{FACILITY|Northcastle Comprehensive Stroke Center}} — {{DATE|12/14/2063}} 03:12
+{{NAME|Josiah Rankin-Mbatha}}, 69 M, MRN {{MRN|NCS-5502991}}
+Stroke fellow Dr. {{NAME|Anneke Visser-Obi}}; neurointerventionalist Dr. {{NAME|Lucan Hargreave}}; ED RN {{NAME|Destiny Albright}}
+
+Wife found him at 02:20 with [[slurred speech]], [[vertigo]], [[diplopia]], then rapid decline. Last known well 23:30. Pre-stroke [[mRS 0]] (and, before you ask, he has heard of the [[modified Rankin Scale]]; it is not named after him).
+Arrival: [[GCS 9]], [[quadriparesis]] left greater than right, [[bilateral Babinski]], [[skew deviation]], [[pinpoint pupils]] reactive, [[ocular bobbing]] absent, [[NIHSS 26]]. Intubated for airway protection.
+[[NCCT]]: [[hyperdense basilar artery sign]], [[pc-ASPECTS 8]] (pons hypodensity). [[CTA]]: [[mid-basilar occlusion]] with distal reconstitution via [[posterior communicating arteries]] ([[BATMAN score]] 5). [[IV tenecteplase 0.25 mg/kg]] given at 03:24 (within 4.5 h of LKW).
+Proceed to [[endovascular thrombectomy]] per ATTENTION/BAOCHE data.
+=====NOTE=====
+THROMBECTOMY NOTE — {{DATE|12/14/2063}} — {{NAME|RANKIN-MBATHA, J.}} — {{MRN|NCS-5502991}}
+Operator Dr. {{NAME|L. Hargreave}}; [[Penumbra]] rep not present; tech {{NAME|Ruben Achterberg}}, RT(R)(VI).
+Right femoral 8F. [[Neuron MAX 088]] in the dominant left [[vertebral artery]]. [[Direct aspiration first-pass technique (ADAPT)]] with [[Penumbra RED 72 aspiration catheter]] — first pass, clot retrieved. Underlying [[intracranial atherosclerotic stenosis]] 70% at the mid-basilar with re-occlusion at 10 min → [[intra-arterial tirofiban]] bolus and [[balloon angioplasty]] with a [[Gateway 2.0 x 9 mm balloon]]. Final [[eTICI 2c]] / [[mTICI 2b]], [[AOL score 3]]. Onset-to-reperfusion 5 h 10 min.
+[[Tirofiban infusion]] 24 h, then [[aspirin]] + [[clopidogrel]].
+=====NOTE=====
+STROKE UNIT DAY 7 — {{DATE|12/21/2063}} — {{NAME|J. Rankin-Mbatha}}
+Extubated day 3. [[NIHSS 7]]: [[dysarthria]], [[left hemiparesis]] 4/5, [[right INO]], [[gait ataxia]]. MRI: scattered [[pontine]] and [[left cerebellar]] infarcts; no [[haemorrhagic transformation]]. [[Basilar stenosis]] residual 40% on [[CTA]]. [[DAPT]] 90 days (SAMMPRIS medical regimen), [[atorvastatin 80 mg]], LDL goal under 70 mg/dL, SBP under 140. Expected 90-day [[mRS 2-3]] — 90-day modified Rankin to be assessed by certified rater {{NAME|Coralie Dumont}}, RN. Rehab at {{FACILITY|Northcastle Rehabilitation Institute}}.

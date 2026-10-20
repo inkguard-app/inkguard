@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>note_id,mrn,pt_name,dob,enc_date,author,dept,note_type,text
+"E-40977","3305-9172","PIKE, JUNIPER","02/11/2049","10/05/2062","Simone Castellanos PA","Emergency Department","ED note","CC: cough x4d, worse tonight. 13 yo, prev 'F' in registration, pt introduced self as Jasper. Brought by step-dad Rudy Okonkwo, mom Delphine at work (Champlain Bakery Co-op, pager 5521). HPI: dry cough -&gt; productive, T 100.9 at home, no SOB. Hx: otitis media 2055, sinusitis 7/21/62, bronchitis dx 10/4. No asthma. No meds. NKDA per step-dad. Exam: wt 58.1 kg, T 37.9, HR 88, RR 18, SpO2 98%. Lungs scatered rhonchi, no wheeze. TM clear. CXR not done not indicated. Dx acute bronchitis. Rx acetaminophen 325 prn x1wk. rtn precautions. PHQ-9 deferred. Pt said his name is Jasper, step-dad says 'she' -- used 'they' for now, pls ask pt. Parking plate 7KRL482 blocked amb bay, step-dad paged x2. Patient portal https://myhealth-demo.example/portal/u/jpike_0449, ext x4417. Discharged 10/05/2062 01:30. Seen w/ Dr Gerard Ndlovu. Signed: S. Castellanos PA-C from 172.16.9.204."
+</TEXT>
+<TAGS>
+<ID id="P0" start="71" end="80" text="3305-9172" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="83" end="96" text="PIKE, JUNIPER" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="99" end="109" text="02/11/2049" TYPE="DATE" comment="" />
+<DATE id="P3" start="112" end="122" text="10/05/2062" TYPE="DATE" comment="" />
+<NAME id="P4" start="125" end="143" text="Simone Castellanos" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="149" end="169" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<AGE id="P6" start="212" end="214" text="13" TYPE="AGE" comment="" />
+<NAME id="P7" start="267" end="273" text="Jasper" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="295" end="307" text="Rudy Okonkwo" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="313" end="321" text="Delphine" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="331" end="353" text="Champlain Bakery Co-op" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P11" start="361" end="365" text="5521" TYPE="PHONE" comment="" />
+<DATE id="P12" start="440" end="444" text="2055" TYPE="DATE" comment="" />
+<DATE id="P13" start="456" end="463" text="7/21/62" TYPE="DATE" comment="" />
+<DATE id="P14" start="479" end="483" text="10/4" TYPE="DATE" comment="" />
+<ID id="P15" start="830" end="837" text="7KRL482" TYPE="VEHICLE" comment="" />
+<CONTACT id="P16" start="889" end="938" text="https://myhealth-demo.example/portal/u/jpike_0449" TYPE="URL" comment="" />
+<CONTACT id="P17" start="944" end="949" text="x4417" TYPE="PHONE" comment="" />
+<DATE id="P18" start="962" end="972" text="10/05/2062" TYPE="DATE" comment="" />
+<NAME id="P19" start="991" end="1004" text="Gerard Ndlovu" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1014" end="1028" text="S. Castellanos" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="1039" end="1051" text="172.16.9.204" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

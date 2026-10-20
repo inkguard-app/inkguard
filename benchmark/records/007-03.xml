@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY - OBSTETRICS            Champlain Valley Medical Center
+PATIENT: Cordelia Stand     MRN: ON-31-77450     DOB: 01/20/2036
+ADMISSION DATE: 11/20/2060     DISCHARGE DATE: 11/23/2060     LOCATION: L&amp;D 6 then Postpartum 3112
+ATTENDING: Dr. Soledad Marchetti     RESIDENT: Dr. Lakshmi Pillai
+
+DIAGNOSES: Term pregnancy, induction of labor. Left breast mass (fibroadenoma) followed by oncology (Dr. Abboud).
+
+BRIEF HISTORY: 24 yo woman presents on Saturday 11/20 through the ED for induction of labor at 39 wks. Prenatal course unremarkable apart from the breast mass, GBS negative (10/16/2060), Tdap given 08/21/2060.
+
+HOSPITAL COURSE: Medical induction of labor. Delivered a liveborn girl vaginally, no complications. Infant, charted as "BABY GIRL STRAND", band # I-60-4482, named Oriel Penhallow-Strand on 11/22 by parents (partner Reece Penhallow at bedside). Cord blood banking kit CB-KIT-077213 collected. Breast exam: left lump unchanged, no tenderness. Lactation nurse Bram Yoder RN set up pump rental S/N PUMP-S/N 2219-GM.
+
+DISCHARGE: Mother and baby stable. Rest at home with partner; her grandmother Agnes (age 94) sent a quilt.
+Medications at discharge: acetaminophen, prenatal vitamins. (drospirenone pill from 10/16/2057 still listed - stopped 10/11/2058, remove)
+FOLLOW UP: Postnatal visit in 6 weeks (booked 01/01/2061); oncology re-exam same week. Phone (802) 555-0147.
+Mother's home: 33 Millrace St Unit C Burlington VT 05401.
+Electronically signed S. Marchetti MD 11/23/2060 14:20
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="42" end="73" text="Champlain Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="83" end="97" text="Cordelia Stand" TYPE="PATIENT" comment="" />
+<ID id="P2" start="107" end="118" text="ON-31-77450" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="128" end="138" text="01/20/2036" TYPE="DATE" comment="" />
+<DATE id="P4" start="155" end="165" text="11/20/2060" TYPE="DATE" comment="" />
+<DATE id="P5" start="186" end="196" text="11/23/2060" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="211" end="216" text="L&amp;D 6" TYPE="ROOM" comment="" />
+<LOCATION id="P7" start="222" end="237" text="Postpartum 3112" TYPE="ROOM" comment="" />
+<NAME id="P8" start="253" end="270" text="Soledad Marchetti" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="289" end="303" text="Lakshmi Pillai" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="410" end="416" text="Abboud" TYPE="DOCTOR" comment="" />
+<AGE id="P11" start="435" end="437" text="24" TYPE="AGE" comment="" />
+<DATE id="P12" start="459" end="467" text="Saturday" TYPE="DATE" comment="" />
+<DATE id="P13" start="468" end="473" text="11/20" TYPE="DATE" comment="" />
+<DATE id="P14" start="594" end="604" text="10/16/2060" TYPE="DATE" comment="" />
+<DATE id="P15" start="618" end="628" text="08/21/2060" TYPE="DATE" comment="" />
+<NAME id="P16" start="751" end="767" text="BABY GIRL STRAND" TYPE="PATIENT" comment="" />
+<ID id="P17" start="777" end="786" text="I-60-4482" TYPE="IDNUM" comment="" />
+<NAME id="P18" start="794" end="816" text="Oriel Penhallow-Strand" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="820" end="825" text="11/22" TYPE="DATE" comment="" />
+<NAME id="P20" start="846" end="861" text="Reece Penhallow" TYPE="PATIENT" comment="" />
+<ID id="P21" start="898" end="911" text="CB-KIT-077213" TYPE="IDNUM" comment="" />
+<NAME id="P22" start="988" end="998" text="Bram Yoder" TYPE="DOCTOR" comment="" />
+<ID id="P23" start="1025" end="1041" text="PUMP-S/N 2219-GM" TYPE="DEVICE" comment="" />
+<NAME id="P24" start="1122" end="1127" text="Agnes" TYPE="PATIENT" comment="" />
+<AGE id="P25" start="1133" end="1135" text="94" TYPE="AGE" comment="" />
+<DATE id="P26" start="1235" end="1245" text="10/16/2057" TYPE="DATE" comment="" />
+<DATE id="P27" start="1269" end="1279" text="10/11/2058" TYPE="DATE" comment="" />
+<DATE id="P28" start="1335" end="1345" text="01/01/2061" TYPE="DATE" comment="" />
+<CONTACT id="P29" start="1382" end="1396" text="(802) 555-0147" TYPE="PHONE" comment="" />
+<LOCATION id="P30" start="1413" end="1427" text="33 Millrace St" TYPE="STREET" comment="" />
+<LOCATION id="P31" start="1435" end="1445" text="Burlington" TYPE="CITY" comment="" />
+<LOCATION id="P32" start="1449" end="1454" text="05401" TYPE="ZIP" comment="" />
+<NAME id="P33" start="1478" end="1490" text="S. Marchetti" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="1494" end="1504" text="11/23/2060" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

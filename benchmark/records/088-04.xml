@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE  /  PRONOUNCEMENT OF DEATH
+Hearthstone Hospice - home visit
+Patient: Almaz T. Gebreyes   Age: 76   DOB: 4/17/2006   MRN: 0612-884
+Date and time of death: Thursday, October 8, 2082, 05:40
+Pronounced by: Beatrix Lindqvist, RN (hospice), per protocol. Attending Fitzgerald Obuya notified at 06:05.
+
+I was called to the home at 1840 Delmar Boulevard, Apt 6C by the patient's daughter Rahel at 05:15 after her father noticed the breathing had changed. On arrival the patient was lying in the hospital bed in the living room, unresponsive, no respirations, no carotid pulse, no heart sounds for a full minute, pupils fixed and dilated, no response to voice or touch. Time of death 05:40. Family at bedside: husband Tekle Mehari (ninety two), daughter Rahel Mehari, grandchild Saba (age 9), and neighbour Eleanor Vance-Brody who had stayed the night. Son Daniel Mehari was en route from Seattle.
+
+This is a 76 year old woman with end stage chronic obstructive bronchitis; her last visit with us was a comfort visit earlier this week. Death was expected. No autopsy requested. Medical examiner not notified per hospice protocol. Body released to Calloway-Reese Funeral Home, contact Mr. Reese, at 314-555-0119, at 08:30. Medications from the comfort kit counted and destroyed with a witness, the daughter.
+
+Voicemail pasted by Rahel for our records (carrier auto transcription, lightly edited):
+  Caller: DANIEL MEHARI  (206) 555-0191   Oct 8  02:14 AM
+  "Hi it's Daniel, I'm at Sea-Tac gate C14, flight is delayed, tell mom I'm coming, tell her I love her, tell Abba I landed...  Almaz,  Mom, I'm almost there. Call me back."
+
+Death certificate: to be completed by Dr. Obuya; cause per the certifier. Registrar notified. Condolences given. Chaplain Fr. Anselm Teague called and arrived at 07:10.
+Wristband not applicable (home). Ring and prayer cord left with family. Her niece Selam Tesfaye (age 94) travelling from Asmara, Eritrea, will arrive Monday.
+
+Electronically signed by Beatrix Lindqvist, RN on 10/08/2082 09:12
+Note routed to: Fitzgerald Obuya; Thandiwe Mokoena; Bereavement Services
+Last edited by blindqvist from 10.8.14.2
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="38" end="57" text="Hearthstone Hospice" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="80" end="97" text="Almaz T. Gebreyes" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="105" end="107" text="76" TYPE="AGE" comment="" />
+<DATE id="P3" start="115" end="124" text="4/17/2006" TYPE="DATE" comment="" />
+<ID id="P4" start="132" end="140" text="0612-884" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="165" end="190" text="Thursday, October 8, 2082" TYPE="DATE" comment="" />
+<NAME id="P6" start="213" end="230" text="Beatrix Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="270" end="286" text="Fitzgerald Obuya" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="335" end="356" text="1840 Delmar Boulevard" TYPE="STREET" comment="" />
+<NAME id="P9" start="391" end="396" text="Rahel" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="720" end="732" text="Tekle Mehari" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="734" end="744" text="ninety two" TYPE="AGE" comment="" />
+<NAME id="P12" start="756" end="768" text="Rahel Mehari" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="781" end="785" text="Saba" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="791" end="792" text="9" TYPE="AGE" comment="" />
+<NAME id="P15" start="809" end="828" text="Eleanor Vance-Brody" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="859" end="872" text="Daniel Mehari" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="891" end="898" text="Seattle" TYPE="CITY" comment="" />
+<AGE id="P18" start="911" end="913" text="76" TYPE="AGE" comment="" />
+<LOCATION id="P19" start="1149" end="1176" text="Calloway-Reese Funeral Home" TYPE="ORGANIZATION" comment="" />
+<NAME id="P20" start="1186" end="1195" text="Mr. Reese" TYPE="PATIENT" comment="" />
+<CONTACT id="P21" start="1200" end="1212" text="314-555-0119" TYPE="PHONE" comment="" />
+<NAME id="P22" start="1408" end="1421" text="DANIEL MEHARI" TYPE="PATIENT" comment="" />
+<CONTACT id="P23" start="1423" end="1437" text="(206) 555-0191" TYPE="PHONE" comment="" />
+<DATE id="P24" start="1440" end="1445" text="Oct 8" TYPE="DATE" comment="" />
+<LOCATION id="P25" start="1482" end="1489" text="Sea-Tac" TYPE="LOCATION-OTHER" comment="" />
+<NAME id="P26" start="1566" end="1570" text="Abba" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1584" end="1589" text="Almaz" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1673" end="1678" text="Obuya" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1757" end="1770" text="Anselm Teague" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="1882" end="1895" text="Selam Tesfaye" TYPE="PATIENT" comment="" />
+<AGE id="P31" start="1901" end="1903" text="94" TYPE="AGE" comment="" />
+<LOCATION id="P32" start="1921" end="1927" text="Asmara" TYPE="CITY" comment="" />
+<LOCATION id="P33" start="1929" end="1936" text="Eritrea" TYPE="COUNTRY" comment="" />
+<DATE id="P34" start="1950" end="1956" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P35" start="1984" end="2001" text="Beatrix Lindqvist" TYPE="DOCTOR" comment="" />
+<DATE id="P36" start="2009" end="2019" text="10/08/2082" TYPE="DATE" comment="" />
+<NAME id="P37" start="2042" end="2058" text="Fitzgerald Obuya" TYPE="DOCTOR" comment="" />
+<NAME id="P38" start="2060" end="2076" text="Thandiwe Mokoena" TYPE="DOCTOR" comment="" />
+<LOCATION id="P39" start="2078" end="2098" text="Bereavement Services" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P40" start="2130" end="2139" text="10.8.14.2" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

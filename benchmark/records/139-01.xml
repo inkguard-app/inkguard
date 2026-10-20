@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>REFERRAL LETTER - BLOOD &amp; MARROW TRANSPLANT PROGRAM
+
+Cobalt Ridge Cancer Center - Hematology / Oncology
+410 Alder Street, Suite 5, Greenville, SC 29601    Tel (864) 555-0120    Fax (864) 555-0121
+
+March 10, 2088
+
+To: Transplant Coordinator, Piedmont Marrow Institute
+Re: Juniper K. Early, DOB 02/19/2023, MRN CR-771204
+
+Dear Colleagues,
+
+- Thank you for seeing this 65 year old woman with multiple myeloma (diagnosed December 2087, admitted 12/30/2087) for evaluation for autologous stem cell transplant.
+- Response to induction: very good partial response, per our last review.
+- PMH: ischemic heart disease with stent January 2073 (on clopidogrel, metoprolol, simvastatin), prediabetes, long-standing anaemia (on iron since 2051), obesity, a miscarriage in 2045.
+- She is a widow. Her husband Will Early died in 2084. She goes by "June" and bristles at "Mrs. Early" - she says "early is what I never am, I am always late" (her joke, not a typo).
+- Daughter Nova Early-Pike is the main support and drives; son Twelve Early (legal name Alexander Early, "Twelve" since high school football) lives in Denver, CO.
+- Dental clearance outstanding (tooth loss April 2083), seen by Dr. Halo Brandt.
+
+Dear Dr. [NAME]: [template - never replaced]
+
+Could you also advise on housing: she rents from Mr. Tolliver (Tolliver Properties) and he wants a note re: the stairs.
+
+With thanks,
+
+Tre Vasquez, MD
+Medical Oncology, Cobalt Ridge Cancer Center
+Electronically signed 03/10/2088 17:42    cc: Apple Nakamura, RN navigator, fax (864) 555-0133
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="53" end="79" text="Cobalt Ridge Cancer Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="82" end="103" text="Hematology / Oncology" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="104" end="120" text="410 Alder Street" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="131" end="141" text="Greenville" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="143" end="145" text="SC" TYPE="STATE" comment="" />
+<LOCATION id="P5" start="146" end="151" text="29601" TYPE="ZIP" comment="" />
+<CONTACT id="P6" start="159" end="173" text="(864) 555-0120" TYPE="PHONE" comment="" />
+<CONTACT id="P7" start="181" end="195" text="(864) 555-0121" TYPE="FAX" comment="" />
+<DATE id="P8" start="197" end="211" text="March 10, 2088" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="241" end="266" text="Piedmont Marrow Institute" TYPE="ORGANIZATION" comment="" />
+<NAME id="P10" start="271" end="287" text="Juniper K. Early" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="293" end="303" text="02/19/2023" TYPE="DATE" comment="" />
+<ID id="P12" start="309" end="318" text="CR-771204" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P13" start="366" end="368" text="65" TYPE="AGE" comment="" />
+<DATE id="P14" start="417" end="430" text="December 2087" TYPE="DATE" comment="" />
+<DATE id="P15" start="441" end="451" text="12/30/2087" TYPE="DATE" comment="" />
+<DATE id="P16" start="620" end="632" text="January 2073" TYPE="DATE" comment="" />
+<DATE id="P17" start="726" end="730" text="2051" TYPE="DATE" comment="" />
+<DATE id="P18" start="759" end="763" text="2045" TYPE="DATE" comment="" />
+<NAME id="P19" start="795" end="805" text="Will Early" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="814" end="818" text="2084" TYPE="DATE" comment="" />
+<NAME id="P21" start="833" end="837" text="June" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="861" end="866" text="Early" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="959" end="974" text="Nova Early-Pike" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1011" end="1023" text="Twelve Early" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1036" end="1051" text="Alexander Early" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="1099" end="1105" text="Denver" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="1107" end="1109" text="CO" TYPE="STATE" comment="" />
+<DATE id="P28" start="1154" end="1164" text="April 2083" TYPE="DATE" comment="" />
+<NAME id="P29" start="1175" end="1190" text="Dr. Halo Brandt" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="1288" end="1300" text="Mr. Tolliver" TYPE="PATIENT" comment="" />
+<LOCATION id="P31" start="1302" end="1321" text="Tolliver Properties" TYPE="ORGANIZATION" comment="" />
+<NAME id="P32" start="1374" end="1385" text="Tre Vasquez" TYPE="DOCTOR" comment="" />
+<LOCATION id="P33" start="1408" end="1434" text="Cobalt Ridge Cancer Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P34" start="1457" end="1467" text="03/10/2088" TYPE="DATE" comment="" />
+<NAME id="P35" start="1481" end="1495" text="Apple Nakamura" TYPE="DOCTOR" comment="" />
+<CONTACT id="P36" start="1515" end="1529" text="(864) 555-0133" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

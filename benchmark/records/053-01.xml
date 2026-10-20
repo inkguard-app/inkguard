@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE - Dental - Sunrise Dental Collaborative
+Date of consult: 04/13/2057   Referring: Dr. Anneliese Okafor, Kern Valley Community Health
+Patient: Marisol Rudd (also on referral as Marisol Quintanilla)   DOB 08/14/2016   MRN 0053-7716
+
+Reason: Referral by PCP for dental care. Patient is 40 years old woman, she have missing teeth since 2051 and now pain on chewing.
+
+History: She tell me she lost the teeth "after an accident", but in the referral is written loss of teeth disorder from 07/07/2051, no accident. I do not insist. She say her birthday is 14 August 2015 here in my form, in the chart is 2016, we use the chart.
+She is, how to say, in transition of life: she left a relationship with Mr. Dale Rudd in 2057 and now living with her sister Yesenia Quintanilla (sometimes writen Yessenia) at 310 Cottonwood Ave, Delano, CA 93215. She feel safe now. I give resources, she decline for now. Phone (661) 555-0117 is the sister, patient have no phone.
+Previous work Valle Dorado Packing Co until June 2054, not working now.
+PMH per PCP: obesity, hx miscarriage 2042, tubal ligation (patient deny the tubal, say "never"). Neck injury 2053 car, whiplash. Tylenol only, no alergies.
+Exam: multiple missing upper molars, gingiva with inflammation, no abscess. Examination of gingivae done. Im thinking partial vs full denture, impressions need after healing.
+Plan: cleaning, then impression. Return in 2 weeks. Doctor of Prosthodontics will see.
+
+Dr. Rafael Souza DDS
+Page 1 of 1  -  RUDD, MARISOL  -  MRN 0053-7716
+Electronically signed by R. Souza on 4/13/57 17:05
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="15" end="21" text="Dental" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P1" start="24" end="52" text="Sunrise Dental Collaborative" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="70" end="80" text="04/13/2057" TYPE="DATE" comment="" />
+<NAME id="P3" start="98" end="114" text="Anneliese Okafor" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="116" end="144" text="Kern Valley Community Health" TYPE="HOSPITAL" comment="" />
+<NAME id="P5" start="154" end="166" text="Marisol Rudd" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="188" end="207" text="Marisol Quintanilla" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="215" end="225" text="08/14/2016" TYPE="DATE" comment="" />
+<ID id="P8" start="232" end="241" text="0053-7716" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P9" start="295" end="297" text="40" TYPE="AGE" comment="" />
+<DATE id="P10" start="344" end="348" text="2051" TYPE="DATE" comment="" />
+<DATE id="P11" start="495" end="505" text="07/07/2051" TYPE="DATE" comment="" />
+<DATE id="P12" start="561" end="575" text="14 August 2015" TYPE="DATE" comment="" />
+<NAME id="P13" start="709" end="718" text="Dale Rudd" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="722" end="726" text="2057" TYPE="DATE" comment="" />
+<NAME id="P15" start="758" end="777" text="Yesenia Quintanilla" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="809" end="827" text="310 Cottonwood Ave" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="829" end="835" text="Delano" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="837" end="839" text="CA" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="840" end="845" text="93215" TYPE="ZIP" comment="" />
+<CONTACT id="P20" start="911" end="925" text="(661) 555-0117" TYPE="PHONE" comment="" />
+<LOCATION id="P21" start="978" end="1001" text="Valle Dorado Packing Co" TYPE="ORGANIZATION" comment="" />
+<DATE id="P22" start="1008" end="1017" text="June 2054" TYPE="DATE" comment="" />
+<DATE id="P23" start="1073" end="1077" text="2042" TYPE="DATE" comment="" />
+<DATE id="P24" start="1145" end="1149" text="2053" TYPE="DATE" comment="" />
+<LOCATION id="P25" start="1429" end="1443" text="Prosthodontics" TYPE="DEPARTMENT" comment="" />
+<NAME id="P26" start="1459" end="1471" text="Rafael Souza" TYPE="DOCTOR" comment="" />
+<ID id="P27" start="1514" end="1523" text="0053-7716" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P28" start="1549" end="1557" text="R. Souza" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1561" end="1568" text="4/13/57" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

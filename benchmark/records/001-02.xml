@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE   02/24/2091  0915
+Pt: Brena Kowalczyk-Aldous  MRN 4471-0829   Allergies: Brenna Kowalczyk-Aldous
+Emergency contact: SAME
+
+Pt in for urine preg test, referred by Dr. Nwachukwu. UPT +. Pt tearful/happy, hx prior losses. US for fetal viability done same day, tech Lamar Fitch, result to MD. BP 134/84 HR 78 afebrile. Pt still has cough from sinus infxn but no fever. LMP per pt aprox 6 wks. Hx anxiety. Gave info sheet on early preg warning signs (bleeding, cramping, 1 sided pain). Pt hx tubal pregnancy 12/2082 so told to go to ED if 1-sided pain. States understands. Sister Renata Pruitt driving her home.
+
+&gt;&gt;&gt; 
+02/19/2091 1400 TRIAGE RN NOTE - BRENNA KOWALCZYK-ALDOUS
+c/o nasal congestion, facial pressure x 4d, no fever. Dx viral sinusitis per Dr Nwachukwu. Sx care, saline, fluids. Not on any contracept now (IUD out 1/6/2091). Pls call w/ any worse.
+Signed Colleen Abernathy RN 02/19/2091 14:22
+
+*** ALERT BANNER (pasted) ***
+DO NOT DISCLOSE LOCATION OR APPTS. Protective order, case 2083-DR-04471, resp: Dale Aldous, works nights at Tessaly Freight Depot. Call (937) 555-0163 only, no VM details.
+
+Pt next visit 3 wks. Signed C. Abernathy RN
+</TEXT>
+<TAGS>
+<DATE id="P0" start="15" end="25" text="02/24/2091" TYPE="DATE" comment="" />
+<NAME id="P1" start="36" end="58" text="Brena Kowalczyk-Aldous" TYPE="PATIENT" comment="" />
+<ID id="P2" start="64" end="73" text="4471-0829" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="87" end="110" text="Brenna Kowalczyk-Aldous" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="179" end="188" text="Nwachukwu" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="275" end="286" text="Lamar Fitch" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="516" end="523" text="12/2082" TYPE="DATE" comment="" />
+<NAME id="P7" start="588" end="601" text="Renata Pruitt" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="626" end="636" text="02/19/2091" TYPE="DATE" comment="" />
+<NAME id="P9" start="659" end="682" text="BRENNA KOWALCZYK-ALDOUS" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="760" end="772" text="Dr Nwachukwu" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="834" end="842" text="1/6/2091" TYPE="DATE" comment="" />
+<NAME id="P12" start="875" end="892" text="Colleen Abernathy" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="896" end="906" text="02/19/2091" TYPE="DATE" comment="" />
+<ID id="P14" start="1002" end="1015" text="2083-DR-04471" TYPE="IDNUM" comment="" />
+<NAME id="P15" start="1023" end="1034" text="Dale Aldous" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="1052" end="1073" text="Tessaly Freight Depot" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P17" start="1080" end="1094" text="(937) 555-0163" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1145" end="1157" text="C. Abernathy" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

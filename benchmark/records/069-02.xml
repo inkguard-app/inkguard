@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|note_type|author|dept|text
+88340|CONSULT NOTE - ORAL SURGERY|Siti Rahayu DDS|Riverbend Oral Surgery Clinic|
+Requested by ED. FROST, DELPHINE  07/08/2085  37F.
+Reason: Loss of teeth, resorption of alveolar process due to dental trauma. She told Dr Yilmaz before: stairs. Today she say, "i dont remember".
+Exam: missing 2 front teeth lower, bone loss, wound healing. Abscess drained last week OK. Plan extraction/revision 07/29 (visit scheduled) and implant discussion later.
+Patient is shy and sometimes call me "Doctor Dee" - no, she is Dee, I am Dr Rahayu (dictation error: this is the patient's nickname, not mine).
+Her husband's Friday message for appointment: we do not release info. Frost's file flagged.
+Said her work at Inland Print &amp; Copy pays little, no money for implants.
+Sign-off: S. Rahayu
+</TEXT>
+<TAGS>
+<NAME id="P0" start="68" end="79" text="Siti Rahayu" TYPE="DOCTOR" comment="" />
+<LOCATION id="P1" start="84" end="113" text="Riverbend Oral Surgery Clinic" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="132" end="147" text="FROST, DELPHINE" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="149" end="159" text="07/08/2085" TYPE="DATE" comment="" />
+<AGE id="P4" start="161" end="163" text="37" TYPE="AGE" comment="" />
+<NAME id="P5" start="254" end="260" text="Yilmaz" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="427" end="432" text="07/29" TYPE="DATE" comment="" />
+<NAME id="P7" start="526" end="529" text="Dee" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="544" end="547" text="Dee" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="557" end="563" text="Rahayu" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="639" end="645" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P11" start="695" end="700" text="Frost" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="734" end="753" text="Inland Print &amp; Copy" TYPE="ORGANIZATION" comment="" />
+<NAME id="P13" start="800" end="809" text="S. Rahayu" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

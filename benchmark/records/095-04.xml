@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL - ED         Greater Riverside Medical Center Emergency Department
+Arrival: 3/21/62 23:10, last Thursday per family?? (it was a Saturday)
+Name: Justice Mensah    DOB: 09/22/1972    Age: 89    MRN: GR-0477123
+ED attending: Juno Amankwah, MD     RN: Charity Owusu
+CC: weakness, vomiting, decreased urine x 4 days
+HPI (copied forward from 12/26/2057): "Hx kidney transplant, tacrolimus ER. Doing well. Creatinine 1.2." [STALE - see below]
+Now: 89M, transplant 12/26/2057, graft failure over last yr, now ESRD again. Dialysis declined. Family: wife Mercy (88), son Prince, dtr Gifty, grandson Sky (age ten, calls him "Grandpa Justice"). Pt says: "Justice has been served" (joke).
+PMH: STEMI 2017, CABG 2045, DM2, CKD -&gt; ESRD, gout, hyperlipidemia, OA hands, anemia, obesity.
+Meds on arrival: aspirin 81, metoprolol succ 100, simvastatin 20, NTG spray, naproxen (!) 220.
+Exam: cachectic-looking, drowsy but oriented. BP 134/102, afebrile, K 6.8. Asterixis. 
+A/P: ESRD with uremia, hyperkalemia. Discussed goals: no dialysis. Comfort focused. Transfer to Harbor Light Hospice (inpatient unit). Pastor Lucky Okine called by wife.
+Code status: DNR/DNI signed 03/22/2062.
+Pt phone (410) 555-0198. Wife prefers calls from the 14th onward, not before (church).
+Signed Juno Amankwah 3/22/62 01:30
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="34" end="66" text="Greater Riverside Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="67" end="87" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="97" end="104" text="3/21/62" TYPE="DATE" comment="" />
+<DATE id="P3" start="117" end="125" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P4" start="149" end="157" text="Saturday" TYPE="DATE" comment="" />
+<NAME id="P5" start="165" end="179" text="Justice Mensah" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="188" end="198" text="09/22/1972" TYPE="DATE" comment="" />
+<AGE id="P7" start="207" end="209" text="89" TYPE="AGE" comment="" />
+<ID id="P8" start="218" end="228" text="GR-0477123" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="243" end="256" text="Juno Amankwah" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="269" end="282" text="Charity Owusu" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="357" end="367" text="12/26/2057" TYPE="DATE" comment="" />
+<AGE id="P12" start="462" end="464" text="89" TYPE="AGE" comment="" />
+<DATE id="P13" start="478" end="488" text="12/26/2057" TYPE="DATE" comment="" />
+<NAME id="P14" start="566" end="571" text="Mercy" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="573" end="575" text="88" TYPE="AGE" comment="" />
+<NAME id="P16" start="582" end="588" text="Prince" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="594" end="599" text="Gifty" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="610" end="613" text="Sky" TYPE="PATIENT" comment="" />
+<AGE id="P19" start="619" end="622" text="ten" TYPE="AGE" comment="" />
+<NAME id="P20" start="643" end="650" text="Justice" TYPE="PATIENT" comment="" />
+<DATE id="P21" start="708" end="712" text="2017" TYPE="DATE" comment="" />
+<DATE id="P22" start="719" end="723" text="2045" TYPE="DATE" comment="" />
+<LOCATION id="P23" start="1070" end="1090" text="Harbor Light Hospice" TYPE="ORGANIZATION" comment="" />
+<NAME id="P24" start="1116" end="1127" text="Lucky Okine" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="1172" end="1182" text="03/22/2062" TYPE="DATE" comment="" />
+<CONTACT id="P26" start="1193" end="1207" text="(410) 555-0198" TYPE="PHONE" comment="" />
+<DATE id="P27" start="1233" end="1241" text="the 14th" TYPE="DATE" comment="" />
+<NAME id="P28" start="1278" end="1291" text="Juno Amankwah" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1292" end="1299" text="3/22/62" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

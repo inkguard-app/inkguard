@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER-VISIT SUMMARY - 03/05/2082
+Name: Winifred Bright     DOB 02/09/2003
+Your doctor today: Dr. Oyelaran
+
+Hello Ms. Brite!  What we did today:
+ * anxiety and depression questionnaires (your anxiety score was 7)
+ * your A1c was 5.8, great, still pre-diabetic range
+ * dental referral: we will send it to your dentist
+ * Please keep your Thursday counseling
+
+If you have questions call (802) 555-0120 ext. 2290, or the portal https://portal.gmcancer.example/wbright.
+Bring Story or Desmond next time if you like.
+Your sister Opal Fenn called to say hi. 
+Service you received: wellness exam. Provider: Beatrix Lindgren-Shah
+</TEXT>
+<TAGS>
+<DATE id="P0" start="22" end="32" text="03/05/2082" TYPE="DATE" comment="" />
+<NAME id="P1" start="39" end="54" text="Winifred Bright" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="63" end="73" text="02/09/2003" TYPE="DATE" comment="" />
+<NAME id="P3" start="93" end="105" text="Dr. Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="117" end="122" text="Brite" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="337" end="345" text="Thursday" TYPE="DATE" comment="" />
+<CONTACT id="P6" start="385" end="399" text="(802) 555-0120" TYPE="PHONE" comment="" />
+<CONTACT id="P7" start="425" end="464" text="https://portal.gmcancer.example/wbright" TYPE="URL" comment="" />
+<NAME id="P8" start="472" end="477" text="Story" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="481" end="488" text="Desmond" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="524" end="533" text="Opal Fenn" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="600" end="621" text="Beatrix Lindgren-Shah" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

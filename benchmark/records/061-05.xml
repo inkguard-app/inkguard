@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER-VISIT SUMMARY
+Green Mountain Primary Care                    Visit March 22, 2083
+Name: Theo Marlowe                         DOB: 07/30/2043   Age: 39
+Doctor: Chidinma Eze, MD                 Nurse: Kimberly Soto
+
+Dear Mr. Marlowe,
+
+Thanks you for come today. This is the summary.
+
+- Weight 90.4 kg. This is more than before (March 2082 88.9), please look the food and walking.
+- Blood pressure top number 138, better than last year (150).
+- Cholesterol total 127, LDL 41 - very good.
+- Anxiety score 3 - much better than 2081, when was 18. Depression screen done, ok. Social needs checked.
+- You told me you have no pain now, but last year you said back pain every day. If pain return tell us.
+
+Your plan:
+1. Come yearly. Next wellness visit around March 2084.
+2. Dental: last cleaning 03/2081. Please go again.
+3. If you move to Rutland send us the new address and we transfer the records. We have still the old address 62 Quarry Hill Road Unit B, Burlington, VT 05401 and the phone (802) 555-0136. 
+4. Your grandmother Consuelo is welcome to come, she is 94 now? (we put 95 before, sorry)
+
+This is the last visit on record. Next appointment: not scheduled.
+
+Electronically signed by Chidinma Eze, MD    03/22/2083 15:03
+Dear [PATIENT], Dear Mrs Marlowe-Ruiz  &lt;-- template left over
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="47" text="Green Mountain Primary Care" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="73" end="87" text="March 22, 2083" TYPE="DATE" comment="" />
+<NAME id="P2" start="94" end="106" text="Theo Marlowe" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="136" end="146" text="07/30/2043" TYPE="DATE" comment="" />
+<AGE id="P4" start="154" end="156" text="39" TYPE="AGE" comment="" />
+<NAME id="P5" start="165" end="177" text="Chidinma Eze" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="205" end="218" text="Kimberly Soto" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="229" end="236" text="Marlowe" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="332" end="342" text="March 2082" TYPE="DATE" comment="" />
+<DATE id="P9" start="528" end="532" text="2081" TYPE="DATE" comment="" />
+<DATE id="P10" start="756" end="766" text="March 2084" TYPE="DATE" comment="" />
+<DATE id="P11" start="793" end="800" text="03/2081" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="837" end="844" text="Rutland" TYPE="CITY" comment="" />
+<LOCATION id="P13" start="928" end="954" text="62 Quarry Hill Road Unit B" TYPE="STREET" comment="" />
+<LOCATION id="P14" start="956" end="966" text="Burlington" TYPE="CITY" comment="" />
+<LOCATION id="P15" start="968" end="970" text="VT" TYPE="STATE" comment="" />
+<LOCATION id="P16" start="971" end="976" text="05401" TYPE="ZIP" comment="" />
+<CONTACT id="P17" start="991" end="1005" text="(802) 555-0136" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1028" end="1036" text="Consuelo" TYPE="PATIENT" comment="" />
+<AGE id="P19" start="1064" end="1066" text="94" TYPE="AGE" comment="" />
+<AGE id="P20" start="1080" end="1082" text="95" TYPE="AGE" comment="" />
+<NAME id="P21" start="1192" end="1204" text="Chidinma Eze" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1212" end="1222" text="03/22/2083" TYPE="DATE" comment="" />
+<NAME id="P23" start="1254" end="1266" text="Marlowe-Ruiz" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

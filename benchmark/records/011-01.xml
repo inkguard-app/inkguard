@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ST ODHRAN'S REGIONAL HOSPITAL - EMERGENCY DEPARTMENT
+Name: KOWALCZYK-BRENNAN, Aoife Zofia     DOB: 17/02/2024     Age: 48
+MRN: STO-5520-8841     PPS: 7340192TA     Date of attendance: 03/11/2072 (dd/mm/yyyy)
+Triage 04:12 -&gt; seen by Dr Declan Fahy (obs reg) 04:25
+
+- Presenting: 39/40 48-yr-old G2P1, severe headache x 6 h, flashing lights, epigastric pain. Known pre-eclampsia since 15/09/2072, on labetalol (hmm, pharmacist says NOT on any antihypertensive - to reconcile)
+- Brought in by husband Cathal Brennan, ph +353 86 555 0148
+- BP 168/112, repeat 172/110. Urine protein 3+. Hyperreflexia, clonus not elicited
+- NOT HELLP on first bloods (plts normal) - repeat in 4 h
+- PMH: chronic sinusitis, prediabetes, anxiety (resolved), obesity. FHx: father Zbigniew has Parkinson's disease; sister Magda had Hodgkin lymphoma, in remission; husband had Bell's palsy 2069
+- Meds on arrival (self-report, NOT yet verified): Yaz stopped 12/2073?? no - that was later. none current. Paracetamol prn
+- Allergies: NKDA
+- Pharmacy: Hazel Rowan MPSI, Rowan's Pharmacy, dispensing hx requested - patient says "Rowan is a nice name for a pharmacist, i go to her"
+
+Plan
+- MgSO4 loading dose 4 g IV over 20 min then 1 g/h
+- Labetalol IV per protocol
+- Obstetric reg Dr Fahy -&gt; emergency LSCS decided 05:10, Pfannenstiel
+- Apgar 8 and 9, baby girl 3.1 kg, named Saoirse (Sersha on wristband! spelling error, corrected)
+- Paeds attending, husband informed
+Signed: Declan Fahy  03/11/2072  06:02       Page 1 of 1
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="29" text="ST ODHRAN'S REGIONAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="52" text="EMERGENCY DEPARTMENT" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="59" end="89" text="KOWALCZYK-BRENNAN, Aoife Zofia" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="99" end="109" text="17/02/2024" TYPE="DATE" comment="" />
+<AGE id="P4" start="119" end="121" text="48" TYPE="AGE" comment="" />
+<ID id="P5" start="127" end="140" text="STO-5520-8841" TYPE="MEDICALRECORD" comment="" />
+<ID id="P6" start="150" end="159" text="7340192TA" TYPE="IDNUM" comment="" />
+<DATE id="P7" start="184" end="194" text="03/11/2072" TYPE="DATE" comment="" />
+<NAME id="P8" start="232" end="246" text="Dr Declan Fahy" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="284" end="286" text="48" TYPE="AGE" comment="" />
+<DATE id="P10" start="383" end="393" text="15/09/2072" TYPE="DATE" comment="" />
+<NAME id="P11" start="498" end="512" text="Cathal Brennan" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="517" end="533" text="+353 86 555 0148" TYPE="PHONE" comment="" />
+<NAME id="P13" start="755" end="763" text="Zbigniew" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="796" end="801" text="Magda" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="863" end="867" text="2069" TYPE="DATE" comment="" />
+<DATE id="P16" start="931" end="938" text="12/2073" TYPE="DATE" comment="" />
+<NAME id="P17" start="1022" end="1033" text="Hazel Rowan" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="1040" end="1056" text="Rowan's Pharmacy" TYPE="ORGANIZATION" comment="" />
+<NAME id="P19" start="1098" end="1103" text="Rowan" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1251" end="1258" text="Dr Fahy" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1346" end="1353" text="Saoirse" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1355" end="1361" text="Sersha" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1447" end="1458" text="Declan Fahy" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1460" end="1470" text="03/11/2072" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB / RESULT COMMENT TO PATIENT
+To: Mr. Yanis Pappas      Date: 09/14/2092
+Dear Mr Pappas,
+Re BP log + visit 09/10/2092: SBP 94 (home 85-99 last 2 wks). Low, on furosemide 40. Not hodgkin, not any cancer - just CHF progressing. Do NOT take Advil/Aleve/naproxen. Fatigue and dizzy on standing = orthostasis, rise slowly. Weight daily, call if +2 lb in a day.
+Labs: nothing new, WBC ok. Echo pending. Pls come in Mon 9/14 &lt;-- i mean Mon 9/21. 
+Paget disease of bone NOT a concern per ref, ignore other pt's result in your portal (shows Paget? - system error).
+Mr. Story (neighbour) rang re. your health: we cannot discuss w/o consent. Story of why you are dizzy: dehydration + diuretic. 
+Your sister Eleftheria Papadopoulos phoned from Thessaloniki, Greece (+30 2310 555 014), also not on consent form.
+F. McAllister MD   Citadel Fam Pract   (902) 555-0123
+cc: Dr Ewan Gillis (locum) -&gt; NOT the right Dr, pls disregard
+</TEXT>
+<TAGS>
+<NAME id="P0" start="36" end="52" text="Mr. Yanis Pappas" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="64" end="74" text="09/14/2092" TYPE="DATE" comment="" />
+<NAME id="P2" start="83" end="89" text="Pappas" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="109" end="119" text="09/10/2092" TYPE="DATE" comment="" />
+<DATE id="P4" start="411" end="419" text="Mon 9/14" TYPE="DATE" comment="" />
+<DATE id="P5" start="431" end="439" text="Mon 9/21" TYPE="DATE" comment="" />
+<NAME id="P6" start="534" end="539" text="Paget" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="562" end="567" text="Story" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="698" end="721" text="Eleftheria Papadopoulos" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="734" end="746" text="Thessaloniki" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="748" end="754" text="Greece" TYPE="COUNTRY" comment="" />
+<CONTACT id="P11" start="756" end="772" text="+30 2310 555 014" TYPE="PHONE" comment="" />
+<NAME id="P12" start="801" end="814" text="F. McAllister" TYPE="DOCTOR" comment="" />
+<CONTACT id="P13" start="840" end="854" text="(902) 555-0123" TYPE="PHONE" comment="" />
+<NAME id="P14" start="862" end="873" text="Ewan Gillis" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

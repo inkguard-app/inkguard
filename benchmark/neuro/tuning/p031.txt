@@ -1,0 +1,27 @@
+HAND / PERIPHERAL NERVE CLINIC — WORKERS' COMPENSATION
+{{FACILITY|Stonebridge Hand and Nerve Center}}
+Patient: {{NAME|Wendell Phalen-Royce}}   MRN {{MRN|SHN-4410927}}   Visit {{DATE|01/17/2066}}
+Employer: {{ORG|Cardinal Lift Logistics}}   Carrier: {{ORG|Northgate Mutual Workers' Comp Claims}}   Claim no. {{ID|WC-66-0019284}}
+History obtained by {{NAME|Priscilla Mahmoud}}, PA-C
+
+52 M forklift operator, 8 months of bilateral hand numbness in the thumb, index and middle fingers, waking him at night (relieved by shaking the hands — [[flick sign]]), worse on the right. Dropping objects. Attributes to repetitive vibration at work.
+
+Exam: [[Tinel sign at the carpal tunnel]] positive bilaterally. [[Phalen test]] positive at 25 s right, 40 s left (Mr. {{NAME|Phalen-Royce}} was amused his own name is on the manoeuvre). [[Durkan carpal compression test]] positive right. [[Thenar atrophy]] mild right, [[abductor pollicis brevis]] 4/5 right. [[Two-point discrimination]] 7 mm index finger right. [[Spurling test]] negative; [[cervical radiculopathy]] unlikely. [[Froment sign]] negative, [[Tinel at the cubital tunnel]] negative.
+
+[[EMG/NCS]] (PM&R electrodiagnostic lab): right [[median distal motor latency]] 6.2 ms (prolonged), [[median sensory nerve action potential]] absent across the wrist, [[median-ulnar palmar mixed latency difference]] 0.9 ms left; [[fibrillation potentials]] in right APB. Impression: severe right, moderate left [[carpal tunnel syndrome]]. No [[ulnar neuropathy]], no [[C6-C7 radiculopathy]]. [[Boston Carpal Tunnel Questionnaire]] symptom severity 3.6.
+
+Plan: right [[open carpal tunnel release]], left [[night wrist splint in neutral]] and [[corticosteroid injection]]. Work status: modified duty, no vibrating tools, no lifting over 10 lb with the right hand. [[ICD-10 G56.01]] and [[G56.02]]. [[CPT 64721]] requested.
+Attending: Dr. {{NAME|Severin Holtzclaw}}
+=====NOTE=====
+OPERATIVE NOTE — RIGHT OPEN CARPAL TUNNEL RELEASE — {{DATE|02/08/2066}}
+{{NAME|PHALEN-ROYCE, WENDELL}} {{MRN|SHN-4410927}}
+Surgeon {{NAME|S. Holtzclaw}}; assistant {{NAME|P. Mahmoud}}, PA-C
+[[WALANT]] ([[lidocaine 1% with epinephrine 1:100,000]], 20 mL), no tourniquet. Longitudinal incision in line with the radial border of the ring finger, distal to the [[Kaplan cardinal line]]. [[Palmar fascia]] divided, [[transverse carpal ligament]] released completely under direct vision from distal to proximal, including the distal [[antebrachial fascia]]. [[Median nerve]] hourglass constriction and hyperaemia noted; [[recurrent motor branch]] identified, [[extraligamentous]], preserved. [[Palmar cutaneous branch]] protected. No [[tenosynovectomy]]. Skin closed with [[4-0 nylon horizontal mattress]]. Soft dressing. [[Two-point discrimination]] to be rechecked; [[nerve gliding exercises]] and [[scar massage]] from week 2. [[ICD-10 G56.01]].
+[[CPT 64721]]. Patient tolerated well; active finger motion demonstrated intraoperatively.
+=====NOTE=====
+WORK STATUS / IME RESPONSE — {{DATE|04/19/2066}}
+To: {{NAME|Garrison Lytle}}, claims adjuster, {{ORG|Northgate Mutual Workers' Comp Claims}}, claim {{ID|WC-66-0019284}}
+Re: {{NAME|Wendell Phalen-Royce}}
+
+The [[independent medical examination]] by Dr. {{NAME|Osric Penhallow}} concluded the condition was "idiopathic". I respectfully disagree: there is a dose-response association between [[hand-arm vibration]] and [[carpal tunnel syndrome]]. Post-op: [[night paraesthesia]] resolved, [[Tinel]] negative, [[Phalen test]] negative, [[grip strength]] 32 kg right (Jamar dynamometer) vs 38 kg left, [[pillar pain]] mild. [[Two-point discrimination]] 5 mm. Recommend return to full duty in 2 weeks, [[maximum medical improvement]] expected at 6 months; [[impairment rating]] per AMA Guides at MMI. Repeat [[EMG/NCS]] not required unless symptoms recur; [[thenar atrophy]] may persist. [[Semmes-Weinstein monofilament]] 2.83 at the index pulp. Left side remains symptomatic on splint — [[left carpal tunnel release]] requested ([[CPT 64721-LT]]).
+— {{NAME|S. Holtzclaw}}, MD

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,mrn,pt_name,dob,note_date,note_type,author,note_text
+70802,9034-1126,"REYES, MARISOL",11/30/1997,05/17/2095,FAX-COVER,rokoye,"FAX to Tidewater Hospice intake, fax (757) 555-0127, from Rita Okoye RN for Dr Karanikolas. Refer: advanced emphysema, frequent admissions, patient (97) and spouse agree hospice. Pls note TWO names in chart: Marisol Reyes (current legal) and Marcus Reyes (old); the pharmacy and VA use the old one. No other identifiers on this page. Pages 2 of 5 follow without cover."
+</TEXT>
+<TAGS>
+<ID id="P0" start="66" end="75" text="9034-1126" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P1" start="93" end="103" text="11/30/1997" TYPE="DATE" comment="" />
+<DATE id="P2" start="104" end="114" text="05/17/2095" TYPE="DATE" comment="" />
+<NAME id="P3" start="125" end="131" text="rokoye" TYPE="USERNAME" comment="" />
+<LOCATION id="P4" start="140" end="157" text="Tidewater Hospice" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P5" start="170" end="184" text="(757) 555-0127" TYPE="FAX" comment="" />
+<NAME id="P6" start="191" end="201" text="Rita Okoye" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="212" end="223" text="Karanikolas" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="282" end="284" text="97" TYPE="AGE" comment="" />
+<NAME id="P9" start="341" end="354" text="Marisol Reyes" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="375" end="387" text="Marcus Reyes" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

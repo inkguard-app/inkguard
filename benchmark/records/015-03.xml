@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,note_type,enc_date,author,text
+7738,PATIENT PORTAL MESSAGE,2070-01-20,mhunt1999,"From: marnie.hunt1999@mailbox.example
+To: Dr Achterberg's office
+Subject: rash and sore joints
+
+hi its marnie hunt (marlene), I have a bad ache in my hands and knees since the weekend and a rash across my cheeks that comes and goes. I think its my lupus acting up. I also have the sinus stuff again, face pressure and green stuff when I blow. I'm still on the naproxen and the bone pill. Did I tell you I stopped the simvastatin?? Because it gave me leg cramps. I took a pic, its attached: IMG_20700118_marlene_rash.jpg
+
+Can you call me, I work nights sometimes. My friend Bettina Okoye can pick up if I dont, her # is on file.
+
+thanks
+Marnie
+Sent from my phone"
+</TEXT>
+<TAGS>
+<DATE id="P0" start="66" end="76" text="2070-01-20" TYPE="DATE" comment="" />
+<NAME id="P1" start="77" end="86" text="mhunt1999" TYPE="USERNAME" comment="" />
+<CONTACT id="P2" start="94" end="125" text="marnie.hunt1999@mailbox.example" TYPE="EMAIL" comment="" />
+<NAME id="P3" start="133" end="143" text="Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="191" end="202" text="marnie hunt" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="204" end="211" text="marlene" TYPE="PATIENT" comment="" />
+<ID id="P6" start="578" end="607" text="IMG_20700118_marlene_rash.jpg" TYPE="DEVICE" comment="" />
+<NAME id="P7" start="661" end="674" text="Bettina Okoye" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="724" end="730" text="Marnie" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

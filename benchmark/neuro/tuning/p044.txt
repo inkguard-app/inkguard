@@ -1,0 +1,20 @@
+INTERVENTIONAL PAIN — WORK INJURY
+{{FACILITY|Thistledown Spine and Pain}}
+{{NAME|Ramona Quintero-Hask}}, 48 F, MRN {{MRN|TSP-3301479}}, {{DATE|06/12/2076}}
+Employer {{ORG|Pell Hollow Poultry Processing}}; claim {{ID|WC-76-3301-88}}, carrier {{ORG|Ironbridge Casualty Claims Unit}}, adjuster {{NAME|Bryce Holcomb}}
+History by {{NAME|Esmeralda Diep}}, PA-C
+
+Lifted a 40-lb crate and twisted — immediate axial low back pain, no radiation, 6/10, worse with [[extension and rotation]] and prolonged standing; [[facet loading test]] (Kemp) positive bilaterally at L4-5 and L5-S1. No [[radiculopathy]], [[SLR]] negative, neuro intact. [[ODI 40%]].
+[[MRI lumbar]]: [[L4-5 and L5-S1 facet arthropathy]] with small [[facet effusions]], no disc herniation, no stenosis. [[Flexion-extension films]]: no instability.
+Plan: diagnostic [[bilateral L4-5 and L5-S1 medial branch blocks]] (L3, L4 medial branches and L5 dorsal ramus) x2 with [[0.5 mL bupivacaine 0.5%]] each; if 80% relief on both → [[radiofrequency ablation]]. [[CPT 64493]], [[64494]]. [[ICD-10 M47.816]], [[S39.012A]].
+=====NOTE=====
+PROCEDURE NOTE — LUMBAR RADIOFREQUENCY ABLATION — {{DATE|08/04/2076}}
+{{NAME|QUINTERO-HASK, RAMONA}} {{MRN|TSP-3301479}}
+Physician Dr. {{NAME|Calloway Brandt-Ishikawa}}
+Two prior [[MBBs]]: 90% and 85% relief for the duration of the anaesthetic → positive.
+Prone, fluoroscopy. [[18G 10-mm active tip RF cannulae]] placed parallel to the course of the bilateral L3 and L4 medial branches at the junction of the [[superior articular process]] and [[transverse process]], and the L5 dorsal ramus at the [[sacral ala]]. [[Sensory stimulation]] 50 Hz below 0.5 V concordant; [[motor stimulation]] 2 Hz at 2 V — [[multifidus]] twitch only, no limb fasciculation. [[Lidocaine 2%]] 1 mL per level; [[conventional thermal RF lesion 80 degrees C for 90 s]], two lesions per nerve. [[CPT 64635]], [[64636]] bilateral. Post-procedure: [[neuritis]] precautions, [[deafferentation]] counselling; [[ice]] and [[NSAIDs]]. Neuro intact, [[SLR]] negative, no new [[radicular pain]]. [[ODI]] to be repeated at 6 weeks.
+=====NOTE=====
+IME — DEFENCE-RETAINED — {{DATE|11/20/2076}}
+Examiner: Dr. {{NAME|Percival Ashcombe}}, Orthopaedic Spine; requested by {{NAME|Margaux Delacorte}}, Esq., {{ORG|Delacorte Whitlow Defense Group}}, on behalf of {{ORG|Ironbridge Casualty Claims Unit}}; claim {{ID|WC-76-3301-88}}.
+Examinee: {{NAME|Ramona Quintero-Hask}}.
+Records reviewed: MRI, two MBBs, bilateral L4-5/L5-S1 RFA. Current: 70% relief since [[radiofrequency ablation]], [[ODI 18%]], [[lumbar range of motion]] flexion 60 degrees, extension 15 degrees with mild pain, [[facet loading test]] mildly positive left, [[SLR]] negative, [[deep tendon reflexes]] symmetric, no [[neurological deficit]], [[Waddell signs]] 0/5. Opinion: [[lumbar facet-mediated pain]], aggravation of pre-existing [[facet arthropathy]] by the work incident; [[maximum medical improvement]] reached; [[whole-person impairment]] 5% (DRE Lumbar Category II). Repeat RFA reasonable no sooner than 6 months if pain returns with 50% or more relief duration.

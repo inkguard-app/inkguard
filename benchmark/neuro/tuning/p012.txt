@@ -1,0 +1,27 @@
+CODE STROKE — ED NOTE
+{{FACILITY|Gresham Vale Comprehensive Stroke Center}}
+Name: {{NAME|Augustin Moreau-Pell}}   MRN {{MRN|GVC-55021936}}
+Arrival {{DATE|07/04/2079}} 21:14; [[last known well]] 20:05
+
+78 M, sudden left hemiparesis and [[right gaze deviation]], [[left hemineglect]], [[dysarthria]]. [[NIHSS 18]]. Glucose 6.4 mmol/L. Pre-stroke [[mRS 0]]. On [[apixaban 5 mg BID]] for [[atrial fibrillation]], last dose 07:30.
+
+[[Non-contrast CT]]: [[ASPECTS 8]] (loss of insular ribbon and lentiform). [[Hyperdense right MCA sign]].
+[[CTA head and neck]]: [[right M1 occlusion]], good collaterals ([[Tan collateral score 3]]).
+[[CT perfusion]] (RAPID): [[ischaemic core (CBF under 30%)]] 14 mL, [[Tmax over 6 s]] 112 mL, [[mismatch ratio]] 8.
+
+Decision: [[IV thrombolysis]] contraindicated ([[DOAC]] within 48 h, no anti-Xa level). Proceed directly to [[mechanical thrombectomy]].
+
+Neurology: Dr. {{NAME|Sunniva Halvorsrud}}; Neurointerventional: Dr. {{NAME|Bartholomew Achterlonie}}. Wife {{NAME|Colette Moreau-Pell}} gave consent by phone {{PHONE|555-392-6670}}.
+=====NOTE=====
+THROMBECTOMY PROCEDURE NOTE
+{{NAME|MOREAU-PELL, AUGUSTIN}} {{MRN|GVC-55021936}} {{DATE|07/04/2079}}
+Operator {{NAME|B. Achterlonie}}
+
+Conscious sedation. Right femoral 8F. [[Balloon guide catheter (Walrus 8F)]] in the right ICA. [[Combined technique]]: [[Solitaire X 6 x 40 mm stent retriever]] deployed across the M1 occlusion via a [[Phenom 21 microcatheter]] with [[aspiration through a React 71 catheter]] (Solumbra). Pass 1: partial recanalisation, [[TICI 2a]]. Pass 2: [[eTICI 2c]]. Small distal [[M3 emboli]] not pursued. Groin puncture to reperfusion 31 min.
+
+Final: [[mTICI 2c]]. No [[emboli to new territory]], no extravasation.
+[[Groin closure with Angio-Seal]].
+Post: [[NIHSS 9]] in recovery. SBP goal under 140. [[CT head]] at 24 h; antithrombotic restart per [[haemorrhagic transformation]] status ([[ECASS classification]]).
+=====NOTE=====
+DISCHARGE (stroke unit) — {{DATE|07/11/2079}} — {{NAME|A. Moreau-Pell}}
+24 h CT: small [[haemorrhagic infarction HI1]], [[ASPECTS 6]] final. Neuro: [[NIHSS 5]] at discharge (mild left face/arm weakness, [[extinction to double simultaneous stimulation]]). [[Dysphagia screen]] passed on day 3. [[Left inferior quadrantanopia]] on confrontation. [[Holter monitoring]] not needed (known AF). [[Spasticity]] absent. [[Apixaban 5 mg BID]] restarted on day 4 (moderate infarct, [[1-3-6-12 day rule]]). [[Echocardiogram]] LVEF 55%, no LV thrombus. [[LDL]] 2.9 → [[atorvastatin 40 mg]]. Expected [[mRS 2-3]] at 90 days. Inpatient rehab at {{FACILITY|Cedar Lantern Rehabilitation Hospital}}. 90-day [[mRS]] assessment booked.

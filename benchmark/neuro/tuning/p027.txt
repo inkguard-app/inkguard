@@ -1,0 +1,20 @@
+NEUROLOGY EPILEPSY CLINIC — RNS EVALUATION
+{{FACILITY|Gilchrist Valley Medical Center}}
+{{NAME|Mariposa Delacroix-Hale}}  MRN {{MRN|GVM-0880142}}  {{DATE|10/06/2061}}
+Fellow note by Dr. {{NAME|Thiago Lisboa-Kent}}, reviewed with attending Dr. {{NAME|Rosamund Achebe-Lyle}}
+
+34 F with [[bilateral independent mesial temporal epilepsy]] confirmed on prior [[stereo-EEG (SEEG)]] — 14 depth electrodes; seizures arising independently from left and right hippocampi ([[60% left, 40% right]]). Not a resection candidate because bilateral resection would risk [[global amnesia]]. Prior [[vagus nerve stimulator]] ([[LivaNova SenTiva model 1000]]) with output [[1.75 mA, 30 Hz, 250 µs, 30 s ON / 5 min OFF]], [[AutoStim]] enabled — under 50% response.
+
+Recommendation: [[responsive neurostimulation (NeuroPace RNS System)]] with bilateral [[hippocampal depth leads]], continue [[VNS]] for now.
+Meds: [[brivaracetam 100 mg BID]], [[cenobamate 200 mg nightly]], [[zonisamide 200 mg]].
+Seizure diary: 9 [[focal impaired awareness seizures]]/month.
+=====NOTE=====
+OPERATIVE NOTE — RNS NEUROSTIMULATOR AND BILATERAL HIPPOCAMPAL DEPTH LEADS
+{{NAME|DELACROIX-HALE, MARIPOSA}} {{MRN|GVM-0880142}} {{DATE|11/17/2061}}
+Surgeon: Dr. {{NAME|Emeric Saint-Vallier}}; resident Dr. {{NAME|Kalani Ruhl}}, PGY-4; [[NeuroPace]] field clinical engineer {{NAME|Bettina Moravec}} present for device interrogation.
+[[Stereotactic frame-based]] placement of two [[NeuroPace DL-330 depth leads]] along the occipitotemporal long axis of each hippocampus. [[Ferrule]] secured in a [[craniectomy tray]] in the left parietal bone; [[RNS-320 neurostimulator]] seated in the tray. [[Intraoperative CT]] fused with the plan confirmed lead tips within the [[hippocampal head]]. Impedances within range. [[Electrocorticography]] baseline recorded; [[interictal epileptiform discharges]] visible bilaterally.
+Device serial for this patient {{ID|RNS320-0071-88214}}; lead serials {{ID|DL330-AA19022}} and {{ID|DL330-AA19031}}.
+[[Cefazolin 2 g]] and [[vancomycin powder]] in the wound; [[galeal closure]] with [[3-0 Vicryl]]. Scrub tech {{NAME|Jolene Pettibone}}, CST; [[Medtronic]] [[O-arm]] used for confirmation.
+=====NOTE=====
+RNS CLINIC — {{DATE|02/09/2062}} — {{NAME|M. Delacroix-Hale}}
+Data uploaded via [[NeuroPace Remote Monitor]] and reviewed in [[PDMS]]: long episodes 3/week, now mostly right-onset. Detection enabled with [[bandpass and line-length detectors]]. Stimulation therapy enabled: [[1.0 µC/cm2, 200 Hz, 160 µs, 100 ms burst]] — increased to [[1.5 µC/cm2]] right. Diary: 4 seizures/month (55% reduction). [[Electrographic seizure]] counts parallel the diary. No [[stimulation-related paraesthesia]], [[charge density]] well below the 25 µC/cm2 limit. [[VNS]] output unchanged at [[1.75 mA]]. Continue [[brivaracetam 100 mg BID]], [[cenobamate 200 mg]] and [[zonisamide]]. [[Battery longevity]] estimate 7 years; [[MRI]] conditional only with specific conditions (none planned). Patient email {{EMAIL|mdhale.rns@example.com}}. Next interrogation 8 weeks.

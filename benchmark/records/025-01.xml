@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>RIVERBEND FAMILY MEDICINE - ANNUAL WELLNESS / H&amp;P
+Riverbend Family Medicine   Dept: Cardiology Clinic   Rm 4
+Patient: Pruitt, Terrance A   MRN: 8841-5530   DOB: 03/19/2054
+Address: 2217 Larkspur Terr, Dayton, OH 4542
+Phone: (937) 555-0148   Emergency contact: SAME
+DOS: 06/06/2094   PCP: Dr. Ingrid Vasquez-Hale   Allergies: ***
+
+.HPI
+@NAME@ is a 40 y.o. male here for wellness, hasnt been seen since 08/19/2091 (Dr. Fenwick then). Wife made him come. Occ HA, no CP, no palp, no SOB. Stress at work, sleeping ok, hx of stress/anxity. GAD-7 8 mild. Depresion screen neg.
+
+PMH: loss of teeth (07/27/2069), chronic sinusitis (08/30/2071), HS educated. Med review was overdue til 08/18/2091.
+Meds: astemizole 10 qd (old list - pt says NOT taking, d/c). OTC sinus spray prn.
+NKDA.
+
+SH: Married, lives w/ wife Janelle, son Micah and dau Odette. FT dispatcher @ Brannock Freight Systems since 2088, rotating nights. Rents, landlord Edwin Halvorsen is "useless", pt says. Neighbor Odalys Quintero takes kids after school. Dad Arlen (91 yo) lives in the in-law unit, wife's mom Philippa Voss ninety-three in a facility. EtOH rare, no tob, no drugs.
+
+Page 2 of 2   PRUITT, TERRENCE   MRN 8841-5530   DOB 03/19/2054
+
+VS: BP 155/97 (high), wt 86.4 kg, BMI 27.5, pain 2/10. WBC 9.4, Hgb 12.6.
+PE: NAD. HEENT nl, nasal mucosa boggy. CV RRR no mrg. Lungs CTAB. Abd soft. Ext no edema. Teeth - multiple missing, poor repair.
+
+A/P:
+1. Essential HTN, new dx today. Rpt BP 152/94 after 5 min. HCTZ 25 e-Rxd then CANCELLED same day after dw pt (wants trial of lifestyle first, worried abt urinating at work). Low Na diet, walk 30 min, home cuff. F/u virtual 07/06/2094, sooner if &gt;180 or sx.
+2. Stress - counselled. Depression screen done, neg.
+3. Med rec done. Remove astemizole.
+4. Chronic sinusitis - stable.
+5. Dental referal when insurance sorted (plan # MBR-4417-902-31).
+
+Time spent 40 min, &gt;50% counselling.
+Electronically signed by Ingrid Vasquez-Hale, MD on 06/06/2094 16:41
+Last edited by ivhale on 06/07/2094 08:12 from 10.20.4.55
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="50" end="75" text="Riverbend Family Medicine" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="84" end="101" text="Cardiology Clinic" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="107" end="108" text="4" TYPE="ROOM" comment="" />
+<NAME id="P3" start="118" end="136" text="Pruitt, Terrance A" TYPE="PATIENT" comment="" />
+<ID id="P4" start="144" end="153" text="8841-5530" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="161" end="171" text="03/19/2054" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="181" end="199" text="2217 Larkspur Terr" TYPE="STREET" comment="" />
+<LOCATION id="P7" start="201" end="207" text="Dayton" TYPE="CITY" comment="" />
+<LOCATION id="P8" start="209" end="211" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P9" start="212" end="216" text="4542" TYPE="ZIP" comment="" />
+<CONTACT id="P10" start="224" end="238" text="(937) 555-0148" TYPE="PHONE" comment="" />
+<DATE id="P11" start="270" end="280" text="06/06/2094" TYPE="DATE" comment="" />
+<NAME id="P12" start="292" end="311" text="Ingrid Vasquez-Hale" TYPE="DOCTOR" comment="" />
+<AGE id="P13" start="347" end="349" text="40" TYPE="AGE" comment="" />
+<DATE id="P14" start="401" end="411" text="08/19/2091" TYPE="DATE" comment="" />
+<NAME id="P15" start="417" end="424" text="Fenwick" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="591" end="601" text="07/27/2069" TYPE="DATE" comment="" />
+<DATE id="P17" start="623" end="633" text="08/30/2071" TYPE="DATE" comment="" />
+<DATE id="P18" start="676" end="686" text="08/18/2091" TYPE="DATE" comment="" />
+<NAME id="P19" start="804" end="811" text="Janelle" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="817" end="822" text="Micah" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="831" end="837" text="Odette" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="855" end="879" text="Brannock Freight Systems" TYPE="ORGANIZATION" comment="" />
+<DATE id="P23" start="886" end="890" text="2088" TYPE="DATE" comment="" />
+<NAME id="P24" start="925" end="940" text="Edwin Halvorsen" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="973" end="988" text="Odalys Quintero" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1018" end="1023" text="Arlen" TYPE="PATIENT" comment="" />
+<AGE id="P27" start="1025" end="1027" text="91" TYPE="AGE" comment="" />
+<NAME id="P28" start="1069" end="1082" text="Philippa Voss" TYPE="PATIENT" comment="" />
+<AGE id="P29" start="1083" end="1095" text="ninety-three" TYPE="AGE" comment="" />
+<ID id="P30" start="1178" end="1187" text="8841-5530" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P31" start="1194" end="1204" text="03/19/2054" TYPE="DATE" comment="" />
+<DATE id="P32" start="1638" end="1648" text="07/06/2094" TYPE="DATE" comment="" />
+<ID id="P33" start="1840" end="1855" text="MBR-4417-902-31" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P34" start="1921" end="1940" text="Ingrid Vasquez-Hale" TYPE="DOCTOR" comment="" />
+<DATE id="P35" start="1948" end="1958" text="06/06/2094" TYPE="DATE" comment="" />
+<NAME id="P36" start="1980" end="1986" text="ivhale" TYPE="USERNAME" comment="" />
+<DATE id="P37" start="1990" end="2000" text="06/07/2094" TYPE="DATE" comment="" />
+<CONTACT id="P38" start="2012" end="2022" text="10.20.4.55" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>*** FAX COVER SHEET ***
+TO: BuckeyeCare Health Plan - Underwriting / Records     FAX: (614) 555-0190
+FROM: Riverbend Primary Care at the Emergency Department - Dana Whitcombe, CMA     FAX: (937) 555-0101   PHONE: (937) 555-0100 ext 4416
+DATE: 03/10/2079      PAGES (incl. cover): 4
+RE: Mr. Marcus E. Wren  (DOB 11/02/2050)  member id 7XQ-408-1193-05
+
+"COVER MESSAGE"
+Hi team!!  :)  Dr. Osei asked me to send over the records for Mr. Wren's wellness visit on the ninth of March, he is applying for a life insurance rider thru his new employer and the form needed the visit note. Pt was super chill and very easy to work with, and the vibes in the room were good (he brought his kids Juniper and Abel and they were adorable!!).
+
+-&gt; Page 2 = visit summary
+-&gt; Page 3 = screening results (all normal/low risk)
+-&gt; Page 4 = old note from 2076 (it got stuck on the end, sorry)
+
+In conclusion, the patient's journey from 2076 to now has been a positive one and we wish him all the best.
+
+CONFIDENTIALITY: this fax is meant only for the person above, if you got it by mistake pls call us and shred it. Thx!!  - Dana
+
+------------------------------------------------------------
+Page 2 of 4    WREN, MARCUS E   MRN 4471-0925   DOB 11/02/2050
+&gt;&gt;&gt; pasted from 03/09 note:
+Wellness exam 03/09/2079, 28 y/o M. HPI: no complaints. Stress from 2076 has resolved, he has been steady in his job at Tri-State Pallet Supply and is now a dad of 2. Drinks occasionally, AUDIT-C low. Denies drug use currently (history of non-prescribed use, remote). GAD-7 0. Depression screen negative.
+Vitals: BP 105/75, wt 85.1 kg, BMI 28.2, pain 1/10. Labs: WBC 3.7, Hgb 13.8.
+Plan: counsel on weight, recheck labs in 1 yr, vaccines up to date. Seen by Dr. Kwame Osei with dictation by Priyanka Venkataragavan (resident). Dictated but not read.
+
+Page 3 of 4    ODALYS BRENNECKE   MRN 8830-1175   DOB 07/19/2061
+Nursing: Odalys Brennecke, 17 y.o. female, bed 12. Resting, ate 50% of lunch. Mom at bedside. Pasted from 0700 note.
+
+Page 4 of 4    WREN, MARCUS E   MRN 4471-0925
+Pasted from 03/05/2076: @NAME@ is a 25 y.o. male who walked in asking for a physical because he lost his job. Wife Tamsin in the waiting room. Alcohol use reduced, drug use non-prescribed in the past. Plan: counseling, EAP, dental referral to Gentle Hands Family Dentistry. Employer then: Calloway Freight and Cold Storage. Cosign pending: Dr. Kwame Osei.
+Electronically signed by Priyanka Venkataraghavan, MD on 03/05/2076 16:42
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="28" end="51" text="BuckeyeCare Health Plan" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P1" start="86" end="100" text="(614) 555-0190" TYPE="FAX" comment="" />
+<LOCATION id="P2" start="107" end="157" text="Riverbend Primary Care at the Emergency Department" TYPE="DEPARTMENT" comment="" />
+<NAME id="P3" start="160" end="174" text="Dana Whitcombe" TYPE="DOCTOR" comment="" />
+<CONTACT id="P4" start="189" end="203" text="(937) 555-0101" TYPE="FAX" comment="" />
+<CONTACT id="P5" start="213" end="227" text="(937) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="232" end="236" text="4416" TYPE="PHONE" comment="" />
+<DATE id="P7" start="243" end="253" text="03/10/2079" TYPE="DATE" comment="" />
+<NAME id="P8" start="290" end="304" text="Marcus E. Wren" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="311" end="321" text="11/02/2050" TYPE="DATE" comment="" />
+<ID id="P10" start="334" end="349" text="7XQ-408-1193-05" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P11" start="386" end="390" text="Osei" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="433" end="437" text="Wren" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="462" end="467" text="ninth" TYPE="DATE" comment="" />
+<DATE id="P14" start="471" end="476" text="March" TYPE="DATE" comment="" />
+<NAME id="P15" start="682" end="689" text="Juniper" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="694" end="698" text="Abel" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="912" end="916" text="2076" TYPE="DATE" comment="" />
+<NAME id="P18" start="1183" end="1197" text="WREN, MARCUS E" TYPE="PATIENT" comment="" />
+<ID id="P19" start="1204" end="1213" text="4471-0925" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P20" start="1220" end="1230" text="11/02/2050" TYPE="DATE" comment="" />
+<DATE id="P21" start="1273" end="1283" text="03/09/2079" TYPE="DATE" comment="" />
+<AGE id="P22" start="1285" end="1287" text="28" TYPE="AGE" comment="" />
+<DATE id="P23" start="1327" end="1331" text="2076" TYPE="DATE" comment="" />
+<LOCATION id="P24" start="1379" end="1402" text="Tri-State Pallet Supply" TYPE="ORGANIZATION" comment="" />
+<NAME id="P25" start="1721" end="1731" text="Kwame Osei" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="1750" end="1773" text="Priyanka Venkataragavan" TYPE="DOCTOR" comment="" />
+<NAME id="P27" start="1825" end="1841" text="ODALYS BRENNECKE" TYPE="PATIENT" comment="" />
+<ID id="P28" start="1848" end="1857" text="8830-1175" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P29" start="1864" end="1874" text="07/19/2061" TYPE="DATE" comment="" />
+<NAME id="P30" start="1884" end="1900" text="Odalys Brennecke" TYPE="PATIENT" comment="" />
+<AGE id="P31" start="1902" end="1904" text="17" TYPE="AGE" comment="" />
+<NAME id="P32" start="2008" end="2022" text="WREN, MARCUS E" TYPE="PATIENT" comment="" />
+<ID id="P33" start="2029" end="2038" text="4471-0925" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P34" start="2075" end="2077" text="25" TYPE="AGE" comment="" />
+<NAME id="P35" start="2154" end="2160" text="Tamsin" TYPE="PATIENT" comment="" />
+<LOCATION id="P36" start="2282" end="2311" text="Gentle Hands Family Dentistry" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P37" start="2328" end="2361" text="Calloway Freight and Cold Storage" TYPE="ORGANIZATION" comment="" />
+<NAME id="P38" start="2383" end="2393" text="Kwame Osei" TYPE="DOCTOR" comment="" />
+<NAME id="P39" start="2420" end="2444" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<DATE id="P40" start="2452" end="2462" text="03/05/2076" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

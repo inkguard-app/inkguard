@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id | mrn | patient_name | dob | enc_date | dept | author | note_text
+209105 | 0062-31847 | BRIGHT, HOPE | 02/11/2045 | 06/16/2062 | Hospice | Nadira Farouk MD | DEATH NOTE
+- Pronounced Hope Bright dead at 04:38 on June 16, 2062 (a Friday), age 17 y 4 mo
+- Place: pt's bedroom, 77 Gannet Ct, Duluth, Minnesota, w/ hospice RN Tobias Quill present
+- Present: mother Charity, father Gideon Bright, sister Mercy, grandmother Mrs. Fenn
+- Cause (as charted): sudden cardiac death - on hospice since 5/19/2062; underlying cause under review, ME notified, case # ME-62-00417
+- Hx epilepsy, substance use disorder (tx 09/2060 through 04/2061), chronic pain
+- Exam: no pulse, no respirations, pupils fixed, no heart sounds x 2 min. Tattoo L wrist "Mercy 03/14/2053" - sister's name + birth date 03/14/2053
+- Family asked for chaplain, Fr. Anselm Prokop, ph (218) 555-0161 ext 12
+- Funeral home: Calloway-Reese Funeral Chapel, contact Dennis Reese. Family set up memorial fund at www.remember-hope-bright.example/give
+- Organ/tissue donation: declined
+- Death certificate filed by N. Farouk; school Alderbrook High notified by SW Elaine Mott at 09:00
+- Condolence sent: Dear Mrs. Bright, Dear [PATIENT NAME]  (2 versions in outbox)
+- Hopes's chart closed 06/16/2062 11:20 by nfarouk from 10.8.22.101
+Sign-off: -- Nadira
+</TEXT>
+<TAGS>
+<ID id="P0" start="82" end="92" text="0062-31847" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="95" end="107" text="BRIGHT, HOPE" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="110" end="120" text="02/11/2045" TYPE="DATE" comment="" />
+<DATE id="P3" start="123" end="133" text="06/16/2062" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="136" end="143" text="Hospice" TYPE="DEPARTMENT" comment="" />
+<NAME id="P5" start="146" end="159" text="Nadira Farouk" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="189" end="200" text="Hope Bright" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="218" end="231" text="June 16, 2062" TYPE="DATE" comment="" />
+<DATE id="P8" start="235" end="241" text="Friday" TYPE="DATE" comment="" />
+<AGE id="P9" start="248" end="250" text="17" TYPE="AGE" comment="" />
+<AGE id="P10" start="253" end="257" text="4 mo" TYPE="AGE" comment="" />
+<LOCATION id="P11" start="281" end="293" text="77 Gannet Ct" TYPE="STREET" comment="" />
+<LOCATION id="P12" start="295" end="301" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P13" start="303" end="312" text="Minnesota" TYPE="STATE" comment="" />
+<NAME id="P14" start="328" end="340" text="Tobias Quill" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="367" end="374" text="Charity" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="383" end="396" text="Gideon Bright" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="405" end="410" text="Mercy" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="424" end="433" text="Mrs. Fenn" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="496" end="505" text="5/19/2062" TYPE="DATE" comment="" />
+<ID id="P20" start="558" end="569" text="ME-62-00417" TYPE="IDNUM" comment="" />
+<DATE id="P21" start="612" end="619" text="09/2060" TYPE="DATE" comment="" />
+<DATE id="P22" start="628" end="635" text="04/2061" TYPE="DATE" comment="" />
+<DATE id="P23" start="788" end="798" text="03/14/2053" TYPE="DATE" comment="" />
+<NAME id="P24" start="828" end="845" text="Fr. Anselm Prokop" TYPE="DOCTOR" comment="" />
+<CONTACT id="P25" start="850" end="864" text="(218) 555-0161" TYPE="PHONE" comment="" />
+<CONTACT id="P26" start="869" end="871" text="12" TYPE="PHONE" comment="" />
+<LOCATION id="P27" start="888" end="917" text="Calloway-Reese Funeral Chapel" TYPE="ORGANIZATION" comment="" />
+<NAME id="P28" start="927" end="939" text="Dennis Reese" TYPE="DOCTOR" comment="" />
+<CONTACT id="P29" start="972" end="1009" text="www.remember-hope-bright.example/give" TYPE="URL" comment="" />
+<NAME id="P30" start="1073" end="1082" text="N. Farouk" TYPE="DOCTOR" comment="" />
+<LOCATION id="P31" start="1091" end="1106" text="Alderbrook High" TYPE="ORGANIZATION" comment="" />
+<NAME id="P32" start="1122" end="1133" text="Elaine Mott" TYPE="DOCTOR" comment="" />
+<NAME id="P33" start="1167" end="1178" text="Mrs. Bright" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="1226" end="1231" text="Hopes" TYPE="PATIENT" comment="" />
+<DATE id="P35" start="1247" end="1257" text="06/16/2062" TYPE="DATE" comment="" />
+<NAME id="P36" start="1267" end="1274" text="nfarouk" TYPE="USERNAME" comment="" />
+<CONTACT id="P37" start="1280" end="1291" text="10.8.22.101" TYPE="IPADDR" comment="" />
+<NAME id="P38" start="1305" end="1311" text="Nadira" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

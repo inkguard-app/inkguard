@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Northgate Imaging - RADIOLOGY REPORT
+EXAM: Pelvic ultrasound, transabdominal and transvaginal
+Patient: RICH, JOURNEY     MRN 7720-315     DOB 3/9/2038     Age: 28
+Exam date: 10/14/2066        Ordering: Aster Quinn, MD
+Page 1 of 2   RICH, JOURNEY   MRN 7720-315
+CLINICAL HISTORY: heavy periods since delivery 02/15/2066, fatigue, off OCP? 
+COMPARISON: none.
+TECHNIQUE: standard.
+FINDINGS:
+Uterus anteverted, 8.1 x 4.2 x 5.0 cm. Endometrium 9 mm, homogenous. Small intramural fibroid 1.4 cm fundus. No retained products.
+Ovaries nl bilat, no free fluid. Adenxa unremarkable.
+IMPRESSION:
+1. Small fundal fibroid, may contribute to menorrhagia.
+2. Otherwise normal pelvic ultrasound.
+Page 2 of 2   RICH, JOURNEY   MRN 7720-315
+Dictated by Lee Park, MD. Electronically signed by Lee Park 10/14/2066 15:09.
+Tech note: pt says sonographer was "very chill". Husband Twelve waited in car (plate WA BYR 5517).
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="17" text="Northgate Imaging" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="109" end="116" text="JOURNEY" TYPE="PATIENT" comment="" />
+<ID id="P2" start="125" end="133" text="7720-315" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="142" end="150" text="3/9/2038" TYPE="DATE" comment="" />
+<AGE id="P4" start="160" end="162" text="28" TYPE="AGE" comment="" />
+<DATE id="P5" start="174" end="184" text="10/14/2066" TYPE="DATE" comment="" />
+<NAME id="P6" start="202" end="213" text="Aster Quinn" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="232" end="245" text="RICH, JOURNEY" TYPE="PATIENT" comment="" />
+<ID id="P8" start="252" end="260" text="7720-315" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="308" end="318" text="02/15/2066" TYPE="DATE" comment="" />
+<NAME id="P10" start="694" end="707" text="RICH, JOURNEY" TYPE="PATIENT" comment="" />
+<ID id="P11" start="714" end="722" text="7720-315" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P12" start="735" end="743" text="Lee Park" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="774" end="782" text="Lee Park" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="783" end="793" text="10/14/2066" TYPE="DATE" comment="" />
+<NAME id="P15" start="858" end="864" text="Twelve" TYPE="PATIENT" comment="" />
+<ID id="P16" start="889" end="897" text="BYR 5517" TYPE="VEHICLE" comment="" />
+</TAGS>
+</deIdi2b2>

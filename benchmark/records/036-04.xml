@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE
+Patient Saoirse Kilcullen       DOB 03/02/2060       Date 01/28/2071
+Author Hollis Garrity, care coordinator      Reason post bronchitis check up and school re entry
+
+new paragraph this is a follow up call and visit summary for ten year old Sersha comma seen eight days ago for acute bronchitis comma chest x ray was clear of pneumonia period she is better comma cough almost gone comma has been out of Ashgrove Elementary for about nine days period her weight today was forty five point one kilograms and blood pressure one twenty two over sixty nine period
+
+Plan new paragraph one comma send a return to school letter to the front office period two comma ask the pharmacy to hold the refill of her cough syrup comma the mother said they already have plenty period three comma mother Fi requests a ride resource for the next visit because her car is in the shop comma plate R I four K T two two nine comma is at the Eastside Collision garage period I gave her the transport benefit line comma it's 800-555-0132 period
+
+Portal sign up pending comma the web address she was given is https://portal.gaspeepeds.example/p/kilcullen and her activation code is on the sheet period I reached the mother at four oh one five five five oh one two three and she says the number for dad is changed comma I will update it period
+
+Care team note new paragraph the girl's father Barnaby Teasdale has asked to be included on all school letters period mom agreed period
+
+Dr. Okonkwo Reyes is aware and agrees with the plan period
+next review one month.
+Hollis G.   audit: edited 01/28/2071 15:02 workstation 10.44.12.9
+</TEXT>
+<TAGS>
+<NAME id="P0" start="31" end="48" text="Saoirse Kilcullen" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="59" end="69" text="03/02/2060" TYPE="DATE" comment="" />
+<DATE id="P2" start="81" end="91" text="01/28/2071" TYPE="DATE" comment="" />
+<NAME id="P3" start="99" end="113" text="Hollis Garrity" TYPE="DOCTOR" comment="" />
+<AGE id="P4" start="251" end="254" text="ten" TYPE="AGE" comment="" />
+<NAME id="P5" start="264" end="270" text="Sersha" TYPE="PATIENT" comment="" />
+<LOCATION id="P7" start="426" end="445" text="Ashgrove Elementary" TYPE="ORGANIZATION" comment="" />
+<NAME id="P8" start="808" end="810" text="Fi" TYPE="PATIENT" comment="" />
+<ID id="P9" start="898" end="923" text="R I four K T two two nine" TYPE="VEHICLE" comment="" />
+<LOCATION id="P10" start="940" end="958" text="Eastside Collision" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P11" start="1022" end="1034" text="800-555-0132" TYPE="PHONE" comment="" />
+<CONTACT id="P12" start="1105" end="1150" text="https://portal.gaspeepeds.example/p/kilcullen" TYPE="URL" comment="" />
+<CONTACT id="P13" start="1222" end="1265" text="four oh one five five five oh one two three" TYPE="PHONE" comment="" />
+<NAME id="P14" start="1387" end="1403" text="Barnaby Teasdale" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1481" end="1494" text="Okonkwo Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1559" end="1568" text="Hollis G." TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1585" end="1595" text="01/28/2071" TYPE="DATE" comment="" />
+<CONTACT id="P19" start="1614" end="1624" text="10.44.12.9" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

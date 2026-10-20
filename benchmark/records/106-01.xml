@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL MESSAGE (typed by patient)
+From: Philomena Wren   Portal user: pwren57
+To: Dr. Castellanos Boyd
+Date: Thursday, January 14, 2062
+Subject: my sugar numbers
+
+Dear Doctor,
+This is Phil Wren. I am 104 years old and my daughter Cordelia showed me how to use this computer so please excuse my typing mistaks. You told me on the 12th that my chollesterol was good, i did not understand what the number meant. 142. is that good??? And my kidney number that was 28. My daughter says it is bad but the nurse said not to worry.
+
+I stopped the simvastatin last summer like the other doctor said, is that why. I take the heart pill and the spray if chest hurts, I have not needed the spray.
+
+My neighbour Mr. Okafor brings me groceries and my landlord Teodora Banerjee fixed the rail by the bathtub so I am safe. My son Anders lives in Dallas and calls Sundays. I used to be Philomena Dubois when i was married to Harlan but that was long ago!
+
+Please write back. my caregiver password is wren1957galv in case your nurse needs to look. My phone is 409-555-0128 but I dont hear well so call Cordelia at (409) 555-0171.
+
+Yours truly,
+Philomena Wren
+
+[auto] This message was routed to Kiera Delacroix, MA, pool. Triage note by Wyatt Nguyen (volunteer): "pt is a legend, 10/10 would reply. Born the second of March, nineteen fifty-seven, so she is a centenarian plus." the second of March, nineteen fifty-seven
+</TEXT>
+<TAGS>
+<NAME id="P0" start="48" end="62" text="Philomena Wren" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="78" end="85" text="pwren57" TYPE="USERNAME" comment="" />
+<NAME id="P2" start="94" end="110" text="Castellanos Boyd" TYPE="DOCTOR" comment="" />
+<DATE id="P3" start="117" end="125" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P4" start="127" end="143" text="January 14, 2062" TYPE="DATE" comment="" />
+<AGE id="P5" start="208" end="211" text="104" TYPE="AGE" comment="" />
+<NAME id="P6" start="238" end="246" text="Cordelia" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="333" end="341" text="the 12th" TYPE="DATE" comment="" />
+<NAME id="P8" start="711" end="717" text="Okafor" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="754" end="770" text="Teodora Banerjee" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="822" end="828" text="Anders" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="877" end="893" text="Philomena Dubois" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="916" end="922" text="Harlan" TYPE="PATIENT" comment="" />
+<ID id="P13" start="991" end="1003" text="wren1957galv" TYPE="IDNUM" comment="" />
+<CONTACT id="P14" start="1050" end="1062" text="409-555-0128" TYPE="PHONE" comment="" />
+<NAME id="P15" start="1092" end="1100" text="Cordelia" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="1104" end="1118" text="(409) 555-0171" TYPE="PHONE" comment="" />
+<NAME id="P17" start="1184" end="1199" text="Kiera Delacroix" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1226" end="1238" text="Wyatt Nguyen" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1367" end="1408" text="the second of March, nineteen fifty-seven" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

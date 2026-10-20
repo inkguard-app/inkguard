@@ -1,0 +1,18 @@
+NEUROTOLOGY / VESTIBULAR CLINIC
+{{FACILITY|Brightwater Otology Group}}
+Patient: {{NAME|Leopold Romberg-Assaf}}   Age 63   MRN {{MRN|BOG-7701132}}   {{DATE|02/14/2080}}
+Vestibular therapist {{NAME|Saskia Lindahl}}, DPT; audiologist Dr. {{NAME|Ferdinand Mukherjee-Ross}}, AuD; physician Dr. {{NAME|Ottoline Kavanagh}}
+
+History: episodic vertigo for 4 years, attacks lasting 2-6 h with fluctuating right low-frequency hearing loss, [[aural fullness]] and roaring [[tinnitus]]. Two [[drop attacks]] ([[Tumarkin otolithic crisis]]) this year. Now severe-to-profound right [[sensorineural hearing loss]].
+Exam: [[Romberg test]] negative on firm surface (Mr. {{NAME|Romberg-Assaf}} said "that test is mine"); [[Fukuda stepping test]] rotated 50 degrees to the right. [[Dix-Hallpike]] negative bilaterally (no [[BPPV]]). [[Head impulse test]]: catch-up saccades to the right. [[Head-shake nystagmus]] left-beating.
+[[Video head impulse test (vHIT)]]: right lateral canal [[VOR gain]] 0.52. [[Caloric testing]]: 62% right [[unilateral weakness]]. [[cVEMP]] absent right. [[Electrocochleography]]: elevated [[SP/AP ratio]] right.
+Audiogram: right PTA 82 dB, word recognition 12%. Left normal.
+MRI IAC: no [[vestibular schwannoma]]; [[endolymphatic hydrops]] on delayed [[3D FLAIR]] after IV gadolinium.
+Diagnosis: [[definite Ménière disease]] (right), stage 4.
+Plan: [[intratympanic gentamicin]] for vertigo control; [[betahistine 24 mg TID]] (limited evidence); low-salt diet. For hearing: [[cochlear implant]] candidacy for [[single-sided deafness]] vs [[CROS hearing aid]] vs [[bone-anchored hearing system]].
+=====NOTE=====
+OPERATIVE NOTE — RIGHT COCHLEAR IMPLANT — {{DATE|07/18/2080}}
+{{NAME|ROMBERG-ASSAF, LEOPOLD}}  {{MRN|BOG-7701132}}
+Surgeon Dr. {{NAME|O. Kavanagh}}; [[Cochlear Ltd]] representative {{NAME|Jessamy Thorburn-Ali}} present for [[intraoperative telemetry]].
+Postauricular incision, [[cortical mastoidectomy]], [[facial recess approach (posterior tympanotomy)]] with continuous [[facial nerve monitoring (NIM)]]; [[chorda tympani]] preserved. [[Round window insertion]] of a [[Cochlear Nucleus CI632 slim modiolar electrode]], full insertion of 22 electrodes. [[Receiver-stimulator]] seated in a subperiosteal pocket. [[Neural response telemetry (NRT)]] present on all tested electrodes; impedances normal. [[Intraoperative X-ray (Stenvers view)]] confirmed the array position. Patient's implant serial {{ID|CI632-SN-5582091}}.
+Post-op: [[facial nerve HB I]]; mild [[vertigo]], no [[spontaneous nystagmus]]; [[taste disturbance]] absent; [[transorbital X-ray]] not required; activation in 3 weeks. [[Vestibular rehabilitation]] with {{NAME|S. Lindahl}}, DPT.

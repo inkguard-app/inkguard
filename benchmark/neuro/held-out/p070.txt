@@ -1,0 +1,15 @@
+SPORTS SPINE CLINIC — ADOLESCENT
+{{FACILITY|Kenwick Children's Orthopaedic and Spine Institute}}
+{{NAME|Dashiell Meyerding-Fox}}, 16 M, DOB {{DATE|03/09/2061}}, MRN {{MRN|KCO-2271045}}, visit {{DATE|09/21/2077}}
+Parent {{NAME|Lorna Meyerding-Fox}}; history by {{NAME|Cheyenne Ironhorse}}, PA-C; attending Dr. {{NAME|Fitzgerald Osei-Mendez}}; athletic trainer {{NAME|Gavin Ruiz}}, ATC, {{ORG|Kenwick Valley High School}}
+
+Varsity football lineman and gymnast; 9 months of low back pain worse with extension, [[hamstring tightness]] (popliteal angle 60 degrees), and intermittent right L5 radicular pain. [[Stork test (single-leg hyperextension)]] positive bilaterally. [[Phalen-Dickson sign]] (crouched gait) mild.
+[[Standing lumbar X-rays AP/lateral]] and [[EOS imaging]]: [[bilateral L5 pars defects (spondylolysis)]] with [[L5-S1 isthmic spondylolisthesis]] — [[Meyerding grade II]] (32% slip; the family surname is {{NAME|Meyerding-Fox}}, so please write "[[Meyerding classification]] grade II"). [[Slip angle]] 18 degrees. [[Pelvic incidence]] 72 degrees (high), [[sacral slope]] 52 degrees, [[lumbar lordosis]] 74 degrees. [[Lumbosacral kyphosis]] none.
+[[MRI lumbar]]: L5-S1 [[foraminal stenosis]] right with L5 root compression; [[disc degeneration]] (Pfirrmann III). [[CT]]: established [[pars non-union]] — sclerotic margins.
+Plan: failed 6 months of [[Boston overlap brace]] and PT; proceed with [[L5-S1 instrumented fusion]] — [[TLIF]] vs [[ALIF + posterior instrumentation]]; [[direct pars repair]] not suitable (slip over grade I, disc degeneration). Return to collision sports not advised after fusion for 1 year.
+=====NOTE=====
+OP NOTE — {{DATE|11/02/2077}} — {{NAME|MEYERDING-FOX, DASHIELL}} — {{MRN|KCO-2271045}}
+Surgeon Dr. {{NAME|F. Osei-Mendez}}; [[Globus Medical]] rep {{NAME|Corwin Haldane}} present for the [[ExcelsiusGPS robot]]; neuromonitoring {{NAME|Hanne Kristoffersen}}, CNIM.
+[[Posterior lumbar interbody fusion L5-S1 (PLIF)]] with [[Gill laminectomy]] (removal of the loose L5 posterior element), bilateral [[L5 and S1 pedicle screws]] (robot-guided, [[CREO]] 6.5 x 45 mm L5, 7.5 x 40 mm S1), partial [[reduction of spondylolisthesis]] with [[reduction screws]] to Meyerding grade I, [[bilateral PEEK interbody cages]] 10 mm with [[local autograft]]. [[Triggered EMG]] thresholds over 15 mA; [[MEP]] stable; L5 root visualised and decompressed (L5 root palsy risk with reduction). Patient implant UDI {{ID|UDI-GLB-77-41188290}}.
+=====NOTE=====
+6-wk F/U {{DATE|12/14/2077}} — {{NAME|D. Meyerding-Fox}}: no leg pain, [[EHL]] 5/5, [[ankle dorsiflexion]] 5/5; [[hamstring tightness]] improved; standing XR: [[Meyerding grade I]] residual, hardware intact, [[slip angle]] 8 degrees. School note to {{ORG|Kenwick Valley High School}}: no PE or sports; backpack under 10 lb. CT at 6 months for [[fusion]]. Note by {{NAME|C. Ironhorse}}, PA-C.

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW_ID,SITE,PT_NAME,MRN,DOB,SERVICE_DATE,AUTHOR,NOTE_TYPE,NOTE_TEXT
+CC-0073911,SANDIA VIEW COMMUNITY CLINIC,Ramona Whitfeld,W20-774361,02/23/2040,09/05/2088,Hoa Pham RN,MEDICATION RECONCILIATION,"MED REC at wellness visit Sun 9/5. Source: pt interview, Desert Rose Pharmacy fill history, clinic list. Pt is 48 y/o. Insurance member id NMH-4471-882-09. Allergies: NKDA. | ACTIVE per patient: 1) Albuterol inhaler 2 puff prn wheeze, she use about 2 time a week, last fill 6/2088 (Rx 6618-0925). 2) Acetaminophen 325 mg prn for shoulder ache, not every day. | NOT TAKING but still in system: hydrocodone/acetaminophen 7.5/325 (course end 11/10/2087 after clavicle fracture) - please discontinue. Fluticasone inhaler (Flovent) HFA 44 mcg ended 7/2080, remove. Albuterol solution for nebulizer ended 7/2080, pt says she still have the machine at home but no solution. | QUESTION: no anti seizure medication on list. Pt have seizure disorder since baby, 1/2/2041 on chart. Pt say last seizure 'many year ago' and no pill now. Not able to confirm with neuro, ask Dr. Rahimi (neurology) if need continue follow. | Seizure alert wristband serial EW-90-22814 wear on left wrist, battery low per pt. | Verified by H. Pham RN, pgr 505-555-0133. Reviewed with Dr. Osei-Tutu. GAD-7 today 11, PHQ done. Next med rec when change. | e-sign hpham 09/05/2088 15:52"
+</TEXT>
+<TAGS>
+<ID id="P0" start="68" end="78" text="CC-0073911" TYPE="IDNUM" comment="" />
+<LOCATION id="P1" start="79" end="107" text="SANDIA VIEW COMMUNITY CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="108" end="123" text="Ramona Whitfeld" TYPE="PATIENT" comment="" />
+<ID id="P3" start="124" end="134" text="W20-774361" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="135" end="145" text="02/23/2040" TYPE="DATE" comment="" />
+<DATE id="P5" start="146" end="156" text="09/05/2088" TYPE="DATE" comment="" />
+<NAME id="P6" start="157" end="165" text="Hoa Pham" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="222" end="229" text="Sun 9/5" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="253" end="273" text="Desert Rose Pharmacy" TYPE="ORGANIZATION" comment="" />
+<AGE id="P9" start="307" end="309" text="48" TYPE="AGE" comment="" />
+<ID id="P10" start="335" end="350" text="NMH-4471-882-09" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P11" start="470" end="476" text="6/2088" TYPE="DATE" comment="" />
+<ID id="P12" start="478" end="490" text="Rx 6618-0925" TYPE="IDNUM" comment="" />
+<DATE id="P13" start="635" end="645" text="11/10/2087" TYPE="DATE" comment="" />
+<DATE id="P14" start="740" end="746" text="7/2080" TYPE="DATE" comment="" />
+<DATE id="P15" start="795" end="801" text="7/2080" TYPE="DATE" comment="" />
+<DATE id="P16" start="948" end="956" text="1/2/2041" TYPE="DATE" comment="" />
+<NAME id="P17" start="1060" end="1066" text="Rahimi" TYPE="DOCTOR" comment="" />
+<ID id="P18" start="1137" end="1148" text="EW-90-22814" TYPE="DEVICE" comment="" />
+<NAME id="P19" start="1203" end="1210" text="H. Pham" TYPE="DOCTOR" comment="" />
+<CONTACT id="P20" start="1219" end="1231" text="505-555-0133" TYPE="PHONE" comment="" />
+<NAME id="P21" start="1251" end="1260" text="Osei-Tutu" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1323" end="1328" text="hpham" TYPE="USERNAME" comment="" />
+<DATE id="P23" start="1329" end="1339" text="09/05/2088" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

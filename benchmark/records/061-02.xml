@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Date/time: 03/08/2078 10:05      Taken by: Dana Frisk, MA
+Caller: pt (Theo Marlowe), phone (802) 555-0136. The caller ID shows Tammy Marlowe, so please be careful.
+Re: the dental referral from 03/07/2078. Pt says the dental office Winooski Dental Care told him they have no referral. I checked: the fax went to (802) 555-0188, correct number is (802) 555-0181. Refaxed now.
+Pt also asks if we can change DOB. He says real birthday is 03/07/2043, not 07/30/2043 - I told him the chart DOB must match ID and ins card, he will bring the license.
+Grandmother Consuela Ruiz (nine-four, "94 yo" per pt) got on the phone and said he did NOT have fibromyalgia and "that is all in her head" -- [she meant the pain is not real, MD to address]. Pt says grandma "is confused sometimes".
+Neighbor Mrs. Abernathy is picking him up for dental on Thursday.
+Advice: keep appointment. Call back if no confirm. Routed to Dr. Eze, Kimberly Soto RN.
+Voicemail auto-transcript (attached): "hi this is theo or tamsin whatever it says on the id, i am calling for doctor ezeh about my ... gran is nine oh" -- caller id MARLOWE TAMSIN
+</TEXT>
+<TAGS>
+<DATE id="P0" start="31" end="41" text="03/08/2078" TYPE="DATE" comment="" />
+<NAME id="P1" start="63" end="73" text="Dana Frisk" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="90" end="102" text="Theo Marlowe" TYPE="PATIENT" comment="" />
+<CONTACT id="P3" start="111" end="125" text="(802) 555-0136" TYPE="PHONE" comment="" />
+<NAME id="P4" start="147" end="160" text="Tammy Marlowe" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="213" end="223" text="03/07/2078" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="251" end="271" text="Winooski Dental Care" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P7" start="331" end="345" text="(802) 555-0188" TYPE="FAX" comment="" />
+<CONTACT id="P8" start="365" end="379" text="(802) 555-0181" TYPE="FAX" comment="" />
+<DATE id="P9" start="454" end="464" text="03/07/2043" TYPE="DATE" comment="" />
+<DATE id="P10" start="470" end="480" text="07/30/2043" TYPE="DATE" comment="" />
+<NAME id="P11" start="575" end="588" text="Consuela Ruiz" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="590" end="599" text="nine-four" TYPE="AGE" comment="" />
+<AGE id="P13" start="602" end="604" text="94" TYPE="AGE" comment="" />
+<NAME id="P14" start="804" end="818" text="Mrs. Abernathy" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="851" end="859" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P16" start="926" end="929" text="Eze" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="931" end="944" text="Kimberly Soto" TYPE="DOCTOR" comment="" />
+<AGE id="P18" start="1092" end="1099" text="nine oh" TYPE="AGE" comment="" />
+<NAME id="P19" start="1114" end="1128" text="MARLOWE TAMSIN" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

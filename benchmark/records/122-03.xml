@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY                                  St. Aldhelm Regional Hospital
+"Mevrouw Fan der Mulen"  (volunteer typed phonetically, pls ignore)   Patient: Brigitte A. Vandermeulen   (formerly Brigitte Annelies Haverkamp)
+MRN SA-0094417   DOB 08/17/2019   Admit 05/10/2093   Discharge 05/14/2093   Age 73
+Discharging physician: Oluwaseun Adeyemi-Park   PCP: Rhea Castellanos, Waterloo Valley Family Health Team
+
+S: 4 day stay for acute confusion superimposed on Alzheimer's. U/A positive, treated as UTI (recurrent UTI hx since 2056), confusion cleared to baseline by day 3. Galantamine duplication confirmed: husband Pieter had been giving galantamine AND the new combo capsule. Pharmacy removed old supply.
+O: discharge BP 135/86 05/14/2093, pain 1/10, wt 77.4 kg. Walks w/ walker.
+A: 1 delirium resolved 2 UTI 3 dementia, caregiver strain 4 hip OA (naproxen STOPPED - not restarted)
+P: f/u urgent care wellness check 05/17/2093, then FHT 05/31/2093. Home care referral. Daughter Sanne Vandermeulen-Clarke has POA.
+
+In conclusion, the patient's journey through this admission shows the importance of medication safety. Mrs. Vandermeulen's family were wonderful and the care team did a great job (written by Priya Venkataraghavan, MS3, pls check).
+
+&gt;&gt;&gt; pasted from admission note
+Patient: VANDERMEULEN, BRIGITTE  MRN SA-0094417  Bed 4W-17B
+Meds: donepezil/memantine, naproxen prn, galantamine 4 mg
+PE: Confused, oriented to person only.
+Electronically signed by Oluwaseun Adeyemi-Park on 05/10/2093
+
+&gt;&gt;&gt; from the phone note
+dautgher Sanne Clarke call back (519) 555-0173 ... son Joris whatsapp +31 6 5550 0142
+per Jaden Okonkwo-Reyes
+
+Henrietta Boomsma, 81, DOB 03/02/2012, MRN SA-0094471 is on 4W-17A, NPO after midnight.  &lt;-- (not ours?)
+
+Discharge meds: donepezil/memantine ER 10/28 mg daily. STOP galantamine. Naproxen held.
+Last edited by pvenkat2 on 05/14/2093 16:40 from 10.44.2.118
+Electronically signed by Oluwaseun Adeyemi-Park, MD on 05/14/2093 17:05
+Note routed to: Rhea Castellanos; fax (519) 555-0188
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="51" end="80" text="St. Aldhelm Regional Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="90" end="103" text="Fan der Mulen" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="160" end="184" text="Brigitte A. Vandermeulen" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="197" end="224" text="Brigitte Annelies Haverkamp" TYPE="PATIENT" comment="" />
+<ID id="P4" start="230" end="240" text="SA-0094417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="247" end="257" text="08/17/2019" TYPE="DATE" comment="" />
+<DATE id="P6" start="266" end="276" text="05/10/2093" TYPE="DATE" comment="" />
+<DATE id="P7" start="289" end="299" text="05/14/2093" TYPE="DATE" comment="" />
+<AGE id="P8" start="306" end="308" text="73" TYPE="AGE" comment="" />
+<NAME id="P9" start="332" end="354" text="Oluwaseun Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="362" end="378" text="Rhea Castellanos" TYPE="DOCTOR" comment="" />
+<LOCATION id="P11" start="380" end="414" text="Waterloo Valley Family Health Team" TYPE="HOSPITAL" comment="" />
+<DATE id="P12" start="532" end="536" text="2056" TYPE="DATE" comment="" />
+<NAME id="P13" start="622" end="628" text="Pieter" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="736" end="746" text="05/14/2093" TYPE="DATE" comment="" />
+<DATE id="P15" start="924" end="934" text="05/17/2093" TYPE="DATE" comment="" />
+<DATE id="P16" start="945" end="955" text="05/31/2093" TYPE="DATE" comment="" />
+<NAME id="P17" start="986" end="1011" text="Sanne Vandermeulen-Clarke" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1130" end="1142" text="Vandermeulen" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1213" end="1234" text="Priya Venkataraghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1294" end="1316" text="VANDERMEULEN, BRIGITTE" TYPE="PATIENT" comment="" />
+<ID id="P21" start="1322" end="1332" text="SA-0094417" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P22" start="1338" end="1344" text="4W-17B" TYPE="ROOM" comment="" />
+<NAME id="P23" start="1467" end="1489" text="Oluwaseun Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1493" end="1503" text="05/10/2093" TYPE="DATE" comment="" />
+<NAME id="P25" start="1538" end="1550" text="Sanne Clarke" TYPE="PATIENT" comment="" />
+<CONTACT id="P26" start="1561" end="1575" text="(519) 555-0173" TYPE="PHONE" comment="" />
+<NAME id="P27" start="1584" end="1589" text="Joris" TYPE="PATIENT" comment="" />
+<CONTACT id="P28" start="1599" end="1614" text="+31 6 5550 0142" TYPE="PHONE" comment="" />
+<NAME id="P29" start="1619" end="1638" text="Jaden Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="1640" end="1657" text="Henrietta Boomsma" TYPE="PATIENT" comment="" />
+<AGE id="P31" start="1659" end="1661" text="81" TYPE="AGE" comment="" />
+<DATE id="P32" start="1667" end="1677" text="03/02/2012" TYPE="DATE" comment="" />
+<ID id="P33" start="1683" end="1693" text="SA-0094471" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P34" start="1849" end="1857" text="pvenkat2" TYPE="USERNAME" comment="" />
+<DATE id="P35" start="1861" end="1871" text="05/14/2093" TYPE="DATE" comment="" />
+<CONTACT id="P36" start="1883" end="1894" text="10.44.2.118" TYPE="IPADDR" comment="" />
+<NAME id="P37" start="1920" end="1942" text="Oluwaseun Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<DATE id="P38" start="1950" end="1960" text="05/14/2093" TYPE="DATE" comment="" />
+<NAME id="P39" start="1983" end="1999" text="Rhea Castellanos" TYPE="DOCTOR" comment="" />
+<CONTACT id="P40" start="2005" end="2019" text="(519) 555-0188" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

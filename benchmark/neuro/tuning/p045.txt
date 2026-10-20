@@ -1,0 +1,17 @@
+INPATIENT REHABILITATION ADMISSION — PM&R
+{{FACILITY|Ashbury Spinal Rehabilitation Hospital}}
+{{NAME|Tobias Kirkconnell-Nyarko}}, 36 M, MRN {{MRN|ASR-6602185}}, admitted {{DATE|09/09/2062}}
+Physiatrist Dr. {{NAME|Lorelei Hammarskjöld}}; PT {{NAME|Juan Carlos Ibarra}}, DPT; OT {{NAME|Fiona McCreadie}}, OTR/L
+
+Fall from roof (work injury) → [[T11 burst fracture]] with [[T12 chance component]], s/p [[T9-L1 posterior instrumented fusion]] at an outside hospital; outside operative notes and CT received on CD.
+Neuro: [[ISNCSCI]] [[neurological level T11]], [[AIS B]] (sensory incomplete, motor complete), [[zone of partial preservation]] none motor. [[Upper motor neuron bowel and bladder]]. Severe [[spasticity]] bilateral lower limbs, [[Modified Ashworth 3]] hip adductors and knee extensors, [[Penn spasm frequency score]] 3, [[clonus]] waking him at night.
+[[FIM]] on admission: total 62 (motor 32, cognitive 30) — [[transfers]] 2, [[locomotion wheelchair]] 3, [[bladder management]] 1.
+Meds: [[baclofen 20 mg QID]] (max oral, sedation), [[tizanidine 4 mg TID]], [[dantrolene]] trial failed (LFTs). [[Botulinum toxin]] limited by muscle bulk.
+Plan: [[intrathecal baclofen trial]] (50 mcg bolus via LP), then [[intrathecal baclofen pump]] if positive. [[Intermittent catheterisation]] q4-6h, [[oxybutynin]], [[bowel program]] with [[digital stimulation]]. [[Pressure injury]] prevention.
+=====NOTE=====
+ITB TRIAL + PUMP — {{DATE|10/01/2062}} — {{NAME|T. Kirkconnell-Nyarko}} — {{MRN|ASR-6602185}}
+[[ITB trial]]: [[50 mcg intrathecal baclofen bolus]] → Ashworth 3 → 1 at 4 h, no weakness affecting transfers → positive.
+Implant ({{DATE|10/08/2062}}, neurosurgeon Dr. {{NAME|Fabian Oduya-Clarke}}): [[Medtronic SynchroMed II programmable pump (40 mL)]] in the left lower abdominal subcutaneous pocket; [[Ascenda intrathecal catheter]] tip at T8 via L2-3 paramedian entry, CSF return confirmed on [[catheter aspiration]]. [[Fluoroscopy]] confirmed catheter course. [[Cefazolin 2 g]] and [[vancomycin]] irrigation. Post-op: [[flat 24 h]] to reduce [[post-dural puncture headache]], [[spinal precautions]]; monitor for [[baclofen overdose]] (drowsiness, [[respiratory depression]], [[hypotonia]]). [[Medtronic]] clinical specialist {{NAME|Priya Dharmaraj}} programmed [[simple continuous 100 mcg/day]] at [[500 mcg/mL]] concentration. Patient pump serial {{ID|SM2-NGV-440912}}; catheter lot noted in implant log.
+=====NOTE=====
+REHAB DISCHARGE — {{DATE|10/29/2062}} — {{NAME|T. Kirkconnell-Nyarko}}
+[[ITB]] titrated to [[180 mcg/day]] with a [[flex dose]] night-time bolus. [[Modified Ashworth 1+]]. [[FIM]] discharge total 98 (motor 66, cognitive 32): transfers 6, wheelchair locomotion 6, bladder 5. Wheelchair: [[ultralight rigid-frame manual wheelchair]] with [[ROHO cushion]]. [[Neurogenic bladder]]: [[intermittent catheterisation]] q6h, [[oxybutynin 5 mg TID]]. [[Neurogenic bowel]]: [[bisacodyl suppository]] daily. [[Autonomic dysreflexia]] unlikely at T11. [[DEXA]] scheduled for [[sublesional osteoporosis]]. Refill in 3 months; [[baclofen withdrawal syndrome]] warning (itching, fever, rebound spasticity, seizures) and [[low reservoir alarm]] taught. Workers' comp case manager {{NAME|Ingeborg Salazar}}, RN, {{ORG|Halverson Claims Management}}, arranged home modifications. Outpatient PT at {{FACILITY|Ashbury Day Rehab}}.

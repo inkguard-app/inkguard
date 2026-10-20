@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 5 | NOTE_TYPE=PATIENT PORTAL MESSAGE | FROM=sroyal1112 | SENT=05/29/2069 21:48 | TO=Dr. Hart's pool
+ROW 6 | SUBJECT=re: my cholesterol / mothers worried | BODY=
+hi,
+
+this is silas royal (the spelling is with an i, Sylas is how they spelled it on the lab sheet lol) DOB 11/12/2007. got the letter about cholesterol being high. i'm not gonna lie it scared me. my mom Gladys says her dad Thaddeus Pruitt died of a heart attack at 58 so now shes calling me every night. she wants to come to the appointment, is that ok? she lives in Hendersonville and doesnt drive after dark.
+
+questions:
+1. do i need to stop drinking completely. i had a problem with it a few years ago, 2064-ish till 2066, and i've been good but i have 1 beer sat nights
+2. my sister Ruth Royal Abara (ruth abarra on the insurance card, they spelled it wrong) is a nurse and says the med they want to start might hurt my muscles. is that true?
+3. can you put Marguerite Dunleavy as emergency contact instead of my mom? her number is 828-555-0188 and she is a good friend, lives down the street. my old emergency contact was my ex and i dont want her called, she knows my address (46 Larkspur Terrace) so please dont give it to anyone who calls
+
+portal password hint thing - it asks my mothers maiden name which is Pruitt, i typed it in the wrong box so it might be in this message, please delete it.
+
+also my bp cuff at home (the one i got from Blue Ridge Hardware &amp; Supply when i still worked there part time) serial HC-77-2209-X read 118/76 this morning. is that right or is the cuff broken. HC-77-2209-X
+
+thx
+silas
+
+Sent from my phone  Caller ID: ROYAL SILAS  828-555-0151
+--
+S. Royall, 46 Larkspur Terrace, Asheville NC 28801
+ROW 7 | STATUS=ROUTED to Dev Chatterjee NP; copy to C. Faulkner RN; Auto-reply sent 05/30/2069 08:02; ticket MSG-2069-0529-7731
+</TEXT>
+<TAGS>
+<NAME id="P0" start="48" end="58" text="sroyal1112" TYPE="USERNAME" comment="" />
+<DATE id="P1" start="66" end="76" text="05/29/2069" TYPE="DATE" comment="" />
+<NAME id="P2" start="92" end="96" text="Hart" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="178" end="189" text="silas royal" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="218" end="223" text="Sylas" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="273" end="283" text="11/12/2007" TYPE="DATE" comment="" />
+<NAME id="P6" start="369" end="375" text="Gladys" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="389" end="404" text="Thaddeus Pruitt" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="431" end="433" text="58" TYPE="AGE" comment="" />
+<LOCATION id="P9" start="533" end="547" text="Hendersonville" TYPE="CITY" comment="" />
+<DATE id="P10" start="672" end="676" text="2064" TYPE="DATE" comment="" />
+<DATE id="P11" start="686" end="690" text="2066" TYPE="DATE" comment="" />
+<NAME id="P12" start="753" end="769" text="Ruth Royal Abara" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="771" end="782" text="ruth abarra" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="928" end="947" text="Marguerite Dunleavy" TYPE="PATIENT" comment="" />
+<CONTACT id="P15" start="1002" end="1014" text="828-555-0188" TYPE="PHONE" comment="" />
+<LOCATION id="P16" start="1149" end="1168" text="46 Larkspur Terrace" TYPE="STREET" comment="" />
+<NAME id="P17" start="1283" end="1289" text="Pruitt" TYPE="PATIENT" comment="" />
+<LOCATION id="P18" start="1414" end="1442" text="Blue Ridge Hardware &amp; Supply" TYPE="ORGANIZATION" comment="" />
+<ID id="P19" start="1487" end="1499" text="HC-77-2209-X" TYPE="DEVICE" comment="" />
+<ID id="P20" start="1563" end="1575" text="HC-77-2209-X" TYPE="DEVICE" comment="" />
+<NAME id="P21" start="1581" end="1586" text="silas" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1619" end="1630" text="ROYAL SILAS" TYPE="PATIENT" comment="" />
+<CONTACT id="P23" start="1632" end="1644" text="828-555-0151" TYPE="PHONE" comment="" />
+<NAME id="P24" start="1648" end="1657" text="S. Royall" TYPE="PATIENT" comment="" />
+<LOCATION id="P25" start="1659" end="1678" text="46 Larkspur Terrace" TYPE="STREET" comment="" />
+<LOCATION id="P26" start="1680" end="1689" text="Asheville" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="1690" end="1692" text="NC" TYPE="STATE" comment="" />
+<LOCATION id="P28" start="1693" end="1698" text="28801" TYPE="ZIP" comment="" />
+<NAME id="P29" start="1724" end="1738" text="Dev Chatterjee" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="1751" end="1762" text="C. Faulkner" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="1783" end="1793" text="05/30/2069" TYPE="DATE" comment="" />
+<ID id="P32" start="1808" end="1826" text="MSG-2069-0529-7731" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

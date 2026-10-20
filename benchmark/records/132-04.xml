@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION  3/13/2092
+WILL, LYLE O   3318046
+
+(notes typed by a volunteer Devika Rao MA, "meds review" - essay style, be kind)
+-&gt; The patient's journey: Mr. Buck (he likes being called buck, Lyle) is a 85 year old man who came in with his niece June Brite, vibes were good, he was in a great mood and cracked jokes.
+-&gt; simvastatin 10 mg - STOPPED 01/04/2092
+-&gt; simvastatin 20 mg daily (still listed, she says he takes it)
+-&gt; metoprolol succinate ER 100 mg daily
+-&gt; nitroglycerin spray prn
+-&gt; donepezil/memantine ER 10/28 once a day
+-&gt; nicotine patch 0.292 mg/hr - "the cigerettes are gone"
+-&gt; ibuprofen - stopped 03/22/2089
+In conclusion the patient takes alot of pills and the niece fills the pill box on Sundays.
+Allergies: none. Discrepancy: both strengths of simvastatin - flagged to Strand-Mbeki.
+Pharmacy rx RX-8840316.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="27" end="36" text="3/13/2092" TYPE="DATE" comment="" />
+<ID id="P1" start="52" end="59" text="3318046" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="89" end="99" text="Devika Rao" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="172" end="176" text="Buck" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="200" end="204" text="buck" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="206" end="210" text="Lyle" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="217" end="219" text="85" TYPE="AGE" comment="" />
+<NAME id="P7" start="260" end="270" text="June Brite" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="362" end="372" text="01/04/2092" TYPE="DATE" comment="" />
+<DATE id="P9" start="628" end="638" text="03/22/2089" TYPE="DATE" comment="" />
+<NAME id="P10" start="803" end="815" text="Strand-Mbeki" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="829" end="839" text="RX-8840316" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

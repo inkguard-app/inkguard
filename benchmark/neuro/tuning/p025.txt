@@ -1,0 +1,34 @@
+MOVEMENT DISORDERS CENTER — DBS CANDIDACY EVALUATION
+{{FACILITY|Lowmoor Institute for Movement Disorders}}
+Patient: {{NAME|Archibald Parkinson}}   MRN {{MRN|LIM-30188425}}   Evaluation {{DATE|04/07/2067}}
+
+66-year-old man with idiopathic [[Parkinson disease]] — diagnosed 11 years ago — and yes, his surname really is {{NAME|Parkinson}} ("I was destined for it," he says). Right-onset [[tremor-dominant]] disease, now with [[motor fluctuations]] (4 h/day "off" time), [[peak-dose dyskinesia]], [[wearing-off]] 2.5 h after each dose, and [[freezing of gait]] in the off state.
+
+Medications: [[carbidopa/levodopa 25/100 mg]] 2 tabs 5x/day, [[entacapone 200 mg]] with each dose, [[rasagiline 1 mg]], [[amantadine ER 274 mg]] nightly. [[Levodopa equivalent daily dose (LEDD)]] 1480 mg.
+
+[[Levodopa challenge test]]: [[MDS-UPDRS Part III]] OFF 52 → ON 18 (65% improvement, over the 30% threshold). [[Hoehn and Yahr stage 2.5]] ON, [[stage 3]] OFF. Tremor fully levodopa-responsive. [[Postural instability]] mild ([[pull test]] 3 steps recovery ON).
+
+Neuropsychology: [[MoCA 27/30]], no dementia. [[Geriatric Depression Scale]] 4. No [[impulse control disorder]].
+
+[[MRI brain 3T]] with [[FGATIR sequence]]: mild atrophy, no vascular lesions, [[STN]] well visualised.
+
+Recommendation: bilateral [[subthalamic nucleus deep brain stimulation (STN-DBS)]] with [[directional leads]]; expected reduction of LEDD ~50%. [[GPi DBS]] considered, but STN preferred to allow medication reduction.
+
+Team: Dr. {{NAME|Wendeline Arbuthnot}} (neurology), Dr. {{NAME|Cassius Oyediran}} (functional neurosurgery).
+Wife {{NAME|Imelda Parkinson}}, {{PHONE|555-947-3302}}.
+=====NOTE=====
+OPERATIVE NOTE — BILATERAL STN DBS
+{{NAME|PARKINSON, ARCHIBALD}} {{MRN|LIM-30188425}} {{DATE|05/19/2067}}
+Surgeon {{NAME|C. Oyediran}}
+
+[[Leksell stereotactic frame (Vantage)]] applied under local anaesthesia; [[stereotactic CT]] fused to pre-op [[3T MRI]]. Targets: [[dorsolateral STN]], [[AC-PC line]] 25.3 mm; coordinates relative to [[mid-commissural point]] 12 mm lateral, 2 mm posterior, 4 mm inferior, adjusted to direct visualisation. [[Microelectrode recording]] with [[Ben-Gun array]] (central, posterior, lateral tracks) — characteristic STN [[high-frequency irregular firing]] and [[kinesthetic cells]] over 5.5 mm on the left, 5.0 mm on the right; [[substantia nigra pars reticulata]] encountered ventrally.
+Macrostimulation: marked rigidity and tremor reduction at 1.5 mA; [[capsular side effects]] (facial pulling) above 4.5 mA; [[paraesthesia]] threshold 3.5 mA (medial lemniscus).
+Leads: [[Boston Scientific Vercise Cartesia directional leads]]; patient lead serials L {{ID|VCX-L-776102}} and R {{ID|VCX-R-776119}}.
+Intraop [[O-arm]] confirmed placement.
+Stage 2 (same day): [[Vercise Genus R16 rechargeable IPG]] implanted in the left infraclavicular pocket.
+=====NOTE=====
+DBS PROGRAMMING VISIT — {{DATE|06/23/2067}} — {{NAME|A. Parkinson}}
+Initial programming. Monopolar review: L lead best contact 2abc (ring), R lead best contact 10 (segment) with directional steering away from the [[internal capsule]].
+Settings: L [[2.8 mA, 60 µs, 130 Hz]]; R [[2.4 mA, 60 µs, 130 Hz]] directional.
+[[MDS-UPDRS III]] (off meds, on stim) 21. Tremor abolished. Mild [[stimulation-induced dyskinesia]] → reduced [[carbidopa/levodopa]] to 1.5 tabs 5x/day, stopped [[entacapone]]. New LEDD 780 mg. No [[dysarthria]], no [[apraxia of eyelid opening]], no [[corticospinal side effects]], no [[diplopia]] (no [[oculomotor nerve]] spread). [[Freezing of gait]] improved. [[Impedance check]] normal on all contacts. Battery recharging taught; [[MRI conditional]] labelling reviewed (full-body 1.5T only with [[MRI mode]] on).
+Next visit 4 weeks. Programmer: {{NAME|Hiroko Vandermeulen}}, RN, CNRN. Patient's IPG serial {{ID|VGR16-449830172}}.

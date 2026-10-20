@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Patient portal message  -  From: Hunter Early   To: Dr. Lindqvist's office
+Sent: Sat 06/10/2079 07:48     Subject: eye apt and other stuff
+
+Logged in as: hearly22
+
+Hi Doc,
+
+Got the results from the eye exam on the portal but I dont understand it. It said something about "no retinopathy" which I think is good?? Also the paper they gave me says my pressure was fine. I read online diabetis can make you go blind so I was worried.
+
+Also I wanted to say I am doing a little better than last year. I went to a thing at the library on Tuesday. Didn't talk much. Margie says I should tell you I've been sleeping fine but waking up early still. Its not as bad.
+
+One more thing. The new neighbors above me are loud at nite and there was a fight in the parking lot again around two am, someone yelling. Third time this summer. I dont feel safe walking to the bus. Is that something you can write down? I am not suicidal or anything just tired of it.
+
+My number if you want to call is 570-555-0129 but dont call before 10, I sleep in on weekends. Or email me at hearly.scranton@mailbbox.example.
+
+Thanks,
+Hunt
+(Hunter E., DOB 3-9-22, in case you need to find me)
+
+---
+Message routed to: Triage Pool B   Read by jalcott 06/10/2079 10:31 from 10.12.88.4
+</TEXT>
+<TAGS>
+<NAME id="P0" start="33" end="45" text="Hunter Early" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="56" end="65" text="Lindqvist" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="81" end="95" text="Sat 06/10/2079" TYPE="DATE" comment="" />
+<NAME id="P3" start="154" end="162" text="hearly22" TYPE="USERNAME" comment="" />
+<DATE id="P5" start="531" end="538" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P6" start="558" end="564" text="Margie" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="806" end="817" text="this summer" TYPE="DATE" comment="" />
+<CONTACT id="P8" start="976" end="988" text="570-555-0129" TYPE="PHONE" comment="" />
+<CONTACT id="P9" start="1053" end="1085" text="hearly.scranton@mailbbox.example" TYPE="EMAIL" comment="" />
+<NAME id="P10" start="1096" end="1100" text="Hunt" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="1102" end="1111" text="Hunter E." TYPE="PATIENT" comment="" />
+<DATE id="P12" start="1117" end="1123" text="3-9-22" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="1178" end="1191" text="Triage Pool B" TYPE="DEPARTMENT" comment="" />
+<NAME id="P14" start="1202" end="1209" text="jalcott" TYPE="USERNAME" comment="" />
+<DATE id="P15" start="1210" end="1220" text="06/10/2079" TYPE="DATE" comment="" />
+<CONTACT id="P16" start="1232" end="1242" text="10.12.88.4" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

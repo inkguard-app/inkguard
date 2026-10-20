@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT - sent to portal and mailed
+To: Journey Rich, 47 Alder Court, Apt 3B, Spokane, WA 99203
+Result date: 10/18/2066     Ordering: Aster Quinn, MD     MRN 7720-315
+Specimen label printed: BABY STORY RICH (label error, specimen is mom's) 
+
+Dear Ms. Rich,
+Your blood count showed low hemoglobin: 11.3 (it was 15.9 one week ago, on 10/11/2066). White cell count 6.6 is normal. The blood smear was reviewed and is consistent with blood loss. This fits with the heavy bleeding you described and the small fibroid seen on your ultrasound on 10/14/2066.
+
+What we recommend:
+- Start iron, one tablet daily with orange juice. RX 5530817 was sent to your pharmacy.
+- We are sending a referral to gynecology. Their office will call you on your cell. (You asked us not to leave detailed messages on the home line.)
+- Recheck blood in 4 weeks.
+Your A1c of 6.1 from 10/11/2066 remains in the prediabetes range. No change needed.
+
+If you feel faint, short of breath or the bleeding soaks a pad an hour, go to the ER.
+Sincerely, Cash Monroe, MA, for Dr. Quinn
+Copy-forward from 03/29/2066: "Return in 6 mos for yearly check" (already done)
+Message sent by cmonroe from 172.16.8.41 10/18/2066 17:26
+</TEXT>
+<TAGS>
+<NAME id="P0" start="51" end="63" text="Journey Rich" TYPE="PATIENT" comment="" />
+<LOCATION id="P1" start="65" end="87" text="47 Alder Court, Apt 3B" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="89" end="96" text="Spokane" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="98" end="100" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="101" end="106" text="99203" TYPE="ZIP" comment="" />
+<DATE id="P5" start="120" end="130" text="10/18/2066" TYPE="DATE" comment="" />
+<NAME id="P6" start="145" end="156" text="Aster Quinn" TYPE="DOCTOR" comment="" />
+<ID id="P7" start="169" end="177" text="7720-315" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="207" end="212" text="STORY" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="262" end="266" text="Rich" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="343" end="353" text="10/11/2066" TYPE="DATE" comment="" />
+<DATE id="P11" start="549" end="559" text="10/14/2066" TYPE="DATE" comment="" />
+<ID id="P12" start="634" end="641" text="5530817" TYPE="IDNUM" comment="" />
+<DATE id="P13" start="866" end="876" text="10/11/2066" TYPE="DATE" comment="" />
+<NAME id="P14" start="1027" end="1038" text="Cash Monroe" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1052" end="1057" text="Quinn" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1076" end="1086" text="03/29/2066" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="1167" end="1178" text="172.16.8.41" TYPE="IPADDR" comment="" />
+<DATE id="P18" start="1179" end="1189" text="10/18/2066" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

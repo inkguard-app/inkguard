@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE
+Pt: ZIELINSKI, TOMASZ ADEYEMI   DOB 02/19/2065   MRN CH-0458213   Rm 4
+Maison Arc-en-Ciel Paediatric Hospice
+Date of death: 08/10/2072  Time: 04:40  Age 7 y 5 m
+
+Pronounced by Dr Priya Nambiar 04:52, witnessed Odile Marchetti RN + Hanna Verheul RN (night).
+Found by RN on 04:30 rounds, no resp effort, no pulse, pupils fixed. Parents present - mother Agnieszka and father Tunde had been at bedside since Tues eve. Sister Zofia asleep on cot, woke 05:15 fm mom told in room w child life.
+
+Cause: sudden cardiac death - on bkgd of seizure disorder (dx 4/29/2067), in hospice since 7/13. No resuscitation attempted (DNR).
+Coroner (Bureau du coroner) notified 05:20, file CO-72-04410, no autopsy requested, fam declined consent for own.
+
+Pasted from 08/09 night note:
+Nursing Note 08/09/2072 22:10  D. Kowalczuk RN
+Pt: Tomasz Z.  Room 6  MRN CH-0458213 - transferred, see below
+Sleeping, resp 18 reg, no seizure. Mouth care done. Parents at bedside. Comfort kit unchanged. Fam asked abt cremation vs burial. Last wt 22.1 kg (was 23.0 on 12/30/71).
+Electronically signed dkowalczuk 8/9/72 22:41
+
+Pasted from H&amp;P 07/13/2072:
+Attending: Dr Priya Nambiar  Meds: none active. Diazepam 5 mg po prn seizure (stopped 2068). Informant: parents. Allergies: NKDA. Fam contact mom 819-555-0173. Pt lives w parents at 27 Rue des Erables, Gatineau QC J8T 4M9
+
+&gt;&gt;&gt; mother wishes burial, Beaudoin &amp; Fils funeral home notified 06:10, they'll collect ~09:00. Plot already chosen next to paternal great-grandfather in Section C, Lot 22, Cimetiere Notre-Dame-du-Lac. Dad shared the memorial page the school started: https://www.tomaszsmile-fund.example/give (donations to epilepsy charity) + wants teacher Mme Boucher told personally. Aunt Folake Adeyemi in Lagos, grandmother Halina Zelinska in Gdansk told by phone 06:30 (no reply from Lagos, will retry after Thurs service in Gatineau).
+
+Belongings: blue blanket, stuffed giraffe named Zielinski (child's own joke, family pet name for toy), seizure diary (3 vols) - given to mom. Wristband removed, ID band # WB-7731904 kept in chart.
+
+Notified: Dr Callum Rafferty (PCP, fax 819-555-0102), Dr Ingrid Vasseur neuro, Social Work. Death cert to be completed by Dr Nambiar on 8/10 am.
+Ref # V72-0810-0099  Rx RX 7741920 comfort kit - unused portion destroyed w 2 RNs.
+
+Dr P. Nambiar MD
+Electronically signed 08/10/2072 07:48   Last edit pnambiar 08:02 from 10.44.8.121
+</TEXT>
+<TAGS>
+<NAME id="P0" start="15" end="40" text="ZIELINSKI, TOMASZ ADEYEMI" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="47" end="57" text="02/19/2065" TYPE="DATE" comment="" />
+<ID id="P2" start="64" end="74" text="CH-0458213" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="77" end="81" text="Rm 4" TYPE="ROOM" comment="" />
+<LOCATION id="P4" start="82" end="119" text="Maison Arc-en-Ciel Paediatric Hospice" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="135" end="145" text="08/10/2072" TYPE="DATE" comment="" />
+<AGE id="P6" start="164" end="165" text="7" TYPE="AGE" comment="" />
+<AGE id="P7" start="168" end="169" text="5" TYPE="AGE" comment="" />
+<NAME id="P8" start="190" end="203" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="221" end="236" text="Odile Marchetti" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="242" end="255" text="Hanna Verheul" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="362" end="371" text="Agnieszka" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="383" end="388" text="Tunde" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="415" end="419" text="Tues" TYPE="DATE" comment="" />
+<NAME id="P14" start="432" end="437" text="Zofia" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="561" end="570" text="4/29/2067" TYPE="DATE" comment="" />
+<DATE id="P16" start="590" end="594" text="7/13" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="639" end="656" text="Bureau du coroner" TYPE="ORGANIZATION" comment="" />
+<ID id="P18" start="679" end="690" text="CO-72-04410" TYPE="IDNUM" comment="" />
+<DATE id="P19" start="788" end="798" text="08/09/2072" TYPE="DATE" comment="" />
+<NAME id="P20" start="806" end="818" text="D. Kowalczuk" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="826" end="835" text="Tomasz Z." TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="837" end="843" text="Room 6" TYPE="ROOM" comment="" />
+<ID id="P23" start="849" end="859" text="CH-0458213" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P24" start="1044" end="1052" text="12/30/71" TYPE="DATE" comment="" />
+<NAME id="P25" start="1077" end="1087" text="dkowalczuk" TYPE="USERNAME" comment="" />
+<DATE id="P26" start="1088" end="1094" text="8/9/72" TYPE="DATE" comment="" />
+<DATE id="P27" start="1118" end="1128" text="07/13/2072" TYPE="DATE" comment="" />
+<NAME id="P28" start="1144" end="1157" text="Priya Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1216" end="1220" text="2068" TYPE="DATE" comment="" />
+<CONTACT id="P30" start="1276" end="1288" text="819-555-0173" TYPE="PHONE" comment="" />
+<LOCATION id="P31" start="1312" end="1330" text="27 Rue des Erables" TYPE="STREET" comment="" />
+<LOCATION id="P32" start="1332" end="1340" text="Gatineau" TYPE="CITY" comment="" />
+<LOCATION id="P33" start="1341" end="1343" text="QC" TYPE="STATE" comment="" />
+<LOCATION id="P34" start="1344" end="1351" text="J8T 4M9" TYPE="ZIP" comment="" />
+<LOCATION id="P35" start="1379" end="1394" text="Beaudoin &amp; Fils" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P36" start="1506" end="1523" text="Section C, Lot 22" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P37" start="1525" end="1552" text="Cimetiere Notre-Dame-du-Lac" TYPE="LOCATION-OTHER" comment="" />
+<CONTACT id="P38" start="1603" end="1644" text="https://www.tomaszsmile-fund.example/give" TYPE="URL" comment="" />
+<NAME id="P39" start="1693" end="1704" text="Mme Boucher" TYPE="PATIENT" comment="" />
+<NAME id="P40" start="1727" end="1741" text="Folake Adeyemi" TYPE="PATIENT" comment="" />
+<LOCATION id="P41" start="1745" end="1750" text="Lagos" TYPE="CITY" comment="" />
+<NAME id="P42" start="1764" end="1779" text="Halina Zelinska" TYPE="PATIENT" comment="" />
+<LOCATION id="P43" start="1783" end="1789" text="Gdansk" TYPE="CITY" comment="" />
+<DATE id="P44" start="1849" end="1854" text="Thurs" TYPE="DATE" comment="" />
+<LOCATION id="P45" start="1866" end="1874" text="Gatineau" TYPE="CITY" comment="" />
+<NAME id="P46" start="1926" end="1935" text="Zielinski" TYPE="PATIENT" comment="" />
+<ID id="P47" start="2049" end="2059" text="WB-7731904" TYPE="IDNUM" comment="" />
+<NAME id="P48" start="2089" end="2104" text="Callum Rafferty" TYPE="DOCTOR" comment="" />
+<CONTACT id="P49" start="2115" end="2127" text="819-555-0102" TYPE="FAX" comment="" />
+<NAME id="P50" start="2133" end="2147" text="Ingrid Vasseur" TYPE="DOCTOR" comment="" />
+<LOCATION id="P51" start="2155" end="2166" text="Social Work" TYPE="DEPARTMENT" comment="" />
+<NAME id="P52" start="2201" end="2208" text="Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P53" start="2212" end="2216" text="8/10" TYPE="DATE" comment="" />
+<ID id="P54" start="2227" end="2240" text="V72-0810-0099" TYPE="ACCOUNT" comment="" />
+<ID id="P55" start="2245" end="2255" text="RX 7741920" TYPE="IDNUM" comment="" />
+<NAME id="P56" start="2308" end="2318" text="P. Nambiar" TYPE="DOCTOR" comment="" />
+<DATE id="P57" start="2344" end="2354" text="08/10/2072" TYPE="DATE" comment="" />
+<NAME id="P58" start="2373" end="2381" text="pnambiar" TYPE="USERNAME" comment="" />
+<CONTACT id="P59" start="2393" end="2404" text="10.44.8.121" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

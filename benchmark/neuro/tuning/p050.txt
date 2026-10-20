@@ -1,0 +1,18 @@
+FUNCTIONAL NEUROSURGERY — ESSENTIAL TREMOR
+{{FACILITY|Ivywood Neuromodulation Center}}
+{{NAME|Marcellus Dreyfus-Okonkwo}}, 74 M, MRN {{MRN|INC-3022174}}, {{DATE|09/05/2068}}
+History by {{NAME|Ingrid Thorsdottir}}, PA-C; movement neurologist Dr. {{NAME|Esperanza Kowalczyk}}; neurosurgeon Dr. {{NAME|Dashiell Mubarak}}
+
+40-year history of bilateral [[action tremor]] ([[postural and kinetic tremor]]), right worse, now unable to write or drink from a cup; [[head tremor]] ("no-no"). Family history positive (father). Improves with alcohol. No [[rest tremor]], no [[bradykinesia]], no [[rigidity]] → [[essential tremor]] (not [[Parkinson disease]]); [[DaTscan]] normal.
+[[Fahn-Tolosa-Marín Tremor Rating Scale (TRS)]] 62; [[CRST part C]] 18. [[Archimedes spiral]] markedly tremulous right. [[QUEST]] 58.
+Failed [[propranolol 160 mg/day]] (bradycardia), [[primidone 250 mg/day]] (sedation), [[topiramate]] (cognitive slowing).
+Options: [[MR-guided focused ultrasound thalamotomy (MRgFUS)]] of the left [[ventral intermediate nucleus (VIM)]] — incisionless, unilateral; vs bilateral [[VIM DBS]]. [[Skull density ratio]] 0.48 on CT (adequate, over 0.40). Patient chooses left MRgFUS.
+=====NOTE=====
+PROCEDURE NOTE — LEFT VIM MRgFUS THALAMOTOMY — {{DATE|10/17/2068}}
+{{NAME|DREYFUS-OKONKWO, MARCELLUS}} {{MRN|INC-3022174}}
+Surgeon Dr. {{NAME|D. Mubarak}}; neurologist Dr. {{NAME|E. Kowalczyk}} at bedside for tremor testing; [[Insightec Exablate Neuro]] application specialist {{NAME|Roland Feigenbaum}} present; MRI technologist {{NAME|Pilar Castañeda}}, RT(MR).
+Head shaved, [[stereotactic frame]] applied, [[silicone membrane]] with chilled degassed water. [[3T MRI]] planning: target [[VIM]] at 14 mm lateral to the [[AC-PC line]] midpoint (or 11 mm from the third ventricle wall), 25% of AC-PC length anterior to PC, at the AC-PC plane; adjusted with [[DTI tractography]] to stay 3-4 mm medial to the [[corticospinal tract]] and anterior to the [[medial lemniscus]].
+Sonications: alignment (42-46 degrees C), verification (50-52 degrees C) with tremor reduction and no [[paraesthesia]]; 4 treatment sonications up to 58 degrees C ([[thermal dose]] 240 CEM). Right hand tremor abolished on spiral drawing. Transient lip tingling at 56 degrees C resolved. Post-procedure [[T2]] shows the lesion with surrounding [[perilesional oedema]], [[DWI]] restricted core.
+[[Dexamethasone 4 mg BID]] x 3 days. Post-procedure neuro exam: no [[hemiparesis]], no [[dysmetria]], gait steady, [[finger-to-nose]] intact.
+=====NOTE=====
+3-mo F/U {{DATE|01/16/2069}} — {{NAME|M. Dreyfus-Okonkwo}}: right hand [[TRS part A/B]] improved 78%. Mild [[gait imbalance]] (resolved by week 4) and persistent [[perioral paraesthesia]] (small). No [[dysarthria]], no [[weakness]], no [[dysphagia]]. MRI: [[thalamotomy lesion]] 5 mm, [[perilesional oedema]] resolved. [[Archimedes spiral]] right hand near normal; [[QUEST]] 30. [[Propranolol]] restarted at low dose for left hand. [[Primidone]] off. Left hand tremor persists — second-side MRgFUS now possible (staged bilateral approved) vs right [[VIM DBS]] ([[Abbott Infinity]] directional). [[Head tremor]] modestly improved. Note by {{NAME|I. Thorsdottir}}, PA-C.

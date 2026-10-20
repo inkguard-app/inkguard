@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE (SOAP)    4 East Cardiac Step-Down                 Page 1 of 2
+RUSKIN, WINIFRED  MRN A-2230918  Rm 4E-17  Admit 04/26/2075  Age 71
+
+S: Pt c/o "tightness" in chest, resolved afetr nitro SL x2 en route. States, "I knew this day would come, I had my first heart test in 2068, then the stent talk." Denies N/V. Pain 3/10 at 0600, 0/10 now.
+O: HR 62 BP 118/70 RR 16 SpO2 97% RA. Monitor SR w/ resolved ST elevation per MD, STEMI dx 4/26. Pt received ASA 325, heparin, morphine 1 mg IV, clopidogrel 300 mg load in ED. Today 4/27: ASA 81, metoprolol succ 25, pravastaatin 40 started. Radial site R clean/dry/intact, no hematoma. Pt weearing glucometer sticker "Serial GM-70-4412893" on wrist band over her name band, covering. Bed alarm unit BA-0099-217 on.
+Pt's own meter brought from home -- placed in locked drawer, belongings sheet signed.  Pt's car (plate MN GRX-4471) still in ED lot per daughter; ask security to move.
+A: Pt stable, no reccurrent CP. DM2 w/ fingerstick 142 at 0730.
+P: Cont tele. Daughter Tamsin here, updated at bedside, phpne on cart (218) 555-0163. Cardiac rehab ed given. Pt to be seen by Dr. Qureshi this PM. Call light in reach.
+Handoff to night RN: no changes. Voicemail from pt's ex (Clifford) rec'd -- NOT in release list, no info given.
+
+Signed M. Castellanos RN 04/27/2075 1500   ext. x4417
+Edited by mcastellanos from 172.16.88.9
+</TEXT>
+<TAGS>
+<NAME id="P0" start="76" end="92" text="RUSKIN, WINIFRED" TYPE="PATIENT" comment="" />
+<ID id="P1" start="98" end="107" text="A-2230918" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P2" start="112" end="117" text="4E-17" TYPE="ROOM" comment="" />
+<DATE id="P3" start="125" end="135" text="04/26/2075" TYPE="DATE" comment="" />
+<AGE id="P4" start="141" end="143" text="71" TYPE="AGE" comment="" />
+<DATE id="P5" start="280" end="284" text="2068" TYPE="DATE" comment="" />
+<DATE id="P6" start="440" end="444" text="4/26" TYPE="DATE" comment="" />
+<DATE id="P7" start="531" end="535" text="4/27" TYPE="DATE" comment="" />
+<ID id="P8" start="674" end="687" text="GM-70-4412893" TYPE="DEVICE" comment="" />
+<ID id="P9" start="748" end="759" text="BA-0099-217" TYPE="DEVICE" comment="" />
+<ID id="P10" start="867" end="878" text="MN GRX-4471" TYPE="VEHICLE" comment="" />
+<NAME id="P11" start="1019" end="1025" text="Tamsin" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="1066" end="1080" text="(218) 555-0163" TYPE="PHONE" comment="" />
+<NAME id="P13" start="1127" end="1134" text="Qureshi" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1222" end="1230" text="Clifford" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1285" end="1299" text="M. Castellanos" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1303" end="1313" text="04/27/2075" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="1326" end="1331" text="x4417" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1342" end="1354" text="mcastellanos" TYPE="USERNAME" comment="" />
+<CONTACT id="P19" start="1360" end="1371" text="172.16.88.9" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

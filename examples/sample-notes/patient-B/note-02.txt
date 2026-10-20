@@ -1,0 +1,12 @@
+Aldermarsh Family Practice - Progress Note
+Date: 05/02/2060     Patient: Marisol Tangin     Age: 54     MRN TN-904417
+Provider: Dr. Ngozi Aldermarsh
+
+SUBJECTIVE. This is a fifty four year old female here for follow up of the burn to the left arm. she is no longer at the nursing facility, she is back home with her husband Bertrum Tangen and it was a long five weeks. She says her pain is 1 out of 10, it was 50 out of 10 in the first week.. She is eating well and not smoking. Her daughter Calla visits on Sundays and her son Zeke lives down the hall from his mother in the same complex. Landlord Mr. Deshmukh has been fixing the stove, which she says is the reason for the scald (it hissed and spilled). Neighbor Philippa Ngata brings soup. She is worried about work at Sunrise Ridge Bakery, where she helps on weekends.
+
+Pasted from ED note: Mrs. Tangen is a 54 year old woman who presented on 03/31/2060 after a scald burn to the left forearm and hand. Hot water in a pot. No loss of consciousness. Sent to Maple Terrace.
+
+OBJECTIVE. Skin: healed, pink, no blisters, full grip, no contracture. Heart regular. weight is stable. 
+ASSESSMENT. Epidermal burn healed, resolve today. Hyper tension not present. Prediabetes still there, last A1c checked in the fall.
+PLAN. Stop silver cream. Moisturizer. Sunscreen on the area. Return as needed. Patient spelled her last name for the schedule: Tango Alpha November Golf Echo November, and first name Mike Alpha Romeo India Sierra Oscar Lima. Next general exam in the fall.
+Note scribed with voice recognition by Dr. Aldermarsh, 5/2/60 11:48, from workstation 192.168.14.77

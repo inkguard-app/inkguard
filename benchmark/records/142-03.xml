@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>SANTA CATALINA COMMUNITY CLINIC                                        PAGE 1 OF 2
+DATE: APRIL 9, 2071
+
+TO: SAGUARO MUTUAL INSURANCE, CLAIMS DEPT.      FAX (520) 555-0163
+CC: DESERT SKY AUTO SALVAGE, ATTN HR
+RE: LEOPOLDO VASQUEZ-TREJO    DOB 08/14/2011    POLICY POL-55-908-221
+CLAIM NUMBER: WC-2065-
+0044718
+
+DEAR SIRS OR MADAM,
+
+I AM WRITING AT THE REQUEST OF MY PATIENT, MR. VASQUEZ-TREJO, AGE 59, WHOM I HAVE FOLLOWED SINCE 2070. HE HAS HAD ISCHEMIC HEART DISEASE SINCE 12/24/2065, CHRONIC PAIN, CHRONIC SINUSITIS (SINCE 08/30/2070) AND DEPRESSION. HE WAS SEEN AT THIS CLINIC ON 03/19/2071, 03/26/2071 (ACUTE BRONCHITIS) AND 04/02/2071 (GUM SURGERY, GINGIVECTOMY). HE NEEDS TIME OFF FOR RECOVERY AND CANNOT LIFT OR OPERATE HEAVY MACHINERY UNTIL REVIEWED AGAIN IN MAY 2071.
+
+HIS FAMILY SITUATION: HIS WIFE PERPETUA CARES FOR HER MOTHER, 94 YO, (94y), AND HE HELPS WITH HER. HE IS NOT ABLE TO WORK NIGHTS. THE COUPLE IS BEHIND ON RENT; LANDLORD IS SONORAN RENTALS LLC.
+
+PLEASE CALL MY OFFICE AT (520) 555-0170 IF YOU NEED MORE.
+SINCERELY,
+FIONA ABERNATHY-CHO, MD
+PAGE 2 OF 2   VASQUEZ-TREJO, LEOPOLDO   MRN 7720-5538   DOB 00/00/0000
+E-SIGNED FIONA ABERNATHY-CHO 04/09/2071 16:02
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="SANTA CATALINA COMMUNITY CLINIC" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="89" end="102" text="APRIL 9, 2071" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="108" end="132" text="SAGUARO MUTUAL INSURANCE" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P3" start="156" end="170" text="(520) 555-0163" TYPE="FAX" comment="" />
+<LOCATION id="P4" start="175" end="198" text="DESERT SKY AUTO SALVAGE" TYPE="ORGANIZATION" comment="" />
+<NAME id="P5" start="212" end="234" text="LEOPOLDO VASQUEZ-TREJO" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="242" end="252" text="08/14/2011" TYPE="DATE" comment="" />
+<ID id="P7" start="263" end="277" text="POL-55-908-221" TYPE="IDNUM" comment="" />
+<ID id="P8" start="292" end="300" text="WC-2065-" TYPE="IDNUM" comment="" />
+<ID id="P9" start="301" end="308" text="0044718" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="378" end="391" text="VASQUEZ-TREJO" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="397" end="399" text="59" TYPE="AGE" comment="" />
+<DATE id="P12" start="428" end="432" text="2070" TYPE="DATE" comment="" />
+<DATE id="P13" start="474" end="484" text="12/24/2065" TYPE="DATE" comment="" />
+<DATE id="P14" start="525" end="535" text="08/30/2070" TYPE="DATE" comment="" />
+<DATE id="P15" start="583" end="593" text="03/19/2071" TYPE="DATE" comment="" />
+<DATE id="P16" start="595" end="605" text="03/26/2071" TYPE="DATE" comment="" />
+<DATE id="P17" start="629" end="639" text="04/02/2071" TYPE="DATE" comment="" />
+<DATE id="P18" start="767" end="775" text="MAY 2071" TYPE="DATE" comment="" />
+<NAME id="P19" start="809" end="817" text="PERPETUA" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="840" end="845" text="94 YO" TYPE="AGE" comment="" />
+<AGE id="P21" start="848" end="851" text="94y" TYPE="AGE" comment="" />
+<LOCATION id="P22" start="950" end="969" text="SONORAN RENTALS LLC" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P23" start="997" end="1011" text="(520) 555-0170" TYPE="PHONE" comment="" />
+<NAME id="P24" start="1041" end="1060" text="FIONA ABERNATHY-CHO" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1079" end="1102" text="VASQUEZ-TREJO, LEOPOLDO" TYPE="PATIENT" comment="" />
+<ID id="P26" start="1109" end="1118" text="7720-5538" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P27" start="1125" end="1135" text="00/00/0000" TYPE="DATE" comment="" />
+<NAME id="P28" start="1145" end="1164" text="FIONA ABERNATHY-CHO" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1165" end="1175" text="04/09/2071" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

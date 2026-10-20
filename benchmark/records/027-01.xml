@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,enc_id,patient_name,mrn,dob,note_type,author,created,dept,note_text
+88213,"ENC-82031004","STRAND, NOLAN E","CV-0617249","11/08/2019","Telephone Encounter","Ostrander, Gwen RN","03/10/2082 08:41","Cardiology Triage","
+- Inbound call fm pt re: palpitations + "tight chest" since urgent care visit yesterday (Mon 3/9).
+- Urgent care told him ECG ok, BP 95/84, sent home w/ ibuprofen?? No - acetaminophen. Told to see cardiology.
+- Pt says a man confronted him outside his buliding Mon evening, shoving, then fled in a car, plate he wrote down: KTH 4821. Police rpt #82-014477. Pt safe at home now, declined SW call.
+- Denies syncope, SOB at rest, diaphoresis. Pain 1/10 per UC sheet.
+- Callback # confirmed (218) 555-0162, ok to leave detailed VM. Alt: (000) 000-0000  Emergency contact: &lt;&lt;EMERG_CONTACT&gt;&gt;  Pt employer: {EMPLOYER}
+- Hx: NO known cardiac dx. Not on any cardiac meds. Takes OTC naproxen occasionally (ribs, 2076).
+- Plan: appt w/ Dr. Wierzbicki next available, nurse visit for 14-day event monitor Mon 3/16 10:00.
+- Go to ED / call 911 if CP at rest, fainting. Pt read back.
+- Pt asked if clinic can see the doorbell video from the neighbor, file named front_77HarlowCt_2082-03-09_2114.mp4. Told not our dept.
+- Sent to: Dr. Wierzbicki; ccd PCP Dr. Teller, fax (218) 555-0188"
+</TEXT>
+<TAGS>
+<ID id="P0" start="82" end="94" text="ENC-82031004" TYPE="IDNUM" comment="" />
+<NAME id="P1" start="97" end="112" text="STRAND, NOLAN E" TYPE="PATIENT" comment="" />
+<ID id="P2" start="115" end="125" text="CV-0617249" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="128" end="138" text="11/08/2019" TYPE="DATE" comment="" />
+<NAME id="P4" start="163" end="181" text="Ostrander, Gwen RN" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="184" end="194" text="03/10/2082" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="203" end="220" text="Cardiology Triage" TYPE="DEPARTMENT" comment="" />
+<DATE id="P7" start="313" end="320" text="Mon 3/9" TYPE="DATE" comment="" />
+<DATE id="P8" start="485" end="488" text="Mon" TYPE="DATE" comment="" />
+<ID id="P9" start="548" end="556" text="KTH 4821" TYPE="VEHICLE" comment="" />
+<ID id="P10" start="570" end="579" text="82-014477" TYPE="IDNUM" comment="" />
+<CONTACT id="P11" start="711" end="725" text="(218) 555-0162" TYPE="PHONE" comment="" />
+<CONTACT id="P12" start="757" end="771" text="(000) 000-0000" TYPE="PHONE" comment="" />
+<DATE id="P13" start="926" end="930" text="2076" TYPE="DATE" comment="" />
+<NAME id="P14" start="953" end="963" text="Wierzbicki" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="1017" end="1025" text="Mon 3/16" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="1178" end="1188" text="77HarlowCt" TYPE="STREET" comment="" />
+<DATE id="P17" start="1189" end="1199" text="2082-03-09" TYPE="DATE" comment="" />
+<NAME id="P18" start="1244" end="1254" text="Wierzbicki" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1268" end="1274" text="Teller" TYPE="DOCTOR" comment="" />
+<CONTACT id="P20" start="1280" end="1294" text="(218) 555-0188" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

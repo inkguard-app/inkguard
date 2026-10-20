@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HALVORSEN VALLEY GENERAL HOSPITAL
+OPERATIVE NOTE - speech recognition draft, not edited
+Patient: OKONKWO-HALE, CHIDI E     HV# HV-6021-553     DOB 2017.04.02
+Date of surgery: 2063.11.17 (injury 16/11/63, per family)    Surgeon: Dr. Tomas Veselinovic
+
+PREOP DX: Laceration of the left forearm, volar, approximately 9 cm.
+POSTOP DX: Same, no tendon or nerve injuries.
+PROCEDURE: Exploration irrigation and layered closure of forearm laceration.
+
+The patient is a 46 year old right handed man who works in freight, Northshore Freight Forwarders, and who cut his arm on a pane of glass when a car door slammed into a display window, according to the wife Mrs. Folashade Okonkwo-Hale who came with him. He drove in himself, the vehicle was a grey hatchback plate CJRX 482, and the police report was filed by the officer at the scene. The patient was brought to the operating room, time out was performed with the name Chitty Okonkwo read back (this is the ED registration error, correct name is Chidi). Under local lidocaine one percent with epi the wound was explored. The flexor tendons were intact through full range of motion. Wound was irrigated with 3 liters of saline, the skin was closed with 4-0 nylon after deep 3-0 vicryl. A dry dressing was applied, followed by a volar splint for comfort.
+
+He was given a tetanus booster and teaching about wound check. Suture removal in 2 weeks, i.e. around the 1st of December. Follow up with orthopaedics. Dental referral was also placed during this encounter for an unrelated cracked tooth.
+
+Dictated by Dr. Vesilinovich 11/17/2063 22:40.
+Pt address on registration: Unit 12, 340 Maple Grove Road, Mississauga, ON L5B 2C9, Canada.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="33" text="HALVORSEN VALLEY GENERAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="97" end="118" text="OKONKWO-HALE, CHIDI E" TYPE="PATIENT" comment="" />
+<ID id="P2" start="127" end="138" text="HV-6021-553" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="147" end="157" text="2017.04.02" TYPE="DATE" comment="" />
+<DATE id="P4" start="175" end="185" text="2063.11.17" TYPE="DATE" comment="" />
+<DATE id="P5" start="194" end="202" text="16/11/63" TYPE="DATE" comment="" />
+<NAME id="P6" start="232" end="249" text="Tomas Veselinovic" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="461" end="463" text="46" TYPE="AGE" comment="" />
+<LOCATION id="P8" start="512" end="541" text="Northshore Freight Forwarders" TYPE="ORGANIZATION" comment="" />
+<NAME id="P9" start="656" end="678" text="Folashade Okonkwo-Hale" TYPE="PATIENT" comment="" />
+<ID id="P10" start="758" end="766" text="CJRX 482" TYPE="VEHICLE" comment="" />
+<NAME id="P11" start="913" end="927" text="Chitty Okonkwo" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="990" end="995" text="Chidi" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="1400" end="1419" text="the 1st of December" TYPE="DATE" comment="" />
+<NAME id="P14" start="1549" end="1565" text="Dr. Vesilinovich" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="1566" end="1576" text="11/17/2063" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="1612" end="1641" text="Unit 12, 340 Maple Grove Road" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="1643" end="1654" text="Mississauga" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="1656" end="1658" text="ON" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="1659" end="1666" text="L5B 2C9" TYPE="ZIP" comment="" />
+<LOCATION id="P20" start="1668" end="1674" text="Canada" TYPE="COUNTRY" comment="" />
+</TAGS>
+</deIdi2b2>

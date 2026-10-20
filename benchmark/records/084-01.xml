@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Northmeadow Behavioral Health Center
+Outpatient Behavioral Health - CONSULT NOTE
+FIELDS, ODETTE M     MRN BH-0058142     DOB 02/09/2044     Page 1 of 2
+
+Patient: FIELDS, ODETTE M  ("Birdie")      Date of consult: 05/29/2075
+Requesting provider: Dr. Lorenzo Castellanos (primary care)  Consultant: Amara Nwosu-Bell, MD
+Reason for consult: positive screen on the annual wellness visit, long hx of social isolation, wants "somebody to talk to".
+
+HPI: Ms. Fields is a 31 year old married woman, here alone, who prefers to be called Birdie like the bird. She was seen by her PCP this morning for her yearly exam, BP 141 systolic, glucose 94, cholesterol ok, GAD-7 of 3, and he asked me to see her because she had told the MA she "doesn't talk to anybody anymore". She reports 3 years of what she calls the quiet. She stopped seeing friends after she moved to Worcester and after the shooting at the corner of her street, which is also why her chart carried a flag for violence in the environment, I am clearing that flag today as she has since moved. Her husband T.J. Terrence Fields works nights at the depot and they are fine "most of the time" she says. She had a past relationship in which she experienced intimate partner violence (resolved, dont want to dwell, no contact for years), and one miscarriage in 2066. Tubal ligation in January 2070. Part time work at a bakery, Ladle and Loaf, 3 mornings a week.
+
+Hx of criminal record (young adult, shoplifting, she says) - she asked that it not be in the note, I told her it is in the chart already and nobody else sees it.
+
+PMH: prediabetes, anemia (mild, iron deficient per old chart), miscarriage. Meds: none psychiatric. Denies SI, HI. No substance use other than 1-2 glasses of wine, weekends.
+
+MSE: neat, casual dress, eye contact intermitent, speech soft, mood "ok", affect constricted but reactive, thought process linear, no psychosis, insight good, judgement good.
+
+Assessment: Social isolation/loneliness without major depression at this time. Strong protective factors: husband, work, faith community.
+
+Plan:
+1. Referral to group therapy "Thursday Table" at Community Connections, starts June.
+2. Call to schedule with therapist Mei-Ling Ostrander LICSW at (508) 555-0184 ext 2291, or page 508-555-0166.
+3. Portal reminder: https://myhealth.northmeadow-bh.example/portal/ofields
+4. Follow up PCP in 3 months.
+
+I spent 40 minutes. patient was given a copy. Speech recog may have changed some words in the above, please see my sign off.
+
+Electronically signed by Amara Nwosu-Bell, MD on 05/29/2075 15:31  Dictated but not read
+cc: Dr. Lorenzo Castelanos  fax (508) 555-0121; ofields.birdie@mailbox.example
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="36" text="Northmeadow Behavioral Health Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="37" end="65" text="Outpatient Behavioral Health" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="81" end="97" text="FIELDS, ODETTE M" TYPE="PATIENT" comment="" />
+<ID id="P3" start="106" end="116" text="BH-0058142" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="125" end="135" text="02/09/2044" TYPE="DATE" comment="" />
+<NAME id="P5" start="162" end="178" text="FIELDS, ODETTE M" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="182" end="188" text="Birdie" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="213" end="223" text="05/29/2075" TYPE="DATE" comment="" />
+<NAME id="P8" start="249" end="268" text="Lorenzo Castellanos" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="297" end="313" text="Amara Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="452" end="458" text="Fields" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="464" end="466" text="31" TYPE="AGE" comment="" />
+<LOCATION id="P12" start="854" end="863" text="Worcester" TYPE="CITY" comment="" />
+<NAME id="P13" start="1058" end="1062" text="T.J." TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1063" end="1078" text="Terrence Fields" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="1308" end="1312" text="2066" TYPE="DATE" comment="" />
+<DATE id="P16" start="1332" end="1344" text="January 2070" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="1374" end="1388" text="Ladle and Loaf" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P18" start="2118" end="2139" text="Community Connections" TYPE="DEPARTMENT" comment="" />
+<DATE id="P19" start="2148" end="2152" text="June" TYPE="DATE" comment="" />
+<NAME id="P20" start="2189" end="2207" text="Mei-Ling Ostrander" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="2217" end="2231" text="(508) 555-0184" TYPE="PHONE" comment="" />
+<CONTACT id="P22" start="2236" end="2240" text="2291" TYPE="PHONE" comment="" />
+<CONTACT id="P23" start="2250" end="2262" text="508-555-0166" TYPE="PHONE" comment="" />
+<CONTACT id="P24" start="2284" end="2338" text="https://myhealth.northmeadow-bh.example/portal/ofields" TYPE="URL" comment="" />
+<NAME id="P25" start="2521" end="2537" text="Amara Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<DATE id="P26" start="2545" end="2555" text="05/29/2075" TYPE="DATE" comment="" />
+<NAME id="P27" start="2593" end="2611" text="Lorenzo Castelanos" TYPE="DOCTOR" comment="" />
+<CONTACT id="P28" start="2617" end="2631" text="(508) 555-0121" TYPE="FAX" comment="" />
+<CONTACT id="P29" start="2633" end="2663" text="ofields.birdie@mailbox.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

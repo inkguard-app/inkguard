@@ -1,0 +1,20 @@
+PLASTIC AND RECONSTRUCTIVE SURGERY — CRANIOPLASTY CONSULT
+{{FACILITY|Thornbury Memorial Hospital}}
+Patient {{NAME|Darnell Okoye-Whitfield}}, 23 M, MRN {{MRN|TMH-99014270}}, {{DATE|04/02/2064}}
+(Transferred care from {{FACILITY|Kestrel Point Level I Trauma Center}}; operative notes and CT received on CD from the outside facility, uploaded to PACS.)
+Plastic surgeon Dr. {{NAME|Rosalind Achterberg-Mwangi}}; neurosurgeon Dr. {{NAME|Hyacinth Morgenstern}}
+
+s/p right [[decompressive hemicraniectomy]] 3 months ago for [[traumatic acute SDH]]. Autologous bone flap stored in the abdomen was found to have significant [[bone flap resorption]] on CT and the abdominal site had a [[seroma]]. Now with [[sinking skin flap syndrome (syndrome of the trephined)]] — headaches, fatigue, left arm weakness worse upright, improving supine.
+Pre-op [[CT head with 3D reconstruction]] shows the bone defect 13 x 11 cm and no [[hydrocephalus]]. Exam: [[scalp concavity]] over the right hemicranium, well-healed [[reverse question-mark incision]] with a thin, atrophic area 2 cm at the posterior limb. [[GCS 15]], [[left pronator drift]], [[MoCA 24/30]].
+Plan: [[custom PEEK cranioplasty]] ([[patient-specific implant]] designed from thin-cut CT) with [[scalp rotation flap]] if the atrophic area is unsuitable for primary closure; [[tissue expansion]] not required. Discard autologous flap.
+=====NOTE=====
+OPERATIVE NOTE — CRANIOPLASTY — {{DATE|05/14/2064}}
+{{NAME|OKOYE-WHITFIELD, DARNELL}} {{MRN|TMH-99014270}}
+Neurosurgery Dr. {{NAME|H. Morgenstern}}; Plastic surgery Dr. {{NAME|R. Achterberg-Mwangi}}; [[Stryker]] [[PEEK customized cranial implant]] representative {{NAME|Lysander Quarrie}} present; implant UDI for this patient {{ID|UDI-(01)0841-PEEK-(21)64-55190}}.
+Re-opened the reverse question-mark incision. [[Temporalis muscle]] dissected off the dura as a separate layer; the [[dural substitute (DuraGen)]] interface preserved; no CSF leak. Implant trialled — excellent fit. Secured with [[low-profile titanium plates and screws]]. [[Temporalis resuspension]] to the implant via drill holes. The atrophic scalp segment was excised and closed with a [[rotation advancement scalp flap]] based on the [[superficial temporal artery]], galeal scoring for tension-free closure; [[subgaleal drain]]. [[Vancomycin powder]] and [[cefazolin 2 g]].
+Post-op [[CT head]]: implant well seated, no [[epidural haematoma]], ventricles stable. Brain re-expanded under the implant. Codes proposed: [[CPT 62143]] or [[CPT 62147]], with [[CPT 14041]] for the scalp flap — coding to be confirmed by {{NAME|Wanda Lisowski}}, CPC.
+=====NOTE=====
+CODING QUERY RESPONSE — {{DATE|05/16/2064}}
+From: {{NAME|Wanda Lisowski}}, CPC, Coding Department; account {{ID|ACCT-7718-2064-0091}}
+To: Dr. {{NAME|H. Morgenstern}}
+Patient {{NAME|D. Okoye-Whitfield}} — documentation supports [[CPT 62143]] (replacement of bone flap or prosthetic plate of skull) — not 62147 (that code includes harvesting a bone graft), and [[CPT 15732]] ([[muscle flap]]) is not supported because no muscle flap was raised; [[temporalis resuspension]] is included. Scalp rotation flap → [[CPT 14041]] ([[adjacent tissue transfer]], scalp, 10.1-30 sq cm) per plastics documentation. Diagnosis: [[ICD-10 Z98.890]], [[M95.2]] (acquired deformity of head), [[S06.5X0S]] (sequela of traumatic SDH). Please attest.

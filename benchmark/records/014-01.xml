@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAKESHORE ENDOCRINE ASSOCIATES - CONSULT NOTE
+PT: OBRADOVIC, MILAN R   DOB: 06/12/2014   MRN: WVA-0912-6043   AGE: 67   SEX: M
+DATE OF SERVICE: 08/15/81   REFERRING: DR. RAJIV CHANDRAMOULI (NEPHROLOGY)   CONSULTANT: DR. OTTOLINE FARADAY-NWOSU
+
+REASON FOR CONSULT: DIABETES WITH CKD, A1C 3.3 DISCORDANT W/ CLINICAL PICTURE.
+
+HPI: MR. OBRADOVICH IS A 67 YO WIDOWED MALE, EMIGRATED FROM SERBIA AS A CHILD, SERVED IN THE ARMY (2032), W/ HX EPILEPSY ON CARBAMAZEPINE (TEGRETOL) SINCE 2032, ISCHEMIC HEART DISEASE APRIL 2069, HTN SINCE 2074, T2DM W/ NEPHROPATHY (DX 07/2075), CVA 02/13/2076 S/P ALTEPLASE. WAS ON HUMULIN 70/30 FROM JULY 2075 UNTIL 10/04/75, THEN STOPPED BY PCP (HYPOGLYCEMIA?). NOW DIET ONLY. SMOKES DAILY STILL, PATCH PRN.
+PT STATES "SUGAR IS FINE" CHECKS METER 1-2X/WK. MEter pairs to phone as OBRADOVIC_M_METER. WIFE VESNA PASSED LAST CHRISTMAS EVE... CORRECTION, THAT WAS DEC 24 2074, NOT LAST YR. LIVES ALONE, 3320 W LISBON AVE APT 2, MILWAUKEE, WI 53208. SON NIKOLA IN TORONTO, DAUGHTER JELENA MARKOVICH IN PERTH, AUSTRALIA. NEIGHBOR MRS WISNIEWSKA CHECKS ON HIM.
+MEDS: CARBAMAZEPINE SUSP, CLOPIDOGREL 75, SIMVASTATIN 20, METOPROLOL SUCC 100, NTG SPRAY PRN, NICOTINE PATCH. (HCTZ LISTED BUT STOPPED 07/2075.)
+
+OBJECTIVE: LABS DRAWN 08/08: GLU 84.2, WBC 8.3, HGB 14.5. 8/15: CREAT 2.0, EGFR 46.4, HBA1C 3.3 (LAB FLAGS LOW). 
+ASSESSMENT:
+1. HBA1C 3.3 NOT CONSISTENT W/ CKD AND PRIOR INSULIN USE - POSSIBLE SHORTENED RBC LIFESPAN. CHECK FRUCTOSAMINE, RETICS.
+2. CKD STAGE 3 W/ PROTEINURIA (DX 08/2079). NEPHRO F/U.
+3. NO DIABETES MEDS NEEDED NOW.
+PLAN: FRUCTOSAMINE, CBC, RTC MID-JANUARY. 
+[COMMENT BY CHANDRAMOULI: PLS CC ME. -R.C.]
+ELECTRONICALLY SIGNED OTTOLINE FARADAY-NWOSU MD 08/15/81 15:20
+</TEXT>
+<TAGS>
+<NAME id="P0" start="50" end="68" text="OBRADOVIC, MILAN R" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="76" end="86" text="06/12/2014" TYPE="DATE" comment="" />
+<ID id="P2" start="94" end="107" text="WVA-0912-6043" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P3" start="115" end="117" text="67" TYPE="AGE" comment="" />
+<DATE id="P4" start="144" end="152" text="08/15/81" TYPE="DATE" comment="" />
+<NAME id="P5" start="166" end="188" text="DR. RAJIV CHANDRAMOULI" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="216" end="242" text="DR. OTTOLINE FARADAY-NWOSU" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="333" end="343" text="OBRADOVICH" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="349" end="351" text="67" TYPE="AGE" comment="" />
+<LOCATION id="P9" start="384" end="390" text="SERBIA" TYPE="COUNTRY" comment="" />
+<DATE id="P10" start="423" end="427" text="2032" TYPE="DATE" comment="" />
+<DATE id="P11" start="479" end="483" text="2032" TYPE="DATE" comment="" />
+<DATE id="P12" start="508" end="518" text="APRIL 2069" TYPE="DATE" comment="" />
+<DATE id="P13" start="530" end="534" text="2074" TYPE="DATE" comment="" />
+<DATE id="P14" start="560" end="567" text="07/2075" TYPE="DATE" comment="" />
+<DATE id="P15" start="574" end="584" text="02/13/2076" TYPE="DATE" comment="" />
+<DATE id="P16" start="626" end="635" text="JULY 2075" TYPE="DATE" comment="" />
+<DATE id="P17" start="642" end="650" text="10/04/75" TYPE="DATE" comment="" />
+<ID id="P18" start="807" end="824" text="OBRADOVIC_M_METER" TYPE="DEVICE" comment="" />
+<NAME id="P19" start="831" end="836" text="VESNA" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="844" end="862" text="LAST CHRISTMAS EVE" TYPE="DATE" comment="" />
+<DATE id="P21" start="887" end="898" text="DEC 24 2074" TYPE="DATE" comment="" />
+<LOCATION id="P22" start="926" end="949" text="3320 W LISBON AVE APT 2" TYPE="STREET" comment="" />
+<LOCATION id="P23" start="951" end="960" text="MILWAUKEE" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="962" end="964" text="WI" TYPE="STATE" comment="" />
+<LOCATION id="P25" start="965" end="970" text="53208" TYPE="ZIP" comment="" />
+<NAME id="P26" start="976" end="982" text="NIKOLA" TYPE="PATIENT" comment="" />
+<LOCATION id="P27" start="986" end="993" text="TORONTO" TYPE="CITY" comment="" />
+<NAME id="P28" start="1004" end="1020" text="JELENA MARKOVICH" TYPE="PATIENT" comment="" />
+<LOCATION id="P29" start="1024" end="1029" text="PERTH" TYPE="CITY" comment="" />
+<LOCATION id="P30" start="1031" end="1040" text="AUSTRALIA" TYPE="COUNTRY" comment="" />
+<NAME id="P31" start="1051" end="1065" text="MRS WISNIEWSKA" TYPE="PATIENT" comment="" />
+<DATE id="P32" start="1216" end="1223" text="07/2075" TYPE="DATE" comment="" />
+<DATE id="P33" start="1249" end="1254" text="08/08" TYPE="DATE" comment="" />
+<DATE id="P34" start="1285" end="1289" text="8/15" TYPE="DATE" comment="" />
+<DATE id="P35" start="1507" end="1514" text="08/2079" TYPE="DATE" comment="" />
+<DATE id="P36" start="1590" end="1601" text="MID-JANUARY" TYPE="DATE" comment="" />
+<NAME id="P37" start="1616" end="1628" text="CHANDRAMOULI" TYPE="DOCTOR" comment="" />
+<NAME id="P38" start="1670" end="1692" text="OTTOLINE FARADAY-NWOSU" TYPE="DOCTOR" comment="" />
+<DATE id="P39" start="1696" end="1704" text="08/15/81" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

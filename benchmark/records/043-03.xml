@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARDIOLOGY CONSULT NOTE
+Requesting: Dr. Anand-Boyd (ED)        Consultant: Dr. Yusuf Hart, Interventional Cardiology
+Pt: Ostrander, Winifred  MRN 5518204  DOB 12/02/2020  73 y/o F
+Date: Fri 04/09/2094  Time seen: 10:05    Location: Cath Lab holding 2
+
+REASON:
+- NSTEMI, chest pain onset this AM, trop rising
+
+HPI (brief, see ED H&amp;P):
+- 73yo F w hyperlipidemia, prediabetes, obesity, osteoporosis, no known CAD
+- pain 06:30, ASA + NTG by EMS, ST depression V4-V6, TnI 6.8 -&gt; 14.2
+- LDL 193.7, total chol 236.9; A1c 6.0
+- Cr 3.0 / eGFR 7.3 - unclear baseline; contrast sparing strategy
+- WBC 3.3, Hb 12.4
+
+Family / social (paste from SW intake):
+- Husband Harlan at bedside; 2 kids, Gwendolen flying in tonight fm Minneapolis
+- Pasted text msg from landlord to pt's phone (shown to SW):
+   From: Sorrento Pruitt &lt;+1 218 555 0188&gt;
+   To: Winnie
+   Sent: Apr 8, 6:12 PM
+   "Stairwell light on 3rd is out again, maint coming Monday. Lockbox code is still 4471 if your friend needs to get in. - S. Pruitt, Pruitt Properties LLC. Sent from my iPhone"
+- Her mom Beatrice is 94 (!) and at Pine Hollow Care Center; her mother-in-law's sister is 101 
+
+pt 61 yo M Gerald Pettibone DOB 07/22/2033 MRN 5518402 EF 25%, ICD eval -- (copy fwd from someone elses cardiology template, ignore)
+
+Exam:
+- BP 152/90, HR 98, SpO2 95%
+- JVP ~8 cm. Bibasilar crackles. S1 S2, no murmur.
+- Radial access R, no hematoma
+
+Procedure (details in separate op note):
+- Coronary angiography + PCI mid LAD 90% stenosis, 1 DES. Contrast 30 ml only (eGFR 7).
+- TTE: EF 45%, anterior hypokinesis, no sig valve dz. Done by Carl Obuya (sonographer)
+- CXR: mild cardiomegaly / congestion (rad Salvesen)
+
+Assessment:
+1. NSTEMI s/p PCI LAD, TIMI flow 3 post
+2. HLD - LDL way above goal
+3. AKI vs CKD, Cr 3.0
+
+Plan:
+- ASA 81 daily
+- Prasugrel 10 (clopidogrel 300 given in ED, switch tomorrow; no hx stroke, wt ok)
+- Metoprolol succinate 25 daily
+- Atorvastatin 80 daily; stop simvastatin
+- Ramipril 10 mg - HOLD until Cr improves, nephrology consult
+- Heparin d/c post PCI
+- Admit CCU, tele, repeat trop, bmp q12h
+- Cardiac rehab referral
+- Discussed w pt + husband. Questions answered.
+
+Consult time 55 min
+Electronically signed by Yusuf Hart, MD 04/09/2094 13:44  /  Last edited by yhart 04/09/2094 14:02 from 10.7.31.77
+Note routed to: Marlon Tatum (Hospitalist), Priscilla Anand-Boyd (ED)
+</TEXT>
+<TAGS>
+<NAME id="P0" start="40" end="50" text="Anand-Boyd" TYPE="DOCTOR" comment="" />
+<LOCATION id="P1" start="52" end="54" text="ED" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="79" end="89" text="Yusuf Hart" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="91" end="116" text="Interventional Cardiology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P4" start="121" end="140" text="Ostrander, Winifred" TYPE="PATIENT" comment="" />
+<ID id="P5" start="146" end="153" text="5518204" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="159" end="169" text="12/02/2020" TYPE="DATE" comment="" />
+<AGE id="P7" start="171" end="173" text="73" TYPE="AGE" comment="" />
+<DATE id="P8" start="186" end="200" text="Fri 04/09/2094" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="232" end="250" text="Cath Lab holding 2" TYPE="ROOM" comment="" />
+<DATE id="P10" start="287" end="294" text="this AM" TYPE="DATE" comment="" />
+<AGE id="P11" start="336" end="338" text="73" TYPE="AGE" comment="" />
+<NAME id="P12" start="654" end="660" text="Harlan" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="681" end="690" text="Gwendolen" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="712" end="723" text="Minneapolis" TYPE="CITY" comment="" />
+<NAME id="P15" start="794" end="809" text="Sorrento Pruitt" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="811" end="826" text="+1 218 555 0188" TYPE="PHONE" comment="" />
+<NAME id="P17" start="835" end="841" text="Winnie" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="851" end="856" text="Apr 8" TYPE="DATE" comment="" />
+<DATE id="P19" start="920" end="926" text="Monday" TYPE="DATE" comment="" />
+<ID id="P20" start="950" end="954" text="4471" TYPE="IDNUM" comment="" />
+<NAME id="P21" start="989" end="998" text="S. Pruitt" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="1000" end="1021" text="Pruitt Properties LLC" TYPE="ORGANIZATION" comment="" />
+<NAME id="P23" start="1054" end="1062" text="Beatrice" TYPE="PATIENT" comment="" />
+<AGE id="P24" start="1066" end="1068" text="94" TYPE="AGE" comment="" />
+<LOCATION id="P25" start="1080" end="1103" text="Pine Hollow Care Center" TYPE="ORGANIZATION" comment="" />
+<AGE id="P26" start="1135" end="1138" text="101" TYPE="AGE" comment="" />
+<AGE id="P27" start="1144" end="1146" text="61" TYPE="AGE" comment="" />
+<NAME id="P28" start="1152" end="1168" text="Gerald Pettibone" TYPE="PATIENT" comment="" />
+<DATE id="P29" start="1173" end="1183" text="07/22/2033" TYPE="DATE" comment="" />
+<ID id="P30" start="1188" end="1195" text="5518402" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P31" start="1584" end="1594" text="Carl Obuya" TYPE="DOCTOR" comment="" />
+<NAME id="P32" start="1652" end="1660" text="Salvesen" TYPE="DOCTOR" comment="" />
+<NAME id="P33" start="2189" end="2199" text="Yusuf Hart" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="2204" end="2214" text="04/09/2094" TYPE="DATE" comment="" />
+<NAME id="P35" start="2240" end="2245" text="yhart" TYPE="USERNAME" comment="" />
+<DATE id="P36" start="2246" end="2256" text="04/09/2094" TYPE="DATE" comment="" />
+<CONTACT id="P37" start="2268" end="2278" text="10.7.31.77" TYPE="IPADDR" comment="" />
+<NAME id="P38" start="2295" end="2307" text="Marlon Tatum" TYPE="DOCTOR" comment="" />
+<NAME id="P39" start="2323" end="2343" text="Priscilla Anand-Boyd" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

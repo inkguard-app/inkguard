@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|note_type|author|dept|text
+88102|PROGRESS NOTE (SOAP)|E. Yilmaz MD|Emergency Dept, Riverbend Medical Center|
+Pt: AUBERT, DELPHINE (now Frost, name chnge not yet in system)    DOB 02/11/2048   MR 69077122
+DOS 07/01/2085
+S: 37 yo woman with facial swelling right jaw x 3 days, pain 7/10, tooth bad. Fever no. She say she fall on the stairs last week and hit the chin. When ask again, she say "maybe not stairs", then stop talking. Husband in the waiting room, he asking many times to come in. Screening for safety done alone, pt decline help. Hx stress, chronic back and neck pain, miscarriage 2078.
+O: T 37.2, BP 118/72. Swelling R mandible, tooth infection, tender. No airway problem.
+A: Infection of tooth (dental abscess). Possible trauma to the alveolar bone.
+P: Antibiotic, analgesic, refer oral surgery. Return if swelling go to the neck. SW consult. Resources given on paper in her bag (she accept).
+Bedside sign: Yilmaz
+No other identifiers in this note.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="61" end="70" text="E. Yilmaz" TYPE="DOCTOR" comment="" />
+<LOCATION id="P1" start="74" end="88" text="Emergency Dept" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="90" end="114" text="Riverbend Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P3" start="120" end="136" text="AUBERT, DELPHINE" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="142" end="147" text="Frost" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="186" end="196" text="02/11/2048" TYPE="DATE" comment="" />
+<ID id="P6" start="202" end="210" text="69077122" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P7" start="215" end="225" text="07/01/2085" TYPE="DATE" comment="" />
+<AGE id="P8" start="229" end="231" text="37" TYPE="AGE" comment="" />
+<DATE id="P10" start="599" end="603" text="2078" TYPE="DATE" comment="" />
+<NAME id="P11" start="927" end="933" text="Yilmaz" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

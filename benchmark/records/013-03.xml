@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST
+Patient: &lt;&lt;PATIENT_NAME&gt;&gt;   (Hanratty, Everett)        DOB: **/**/****
+Date: 03/26/2077        Reviewed by: V. Ramaswamy-Iyer MD with wife present
+MRN OVF-310477                    Age: 43
+
+CURRENT (confirmed with bottle):
+1. Lisinopril 10 mg tab, 1 daily - restarted 03/2076
+2. Naloxone nasal spray 4 mg - at home, 2 units, expire 08/2078
+3. Ibuprofen 400 mg prn headache  (patient taking too much, 4 per day, counseled)
+4. Sumatriptan prn - not taking, ran out
+5. Nicotine patch - not started
+
+STOPPED:
+- Hydrocodone acetaminophen 5/325 - stopped 2070 (per old list; patient also says ended Feb 2070)
+- Hydrocodone ER 10 mg 12 hr capsule - stopped 02/14/2070  (STILL SHOWING ACTIVE in system, error)
+Allergies: none known (NKDA) - sore throat 2075 treated w/ penicillin V ok
+
+Note from today: Mr. Hanrattey bring list his wife made, written in her hand: "Everett takes 2 pills in morning, white and the little one blue". We check, the blue is not on any list - maybe from Stan Ostrowsky next door? Not clear. Wife Corinne will bring the bottle.
+Depression screen PHQ-9 deferred, last 04/01/2078?? (date is in future of this note - clerical).
+Pharmacy: Wheeling Corner Drug, phone (304) 555-0110, fax (304) 555-0111
+Signature: ___________ Kimberly Dosch, RN
+</TEXT>
+<TAGS>
+<NAME id="P0" start="60" end="77" text="Hanratty, Everett" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="108" end="118" text="03/26/2077" TYPE="DATE" comment="" />
+<NAME id="P2" start="139" end="156" text="V. Ramaswamy-Iyer" TYPE="DOCTOR" comment="" />
+<ID id="P3" start="182" end="192" text="OVF-310477" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P4" start="217" end="219" text="43" TYPE="AGE" comment="" />
+<DATE id="P5" start="299" end="306" text="03/2076" TYPE="DATE" comment="" />
+<DATE id="P6" start="363" end="370" text="08/2078" TYPE="DATE" comment="" />
+<DATE id="P7" start="580" end="584" text="2070" TYPE="DATE" comment="" />
+<DATE id="P8" start="624" end="632" text="Feb 2070" TYPE="DATE" comment="" />
+<DATE id="P9" start="681" end="691" text="02/14/2070" TYPE="DATE" comment="" />
+<DATE id="P10" start="776" end="780" text="2075" TYPE="DATE" comment="" />
+<NAME id="P11" start="830" end="839" text="Hanrattey" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="888" end="895" text="Everett" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1005" end="1019" text="Stan Ostrowsky" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1047" end="1054" text="Corinne" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="1117" end="1127" text="04/01/2078" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="1185" end="1205" text="Wheeling Corner Drug" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P17" start="1213" end="1227" text="(304) 555-0110" TYPE="PHONE" comment="" />
+<CONTACT id="P18" start="1233" end="1247" text="(304) 555-0111" TYPE="FAX" comment="" />
+<NAME id="P19" start="1271" end="1285" text="Kimberly Dosch" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

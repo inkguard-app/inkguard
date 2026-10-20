@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO PT   05/21/2086
+Dear Ms. Frost,
+Your throat culture from yesterday is positive for strep (group A). Pls take the penicillin V 500 mg as prescribed for the full 10 days, even if sore throat gets better. Stay home until 24h of treatment. Hand wash. Call us if fever &gt;101 or rash. Do NOT share cups. 
+Thx. Dr. Ansel Okoro, Windham Family Medicine
+(ps: our system had you as Faith Belle on the lab req -- same pt, DOB 11/04/2033 matched)
+</TEXT>
+<TAGS>
+<DATE id="P0" start="27" end="37" text="05/21/2086" TYPE="DATE" comment="" />
+<NAME id="P1" start="43" end="52" text="Ms. Frost" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="325" end="340" text="Dr. Ansel Okoro" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="342" end="365" text="Windham Family Medicine" TYPE="DEPARTMENT" comment="" />
+<NAME id="P4" start="393" end="404" text="Faith Belle" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="436" end="446" text="11/04/2033" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

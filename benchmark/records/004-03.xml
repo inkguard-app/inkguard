@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CEDAR HOLLOW EXPRESS CARE   -   MEDICATION RECONCILIATION LIST
+Pt: Marisol Tangen   DOB 03/08/2006  (56)   MRN TN-904417   Date 11/10/2062
+Seen by Dr. Anneliese Sorrento, dictated as "Dr. Sir Rento"; nurse Hartley Bonsu
+
+Source of list: patient + her husband Bertram (brought bottles in a paper bag) + pharmacy Brightwater Pharmacy ph 417-555-0194.
+
+Current medicines:
+1. diphenhydramine 25 mg tab at night as needed. Patient takes it for sleep, since 2008.
+2. vitamin B12 injection 5 mg per ml, every month by the practice nurse, since 2029
+3. acetaminophen 325 mg as needed - she said "for my back" - note says Tylenol and the other bottle says Mapap, same thing
+4. Metformin?? - transcribed as "met for men" - NOT on metformin, only prediabetes, A1c 5.9 on 2058-10-04. Please ignore.
+5. norethindrone pill (Errin) - ended 12/23/2056, still on old list, delete.
+Allergies: none known. Wait comma allergic to peanuts per husband? scratch that.
+
+Stress today: GAD-7 was 4 today, was 20 on 10/27/2062 at her annual physical. Depression screen negative. Patient said her husband had a bad week at Kestrel Lane Roofing, "kessel lane the roofing" in the voice text.
+Emergency contact: SAME     Home: 1409 Tallow Mill Rd Apt 6  Springfield MO 6580
+Landlord/unit contact if needed for home safety visit: Vikram Deshmukh of Deshmukh Properties LLC, ph (417) 555-0140
+Reconciled 11/10/2062 16:05.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="67" end="81" text="Marisol Tangen" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="88" end="98" text="03/08/2006" TYPE="DATE" comment="" />
+<AGE id="P2" start="101" end="103" text="56" TYPE="AGE" comment="" />
+<ID id="P3" start="111" end="120" text="TN-904417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="128" end="138" text="11/10/2062" TYPE="DATE" comment="" />
+<NAME id="P5" start="151" end="169" text="Anneliese Sorrento" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="188" end="197" text="Sir Rento" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="206" end="219" text="Hartley Bonsu" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="259" end="266" text="Bertram" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="311" end="331" text="Brightwater Pharmacy" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P10" start="335" end="347" text="417-555-0194" TYPE="PHONE" comment="" />
+<DATE id="P11" start="452" end="456" text="2008" TYPE="DATE" comment="" />
+<DATE id="P12" start="537" end="541" text="2029" TYPE="DATE" comment="" />
+<DATE id="P13" start="760" end="770" text="2058-10-04" TYPE="DATE" comment="" />
+<DATE id="P14" start="825" end="835" text="12/23/2056" TYPE="DATE" comment="" />
+<DATE id="P15" start="989" end="999" text="10/27/2062" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="1095" end="1115" text="Kestrel Lane Roofing" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P17" start="1196" end="1215" text="1409 Tallow Mill Rd" TYPE="STREET" comment="" />
+<LOCATION id="P18" start="1223" end="1234" text="Springfield" TYPE="CITY" comment="" />
+<LOCATION id="P19" start="1235" end="1237" text="MO" TYPE="STATE" comment="" />
+<LOCATION id="P20" start="1238" end="1242" text="6580" TYPE="ZIP" comment="" />
+<NAME id="P21" start="1298" end="1313" text="Vikram Deshmukh" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="1317" end="1340" text="Deshmukh Properties LLC" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P23" start="1345" end="1359" text="(417) 555-0140" TYPE="PHONE" comment="" />
+<DATE id="P24" start="1371" end="1381" text="11/10/2062" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

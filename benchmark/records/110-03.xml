@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>KINNAIRD PAEDIATRIC CLINIC                                    MEDICATION RECONCILIATION LIST
+PT: LINDQVIST-PERERA, ARJUN  DOB 07/08/2080 (4 MO)  MRN AB-6671203   WT 7.1 KG
+DATE: 07/12/2080 (DD/MM)        RECONCILED BY: MARISOL FERREIRA-QUINN MA / CHECKED HARRIET BELL MD
+ALLERGIES: NKDA        Allergies: Arjun L-P  (WRONG FIELD)
+
+CURRENT MEDICATIONS
+1. AMOXICILLIN 500 MG ORAL TABLET (AS LISTED IN CHART - GIVEN AS SUSPENSION BY WEIGHT) STARTED 29/11/2080 STOP 13/12/2080 FOR RT OTITIS MEDIA. [x] TAKING  [ ] NOT TAKING
+2. IBUPROFEN 100 MG ORAL TABLET - STARTED 29/11/2080, STOP 13/12/2080. QUERY: INFANT UNDER 6 MO. CLARIFY W/ DR BELL. (MOTRIN BRAND IN PHARMACY LABEL)
+3. PEDIALYTE PRN (OTC)
+4. VITAMIN D DROPS, 400 IU, DAILY (OTC)
+5. 12/2080 - STALE: "HYDROCORTISONE CREAM" CARRIED FORWARD FROM BABY BOY PERERA CHART (NOT THIS PT? CHECK)
+
+PHARMACY: CHINOOK DRUGMART, 2200 16 AVE NW, CALGARY AB T2M 0L9, TEL 403-555-0133
+PARENT: DILANI PERERA CONFIRMED LIST. FATHER'S NAME ON FORM SPELLED MATTS LINDQVIST AND MATS LINDQUIST.
+DAYCARE (STARTS JANUARY): LITTLE ACORNS DAYCARE, MISS JOY.
+&gt;&gt;&gt; pasted from prior note 29/11/2080: pt c/o ear pulling, DR H BELL saw him, DX OTITIS MEDIA, rt ear.
+SIGN: FERREIRA-QUINN MA  07/12/2080  UPDATED BY mferreira
+</TEXT>
+<TAGS>
+<NAME id="P0" start="97" end="120" text="LINDQVIST-PERERA, ARJUN" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="126" end="136" text="07/08/2080" TYPE="DATE" comment="" />
+<AGE id="P2" start="138" end="142" text="4 MO" TYPE="AGE" comment="" />
+<ID id="P3" start="149" end="159" text="AB-6671203" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="178" end="188" text="07/12/2080" TYPE="DATE" comment="" />
+<NAME id="P5" start="219" end="241" text="MARISOL FERREIRA-QUINN" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="255" end="267" text="HARRIET BELL" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="446" end="456" text="29/11/2080" TYPE="DATE" comment="" />
+<DATE id="P8" start="462" end="472" text="13/12/2080" TYPE="DATE" comment="" />
+<DATE id="P9" start="563" end="573" text="29/11/2080" TYPE="DATE" comment="" />
+<DATE id="P10" start="580" end="590" text="13/12/2080" TYPE="DATE" comment="" />
+<NAME id="P11" start="632" end="636" text="BELL" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="737" end="744" text="12/2080" TYPE="DATE" comment="" />
+<NAME id="P13" start="798" end="813" text="BABY BOY PERERA" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="852" end="868" text="CHINOOK DRUGMART" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P15" start="870" end="884" text="2200 16 AVE NW" TYPE="STREET" comment="" />
+<LOCATION id="P16" start="886" end="893" text="CALGARY" TYPE="CITY" comment="" />
+<LOCATION id="P17" start="894" end="896" text="AB" TYPE="STATE" comment="" />
+<LOCATION id="P18" start="897" end="904" text="T2M 0L9" TYPE="ZIP" comment="" />
+<CONTACT id="P19" start="910" end="922" text="403-555-0133" TYPE="PHONE" comment="" />
+<NAME id="P20" start="931" end="944" text="DILANI PERERA" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="991" end="1006" text="MATTS LINDQVIST" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1011" end="1025" text="MATS LINDQUIST" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="1043" end="1050" text="JANUARY" TYPE="DATE" comment="" />
+<LOCATION id="P24" start="1053" end="1074" text="LITTLE ACORNS DAYCARE" TYPE="ORGANIZATION" comment="" />
+<NAME id="P25" start="1081" end="1084" text="JOY" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1113" end="1123" text="29/11/2080" TYPE="DATE" comment="" />
+<NAME id="P27" start="1148" end="1154" text="H BELL" TYPE="DOCTOR" comment="" />
+<NAME id="P28" start="1195" end="1209" text="FERREIRA-QUINN" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1214" end="1224" text="07/12/2080" TYPE="DATE" comment="" />
+<NAME id="P30" start="1237" end="1246" text="mferreira" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

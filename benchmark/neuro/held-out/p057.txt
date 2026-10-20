@@ -1,0 +1,15 @@
+EMERGENCY / NEUROSURGERY — RUPTURED AVM
+{{FACILITY|Heddon Brook Medical Center}} — {{DATE|06/18/2065}}
+{{NAME|Quinlan Abara-Fitzwilliam}}, 19 M, MRN {{MRN|HBM-0033651}}
+ED attending Dr. {{NAME|Rosamund Hale-Iwu}}; neurosurgery resident Dr. {{NAME|Tenzin Dorjee}}; attending Dr. {{NAME|Augusta Feldmann-Ruiz}}
+
+College student at {{ORG|Brightford State University}}, sudden headache and right-sided weakness during a basketball game. [[GCS 13]], [[right hemiparesis]] 3/5, [[expressive aphasia]]. [[NIHSS 11]].
+[[CT head]]: 32 mL left [[parietal intraparenchymal haemorrhage]] with [[intraventricular extension]], [[ICH score]] 1. [[CTA]]: [[spot sign]] negative; [[tangle of vessels]] at the posterior margin suggesting an [[arteriovenous malformation]]. [[DSA]]: 2.8 cm left parietal AVM (size 1 point), [[eloquent]] (1 point), [[deep venous drainage]] via the [[internal cerebral vein]] (1 point) = [[Spetzler-Martin grade III]]; [[Lawton-Young supplementary]]: age under 20 (1), ruptured (0), compact (0) → supplemented grade 4. [[Intranidal aneurysm]] 3 mm.
+Plan: [[EVD]] for IVH; SBP under 140; [[staged embolization]] then resection in 2-4 weeks after haematoma liquefaction, unless herniation.
+=====NOTE=====
+INR PROCEDURE — {{DATE|07/01/2065}} — {{NAME|ABARA-FITZWILLIAM, Q.}} — {{MRN|HBM-0033651}}
+Operator Dr. {{NAME|Hollis Achterberg-Duff}}. [[Medtronic]] [[Onyx]] rep {{NAME|Kelvin Braithwaite}} present.
+[[Transarterial embolization]]: [[Apollo 1.5 cm detachable tip microcatheter]] into a [[posterior parietal MCA feeder]]; the [[intranidal aneurysm]] targeted first. [[Onyx 18]] 1.9 mL, [[plug-and-push]], reflux 1.2 cm within the detachable zone; tip detached. Second feeder from the [[posterior pericallosal artery]] embolised with [[Onyx 34]] 0.6 mL. ~60% nidal reduction, intranidal aneurysm excluded. [[DMSO]] compatible catheters only. No new deficit.
+=====NOTE=====
+OP NOTE + DISCHARGE — {{DATE|07/03/2065}} — {{NAME|Q. Abara-Fitzwilliam}}
+Left parietal craniotomy, [[AVM resection]] with [[circumferential dissection]] of the nidus, coagulation of feeders, last ligation of the [[draining vein]]. Post-op [[DSA]]: complete obliteration, no [[early venous drainage]]. Post-op [[NIHSS 5]]. EVD removed POD3. Discharge to rehab at {{FACILITY|Heddon Brook Inpatient Rehab}} with PT/OT/SLP. [[Levetiracetam 500 mg BID]] 3 months. [[NPPB]] precautions observed (SBP under 120 first 48 h). Mother {{NAME|Ngozi Abara}} {{PHONE|555-917-0055}}.

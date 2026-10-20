@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>REFERRAL - DENTAL CARE                                 02/22/2093
+TO: DR. PAUL FERREIRA-LUND, FERREIRA-LUND FAMILY DENTISTRY
+FROM: DR. ALEJANDRO QUIST, LAKESHORE PEDIATRIC ASSOCIATES
+RE: MARSH, PIPER   DOB 11/03/2075   MRN 00588-112   AGE 17
+
+REASON: ROUTINE DENTAL EVAL AFTER WELL VISIT 02/08/2093. HX OF CAVITIES, GUM INFLAMATION IN DEC 2084. LAST FILLING JAN 2088. FLUORIDE GEL GIVEN 12/26/2083.
+NO ALLERGIES. NO MEDS EXCEPT BIRTH CONTROL PILL SINCE DEC 2090 (WITH MOTHERS KNOWLEDGE). PLEASE DO NOT DISCUSS WITH ANYONE BUT PT AND MRS. MARSH.
+
+PLEASE DO CLEANING, EXAM, X RAYS AS NEEDED. FAMILY WOULD LIKE AN APPT AFTER 3 PM, PT P.M. IS IN SCHOOL UNTIL 2:30. PHONE 608-555-0178.
+
+SIGNED A QUIST MD  02/22/2093
+CC: CHART
+</TEXT>
+<TAGS>
+<DATE id="P0" start="55" end="65" text="02/22/2093" TYPE="DATE" comment="" />
+<NAME id="P1" start="74" end="92" text="PAUL FERREIRA-LUND" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="94" end="124" text="FERREIRA-LUND FAMILY DENTISTRY" TYPE="ORGANIZATION" comment="" />
+<NAME id="P3" start="135" end="150" text="ALEJANDRO QUIST" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="152" end="182" text="LAKESHORE PEDIATRIC ASSOCIATES" TYPE="ORGANIZATION" comment="" />
+<NAME id="P5" start="187" end="199" text="MARSH, PIPER" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="206" end="216" text="11/03/2075" TYPE="DATE" comment="" />
+<ID id="P7" start="223" end="232" text="00588-112" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P8" start="239" end="241" text="17" TYPE="AGE" comment="" />
+<DATE id="P9" start="288" end="298" text="02/08/2093" TYPE="DATE" comment="" />
+<DATE id="P10" start="335" end="343" text="DEC 2084" TYPE="DATE" comment="" />
+<DATE id="P11" start="358" end="366" text="JAN 2088" TYPE="DATE" comment="" />
+<DATE id="P12" start="387" end="397" text="12/26/2083" TYPE="DATE" comment="" />
+<DATE id="P13" start="453" end="461" text="DEC 2090" TYPE="DATE" comment="" />
+<NAME id="P14" start="533" end="543" text="MRS. MARSH" TYPE="PATIENT" comment="" />
+<CONTACT id="P15" start="667" end="679" text="608-555-0178" TYPE="PHONE" comment="" />
+<NAME id="P16" start="689" end="696" text="A QUIST" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="701" end="711" text="02/22/2093" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

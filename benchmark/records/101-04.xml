@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARDIOLOGY CONSULT NOTE
+St. Aldric Regional Medical Center - CCU                  09/14/2081 (Sunday)
+Patient: Matthew Yilder    MRN 5520-1194    DOB 02/17/2027   54 M
+Requested by: Dr. Iyer       Consultant: Lukasz Dabrowski, MD, cardiology
+
+Reason for consult: Post anterior STEMI day 1, risk stratification and secondary prevention.
+
+HISTORY: Mr Yilder is 54 years old, we have known him from ED, primary PCI to LAD yesterday by Dr. Baek. No recurrent pain overnight. Troponin peaked yesterday evening. He ask me many times if "the heart machine" can be taken, I explain.
+He told me this morning that he never smoke, but his wife tell nurse he smoked 20 years in Turkey. We write: former smoker, quit 2065 per wife, patient not agree.
+Hypertension, diabetes type 2, no earlier cardiac history in our chart. (Patient: "heart surgery in Turkey" - cannot verify.)
+
+Family: father died young of "heart" in Turkey. Brother Kemal Yildirim stent at 51.
+
+EXAM: BP 138/84, HR 70 sinus, JVP normal, no murmur, lungs clear. Radial site ok.
+ECHO today: LVEF 45 percent, anterior hypokinesis, no thrombus, no effusion.
+LABS: HbA1c 6.9 percent, LDL 139, total cholesterol 231, creatinine normal.
+
+Pasted from 09/13/2081 CCU nursing: "Pt FERRIS, Dolores DOB 06/02/1950 MRN 7710-3306 bed 4 refuses pills, daughter Marian called." (wrong chart? - not our patient, sorry, nurse paste)
+
+IMPRESSION: Anterior STEMI s/p DES to proximal LAD, mild LV dysfunction. DM2, HTN.
+RECOMMEND:
+- Dual antiplatelet: aspirin 81 and prasugrel 10 for 12 months, do not stop without cardiology.
+- Beta blocker nebivolol 10, ACE or ARB: valsartan continue, add statin high intensity - atorvastatin 40 (maybe 80 later).
+- Cardiac rehabilitation referral, clinic Cardiology Clinic visit in 2 weeks with me.
+- Diabetes education. Counsel on smoking, diet.
+- Nitroglycerin sublingual prn.
+Thank you for consulting us. Please call (937) 555-0140 ext. 2214, pager pager 4471.
+L. Dabrowski, MD     Electronically signed 09/14/2081 12:48
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="24" end="58" text="St. Aldric Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="82" end="92" text="09/14/2081" TYPE="DATE" comment="" />
+<NAME id="P2" start="111" end="125" text="Matthew Yilder" TYPE="PATIENT" comment="" />
+<ID id="P3" start="133" end="142" text="5520-1194" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="150" end="160" text="02/17/2027" TYPE="DATE" comment="" />
+<AGE id="P5" start="163" end="165" text="54" TYPE="AGE" comment="" />
+<NAME id="P6" start="182" end="190" text="Dr. Iyer" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="209" end="225" text="Lukasz Dabrowski" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="349" end="355" text="Yilder" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="432" end="440" text="Dr. Baek" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="704" end="708" text="2065" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="905" end="911" text="Turkey" TYPE="COUNTRY" comment="" />
+<NAME id="P12" start="921" end="935" text="Kemal Yildirim" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="945" end="947" text="51" TYPE="AGE" comment="" />
+<DATE id="P14" start="1198" end="1208" text="09/13/2081" TYPE="DATE" comment="" />
+<NAME id="P15" start="1226" end="1241" text="FERRIS, Dolores" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="1246" end="1256" text="06/02/1950" TYPE="DATE" comment="" />
+<ID id="P17" start="1261" end="1270" text="7710-3306" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P18" start="1271" end="1276" text="bed 4" TYPE="ROOM" comment="" />
+<NAME id="P19" start="1301" end="1307" text="Marian" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="1726" end="1743" text="Cardiology Clinic" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P21" start="1891" end="1905" text="(937) 555-0140" TYPE="PHONE" comment="" />
+<CONTACT id="P22" start="1929" end="1933" text="4471" TYPE="PHONE" comment="" />
+<NAME id="P23" start="1935" end="1947" text="L. Dabrowski" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1978" end="1988" text="09/14/2081" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

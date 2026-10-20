@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAKESHORE CHILDREN'S CLINIC / MENDOTA PEDIATRIC EMERGENCY CENTER
+DISCHARGE SUMMARY
+
+FROST, BRAM O          MRN 7730591          DOB 08/14/2075
+Admit/Discharge: 11/06/2081 (same day, observation &lt; 6 h)
+Attending: Dr. Oluwaseun Adebayo-Clarke
+
+DIAGNOSIS: Laceration of the left hand, 3 cm, palm, clean edges.
+
+HISTORY: 6 year old boy who was cutting the card for a school project when the craft knife slipped. He came in with Mum, who was calm, and the school's note. No loss of sensation. Immunisations up to date. Allergic to nothing known. Mum says it is the second time this year Bram has been to see us, the first was a sore throat in January, resolved.
+
+COURSE: Wound irrigated, 4 interrupted sutures after lidocaine with buffer, child was brave and chatted the whole time about dinosaurs. Tendon function intact: full flexion, extension. Neurovascular intact. Dressing placed.
+
+DISCHARGE PLAN:
+1. Keep dry 48 hours, suture removal in 10 days at our clinic.
+2. Acetaminophen as needed. Paracetamol chewable 160 mg is fine too, it's the same thing.
+3. Return if redness, pus, fever.
+4. Letter to Hollis Brook Elementary School excusing PE for 2 weeks.
+
+Dictated by Dr. Adebayo-Clarke using voice recognition. "The patient laceration was close with for sutures" - please disregard, I meant four.
+
+Dictated but not read.
+Electronically signed 11/06/2081 19:40
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="LAKESHORE CHILDREN'S CLINIC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="30" end="64" text="MENDOTA PEDIATRIC EMERGENCY CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="84" end="97" text="FROST, BRAM O" TYPE="PATIENT" comment="" />
+<ID id="P3" start="111" end="118" text="7730591" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="132" end="142" text="08/14/2075" TYPE="DATE" comment="" />
+<DATE id="P5" start="160" end="170" text="11/06/2081" TYPE="DATE" comment="" />
+<NAME id="P6" start="216" end="240" text="Oluwaseun Adebayo-Clarke" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="317" end="318" text="6" TYPE="AGE" comment="" />
+<NAME id="P8" start="582" end="586" text="Bram" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="638" end="645" text="January" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="1099" end="1129" text="Hollis Brook Elementary School" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="1172" end="1186" text="Adebayo-Clarke" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="1344" end="1354" text="11/06/2081" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

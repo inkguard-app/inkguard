@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>note_id,mrn,pt_name,enc_date,author,dept,note_type,text
+"E-30551","2290-6518","PAGE, REBECCA","10/30/2060","Pavel Horvath MD","Emergency","ED note","44 y/o with first seizure, witnessed by roomate. Per EMS tonic-clonic about 2 min, postictal, tongue bite. Pt was alone, then not. She has no history of seizure per her, chart also none before today. Denies drugs, alcohol 2 beers. Vitals: BP 134/102, HR 96, T 36.8, SpO2 99 pct. Exam: confused 20 min then back to baseline, no focal deficit, no Todd's paralysis. Glucose normal. CT head negative. Dx seizure disorder, new. Started clonazepam 0.25 mg. Told not to drive, no heights. Neurology to be paged by me, they will see outpatient. Pt sign: 'Becca'. Page 1 of 1. Care coordination referral done for transport (no car, bus only)."
+</TEXT>
+<TAGS>
+<ID id="P0" start="67" end="76" text="2290-6518" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="79" end="92" text="PAGE, REBECCA" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="95" end="105" text="10/30/2060" TYPE="DATE" comment="" />
+<NAME id="P3" start="108" end="121" text="Pavel Horvath" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="127" end="136" text="Emergency" TYPE="DEPARTMENT" comment="" />
+<AGE id="P5" start="149" end="151" text="44" TYPE="AGE" comment="" />
+<NAME id="P6" start="696" end="701" text="Becca" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

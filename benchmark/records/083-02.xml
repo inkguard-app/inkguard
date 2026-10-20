@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP) - 04/01/2089
+Pt: Marigold Sjoberg   MRN LP-0558021   68 yo   Seen with pharmacist Justice Baker, PharmD
+Tech: Mia Tran (goes by Mi4) pulled the fill history from Harbor Rx Pharmacy
+S:
+- Here for hyperlipidemia f/u. Reports "no muscle aches" on simvastatin 10 mg started 04/01/2088, one yr.
+- Pt confused simvastatin w/ her old "Zocor" bottle - same drug, two bottles, taking both x 2 wks?? pharmacist counted pills. Stopped the old one.
+- Husband Arlo says she skips levothyroxine when they travel to see Joy in England.
+- Pt states "Dr. Baker is the baker of good advice" (joke). She does not bake. Grand-daughter Lark has same name as Dr. Lark Hedlund lol
+O:
+- Labs 03/17/2089 TC 188, LDL 100. Today glucose 84.4, eGFR 74.2, TC 171.9, LDL 123.4 (higher than march? lab var vs adherence)
+- BP 125/78 earlier in march
+A:
+- Hyperlipidemia on statin, LDL fluctuates. Adherence issue likely.
+- Hypothyroid (Hashimoto), levothyroxine 75 mcg.
+- Loss of teeth, denture fitting booked 04/07/2089
+P:
+- Continue simvastatin 10 mg, ONE bottle only. Pill box. Rx 2209-4471 refilled at Harbor Rx Pharmacy
+- Recheck lipids 3 mo, TSH
+- Pharmacist call 04/08/2089
+Lark Hedlund, MD   Electronically signed 04/01/2089 15:50
+</TEXT>
+<TAGS>
+<DATE id="P0" start="23" end="33" text="04/01/2089" TYPE="DATE" comment="" />
+<NAME id="P1" start="38" end="54" text="Marigold Sjoberg" TYPE="PATIENT" comment="" />
+<ID id="P2" start="61" end="71" text="LP-0558021" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P3" start="74" end="76" text="68" TYPE="AGE" comment="" />
+<NAME id="P4" start="103" end="116" text="Justice Baker" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="131" end="139" text="Mia Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="149" end="152" text="Mi4" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="183" end="201" text="Harbor Rx Pharmacy" TYPE="ORGANIZATION" comment="" />
+<DATE id="P8" start="291" end="301" text="04/01/2088" TYPE="DATE" comment="" />
+<NAME id="P9" start="468" end="472" text="Arlo" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="526" end="529" text="Joy" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="533" end="540" text="England" TYPE="COUNTRY" comment="" />
+<NAME id="P12" start="559" end="564" text="Baker" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="636" end="640" text="Lark" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="662" end="674" text="Lark Hedlund" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="689" end="699" text="03/17/2089" TYPE="DATE" comment="" />
+<DATE id="P16" start="781" end="786" text="march" TYPE="DATE" comment="" />
+<DATE id="P17" start="833" end="838" text="march" TYPE="DATE" comment="" />
+<DATE id="P18" start="999" end="1009" text="04/07/2089" TYPE="DATE" comment="" />
+<ID id="P19" start="1073" end="1082" text="2209-4471" TYPE="IDNUM" comment="" />
+<LOCATION id="P20" start="1095" end="1113" text="Harbor Rx Pharmacy" TYPE="ORGANIZATION" comment="" />
+<DATE id="P21" start="1159" end="1169" text="04/08/2089" TYPE="DATE" comment="" />
+<NAME id="P22" start="1170" end="1182" text="Lark Hedlund" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1211" end="1221" text="04/01/2089" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

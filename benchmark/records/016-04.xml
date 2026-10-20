@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE
+02/06/2062        Social Work / Case Management        Rosalind Achebe, LCSW
+Pt: Leonard Fontenot (Fontenaut on insurance card)   MRN LGH-6043-2217   Ins LAM-5502-338-71
+
+I am dictating this on Mr. Fontenot who was seen in clinic today for his post emergency check up, age 35. Present in clinic today: patient and his wife Delphine initially, then patient alone for the screening questions.
+
+Pasted from 10/19/2061 ED discharge summary, Ngozi Eberhardt MD:
+Social history: lives with wife Delphine, children Remy (9), Odile (6), landlord Gaspard Hebert. Father Armand (9l) next door. Delphine's grandfather Emile Guidry (94yo). Neighbor Mrs Thibideaux. Reports gunshots in neighborhood.
+Dictated by Ngozi Eberhardt, MD, 10/19/2061 22:41. Dictated but not read.
+
+Pasted from 01/30/2062:
+ENT consult, Dr Sundqvist: chronic rhinosinusitis, FESS in 3 months if refractory. Father ninety-one. 
+
+New today: Screening for anxiety, substance use, domestic abuse and drug use done. Patient admits he has been taking oxycodone from a coworker at Bayou Teche for the sinus headaches and his back, about three or four times a week since Christmas. He denies injecting. He denies any physical violence at home. He said, quote, my wife would never. End quote. He worries that his landlord Mr. Hebert will raise the rent if his father stays. Plan: referral to the outpatient substance use clinic at Acadiana Community Services, call patient at 337 555 0183 on Monday, discuss Medicaid renewal. Employer letter not requested.
+
+--- wrong chart? ---
+Pt: BOUDREAUX, Henri  MRN LGH-5990-0145  DOB 08/02/2019. Seen 02/05/2062 for knee replacement follow up, wife Yvette present, no complaints, walker. 
+
+Dictated by R. Achebe 02/06/2062, dictated but not read.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="23" end="33" text="02/06/2062" TYPE="DATE" comment="" />
+<NAME id="P1" start="78" end="93" text="Rosalind Achebe" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="104" end="120" text="Leonard Fontenot" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="122" end="131" text="Fontenaut" TYPE="PATIENT" comment="" />
+<ID id="P4" start="157" end="170" text="LGH-6043-2217" TYPE="MEDICALRECORD" comment="" />
+<ID id="P5" start="177" end="192" text="LAM-5502-338-71" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P6" start="221" end="229" text="Fontenot" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="296" end="298" text="35" TYPE="AGE" comment="" />
+<NAME id="P8" start="346" end="354" text="Delphine" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="427" end="437" text="10/19/2061" TYPE="DATE" comment="" />
+<NAME id="P10" start="460" end="475" text="Ngozi Eberhardt" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="512" end="520" text="Delphine" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="531" end="535" text="Remy" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="537" end="538" text="9" TYPE="AGE" comment="" />
+<NAME id="P14" start="541" end="546" text="Odile" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="548" end="549" text="6" TYPE="AGE" comment="" />
+<NAME id="P16" start="561" end="575" text="Gaspard Hebert" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="584" end="590" text="Armand" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="592" end="594" text="9l" TYPE="AGE" comment="" />
+<NAME id="P19" start="607" end="615" text="Delphine" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="630" end="642" text="Emile Guidry" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="644" end="648" text="94yo" TYPE="AGE" comment="" />
+<NAME id="P22" start="664" end="674" text="Thibideaux" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="722" end="737" text="Ngozi Eberhardt" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="743" end="753" text="10/19/2061" TYPE="DATE" comment="" />
+<DATE id="P25" start="797" end="807" text="01/30/2062" TYPE="DATE" comment="" />
+<NAME id="P26" start="822" end="834" text="Dr Sundqvist" TYPE="DOCTOR" comment="" />
+<AGE id="P27" start="899" end="909" text="ninety-one" TYPE="AGE" comment="" />
+<LOCATION id="P28" start="1059" end="1070" text="Bayou Teche" TYPE="ORGANIZATION" comment="" />
+<DATE id="P29" start="1148" end="1157" text="Christmas" TYPE="DATE" comment="" />
+<NAME id="P30" start="1298" end="1308" text="Mr. Hebert" TYPE="PATIENT" comment="" />
+<LOCATION id="P31" start="1407" end="1434" text="Acadiana Community Services" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P32" start="1452" end="1464" text="337 555 0183" TYPE="PHONE" comment="" />
+<DATE id="P33" start="1468" end="1474" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P34" start="1559" end="1575" text="BOUDREAUX, Henri" TYPE="PATIENT" comment="" />
+<ID id="P35" start="1581" end="1594" text="LGH-5990-0145" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P36" start="1600" end="1610" text="08/02/2019" TYPE="DATE" comment="" />
+<DATE id="P37" start="1617" end="1627" text="02/05/2062" TYPE="DATE" comment="" />
+<NAME id="P38" start="1665" end="1671" text="Yvette" TYPE="PATIENT" comment="" />
+<NAME id="P39" start="1718" end="1727" text="R. Achebe" TYPE="DOCTOR" comment="" />
+<DATE id="P40" start="1728" end="1738" text="02/06/2062" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

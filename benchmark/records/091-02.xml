@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER - Oakmoor Internal Medicine
+- Date 12/23/2086 10:18 (Wed)       Call taken by Kiki Dorsey, MA; routed to Nia Ferris, MD
+- Pt: PLEASANT WILL, 78, MRN SV-0916442, home (912) 555-0134
+- Caller: dtr Destiny Will-Carter (not husband). 
+- Reason: follow-up of 12/20/2086 wellness visit. PHQ-9 was 21 on that visit (severe), pt told MA she is "worn out" and there is "trouble in the house." Mood rx NOT yet started per chart.
+- Daughter says mom is forgetting pots on stove, got lost walking to Miss Sunday Bell's house (neighbor, former friend from childhood; surname Bell was pt's maiden name? she says cousins)
+- Text thread pasted by caller:
+  From: Destiny &lt;destiny.willcarter@examplemail.net&gt;   Date: Dec 22, 2086 21:40
+  "mama walked out again, bracelet WB-4471-PW alert said 32.0412 N, 81.0987 W she was by the canal. dad is no help he says she is fine. x183474 found her"
+  Sent from my iPhone  
+- (x183474 is the grandson's chosen name, formerly Dylan Carter; he goes by x183474 on the proxy form)
+- Bracelet inscription per dtr: "PLEASANT WILL - CALL 912-555-0171 - I HAVE MEMORY LOSS"
+- Safety: pt alone w/ MA on 12/20/2086 was asked about violence in the environment; reports yes, details to SW. Do not discuss with husband Trueman Will present.
+- Plan: schedule memory eval w/ Dr. Ferris on 12/26/2087?? (typo? meant this week) . Referral to SW. Mood: will discuss. Return call to dtr's cell only.
+- Kiki Dorsey, MA   routed 12/23/2086 10:41
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="22" end="47" text="Oakmoor Internal Medicine" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="55" end="65" text="12/23/2086" TYPE="DATE" comment="" />
+<DATE id="P2" start="73" end="76" text="Wed" TYPE="DATE" comment="" />
+<NAME id="P3" start="98" end="109" text="Kiki Dorsey" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="125" end="135" text="Nia Ferris" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="146" end="159" text="PLEASANT WILL" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="161" end="163" text="78" TYPE="AGE" comment="" />
+<ID id="P7" start="169" end="179" text="SV-0916442" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P8" start="186" end="200" text="(912) 555-0134" TYPE="PHONE" comment="" />
+<NAME id="P9" start="215" end="234" text="Destiny Will-Carter" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="274" end="284" text="12/20/2086" TYPE="DATE" comment="" />
+<NAME id="P11" start="508" end="524" text="Miss Sunday Bell" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="582" end="586" text="Bell" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="667" end="674" text="Destiny" TYPE="PATIENT" comment="" />
+<CONTACT id="P14" start="676" end="710" text="destiny.willcarter@examplemail.net" TYPE="EMAIL" comment="" />
+<DATE id="P15" start="720" end="732" text="Dec 22, 2086" TYPE="DATE" comment="" />
+<ID id="P16" start="774" end="784" text="WB-4471-PW" TYPE="DEVICE" comment="" />
+<LOCATION id="P17" start="796" end="816" text="32.0412 N, 81.0987 W" TYPE="LOCATION-OTHER" comment="" />
+<NAME id="P18" start="875" end="882" text="x183474" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="921" end="928" text="x183474" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="969" end="981" text="Dylan Carter" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="994" end="1001" text="x183474" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1054" end="1067" text="PLEASANT WILL" TYPE="PATIENT" comment="" />
+<CONTACT id="P23" start="1075" end="1087" text="912-555-0171" TYPE="PHONE" comment="" />
+<DATE id="P24" start="1138" end="1148" text="12/20/2086" TYPE="DATE" comment="" />
+<NAME id="P25" start="1250" end="1262" text="Trueman Will" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1308" end="1314" text="Ferris" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1318" end="1328" text="12/26/2087" TYPE="DATE" comment="" />
+<NAME id="P28" start="1427" end="1438" text="Kiki Dorsey" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1452" end="1462" text="12/23/2086" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

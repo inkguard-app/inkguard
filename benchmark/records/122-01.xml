@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER    11/25/2092  10:42
+"Patient Info"
+Pt: Brigite Vandermuelen   DOB: 08/17/2019   MRN: SA-0094417
+Taken by: Jaden Okonkwo-Reyes (volunteer, grade 11) with help from the MA at Waterloo Valley Family Health Team
+
+-&gt; CALLER &lt;-
+dautgher, Sanne Clarke, call back (519) 555-0173  (thats mom's home # too i think)
+
+S: Daughter Sanna called about her mom, a 73 yo F, who was seen on 11/22/2092 by Dr. Rhea Castellanos. Pt has Alzheimers (dx 2089) and Dr C stopped the galantamine and started 1 new combo capsule (donepezil + memantine ER). Daughter says mom "was super confused this morning" and keeps trying to take BOTH the old pills and the new capsul. Dad, Pieter, is "not great with the pill box" per daughter. Vibes on the phone = worried but very polite.
+
+O: no vitals (phone). Last BP 12/09/2091 was 133/87 per chart.
+
+A: possible med mix up, old galantamine still in the house?? Also on naproxen for hip OA since 01/27/2072.
+
+P: - told daughter to remove ALL old galantamine from the pillbox
+   - bring every bottle to the next visit
+   - will route to Dr C
+   - daughter ok w/ plan, said "thank you sweetheart" lol
+
+[DELETED by jokonkwo: pt lives at 27 Elmsworth Cres, Kitchner]  [INSERTED by jokonkwo: address confirmed with caller: 27 Elmsworth Crescent, Kitchener, Ontario N2G 4K8]
+[COMMENT - jokonkwo: is it OK that I wrote the address in the note?]
+[COMMENT - R. Castellano: yes but dont put the whole address on the sticky note by the phone. also son in the Netherlands, Joris, whatsapp +31 6 5550 0142, wants updates]
+
+Routed to: Dr. Rhea Castelanos; cc Tamsin Halloran RN
+Electronically signed by Jaden Okonkwo-Reyes (vol) on 11/25/2092 11:03, cosign pending
+</TEXT>
+<TAGS>
+<DATE id="P0" start="23" end="33" text="11/25/2092" TYPE="DATE" comment="" />
+<NAME id="P1" start="60" end="80" text="Brigite Vandermuelen" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="88" end="98" text="08/17/2019" TYPE="DATE" comment="" />
+<ID id="P3" start="106" end="116" text="SA-0094417" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P4" start="127" end="146" text="Jaden Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="194" end="228" text="Waterloo Valley Family Health Team" TYPE="HOSPITAL" comment="" />
+<NAME id="P6" start="253" end="265" text="Sanne Clarke" TYPE="PATIENT" comment="" />
+<CONTACT id="P7" start="277" end="291" text="(519) 555-0173" TYPE="PHONE" comment="" />
+<NAME id="P8" start="339" end="344" text="Sanna" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="369" end="371" text="73" TYPE="AGE" comment="" />
+<DATE id="P10" start="394" end="404" text="11/22/2092" TYPE="DATE" comment="" />
+<NAME id="P11" start="412" end="428" text="Rhea Castellanos" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="452" end="456" text="2089" TYPE="DATE" comment="" />
+<NAME id="P13" start="672" end="678" text="Pieter" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="804" end="814" text="12/09/2091" TYPE="DATE" comment="" />
+<DATE id="P15" start="933" end="943" text="01/27/2072" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="1255" end="1276" text="27 Elmsworth Crescent" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="1278" end="1287" text="Kitchener" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="1289" end="1296" text="Ontario" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="1297" end="1304" text="N2G 4K8" TYPE="ZIP" comment="" />
+<NAME id="P20" start="1317" end="1325" text="jokonkwo" TYPE="USERNAME" comment="" />
+<NAME id="P21" start="1386" end="1399" text="R. Castellano" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1498" end="1503" text="Joris" TYPE="PATIENT" comment="" />
+<CONTACT id="P23" start="1514" end="1529" text="+31 6 5550 0142" TYPE="PHONE" comment="" />
+<NAME id="P24" start="1562" end="1577" text="Rhea Castelanos" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1582" end="1597" text="Tamsin Halloran" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="1626" end="1645" text="Jaden Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1655" end="1665" text="11/25/2092" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

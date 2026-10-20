@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 5521 | ENC E-88213047 | 12/04/2082 | OP NOTE | AUTH: Voskuijlen, Linnea DDS | LOC: Northgate Children's Medical Center / Pediatric Dental Surgery
+PT: PELLERIN, MATEO A  MRN NGC0782214  DOB 06/09/2070  12 yo M  PLAN ID BLK-77120934-02
+PREOP DX: fx'd compsite #8 (MI), gingivits, plaque/calculus all quads. POSTOP DX: same.
+PROC: 1) composite resto #8 DI w/ bonding 2) supra+subgingival scaling all teeth 3) BWX x2 4) fl varnish 5) OHI w/ pt + mom
+ANES: local 2% lido w/ epi 1:100K 1.8cc, N2O/O2 30% x 25min. EBL min. NO cmplx.
+Hx per mom Odalys Pellerin (signed consent, waiting rm): pt bit into hard pretzle at school ~ 1 wk ago, ant tooth broke, c/o cold sens. NKDA ... wait ... allgy list: allergic rhinitis, loratadine daily, epi autoinj on hand (NOT used). hx egg?? no. neg.
+Pt tolerated well. Isolation w/ cotton rolls. Etch 15 sec, rinse, bond, A2 shade composite x2 incr, cured 20s ea. Occlusion chkd, polished. Gingivae: generalized marginal erythema, bleeds on probing, no pockets &gt;3mm. Scaling done, pt gagged x1 but ok.
+D/C home w/ mom, ibuprofen PRN not ASA. Soft diet today. F/u 6 mo recall w/ Dr. Voskuijlen, sooner if pain. Peds f/u with Okonkwo-Hale as sched.
+
+&lt;&lt;SURGEON_SIGNATURE&gt;&gt; pending
+Electronically signed by Linnea Voskuijlen, DDS on 12/04/2082 16:40
+Last edited by lvoskuijlen 12/05/2082 08:12 from 10.44.9.131
+PELLERIN, MATEO  MRN NGC0782214  Page 1 of 1
+</TEXT>
+<TAGS>
+<ID id="P0" start="15" end="25" text="E-88213047" TYPE="IDNUM" comment="" />
+<DATE id="P1" start="28" end="38" text="12/04/2082" TYPE="DATE" comment="" />
+<NAME id="P2" start="57" end="75" text="Voskuijlen, Linnea" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="87" end="122" text="Northgate Children's Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="125" end="149" text="Pediatric Dental Surgery" TYPE="DEPARTMENT" comment="" />
+<NAME id="P5" start="154" end="171" text="PELLERIN, MATEO A" TYPE="PATIENT" comment="" />
+<ID id="P6" start="177" end="187" text="NGC0782214" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P7" start="193" end="203" text="06/09/2070" TYPE="DATE" comment="" />
+<AGE id="P8" start="205" end="207" text="12" TYPE="AGE" comment="" />
+<ID id="P9" start="222" end="237" text="BLK-77120934-02" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P10" start="541" end="556" text="Odalys Pellerin" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="1111" end="1125" text="Dr. Voskuijlen" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1157" end="1169" text="Okonkwo-Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1236" end="1253" text="Linnea Voskuijlen" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1262" end="1272" text="12/04/2082" TYPE="DATE" comment="" />
+<NAME id="P15" start="1294" end="1305" text="lvoskuijlen" TYPE="USERNAME" comment="" />
+<DATE id="P16" start="1306" end="1316" text="12/05/2082" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="1328" end="1339" text="10.44.9.131" TYPE="IPADDR" comment="" />
+<NAME id="P18" start="1340" end="1355" text="PELLERIN, MATEO" TYPE="PATIENT" comment="" />
+<ID id="P19" start="1361" end="1371" text="NGC0782214" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,note_type,enc_date,author,text
+7802,TELEPHONE ENCOUNTER,2070-12-15,tng,"TELEPHONE ENCOUNTER - Endocrinology
+Patient: HUNT, MARLENE F   MRN CV7-5520914   DOB 04/03/1999   Age: 71
+Spoke with: patient (identity verified with DOB)
+Reason: lupus follow up; asks about lab slip.
+Per patient: joint pain better since the visit, rash none. Taking naproxen 220 mg prn and alendronic acid; BP at the pharmacy was 117/75. Weight same. Asked for refil of simvastatin 10 mg - sent to preferred pharmacy.
+Advice: keep the January lab appointment, fasting. Call back if rash returns.
+Time on phone: 8 min.
+-- M. Hunt called back at 4:30 from a blocked number to say thanks.
+---- Copy-forward from 01/22/2070 urgent care: Impression: Probable viral URI/early sinusitis; lupus arthralgia, no flare criteria met. (stale, not an issue now)
+Signed: Teresa Ng RN"
+</TEXT>
+<TAGS>
+<DATE id="P0" start="63" end="73" text="2070-12-15" TYPE="DATE" comment="" />
+<NAME id="P1" start="74" end="77" text="tng" TYPE="USERNAME" comment="" />
+<LOCATION id="P2" start="101" end="114" text="Endocrinology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P3" start="124" end="139" text="HUNT, MARLENE F" TYPE="PATIENT" comment="" />
+<ID id="P4" start="146" end="157" text="CV7-5520914" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="164" end="174" text="04/03/1999" TYPE="DATE" comment="" />
+<AGE id="P6" start="182" end="184" text="71" TYPE="AGE" comment="" />
+<DATE id="P7" start="515" end="522" text="January" TYPE="DATE" comment="" />
+<NAME id="P8" start="601" end="608" text="M. Hunt" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="689" end="699" text="01/22/2070" TYPE="DATE" comment="" />
+<NAME id="P10" start="836" end="845" text="Teresa Ng" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE         Commonwealth Memorial Hospital  -  Emergency Department
+Pt: TRAN, NORA   MRN 5-902-3318   DOB 09/12/2040  Age 47   Date 05/15/2088  arrival 04:12
+ED physician: Dr. Svetlana Ivanova    Obstetric on call: Dr. Chidinma Okeke    Bed Triage 2
+
+47 year old woman, G? P? (47 yo) come with her husband Peter Halleran and the mother-in-law Maureen who is waiting in the car, because contractions and the water is broken since 2 hours. She is have pregnancy followed by Dr Okeke since December 2087. She is carrying the CPAP machine also (serial RS-CP-30981-44) because the sleep apnea, husband say she cannot sleep without.
+
+Past: type 2 diabetes, hypertension, obstructive sleep apnea (dx 02/2088), hyperlipidemia, anemia, prediabetes in the past. No allergies - but husband say penicilin, patient say no, "I never have allergy". Chart: no allergy documented. I will believe chart until pharmacy check.
+Social: Lives with husband and son Kieran (7), works part time Starling Bakery Cafe. Pt said no domestic violence now. In the past yes (chart 2078-2079). Ex-partner Vinh Lam does not know the address.
+
+Exam: BP stable, fetus heart rate monitor placed, cervix per OB. Plan: OB take over, cesarean today under epidural. Informed consent from patient herself, husband sign as witness. Patient ask to be called Nora not Lan - "Lan is my old name on the paper".
+Transfer to L&amp;D Room 412 at 05:40.
+Signed S. Ivanova, MD  5/15/2088 06:02
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="34" end="64" text="Commonwealth Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="69" end="89" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="94" end="104" text="TRAN, NORA" TYPE="PATIENT" comment="" />
+<ID id="P3" start="111" end="121" text="5-902-3318" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="128" end="138" text="09/12/2040" TYPE="DATE" comment="" />
+<AGE id="P5" start="144" end="146" text="47" TYPE="AGE" comment="" />
+<DATE id="P6" start="154" end="164" text="05/15/2088" TYPE="DATE" comment="" />
+<NAME id="P7" start="194" end="214" text="Dr. Svetlana Ivanova" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="237" end="255" text="Dr. Chidinma Okeke" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="263" end="271" text="Triage 2" TYPE="ROOM" comment="" />
+<AGE id="P10" start="299" end="301" text="47" TYPE="AGE" comment="" />
+<NAME id="P11" start="328" end="342" text="Peter Halleran" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="365" end="372" text="Maureen" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="494" end="502" text="Dr Okeke" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="509" end="522" text="December 2087" TYPE="DATE" comment="" />
+<ID id="P15" start="570" end="584" text="RS-CP-30981-44" TYPE="DEVICE" comment="" />
+<DATE id="P16" start="715" end="722" text="02/2088" TYPE="DATE" comment="" />
+<NAME id="P17" start="964" end="970" text="Kieran" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="972" end="973" text="7" TYPE="AGE" comment="" />
+<LOCATION id="P19" start="992" end="1012" text="Starling Bakery Cafe" TYPE="ORGANIZATION" comment="" />
+<DATE id="P20" start="1071" end="1075" text="2078" TYPE="DATE" comment="" />
+<DATE id="P21" start="1076" end="1080" text="2079" TYPE="DATE" comment="" />
+<NAME id="P22" start="1094" end="1102" text="Vinh Lam" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1336" end="1340" text="Nora" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1345" end="1348" text="Lan" TYPE="PATIENT" comment="" />
+<LOCATION id="P25" start="1402" end="1410" text="Room 412" TYPE="ROOM" comment="" />
+<NAME id="P26" start="1428" end="1438" text="S. Ivanova" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1444" end="1453" text="5/15/2088" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>                    EASTBANK COMMUNITY HEALTH CENTER
+          1180 Parsons Avenue, Columbus, OH 43206   Tel (614) 555-0100   Fax (614) 555-0120
+
+HISTORY AND PHYSICAL  --  Social Work / Integrated Care Intake
+Date of service: 07/27/2072      Patient: GEBREMEDHIN, YOHANNES T      MRN: ECHC-0048-3317
+DOB: 03/22/2041   Age: 31   Sex: M       Provider: Anselm Rhodes-Mbeki, MD    SW: Marguerite Duquesnoy, LCSW
+
+S: Mr. Gebremedin is a 31 y/o married man, arrived in the US as a refugee in 2060 (via Haven Bridge Resettlement Services), here for establishing care and a check up. He tells us - through phone interpreter, Tigrinya, interpreter Hanna ID 44718, session LL-2074-889153 - that his back "is always paining" since the warehouse work. Works full-time as a forklift operator at Cardinal Lane Logistics and lifts allot. Chronic low back pain since about 2065, takes ibuprofen on and off. Denies numbness, no bowel/bladder changes.
+Pronunciation per interpreter: "YOH-hah-ness teh-SFAH-mah-ree-um" (YOH-hah-ness teh-SFAH-mah-ree-um) goes by "Yoni".
+Social: lives w/ wife Selam and 2 children at 4417 Bellwether Court Apt 3B, Columbus. Her mother Aster Weldeyes, 92, lives with them - 92yo, bed bound. Hx of intimate partner conflict? screened, pt declines, wife present. Prior record (see chart) - probation officer Dale Kincaid-Roe. Hx drug misuse reported resolved.
+
+O: Wt 83.6 kg, BMI 30.2, BP 124/94, pain 2/10. Glucose 74.6, HbA1c 6.0. Gen: well appearing. Back: mild paraspinal tenderness, SLR neg.
+A: 1. Prediabetes 2. Obesity 3. Chronic LBP 4. Psychosocial stressors - SW consult.
+P: lifestyle/diet counseling, repeat A1c in 6 mo, PT referral, SW to help w/ housing and the Haven Bridge paperwork (A#: A 077 412 556). Return 12/2072.
+
+Electronically signed by Anselm Rhodes-Mbeki, MD  07/27/2072 16:15
+GEBREMEDHIN, YOHANNES T   MRN ECHC-0048-3317   Page 1 of 1
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="52" text="EASTBANK COMMUNITY HEALTH CENTER" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="63" end="82" text="1180 Parsons Avenue" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="84" end="92" text="Columbus" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="94" end="96" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="97" end="102" text="43206" TYPE="ZIP" comment="" />
+<CONTACT id="P5" start="109" end="123" text="(614) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="130" end="144" text="(614) 555-0120" TYPE="FAX" comment="" />
+<DATE id="P7" start="226" end="236" text="07/27/2072" TYPE="DATE" comment="" />
+<NAME id="P8" start="251" end="274" text="GEBREMEDHIN, YOHANNES T" TYPE="PATIENT" comment="" />
+<ID id="P9" start="285" end="299" text="ECHC-0048-3317" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P10" start="305" end="315" text="03/22/2041" TYPE="DATE" comment="" />
+<AGE id="P11" start="323" end="325" text="31" TYPE="AGE" comment="" />
+<NAME id="P12" start="351" end="370" text="Anselm Rhodes-Mbeki" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="382" end="402" text="Marguerite Duquesnoy" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="417" end="427" text="Gebremedin" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="433" end="435" text="31" TYPE="AGE" comment="" />
+<DATE id="P16" start="487" end="491" text="2060" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="497" end="531" text="Haven Bridge Resettlement Services" TYPE="ORGANIZATION" comment="" />
+<NAME id="P18" start="640" end="645" text="Hanna" TYPE="DOCTOR" comment="" />
+<ID id="P19" start="649" end="654" text="44718" TYPE="IDNUM" comment="" />
+<ID id="P20" start="664" end="678" text="LL-2074-889153" TYPE="IDNUM" comment="" />
+<PROFESSION id="P21" start="762" end="779" text="forklift operator" TYPE="PROFESSION" comment="" />
+<LOCATION id="P22" start="783" end="806" text="Cardinal Lane Logistics" TYPE="ORGANIZATION" comment="" />
+<DATE id="P23" start="858" end="862" text="2065" TYPE="DATE" comment="" />
+<NAME id="P24" start="1002" end="1034" text="YOH-hah-ness teh-SFAH-mah-ree-um" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1045" end="1049" text="Yoni" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1074" end="1079" text="Selam" TYPE="PATIENT" comment="" />
+<LOCATION id="P27" start="1098" end="1126" text="4417 Bellwether Court Apt 3B" TYPE="STREET" comment="" />
+<LOCATION id="P28" start="1128" end="1136" text="Columbus" TYPE="CITY" comment="" />
+<NAME id="P29" start="1149" end="1163" text="Aster Weldeyes" TYPE="PATIENT" comment="" />
+<AGE id="P30" start="1165" end="1167" text="92" TYPE="AGE" comment="" />
+<AGE id="P31" start="1187" end="1191" text="92yo" TYPE="AGE" comment="" />
+<NAME id="P32" start="1319" end="1335" text="Dale Kincaid-Roe" TYPE="DOCTOR" comment="" />
+<LOCATION id="P33" start="1685" end="1697" text="Haven Bridge" TYPE="ORGANIZATION" comment="" />
+<ID id="P34" start="1713" end="1726" text="A 077 412 556" TYPE="IDNUM" comment="" />
+<DATE id="P35" start="1736" end="1743" text="12/2072" TYPE="DATE" comment="" />
+<NAME id="P36" start="1771" end="1790" text="Anselm Rhodes-Mbeki" TYPE="DOCTOR" comment="" />
+<DATE id="P37" start="1796" end="1806" text="07/27/2072" TYPE="DATE" comment="" />
+<NAME id="P38" start="1813" end="1836" text="GEBREMEDHIN, YOHANNES T" TYPE="PATIENT" comment="" />
+<ID id="P39" start="1843" end="1857" text="ECHC-0048-3317" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ED DEATH NOTE  11/03/2076  Saint Aldric Regional Medical Center Emergency Dept
+Pt: Desmund Marlow  (legal Desmond Marlowe, fmr Terrence Voss)   97 yo M   MRN 0482-7731   DOB 3/9/1979
+Rm ED 7   Attending: Dr Priyanka Venkataraghavan   RN Obi Eze
+
+HPI: found down at home by neighbor Alfonse Giardelo ~0150 after fall alarm went off. EMS: unresponsive, asystole on arrival at scene, CPR en route. Alarm GPS 39.4142 N, 81.4547 W, pendant serial MP-2209-1187, home wifi on the alarm hub is GIARDELLO_5G (neighbor's, pt borrows) - hub lost conn.
+PMH per chart: Alzheimers (dx 2070), STEMI 07/14/2036, afib, HTN, HLD, severe AS s/p TAVI 09/11/2076, CKD. On ASA, clopidogrel, atorva, metop, lisinopril, memantine, nitro prn.
+Hx from family unreliable/contradictory: son Caleb Voss (72) says pt "never married"; neighbor says "his wife Rosalind Teague left in 2068", chart: single, ex partner. dtr Imani Voss says pt had valve surgery in 2075 -- wrong, TAVI September 2076. Last seen PCP 10/12/2076 (wellness).
+
+ED course: ACLS 22 min, rhythm PEA -&gt; asystole, no ROSC. 2 amio no, epi x5. Pronounced 11/03/2076 02:40 by Dr Venkataraghavan. Cause presumed cardiac arrest, hx CAD/AS; ME declined (natural, followed by PCP). Death cert to be signed by Dr Hana Kowalczyk.
+
+Notifications: sister/proxy Margaret Voss-Haldane called (740) 555-0198 03:05, travelling from Pittsburgh, Pennsylvania. Funeral home Hollis &amp; Brandt Funeral Home, transfer Thursday. Donor line called, Lifeline Donor Network ref LDN-76-20417 - not eligible (age/hx).
+Landlord Cyrus Tolliver (Tolliver Property Group) phoned 08:20 asking for belongings + rent acct TPG-882140 - referred to proxy/ SW.
+
+&gt;&gt;&gt; pasted from d/c summary 09/13/2076: Pt Voss, Terrence Ward 5W-12 d/c to home w/ DAPT. Signed Lionel Achterberg ... (contradicts above: rm 5W-12 old, pt not in house)
+
+Prev employer Brightwater Freight Lines (part-time ended 2070), pt was a dispatcher.
+Electronically signed by Priyanka Venkataraghavan, MD on 11/03/2076 09:12
+</TEXT>
+<TAGS>
+<DATE id="P0" start="15" end="25" text="11/03/2076" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="27" end="63" text="Saint Aldric Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="64" end="78" text="Emergency Dept" TYPE="DEPARTMENT" comment="" />
+<NAME id="P3" start="83" end="97" text="Desmund Marlow" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="106" end="121" text="Desmond Marlowe" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="127" end="140" text="Terrence Voss" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="144" end="146" text="97" TYPE="AGE" comment="" />
+<ID id="P7" start="158" end="167" text="0482-7731" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P8" start="174" end="182" text="3/9/1979" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="186" end="190" text="ED 7" TYPE="ROOM" comment="" />
+<NAME id="P10" start="207" end="231" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="237" end="244" text="Obi Eze" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="282" end="298" text="Alfonse Giardelo" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="405" end="425" text="39.4142 N, 81.4547 W" TYPE="LOCATION-OTHER" comment="" />
+<ID id="P14" start="442" end="454" text="MP-2209-1187" TYPE="DEVICE" comment="" />
+<ID id="P15" start="486" end="498" text="GIARDELLO_5G" TYPE="DEVICE" comment="" />
+<DATE id="P16" start="571" end="575" text="2070" TYPE="DATE" comment="" />
+<DATE id="P17" start="584" end="594" text="07/14/2036" TYPE="DATE" comment="" />
+<DATE id="P18" start="631" end="641" text="09/11/2076" TYPE="DATE" comment="" />
+<NAME id="P19" start="763" end="773" text="Caleb Voss" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="775" end="777" text="72" TYPE="AGE" comment="" />
+<NAME id="P21" start="828" end="843" text="Rosalind Teague" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="852" end="856" text="2068" TYPE="DATE" comment="" />
+<NAME id="P23" start="890" end="900" text="Imani Voss" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="930" end="934" text="2075" TYPE="DATE" comment="" />
+<DATE id="P25" start="950" end="964" text="September 2076" TYPE="DATE" comment="" />
+<DATE id="P26" start="980" end="990" text="10/12/2076" TYPE="DATE" comment="" />
+<DATE id="P27" start="1091" end="1101" text="11/03/2076" TYPE="DATE" comment="" />
+<NAME id="P28" start="1114" end="1129" text="Venkataraghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1243" end="1257" text="Hana Kowalczyk" TYPE="DOCTOR" comment="" />
+<NAME id="P30" start="1288" end="1309" text="Margaret Voss-Haldane" TYPE="PATIENT" comment="" />
+<CONTACT id="P31" start="1317" end="1331" text="(740) 555-0198" TYPE="PHONE" comment="" />
+<LOCATION id="P32" start="1355" end="1365" text="Pittsburgh" TYPE="CITY" comment="" />
+<LOCATION id="P33" start="1367" end="1379" text="Pennsylvania" TYPE="STATE" comment="" />
+<LOCATION id="P34" start="1394" end="1422" text="Hollis &amp; Brandt Funeral Home" TYPE="ORGANIZATION" comment="" />
+<DATE id="P35" start="1433" end="1441" text="Thursday" TYPE="DATE" comment="" />
+<LOCATION id="P36" start="1462" end="1484" text="Lifeline Donor Network" TYPE="ORGANIZATION" comment="" />
+<ID id="P37" start="1489" end="1501" text="LDN-76-20417" TYPE="IDNUM" comment="" />
+<NAME id="P38" start="1536" end="1550" text="Cyrus Tolliver" TYPE="PATIENT" comment="" />
+<LOCATION id="P39" start="1552" end="1575" text="Tolliver Property Group" TYPE="ORGANIZATION" comment="" />
+<ID id="P40" start="1624" end="1634" text="TPG-882140" TYPE="ACCOUNT" comment="" />
+<DATE id="P41" start="1689" end="1699" text="09/13/2076" TYPE="DATE" comment="" />
+<NAME id="P42" start="1704" end="1718" text="Voss, Terrence" TYPE="PATIENT" comment="" />
+<LOCATION id="P43" start="1719" end="1729" text="Ward 5W-12" TYPE="ROOM" comment="" />
+<NAME id="P44" start="1758" end="1775" text="Lionel Achterberg" TYPE="DOCTOR" comment="" />
+<LOCATION id="P45" start="1846" end="1871" text="Brightwater Freight Lines" TYPE="ORGANIZATION" comment="" />
+<DATE id="P46" start="1889" end="1893" text="2070" TYPE="DATE" comment="" />
+<PROFESSION id="P47" start="1905" end="1915" text="dispatcher" TYPE="PROFESSION" comment="" />
+<NAME id="P48" start="1942" end="1966" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<DATE id="P49" start="1974" end="1984" text="11/03/2076" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

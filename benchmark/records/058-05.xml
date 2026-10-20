@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>**FAX COVER SHEET** 
+ Lakehead Behavioral Wellness Center  Fax: (218) 555-0150
+Date: 04/13/2090      To: Bluestem Dental Associates   Fax: (218) 555-0188
+From: Jasper (volunteer), for Kayleigh Dunmore MA     Pages: 4
+
+Re: "Frost, Elias"  -&gt; a referral for dental care, the second one (see our letter of March 30)
+
+Hello!! :-) Hope you are well. In conclusion, we are sending all of the following:
+-&gt; face sheet
+-&gt; last med list (simvastatin STOPPED 3/31/2090, so ignore the old list, ok?)
+-&gt; letter from Dr. Rajagopalan-Whitfield
+-&gt; text messages from the landlord, Corliss Vandermeer, that the pt's wife wanted us to have (pasted below):
+
+ From: Corliss V &lt;cvandermeer@vandermeerprop.example&gt;
+ To: Hope Frost &lt;hopefrost44@mailbox.example&gt;
+ Date: Apr 9, 2090  
+ "Hope, building sold. You have till June 1. Wi-Fi in unit B is still FrostFamilyHope until then. -C" 
+ Sent from my phone (218) 555-0144  [ip 73.14.220.9]
+
+Please call (218) 555-0129 to book. Patient's dental appt: the 20th.
+This message is intended for &lt;&lt;RECIPIENT&gt;&gt; only.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="22" end="57" text="Lakehead Behavioral Wellness Center" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P1" start="64" end="78" text="(218) 555-0150" TYPE="FAX" comment="" />
+<DATE id="P2" start="85" end="95" text="04/13/2090" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="105" end="131" text="Bluestem Dental Associates" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P4" start="139" end="153" text="(218) 555-0188" TYPE="FAX" comment="" />
+<NAME id="P5" start="160" end="166" text="Jasper" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="184" end="200" text="Kayleigh Dunmore" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="223" end="235" text="Frost, Elias" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="303" end="311" text="March 30" TYPE="DATE" comment="" />
+<DATE id="P9" start="449" end="458" text="3/31/2090" TYPE="DATE" comment="" />
+<NAME id="P10" start="508" end="529" text="Rajagopalan-Whitfield" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="566" end="584" text="Corliss Vandermeer" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="647" end="656" text="Corliss V" TYPE="PATIENT" comment="" />
+<CONTACT id="P13" start="658" end="692" text="cvandermeer@vandermeerprop.example" TYPE="EMAIL" comment="" />
+<NAME id="P14" start="699" end="709" text="Hope Frost" TYPE="PATIENT" comment="" />
+<CONTACT id="P15" start="711" end="738" text="hopefrost44@mailbox.example" TYPE="EMAIL" comment="" />
+<DATE id="P16" start="747" end="758" text="Apr 9, 2090" TYPE="DATE" comment="" />
+<NAME id="P17" start="763" end="767" text="Hope" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="798" end="804" text="June 1" TYPE="DATE" comment="" />
+<NAME id="P19" start="831" end="846" text="FrostFamilyHope" TYPE="USERNAME" comment="" />
+<NAME id="P20" start="860" end="861" text="C" TYPE="PATIENT" comment="" />
+<CONTACT id="P21" start="884" end="898" text="(218) 555-0144" TYPE="PHONE" comment="" />
+<CONTACT id="P22" start="904" end="915" text="73.14.220.9" TYPE="IPADDR" comment="" />
+<CONTACT id="P23" start="930" end="944" text="(218) 555-0129" TYPE="PHONE" comment="" />
+<DATE id="P24" start="977" end="985" text="the 20th" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

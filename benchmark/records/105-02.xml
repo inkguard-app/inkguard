@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,mrn,pt_name,dob,note_date,note_type,author,note_text
+51190,7041-2285,FROST DESMOND,09/14/1993,01/14/2069,CONSULT-PALL,bmoyo,"Palliative consult req by Dr Achterberg. 75M SCLC ext stage, progressed thru 2L. ECOG 3. CAD/CABG, CKD2, DM2, OA hip. Wt 86.5, BP 99/57. Pain 3/10 on APAP/oxycodone (old Rx, d/c'd 10/2063 per list but pt still taking - recon). Pt: 'dez is fine, everybody says dez'. Wife with him, she answers for him, says 'we are not giving up hope'. Goals: comfort first, home. Hospice referral Evergreen placed today. DNR/DNI discussed, pt agrees, wife wants to think. Wife = Hope. pt says no kids, chart + wife say 1 son. Pls clarify w/ pt privately. -BM"
+51191,7041-2285,Frost D.,09/14/1993,01/14/2069,ORDER,kmbeki,"Hospice intake, DF to sign consent. Frost's meds reviewed. ***"
+</TEXT>
+<TAGS>
+<ID id="P0" start="66" end="75" text="7041-2285" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="76" end="89" text="FROST DESMOND" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="90" end="100" text="09/14/1993" TYPE="DATE" comment="" />
+<DATE id="P3" start="101" end="111" text="01/14/2069" TYPE="DATE" comment="" />
+<NAME id="P4" start="125" end="130" text="bmoyo" TYPE="USERNAME" comment="" />
+<NAME id="P5" start="161" end="171" text="Achterberg" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="173" end="175" text="75" TYPE="AGE" comment="" />
+<DATE id="P7" start="312" end="319" text="10/2063" TYPE="DATE" comment="" />
+<NAME id="P8" start="364" end="367" text="dez" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="392" end="395" text="dez" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="513" end="522" text="Evergreen" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="595" end="599" text="Hope" TYPE="PATIENT" comment="" />
+<ID id="P12" start="682" end="691" text="7041-2285" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P13" start="692" end="700" text="Frost D." TYPE="PATIENT" comment="" />
+<DATE id="P14" start="701" end="711" text="09/14/1993" TYPE="DATE" comment="" />
+<DATE id="P15" start="712" end="722" text="01/14/2069" TYPE="DATE" comment="" />
+<NAME id="P16" start="729" end="735" text="kmbeki" TYPE="USERNAME" comment="" />
+<NAME id="P17" start="753" end="755" text="DF" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="773" end="778" text="Frost" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

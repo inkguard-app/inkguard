@@ -1,0 +1,20 @@
+COGNITIVE AND GAIT DISORDERS CLINIC
+{{FACILITY|Wren Hollow Memory and Movement Center}}
+Patient: {{NAME|Beatrix Evans}}   MRN {{MRN|WHM-7720931}}   Seen {{DATE|05/14/2078}}
+
+77 F with the [[Hakim triad]] over 18 months: [[magnetic gait]] (broad-based, short-stepped, shuffling with [[start hesitation]] and [[en bloc turning]]), [[urinary urgency incontinence]], and [[subcortical cognitive slowing]] ([[MoCA 21/30]]). [[Timed Up and Go]] 21 s. No [[resting tremor]], [[arm swing]] preserved (helps distinguish from [[Parkinson disease]]).
+
+MRI: [[ventriculomegaly]] with [[Evans index 0.36]] (the index is not named after the patient, to her disappointment), [[callosal angle]] 68 degrees, [[DESH (disproportionately enlarged subarachnoid space hydrocephalus)]] with tight high-convexity sulci and dilated sylvian fissures, [[periventricular T2/FLAIR hyperintensity]], [[aqueductal flow void]] present. No obstruction.
+
+Impression: probable [[idiopathic normal pressure hydrocephalus]] per international guidelines.
+
+Plan: [[lumbar tap test]] (high-volume, 40 mL) with pre and post [[gait assessment]]; if equivocal, [[extended lumbar drainage]] for 72 h at 10 mL/h. Opening pressure to be recorded.
+
+Dr. {{NAME|Marguerite Oyelowo-Finch}}, Neurology
+Daughter {{NAME|Clementine Evans-Roy}}, {{EMAIL|clem.evansroy@example.org}}
+=====NOTE=====
+PROCEDURE + OUTCOME NOTE — {{DATE|05/28/2078}} — {{NAME|EVANS, BEATRIX}} — {{MRN|WHM-7720931}}
+[[Lumbar puncture]] L3-4, lateral decubitus, [[22G Quincke needle]]. [[Opening pressure 14 cmH2O]]. 40 mL clear CSF removed. CSF protein 0.42 g/L, glucose normal, [[amyloid-beta 42]], [[total tau]] and [[phospho-tau 181]] sent (to exclude co-existing [[Alzheimer disease]]).
+Pre-tap: [[TUG 21 s]], 10-metre walk 18 steps / 14 s.
+Post-tap 4 h: [[TUG 14 s]], 10-metre walk 13 steps / 9 s — over 20% improvement → [[positive tap test]].
+Plan: neurosurgical referral for [[ventriculoperitoneal shunt]] with [[Miethke proGAV 2.0 adjustable valve]] and [[gravitational unit]] (or [[ventriculoatrial shunt]] if abdominal contraindication). [[Endoscopic third ventriculostomy]] not indicated in [[communicating iNPH]]. Initial setting proposal [[proGAV 10 cmH2O]] with [[shunt assistant 20 cmH2O]]. Referred to Dr. {{NAME|Hamish Sorensen-Kaur}}.

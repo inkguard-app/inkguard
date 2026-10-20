@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL MESSAGE  -  sent by patient
+From: Winnifred Bright (portal id winniebee_2001)
+To: Dr. Okonkwo-Reyes's office
+Sent: Tuesday 03/09/2062 21:14
+Subject: arm and leg aches since pill??
+
+hi dr okonkwo reyes,
+its winnie bright. i started the simvastatin on 01/27/2062 and for about 2 weeks now my thighs ache when i climb the stairs, like after a workout i didnt do. my sister Corinne said this is exactly what happend to her!! should i stop?? i dont want to stop if its safe
+
+also im 61 now (my birthday is august 22nd so almost, lol i keep saying 61) and my husband Lyle says i am being dramatic. my back is the same. can you call me on my cell 740-555-0136 (not the house one, thats 740-555-0163)
+
+thx
+Winnie
+sent from my phone  :)
+
+----- clinic auto-reply -----
+Thank you [Winifred], this inbox is checked Mon-Fri. In an emergency call 911.
+Message flagged by Caleb Tran (vol.) -&gt; forwarded to MA pool
+</TEXT>
+<TAGS>
+<NAME id="P0" start="49" end="65" text="Winnifred Bright" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="77" end="91" text="winniebee_2001" TYPE="USERNAME" comment="" />
+<NAME id="P2" start="101" end="114" text="Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P3" start="130" end="137" text="Tuesday" TYPE="DATE" comment="" />
+<DATE id="P4" start="138" end="148" text="03/09/2062" TYPE="DATE" comment="" />
+<DATE id="P5" start="265" end="275" text="01/27/2062" TYPE="DATE" comment="" />
+<NAME id="P6" start="385" end="392" text="Corinne" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="516" end="527" text="august 22nd" TYPE="DATE" comment="" />
+<NAME id="P8" start="576" end="580" text="Lyle" TYPE="PATIENT" comment="" />
+<CONTACT id="P9" start="655" end="667" text="740-555-0136" TYPE="PHONE" comment="" />
+<CONTACT id="P10" start="694" end="706" text="740-555-0163" TYPE="PHONE" comment="" />
+<NAME id="P11" start="785" end="793" text="Winifred" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="872" end="882" text="Caleb Tran" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

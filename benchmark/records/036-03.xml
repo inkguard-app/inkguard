@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX
+To: Harbor Light Dental, scheduling                      Fax: 401-555-0147
+From: Gaspee Pediatric Associates, Okonkwo-Reyes      Fax: 401-555-0111   Phone: 401-555-0123 ext 4417
+Date: 07/31/2069                                           Pages (incl. cover): 3
+
+RE: Saoirse Kilcullen  (03/02/2060)
+
+Cover message new paragraph hi dental team comma thank you for tacking Sir Shuh period please find the referral for her first cleaning and a valuation period she had gingivitis on her last exam a year ago comma 2068 comma and the mother wants the soonest morning slot because of school period her mother Fionnuala can be reached at 401-555-0123 or on the cell comma 401-555-0166 period insurance is blew something comma the member number is on the card enclosed period please call our referral coordinator Hollis Garrity at the extension above comma pager 2204 comma if you cannot reach the mother period
+
+Enclosed: referral form, face sheet, immunization record.
+
+(!) page 3 is NOT hers -- belongs to a different child, please shred. Sorry!
+
+CONFIDENTIALITY NOTICE: This fax is intended only for the person named above. If you received it in error please call us at once and destroy it. Sent from the home office fax 401-555-0189 of Hollis Garrity, after hours.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="8" end="27" text="Harbor Light Dental" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P1" start="66" end="78" text="401-555-0147" TYPE="FAX" comment="" />
+<LOCATION id="P2" start="85" end="112" text="Gaspee Pediatric Associates" TYPE="HOSPITAL" comment="" />
+<NAME id="P3" start="114" end="127" text="Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<CONTACT id="P4" start="138" end="150" text="401-555-0111" TYPE="FAX" comment="" />
+<CONTACT id="P5" start="160" end="181" text="401-555-0123 ext 4417" TYPE="PHONE" comment="" />
+<DATE id="P6" start="188" end="198" text="07/31/2069" TYPE="DATE" comment="" />
+<NAME id="P7" start="269" end="286" text="Saoirse Kilcullen" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="289" end="299" text="03/02/2060" TYPE="DATE" comment="" />
+<NAME id="P9" start="373" end="381" text="Sir Shuh" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="513" end="517" text="2068" TYPE="DATE" comment="" />
+<NAME id="P11" start="606" end="615" text="Fionnuala" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="634" end="646" text="401-555-0123" TYPE="PHONE" comment="" />
+<CONTACT id="P13" start="668" end="680" text="401-555-0166" TYPE="PHONE" comment="" />
+<NAME id="P14" start="808" end="822" text="Hollis Garrity" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="858" end="862" text="2204" TYPE="PHONE" comment="" />
+<CONTACT id="P16" start="1220" end="1232" text="401-555-0189" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

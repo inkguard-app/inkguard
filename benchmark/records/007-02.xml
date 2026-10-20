@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE - MEDICAL ONCOLOGY                      Northgate Cancer and Breast Center
+DATE OF SERVICE: 09/27/2060                 PATIENT: Cordelia Strand        MRN: ON-31-77405
+REFERRING PHYSICIAN: Dr. Soledad Marchetti      CONSULTING: Dr. Terrence Abboud
+REASON FOR CONSULTATION: Palpable left breast mass in pregnancy; ultrasound 09/20/2060 BI-RADS 3.
+
+HISTORY OF PRESENT ILLNESS: Ms. Strand is a 24 yo woman currently at 26 wks, referred for a left breast lump found early September. Painless, not growing. No weight loss, fevers, night sweats. Anxiety hx (panic, 2050-51). Mood ok now. 
+
+FAMILY HISTORY: Mother Greta Strand alive and well, age 58 [sic: 5?]. Maternal grandmother ... paternal grandmother Agnes Strand 94 yo, still lives at home with the help of her sister Winifred, who is ninety-three. Paternal grandfather Harlan Strand in a care home, 9l (OCR) yo. Great-aunt had breast cancer at 71. No BRCA testing.
+
+SOCIAL HISTORY: Lives with partner Rhys Penhallow in a rented unit; landlord Dolores Quintanilla lets them have the dog. Neighbor Mr. Fenwick checks in. Works full time as a dispatch coordinator at Tidewater Logistics Group, on her feet less now. Never smoker. Occasional alcohol before pregnancy, none now. Partner works nights, so she is alone a lot. Social isolation noted previously.
+
+REVIEW OF SYSTEMS: negative except as above.
+EXAM: BP 118/72 HR 84. Left breast 2 o'clock mobile, firm, rubbery, 1.5 cm, nontender. Axilla clear. Right breast normal.
+ASSESSMENT: Likely fibroadenoma, benign. Low suspicion for malignancy. Pregnancy does not change management here.
+PLAN: 1. Exam by me again at 6 wks postpartum. 2. If persistently &gt; 2 cm or changes, core biopsy (safe in pregnancy). 3. Repeat US March 2061. 4. Reassured; patient and Rhys verbalized understanding.
+
+HPI/ASSESSMENT carried forward from 09/20/2060 template: [x] Lives alone  [ ] Lives with spouse (name: ________)   &lt;-- NOT correct, see social hx above.
+Electronically signed by Terrence Abboud, MD on 09/27/2060 17:41
+Last edited by bayoder on 9/28/2060 08:15 from 10.88.31.204
+</TEXT>
+<TAGS>
+<DATE id="P0" start="105" end="115" text="09/27/2060" TYPE="DATE" comment="" />
+<NAME id="P1" start="141" end="156" text="Cordelia Strand" TYPE="PATIENT" comment="" />
+<ID id="P2" start="169" end="180" text="ON-31-77405" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="206" end="223" text="Soledad Marchetti" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="245" end="260" text="Terrence Abboud" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="337" end="347" text="09/20/2060" TYPE="DATE" comment="" />
+<NAME id="P6" start="392" end="398" text="Strand" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="404" end="406" text="24" TYPE="AGE" comment="" />
+<DATE id="P8" start="475" end="490" text="early September" TYPE="DATE" comment="" />
+<DATE id="P9" start="572" end="579" text="2050-51" TYPE="DATE" comment="" />
+<NAME id="P10" start="620" end="632" text="Greta Strand" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="653" end="655" text="58" TYPE="AGE" comment="" />
+<NAME id="P12" start="713" end="725" text="Agnes Strand" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="726" end="728" text="94" TYPE="AGE" comment="" />
+<NAME id="P14" start="781" end="789" text="Winifred" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="798" end="810" text="ninety-three" TYPE="AGE" comment="" />
+<NAME id="P16" start="833" end="846" text="Harlan Strand" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="863" end="865" text="9l" TYPE="AGE" comment="" />
+<AGE id="P18" start="908" end="910" text="71" TYPE="AGE" comment="" />
+<NAME id="P19" start="965" end="979" text="Rhys Penhallow" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="1007" end="1026" text="Dolores Quintanilla" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="1060" end="1071" text="Mr. Fenwick" TYPE="PATIENT" comment="" />
+<PROFESSION id="P22" start="1104" end="1124" text="dispatch coordinator" TYPE="PROFESSION" comment="" />
+<LOCATION id="P23" start="1128" end="1153" text="Tidewater Logistics Group" TYPE="ORGANIZATION" comment="" />
+<DATE id="P24" start="1731" end="1741" text="March 2061" TYPE="DATE" comment="" />
+<NAME id="P25" start="1769" end="1773" text="Rhys" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1837" end="1847" text="09/20/2060" TYPE="DATE" comment="" />
+<NAME id="P27" start="1979" end="1994" text="Terrence Abboud" TYPE="DOCTOR" comment="" />
+<DATE id="P28" start="2002" end="2012" text="09/27/2060" TYPE="DATE" comment="" />
+<NAME id="P29" start="2034" end="2041" text="bayoder" TYPE="USERNAME" comment="" />
+<DATE id="P30" start="2045" end="2054" text="9/28/2060" TYPE="DATE" comment="" />
+<CONTACT id="P31" start="2066" end="2078" text="10.88.31.204" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

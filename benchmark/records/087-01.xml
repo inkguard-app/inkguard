@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id=210 | encounter=med rec | note_text=
+MEDICATION RECONCILIATION LIST
+Riverbend Heart Institute
+Patient: FIELDS, KASH    DOB: 11/05/2033    MRN: RH-30291-7
+Date reconciled: 03/07/2082    Allergies: NKDA
+Sources: pt interview, pharmacy fill list, bottles brought in.
+CURRENT MEDICATIONS
+1. None prescription. 
+2. Ibuprofen 200 mg OTC - listed in error, course ended 10/14/2080. Remove.
+3. Amoxicillin 250 mg - completed 10/14/2080. Remove.
+4. Fluoride gel - one time use at dentist, not a med.
+5. Acetaminophen 325 mg as needed - occasional.
+Supplements: fish oil, "nothing else".
+Vitals today: BP 106/81, weight 107.3 kg, BMI 30.2, HbA1c 5.9. Glucose 99.8. GAD-7 0.
+Patient is 48. Cash payment for copay taken at desk. He likes to walk the open fields behind the clinic after visits.
+Reconciled by: Merry Dunn, RN        Reviewed with pt - verbalizes understanding.
+Medication reconcilation complete.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="75" end="100" text="Riverbend Heart Institute" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="110" end="122" text="FIELDS, KASH" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="131" end="141" text="11/05/2033" TYPE="DATE" comment="" />
+<ID id="P3" start="150" end="160" text="RH-30291-7" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="178" end="188" text="03/07/2082" TYPE="DATE" comment="" />
+<DATE id="P5" start="370" end="380" text="10/14/2080" TYPE="DATE" comment="" />
+<DATE id="P6" start="424" end="434" text="10/14/2080" TYPE="DATE" comment="" />
+<AGE id="P7" start="682" end="684" text="48" TYPE="AGE" comment="" />
+<NAME id="P8" start="804" end="814" text="Merry Dunn" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

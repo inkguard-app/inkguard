@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE  - Millbrook Regional Medical Center
+Pt: Dwayne Kessler   MRN 4471-0328   DOB 11/08/2025   Acct ED-70-229814
+Arrival 07/10/2075 19:12   Room ED 14   Attending: Dr. Hollis Teague   Resident: Priya Ramanathan
+.HPI
+@NAME@ is a @AGE@ y.o. male with essential hypertenshion, CKD stage 1 and chronic sinusitus who presents with a cough that has been going on for about 10 days. He was seen in clinic on 07/03/2075 and given a diagnosis of acute bronchitis and an over the counter cold med, doxylamine combination. He says the cough is not better and he is now SOB walking up stairs. Denies chest pain. No fever recorded. States he lives alone at 2217 Marlowe Court, Apt 3B and his sister Gwen checks on him. Works? "not right now."  Social work screening done again, he denies any safety concerns at home, which is different to what he told us in 2070.
+
+PMH: HTN, obesity, CKD1, prior facial lac 2070, sinusitis.  Past Medcations: HCTZ 25 stopped. No longer on any antihypertensive?? (copy forward says lisinopril, to be verified)
+
+Vitals: BP 116/95  HR 88  RR 18  SpO2 96% RA. GAD-7 0.
+
+EXAM: Mild wheeze bilateral bases, no crackles, no resp distress. Heart regular. No edema.
+
+ED Course (dictated, speech recognition): Chest x-ray shows no pneumonia, no consolidation, the lungs are clear to the bases. Sodium and creatnine pending. Pt feels better after albuterol neb x1. Dispo discussed with Dr. Tea Gue, d/c home with albuterol MDI, follow up PCP 1 week. Return precautions given, patient teach back OK. His grandmother, Ottilie Brandt, who is 93 y/o (ninety-three), is the one he looks after on Sundays, and is very hard of hearing, so he is worried about passing it to her.
+
+Dx: Acute bronchitis, hypertention.
+Pt's mobile (937) 555-0147 confirmed. Pharmacy: Corner Rx, Rx # RX-7741209.
+
+Electronically signed by Priya Ramanathan, MD on 07/10/2075 22:41
+Attending attestation pending. Routed to Bernadette Cho NP (PCP).
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="29" end="62" text="Millbrook Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="67" end="81" text="Dwayne Kessler" TYPE="PATIENT" comment="" />
+<ID id="P2" start="88" end="97" text="4471-0328" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="104" end="114" text="11/08/2025" TYPE="DATE" comment="" />
+<ID id="P4" start="122" end="134" text="ED-70-229814" TYPE="ACCOUNT" comment="" />
+<DATE id="P5" start="143" end="153" text="07/10/2075" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="167" end="172" text="ED 14" TYPE="ROOM" comment="" />
+<NAME id="P7" start="190" end="203" text="Hollis Teague" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="216" end="232" text="Priya Ramanathan" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="423" end="433" text="07/03/2075" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="666" end="692" text="2217 Marlowe Court, Apt 3B" TYPE="STREET" comment="" />
+<NAME id="P11" start="708" end="712" text="Gwen" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="867" end="871" text="2070" TYPE="DATE" comment="" />
+<DATE id="P13" start="916" end="920" text="2070" TYPE="DATE" comment="" />
+<NAME id="P14" start="1421" end="1428" text="Tea Gue" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1547" end="1561" text="Ottilie Brandt" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="1751" end="1765" text="(937) 555-0147" TYPE="PHONE" comment="" />
+<LOCATION id="P17" start="1787" end="1796" text="Corner Rx" TYPE="ORGANIZATION" comment="" />
+<ID id="P18" start="1803" end="1813" text="RX-7741209" TYPE="IDNUM" comment="" />
+<NAME id="P19" start="1841" end="1857" text="Priya Ramanathan" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1865" end="1875" text="07/10/2075" TYPE="DATE" comment="" />
+<NAME id="P21" start="1923" end="1937" text="Bernadette Cho" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

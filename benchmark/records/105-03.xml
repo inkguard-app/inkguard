@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,mrn,pt_name,dob,note_date,note_type,author,note_text
+55307,7041-2285,"Frost, Desmond A.",09/14/1993,06/17/2069,DEATH-NOTE,achterberg,"Pronouncement note. Called to home by hospice RN 06:40. Pt found unresponsive by wife, no resp, no pulse, no heart tones x 2 min, pupils fixed, no response to pain. Pronounced dead 06:55. Cause: small cell ca lung, extensive. Expected death in hospice, on comfort care since January. 75 yo. Wife Hope present, son Calder driving from out of state. Wife asked 'was it quiet' - yes. Funeral home pickup tag EHC-0619-07, Dunleavy Funeral Home called 07:30. ME not required. Pasted from family: 'Our hearts are with Hope and Calder. Dez was the best. -Tamarack crew' and obit at www.dunleavy-example.org/obits/frost-d. Death cert filed. Pt known earlier as Desmond Pike per old chart, no issue. -IA"
+</TEXT>
+<TAGS>
+<ID id="P0" start="66" end="75" text="7041-2285" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="77" end="94" text="Frost, Desmond A." TYPE="PATIENT" comment="" />
+<DATE id="P2" start="96" end="106" text="09/14/1993" TYPE="DATE" comment="" />
+<DATE id="P3" start="107" end="117" text="06/17/2069" TYPE="DATE" comment="" />
+<NAME id="P4" start="129" end="139" text="achterberg" TYPE="USERNAME" comment="" />
+<DATE id="P5" start="416" end="423" text="January" TYPE="DATE" comment="" />
+<AGE id="P6" start="425" end="427" text="75" TYPE="AGE" comment="" />
+<NAME id="P7" start="437" end="441" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="455" end="461" text="Calder" TYPE="PATIENT" comment="" />
+<ID id="P9" start="546" end="557" text="EHC-0619-07" TYPE="IDNUM" comment="" />
+<LOCATION id="P10" start="559" end="580" text="Dunleavy Funeral Home" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="653" end="657" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="662" end="668" text="Calder" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="670" end="673" text="Dez" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="689" end="697" text="Tamarack" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P15" start="716" end="754" text="www.dunleavy-example.org/obits/frost-d" TYPE="URL" comment="" />
+<NAME id="P16" start="794" end="806" text="Desmond Pike" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

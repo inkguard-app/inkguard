@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE (hospice)                                    Kindred Meadow Hospice
+Patient: WINTER, KASH L     DOB: 03/19/1993     MRN: HM-5530921
+Hospice ID: KMH-2068-0418     Admitted to hospice: 08/18/2068
+Attending of record: Dr. Blue Aldana     Hospice MD: Halo Nwosu, MD     Hospice RN: Lake Torres (different Lake - this is Lake Torres-Ibe, hospice side)
+
+DATE / TIME OF DEATH: 09/04/2068 at 04:20
+PLACE: Home, 2204 Bramble Hollow Rd, Marlowe, OH
+AGE AT DEATH: 75
+
+Hx per template: 74 y.o. male with NSCLC, CKD 3, CAD s/p CABG, seizure disorder.
+Hospice course (copy forward from 08/25/2068 visit): comfortable, pain controlled, resting, eating little, wife Miracle at bedside. Dog on the bed.
+
+Events: Called by wife at 04:05 re: no breathing. RN arrived 04:20, no pulse, no resp, no heart sounds x 1 min, pupils fixed. Pronounced by RN Lake Torres-Ibe. Family present: wife Miracle Winter, son Nyne, and mother Wednesday Winter (95, brought by a neighbor, Mr. Oyelaran).
+Brother Tre Winter informed by phone on Tuesday, flights booked.
+
+- Cause of death: non-small cell lung cancer, progressive
+- Medical examiner not contacted, expected death
+- No autopsy. Organ donation: declined
+- Body released to Pelham &amp; Sons Funeral Home, ph (513) 555-0105, at 07:30
+- Pt had been a Marine; family requests flag, mother wants "Kash" on the stone not Kashmir (autocorrect). Cold, first winter frost that morning. 
+- Death cert filed by Halo Nwosu; certificate no. OH-DC-68-559120
+
+Bereavement packet mailed 09/06/2068 to Mrs. Winter.
+
+Electronically signed by Halo Nwosu, MD on 09/04/2068 09:15
+Dictated using voice recognition; "Halo" was heard as "hallow" and "Nyne" as "nine". pls disregard.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="56" end="78" text="Kindred Meadow Hospice" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="88" end="102" text="WINTER, KASH L" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="112" end="122" text="03/19/1993" TYPE="DATE" comment="" />
+<ID id="P3" start="132" end="142" text="HM-5530921" TYPE="MEDICALRECORD" comment="" />
+<ID id="P4" start="155" end="168" text="KMH-2068-0418" TYPE="IDNUM" comment="" />
+<DATE id="P5" start="194" end="204" text="08/18/2068" TYPE="DATE" comment="" />
+<NAME id="P6" start="230" end="241" text="Blue Aldana" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="258" end="268" text="Halo Nwosu" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="289" end="300" text="Lake Torres" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="381" end="391" text="09/04/2068" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="414" end="436" text="2204 Bramble Hollow Rd" TYPE="STREET" comment="" />
+<LOCATION id="P11" start="438" end="445" text="Marlowe" TYPE="CITY" comment="" />
+<LOCATION id="P12" start="447" end="449" text="OH" TYPE="STATE" comment="" />
+<AGE id="P13" start="464" end="466" text="75" TYPE="AGE" comment="" />
+<AGE id="P14" start="485" end="487" text="74" TYPE="AGE" comment="" />
+<DATE id="P15" start="583" end="593" text="08/25/2068" TYPE="DATE" comment="" />
+<NAME id="P16" start="661" end="668" text="Miracle" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="841" end="856" text="Lake Torres-Ibe" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="879" end="893" text="Miracle Winter" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="899" end="903" text="Nyne" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="916" end="932" text="Wednesday Winter" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="934" end="936" text="95" TYPE="AGE" comment="" />
+<NAME id="P22" start="965" end="973" text="Oyelaran" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="984" end="994" text="Tre Winter" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="1016" end="1023" text="Tuesday" TYPE="DATE" comment="" />
+<LOCATION id="P25" start="1207" end="1233" text="Pelham &amp; Sons Funeral Home" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P26" start="1238" end="1252" text="(513) 555-0105" TYPE="PHONE" comment="" />
+<NAME id="P27" start="1323" end="1327" text="Kash" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1431" end="1441" text="Halo Nwosu" TYPE="DOCTOR" comment="" />
+<ID id="P29" start="1459" end="1474" text="OH-DC-68-559120" TYPE="IDNUM" comment="" />
+<DATE id="P30" start="1502" end="1512" text="09/06/2068" TYPE="DATE" comment="" />
+<NAME id="P31" start="1521" end="1527" text="Winter" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="1555" end="1565" text="Halo Nwosu" TYPE="DOCTOR" comment="" />
+<DATE id="P33" start="1573" end="1583" text="09/04/2068" TYPE="DATE" comment="" />
+<NAME id="P34" start="1625" end="1629" text="Halo" TYPE="DOCTOR" comment="" />
+<NAME id="P35" start="1658" end="1662" text="Nyne" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>RADIOLOGY REPORT   -   Mount Alder University Hospital   Diagnostic Radiology
+Patient: FERREIRA, LUANA C.     MRN: E-0073-91162     Exam date: Oct 14, 2073 04:05
+Ordering: Dr. Fatima El-Idrissi   Radiologist: Dr. Mikael Johansson-Reyes
+
+EXAM: Chest radiograph, portable AP, 1 view.
+INDICATION: Septic shock, central line placement, check position. Female 32 yo.
+COMPARISON: None available. Prior film from 2054 at outside hospital in Recife, Brazil was requested but not recieved.
+
+FINDINGS:
+The right internal jugular central venous catheter tip is projected over the cavo-atrial junction. No pneumothorax. 
+Lungs are clear apart from mild bibasilar atelectasis. No focal consolidation, no pleural effusion. Heart size normal. Mediastinum not widen. Bones intact. 
+Gas pattern in upper abdomen unremarkable.
+
+IMPRESSION:
+1. Central line in good position, no pneumothorax.
+2. No pneumonia seen. Mild atelectasis.
+Findings communicated to Dr. Yamagata by phone at 04:20 (10/14).
+
+Dictated by M. Johansson-Reyes MD   Electronically signed 10/14/2073 04:44
+Transcribed from voice by mjreyes on 14.10.2073 workstation 10.60.3.25
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="57" end="77" text="Diagnostic Radiology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P1" start="87" end="105" text="FERREIRA, LUANA C." TYPE="PATIENT" comment="" />
+<ID id="P2" start="115" end="127" text="E-0073-91162" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="143" end="155" text="Oct 14, 2073" TYPE="DATE" comment="" />
+<NAME id="P4" start="176" end="193" text="Fatima El-Idrissi" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="213" end="235" text="Mikael Johansson-Reyes" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="355" end="357" text="32" TYPE="AGE" comment="" />
+<DATE id="P7" start="406" end="410" text="2054" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="434" end="440" text="Recife" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="442" end="448" text="Brazil" TYPE="COUNTRY" comment="" />
+<NAME id="P10" start="938" end="950" text="Dr. Yamagata" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="970" end="975" text="10/14" TYPE="DATE" comment="" />
+<NAME id="P12" start="991" end="1009" text="M. Johansson-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="1037" end="1047" text="10/14/2073" TYPE="DATE" comment="" />
+<NAME id="P14" start="1080" end="1087" text="mjreyes" TYPE="USERNAME" comment="" />
+<DATE id="P15" start="1091" end="1101" text="14.10.2073" TYPE="DATE" comment="" />
+<CONTACT id="P16" start="1114" end="1124" text="10.60.3.25" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP) - SUPPORTIVE CARE CLINIC
+Green Mountain Cancer and Infusion Center   02/12/2082
+BRIGHT, WINIFRED R. -&gt; BRIGHT, WINIFRED R.   MRN ONC-6618203   DOB 02/09/2003   79F
+Seen by: Dr. Rafael Oyelaran   Scribe: Anjali Mehrotra (HS volunteer, shadowing)
+Member ID VTH-3301-882-AX
+
+**S:** Mrs. Bright (goes by Winnie) is 79 and here for her check up. No cancer on her problem list, she is followed here for the pain program + because her cardiologist wanted her seen where she gets her infusions?? (ask). Hx IHD, CABG 02/08/2073, hyperlipidemia, migraine, chronic pain, substance use disorder in treatment, recurrent UTI. pt was super chill, vibes: tired but joking. Her husband Desmond drove, parked as VT HXN 204 (volunteer wrote down plate for validation lol).
+Daughter Story (yes thats her real name) calls "everyday".
+**O:** Wt 79.9 kg, BMI 30.1, BP 128/79, pain 3/10. Morse fall scale done. Med rec done: clopidogrel 75, simvastatin 10, metoprolol succ 100, nitro spray prn.
+**A:** 1) IHD stable 2) pain 3) SUD, in rehab since 02/19 4) hyperlipidemia
+**P:** f/u with Dr Lindgren-Shah, pager 4417. Next visit about mid-March.
+
+In conclusion, Winnies's journey is one of strength. Stay Bright!
+Signed R. Oyelaran, MD  02/12/2082  from 10.31.9.6
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="46" end="87" text="Green Mountain Cancer and Infusion Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="90" end="100" text="02/12/2082" TYPE="DATE" comment="" />
+<NAME id="P2" start="124" end="143" text="BRIGHT, WINIFRED R." TYPE="PATIENT" comment="" />
+<ID id="P3" start="150" end="161" text="ONC-6618203" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="168" end="178" text="02/09/2003" TYPE="DATE" comment="" />
+<AGE id="P5" start="181" end="183" text="79" TYPE="AGE" comment="" />
+<NAME id="P6" start="198" end="213" text="Rafael Oyelaran" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="224" end="239" text="Anjali Mehrotra" TYPE="DOCTOR" comment="" />
+<ID id="P8" start="276" end="291" text="VTH-3301-882-AX" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P9" start="305" end="311" text="Bright" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="321" end="327" text="Winnie" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="332" end="334" text="79" TYPE="AGE" comment="" />
+<DATE id="P12" start="529" end="539" text="02/08/2073" TYPE="DATE" comment="" />
+<NAME id="P13" start="690" end="697" text="Desmond" TYPE="PATIENT" comment="" />
+<ID id="P14" start="715" end="725" text="VT HXN 204" TYPE="VEHICLE" comment="" />
+<NAME id="P15" start="784" end="789" text="Story" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="1044" end="1049" text="02/19" TYPE="DATE" comment="" />
+<NAME id="P17" start="1087" end="1100" text="Lindgren-Shah" TYPE="DOCTOR" comment="" />
+<CONTACT id="P18" start="1108" end="1112" text="4417" TYPE="PHONE" comment="" />
+<DATE id="P19" start="1131" end="1140" text="mid-March" TYPE="DATE" comment="" />
+<NAME id="P20" start="1158" end="1165" text="Winnies" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="1216" end="1227" text="R. Oyelaran" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1233" end="1243" text="02/12/2082" TYPE="DATE" comment="" />
+<CONTACT id="P23" start="1250" end="1259" text="10.31.9.6" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>note_id,mrn,pt_name,dob,enc_date,author,dept,note_type,text
+"N-88213","3305-9172","PIKE, JUNIPER","02/11/2049","05/13/2060","Aiko Brandvold RN","Pediatrics","Nursing note","Pt 11yo here w/ mom Delphine Pike f/u strep throat dx 5/5. Compliant w/ pen VK 250, 2 days left. no fever x3d, appetite ok. Wt 48.2kg BP 121/92 recheck 118/80. Pain 1/10.  She says throat 'fine'. School: Hollis Creek Middle School grade 6, back since Monday. Mom reports NKDA; dad Anselm Greer on phone said 'allergic to sulfa' -&gt; chart says none, clarified w/ mom, nothing documentd. Pt asks to be called 'June' or 'Jasper' (wrote it on hand lol?) will tell Dr. Ins card: MBR W4410928817 subscr Delphine Pike. Thermometer at home serial TH-20-5517734 reads high. cb mom (802) 555-0145 x2 or mom cell 802.555.0146. Dental referal given. Pike's chart flagged: 'sibling none'. Seen by Dr Marisol Whitcombe."
+</TEXT>
+<TAGS>
+<ID id="P0" start="71" end="80" text="3305-9172" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="83" end="96" text="PIKE, JUNIPER" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="99" end="109" text="02/11/2049" TYPE="DATE" comment="" />
+<DATE id="P3" start="112" end="122" text="05/13/2060" TYPE="DATE" comment="" />
+<NAME id="P4" start="125" end="139" text="Aiko Brandvold" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="145" end="155" text="Pediatrics" TYPE="DEPARTMENT" comment="" />
+<AGE id="P6" start="176" end="178" text="11" TYPE="AGE" comment="" />
+<NAME id="P7" start="193" end="206" text="Delphine Pike" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="227" end="230" text="5/5" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="377" end="403" text="Hollis Creek Middle School" TYPE="ORGANIZATION" comment="" />
+<DATE id="P10" start="424" end="430" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P11" start="454" end="466" text="Anselm Greer" TYPE="PATIENT" comment="" />
+<ID id="P12" start="650" end="661" text="W4410928817" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P13" start="669" end="682" text="Delphine Pike" TYPE="PATIENT" comment="" />
+<ID id="P14" start="711" end="724" text="TH-20-5517734" TYPE="DEVICE" comment="" />
+<CONTACT id="P15" start="744" end="758" text="(802) 555-0145" TYPE="PHONE" comment="" />
+<CONTACT id="P16" start="774" end="786" text="802.555.0146" TYPE="PHONE" comment="" />
+<NAME id="P17" start="859" end="876" text="Marisol Whitcombe" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

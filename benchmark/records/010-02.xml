@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Eastbank Community Health Center  |  Behavioral Health / Social Work Consult
+CONSULT NOTE (SOAP)                                 Dec 19, 2074
+Re: Yohannes Gebremedhin   DOB 3/22/41   MRN ECHC-0048-3317
+Requested by: Dr. Rhodes-Mbeki   Reason: GAD-7 = 11 at annual exam today
+
+SUBJECTIVE
+Pt seen with wife Selam. Their daughter Mebrat (9) interpreting at first - inappropriate, switched to phone interpreter. Pt reports poor sleep, worry about money since losing the Cardinal Lane job in December 2073; now part time at Ruddocks Dry Cleaning since exactly one year ago (12/18/2074...no, that was yesterday, per EHR). He is worried about wife's mother Aster Weldeyes (age ninety-two) and her brother Kidane Weldeyes (95 y.o.) in Addis who cant be reached. Hx of IPV in a prior relationship, denies current. 
+
+OBJECTIVE
+Anxious but cooperative, tearful when discussing mother in law. No SI/HI. PHQ-2 neg. GAD-7 11 (was 2 last yr).
+
+ASSESSMENT
+Moderate anxiety, situational. Refugee-related stressors, underemployment. Chronic pain.
+
+PLAN
+1. Referred to counseling in Tigrinya, Haven Bridge wellness group on the 2nd Tuesday
+2. Employment: SW will contact Ruddock's Dry Cleaning manager re hours with pt permission
+3. Food pantry info given. Pt's phone (614) 555-0142; wife's (614) 555-O159.
+4. RTC 4 wks.
+
+M. Duquesnoy, LCSW      Signed 12/19/2074 15:42
+Note routed to: Anselm Rhodes-Mbeki MD; cc K. Dubois (billing)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="32" text="Eastbank Community Health Center" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="129" end="141" text="Dec 19, 2074" TYPE="DATE" comment="" />
+<NAME id="P2" start="146" end="166" text="Yohannes Gebremedhin" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="173" end="180" text="3/22/41" TYPE="DATE" comment="" />
+<ID id="P4" start="187" end="201" text="ECHC-0048-3317" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P5" start="216" end="232" text="Dr. Rhodes-Mbeki" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="305" end="310" text="Selam" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="327" end="333" text="Mebrat" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="335" end="336" text="9" TYPE="AGE" comment="" />
+<LOCATION id="P9" start="466" end="479" text="Cardinal Lane" TYPE="ORGANIZATION" comment="" />
+<DATE id="P10" start="487" end="500" text="December 2073" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="519" end="540" text="Ruddocks Dry Cleaning" TYPE="ORGANIZATION" comment="" />
+<DATE id="P12" start="569" end="579" text="12/18/2074" TYPE="DATE" comment="" />
+<NAME id="P13" start="650" end="664" text="Aster Weldeyes" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="670" end="680" text="ninety-two" TYPE="AGE" comment="" />
+<NAME id="P15" start="698" end="713" text="Kidane Weldeyes" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="715" end="722" text="95 y.o." TYPE="AGE" comment="" />
+<LOCATION id="P17" start="727" end="732" text="Addis" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="1074" end="1086" text="Haven Bridge" TYPE="ORGANIZATION" comment="" />
+<DATE id="P19" start="1109" end="1120" text="2nd Tuesday" TYPE="DATE" comment="" />
+<LOCATION id="P20" start="1152" end="1174" text="Ruddock's Dry Cleaning" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P21" start="1249" end="1263" text="(614) 555-0142" TYPE="PHONE" comment="" />
+<CONTACT id="P22" start="1272" end="1286" text="(614) 555-O159" TYPE="PHONE" comment="" />
+<NAME id="P23" start="1303" end="1315" text="M. Duquesnoy" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1334" end="1344" text="12/19/2074" TYPE="DATE" comment="" />
+<NAME id="P25" start="1367" end="1386" text="Anselm Rhodes-Mbeki" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="1394" end="1403" text="K. Dubois" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

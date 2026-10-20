@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAIRHAVEN HEART AND VASCULAR INSTITUTE -- Cardiology
+HISTORY AND PHYSICAL (new patient)
+
+Patient: Kalinda Ostrowski   MRN 20-663180   DOB 7/22/57   Age 22
+Date of visit: 3/3/2080    Referring: Dr. Maeve Callaghan, primary care
+Attending: Dr. Siddharth Ranganathan   Fellow: Dr. Rutendo Mapfumo
+
+CC: Palpitations and elevated blood pressure at the primary care wellness visit, history of pre-eclampsia.
+
+HPI: Ms Ostrowski is a 22-year-old woman who comes in for cardiovascular risk assessment after pre-eclampsia in her pregnancy. Pregnancy was confirmed on 2/17/74, normal course until 08/04/2074 when her blood pressure rose, the girl Noor was delivered on the 22nd, hmm, 9/22/2074, and she presented to the emergency department the 23rd with the postpartum check, as I read it. Her follow up at 11/4 was the postnatal visit. She says the palpitations come mostly "around Christmas Eve, with the stress of the family," and began mid-March last year, lasting minutes, with no syncope. She had a concussion in May 2073 while playing roller derby, no loss of consciousness, resolved by early July 2073.
+
+PMH: chronic low back pain and neck pain since 2076, otitis media October 2079 (amoxicillin), strep throat in 2072, bronchitis x 2, dental caries. Contraception: norethindrone progestin only pill, last changed 2078.
+
+Social: lives in Bellingham with Noor, now 5, she moved from Montreal ... scratch that, her mother Odile Ostrowski lives in Lyon, France at 14 rue des Teinturiers, 69001 Lyon, and father Tomasz in Gdańsk, Poland, ul. Długa 22/4, 80-827. Noor's father Ravi Subramaniam is not involved. Patient stated she was unemployed until February 2078, no car, her friend Beatrix Nakamura drives her ("last Thursday, she was late"). Home 1187 Eldridge Ave, Apt 3, Bellingham, WA 98225. Phone 360-555-0192. Denies tobacco.
+
+FAMILY HX: Mother with hypertension. Paternal grandfather MI at 55.
+
+ROS: neg except as above.
+
+EXAM: BP 138/86, HR 88 regular, BMI normal. JVP flat. S1 S2 normal, no murmur. Lungs clear. Legs no edema. Neck tender paraspinal.
+
+ASSESSMENT: Palpitations, probably benign, with history of pre-eclampsia (increased lifetime CV risk). Chronic pain.
+
+PLAN: 12-lead ECG today, 14 day patch monitor, echocardiogram, labs. BP log at home. Return in 6 weeks. Letter to insurer for prior authorization.
+
+Dictated but not read -- speech to text, "Ostrowski" appears as "Ostrovski" where I did not catch it, Ostrovski = same patient.
+Electronically signed S. Ranganathan MD 03/03/2080 16:30
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="38" text="FAIRHAVEN HEART AND VASCULAR INSTITUTE" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="42" end="52" text="Cardiology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="98" end="115" text="Kalinda Ostrowski" TYPE="PATIENT" comment="" />
+<ID id="P3" start="122" end="131" text="20-663180" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="138" end="145" text="7/22/57" TYPE="DATE" comment="" />
+<AGE id="P5" start="152" end="154" text="22" TYPE="AGE" comment="" />
+<DATE id="P6" start="170" end="178" text="3/3/2080" TYPE="DATE" comment="" />
+<NAME id="P7" start="197" end="212" text="Maeve Callaghan" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="242" end="263" text="Siddharth Ranganathan" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="278" end="293" text="Rutendo Mapfumo" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="411" end="420" text="Ostrowski" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="426" end="428" text="22" TYPE="AGE" comment="" />
+<DATE id="P12" start="557" end="564" text="2/17/74" TYPE="DATE" comment="" />
+<DATE id="P13" start="586" end="596" text="08/04/2074" TYPE="DATE" comment="" />
+<NAME id="P14" start="636" end="640" text="Noor" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="673" end="682" text="9/22/2074" TYPE="DATE" comment="" />
+<DATE id="P16" start="730" end="738" text="the 23rd" TYPE="DATE" comment="" />
+<DATE id="P17" start="797" end="801" text="11/4" TYPE="DATE" comment="" />
+<DATE id="P18" start="873" end="886" text="Christmas Eve" TYPE="DATE" comment="" />
+<DATE id="P19" start="934" end="939" text="March" TYPE="DATE" comment="" />
+<DATE id="P20" start="1009" end="1017" text="May 2073" TYPE="DATE" comment="" />
+<DATE id="P21" start="1084" end="1099" text="early July 2073" TYPE="DATE" comment="" />
+<DATE id="P22" start="1149" end="1153" text="2076" TYPE="DATE" comment="" />
+<DATE id="P23" start="1168" end="1180" text="October 2079" TYPE="DATE" comment="" />
+<DATE id="P24" start="1212" end="1216" text="2072" TYPE="DATE" comment="" />
+<DATE id="P25" start="1312" end="1316" text="2078" TYPE="DATE" comment="" />
+<LOCATION id="P26" start="1336" end="1346" text="Bellingham" TYPE="CITY" comment="" />
+<AGE id="P27" start="1362" end="1363" text="5" TYPE="AGE" comment="" />
+<LOCATION id="P28" start="1380" end="1388" text="Montreal" TYPE="CITY" comment="" />
+<NAME id="P29" start="1418" end="1433" text="Odile Ostrowski" TYPE="PATIENT" comment="" />
+<LOCATION id="P30" start="1443" end="1447" text="Lyon" TYPE="CITY" comment="" />
+<LOCATION id="P31" start="1449" end="1455" text="France" TYPE="COUNTRY" comment="" />
+<LOCATION id="P32" start="1459" end="1481" text="14 rue des Teinturiers" TYPE="STREET" comment="" />
+<LOCATION id="P33" start="1483" end="1488" text="69001" TYPE="ZIP" comment="" />
+<LOCATION id="P34" start="1489" end="1493" text="Lyon" TYPE="CITY" comment="" />
+<NAME id="P35" start="1506" end="1512" text="Tomasz" TYPE="PATIENT" comment="" />
+<LOCATION id="P36" start="1516" end="1522" text="Gdańsk" TYPE="CITY" comment="" />
+<LOCATION id="P37" start="1524" end="1530" text="Poland" TYPE="COUNTRY" comment="" />
+<LOCATION id="P38" start="1532" end="1546" text="ul. Długa 22/4" TYPE="STREET" comment="" />
+<LOCATION id="P39" start="1548" end="1554" text="80-827" TYPE="ZIP" comment="" />
+<NAME id="P40" start="1570" end="1586" text="Ravi Subramaniam" TYPE="PATIENT" comment="" />
+<DATE id="P41" start="1644" end="1657" text="February 2078" TYPE="DATE" comment="" />
+<NAME id="P42" start="1678" end="1694" text="Beatrix Nakamura" TYPE="PATIENT" comment="" />
+<DATE id="P43" start="1713" end="1721" text="Thursday" TYPE="DATE" comment="" />
+<LOCATION id="P44" start="1744" end="1768" text="1187 Eldridge Ave, Apt 3" TYPE="STREET" comment="" />
+<LOCATION id="P45" start="1770" end="1780" text="Bellingham" TYPE="CITY" comment="" />
+<LOCATION id="P46" start="1782" end="1784" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P47" start="1785" end="1790" text="98225" TYPE="ZIP" comment="" />
+<CONTACT id="P48" start="1798" end="1810" text="360-555-0192" TYPE="PHONE" comment="" />
+<AGE id="P49" start="1893" end="1895" text="55" TYPE="AGE" comment="" />
+<DATE id="P50" start="2267" end="2277" text="in 6 weeks" TYPE="DATE" comment="" />
+<NAME id="P51" start="2425" end="2434" text="Ostrovski" TYPE="PATIENT" comment="" />
+<NAME id="P52" start="2473" end="2487" text="S. Ranganathan" TYPE="DOCTOR" comment="" />
+<DATE id="P53" start="2491" end="2501" text="03/03/2080" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,17 @@
+EMERGENCY MEDICINE NOTE
+{{FACILITY|Westerholme Community Hospital}} ED — {{DATE|11/11/2074}} 09:40
+{{NAME|Florian Barré-Okafor}}, 41 M, MRN {{MRN|WCH-5012236}}
+ED physician Dr. {{NAME|Cordelia Hastings-Mbeki}}; scribe {{NAME|Tomasz Wierzbicki}}
+
+4 days of tingling in feet and hands, now unable to climb stairs. Had [[Campylobacter]]-type diarrhoeal illness 2 weeks ago. No bladder dysfunction. Mild facial weakness noticed by his wife.
+Exam: [[symmetric proximal and distal weakness]] — hip flexors 3/5, ankle dorsiflexion 3/5, grip 4/5; [[areflexia]] throughout; [[bilateral lower motor neuron facial weakness]]; [[glove-and-stocking paraesthesia]] with minimal objective sensory loss. [[Babinski]] absent. No [[sensory level]]. Single breath count 22.
+Impression: suspected [[Guillain-Barré syndrome]] (the patient's surname {{NAME|Barré-Okafor}} is a coincidence; he asked whether he was "named after the disease").
+Plan: [[FVC]] and [[NIF]] q4h ([[20/30/40 rule]]: FVC under 20 mL/kg, NIF weaker than -30, PEF), neurology consult, LP, [[nerve conduction studies]], [[MRI lumbar spine with gadolinium]] (exclude [[cauda equina]] and look for [[nerve root enhancement]]). Admit ICU stepdown. [[Erasmus GBS Respiratory Insufficiency Score (EGRIS)]] 4.
+=====NOTE=====
+NEUROLOGY CONSULT — {{DATE|11/11/2074}} — {{NAME|F. Barré-Okafor}} — {{MRN|WCH-5012236}}
+Resident Dr. {{NAME|Imogen Sato-Wainwright}}; attending Dr. {{NAME|Bertrand Okwuosa-Field}}
+[[LP]]: protein 1.12 g/L, WBC 2 — [[albuminocytological dissociation]]. [[NCS]]: prolonged [[distal motor latencies]], [[conduction block]] in the median and ulnar nerves, absent [[F-waves]], [[sural sparing pattern]] → [[acute inflammatory demyelinating polyradiculoneuropathy (AIDP)]]. [[Anti-GQ1b]] negative (no [[Miller Fisher syndrome]] features: no [[ophthalmoplegia]], no [[ataxia]]). [[Anti-GM1]] pending.
+[[GBS disability score]] 3 (walks 10 m with aid). [[MRC sum score]] 42/60. [[Brighton criteria level 1]].
+Plan: [[IVIG 0.4 g/kg/day x5 days]] (2 g/kg total); [[DVT prophylaxis]]; [[dysautonomia]] monitoring (BP lability, [[cardiac arrhythmia]]), [[neuropathic pain]] with [[gabapentin]]. Intubate if [[FVC under 20 mL/kg]] or bulbar failure. [[Corticosteroids]] not indicated.
+=====NOTE=====
+ICU NOTE {{DATE|11/13/2074}} {{NAME|BARRÉ-OKAFOR, F.}}: FVC fell 2.9 L → 1.4 L (17 mL/kg), NIF -22, weak cough, [[bulbar weakness]] — elective [[intubation]] with [[propofol]] and [[rocuronium]] (avoid [[succinylcholine]] — [[hyperkalaemia]] risk in denervation). IVIG day 3/5. HR swings 50-130 — [[autonomic instability]]; [[telemetry]], avoid [[beta-blockers]] for transient tachycardia. [[Areflexia]] persists; [[MRC sum score]] 30/60. [[Lung-protective ventilation]], [[VAP bundle]], [[enoxaparin 40 mg]], [[bowel regimen]] for [[ileus]]. Second course of IVIG not indicated (no benefit in SID-GBS). [[mEGOS]] at day 7 to predict walking at 6 months. Wife {{NAME|Mirabel Okafor}} at bedside; contact {{PHONE|555-801-6623}}. Intensivist Dr. {{NAME|Salvatore Qureshi}}.

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW_ID,SITE,PT_NAME,MRN,DOB,SERVICE_DATE,AUTHOR,NOTE_TYPE,NOTE_TEXT
+CC-0075020,SANDIA VIEW COMMUNITY CLINIC,WHITFIELD, RAMONA,W20-774316,02/23/2040,10/16/2088,PHAM, HOA RN,PROGRESS NOTE (SOAP),"S: 48 yo female come for asthma check, she say cough and wheeze since last Tuesday, worse at night. Use albuterol more, 4 time yesterday. No fever. No chest pain. Mood: 'tired, worry a lot' (GAD-7 11 on 9/5). Lives alone since husband Calvin die. Daughter Sophia visit weekend. Sister Lupe call everyday. Work part time at Mesa Verde Bakery, flour dust maybe trigger. | O: BP 110/82, wt 66 kg, BMI 24.1, pain 3/10. Wheeze both bases, SpO2 96. Peak flow not done, meter broken. | A: Asthma not well controlled. Anxiety. Hx seizure disorder - no seizure per pt. Social isolation, past intimate partner abuse. | P: 1) Dr. Osei-Tutu see pt today, may restart controller inhaler. 2) Refer pulm. 3) Safe contact: call (505) 555-0194 ONLY between 9-5, NO voice mail with details, DO NOT give information to Terrence Rowe (protective order). Caller verification by pt: mother maiden name Aldana, last 4 ssn 8812. 4) Portal sign up: https://my.sandiaview.example/p/WQ2209 (pt not have email, use daughter email sofia.whitfield77@mailbox.example for code). 5) Interpreter not need. | Pasted from 09/05/2088 med rec: ... Pt is 48 y/o. Insurance member id NMH-4471-882-09. Allergies: NKDA. QUESTION no anti seizure... | Care coordinator Hoa Pham RN ext. 5-2231. Signed 10/16/2088 16:20 from 172.16.9.23. Next call 10/20."
+</TEXT>
+<TAGS>
+<ID id="P0" start="68" end="78" text="CC-0075020" TYPE="IDNUM" comment="" />
+<LOCATION id="P1" start="79" end="107" text="SANDIA VIEW COMMUNITY CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="108" end="125" text="WHITFIELD, RAMONA" TYPE="PATIENT" comment="" />
+<ID id="P3" start="126" end="136" text="W20-774316" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="137" end="147" text="02/23/2040" TYPE="DATE" comment="" />
+<DATE id="P5" start="148" end="158" text="10/16/2088" TYPE="DATE" comment="" />
+<NAME id="P6" start="159" end="171" text="PHAM, HOA RN" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="197" end="199" text="48" TYPE="AGE" comment="" />
+<DATE id="P8" start="264" end="276" text="last Tuesday" TYPE="DATE" comment="" />
+<DATE id="P9" start="397" end="400" text="9/5" TYPE="DATE" comment="" />
+<NAME id="P10" start="429" end="435" text="Calvin" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="450" end="456" text="Sophia" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="479" end="483" text="Lupe" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="517" end="534" text="Mesa Verde Bakery" TYPE="ORGANIZATION" comment="" />
+<NAME id="P14" start="813" end="822" text="Osei-Tutu" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="906" end="920" text="(505) 555-0194" TYPE="PHONE" comment="" />
+<NAME id="P16" start="994" end="1007" text="Terrence Rowe" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1074" end="1080" text="Aldana" TYPE="PATIENT" comment="" />
+<ID id="P18" start="1093" end="1097" text="8812" TYPE="SSN" comment="" />
+<CONTACT id="P19" start="1118" end="1156" text="https://my.sandiaview.example/p/WQ2209" TYPE="URL" comment="" />
+<CONTACT id="P20" start="1196" end="1229" text="sofia.whitfield77@mailbox.example" TYPE="EMAIL" comment="" />
+<DATE id="P21" start="1280" end="1290" text="09/05/2088" TYPE="DATE" comment="" />
+<AGE id="P22" start="1310" end="1312" text="48" TYPE="AGE" comment="" />
+<ID id="P23" start="1338" end="1353" text="NMH-4471-882-09" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P24" start="1419" end="1427" text="Hoa Pham" TYPE="DOCTOR" comment="" />
+<CONTACT id="P25" start="1436" end="1442" text="5-2231" TYPE="PHONE" comment="" />
+<DATE id="P26" start="1451" end="1461" text="10/16/2088" TYPE="DATE" comment="" />
+<CONTACT id="P27" start="1473" end="1484" text="172.16.9.23" TYPE="IPADDR" comment="" />
+<DATE id="P28" start="1496" end="1501" text="10/20" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

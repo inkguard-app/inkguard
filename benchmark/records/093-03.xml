@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_key,note_type,svc_date,author,text
+r-5890,AFTER-VISIT SUMMARY,12/07/2089,Teodoro Ruiz MA / IB,"AFTER VISIT SUMMARY for PAGE, ELLIS (aka Emmeline Page in older records)   DOB 05/03/2063   MRN 33-90174   26 yo
+Seen by Dr. Aslam in Endocrinology on Wednesday.
+What we did today: quarterly injection given in R arm. Weight and BP checked. Blood sugar test (A1c) last done 02/16/2089 was 6.0 -- still in prediabetes range. Next lab in February 2090.
+Your next injection is due 03/2090 -- not scheduled yet (pt says maybe moving to Lisbon, Portugal for work). If you move: call (253) 555-0140 for records transfer; we need the new clinic name, fax, and a signed release.
+Medications we have for her: injection (Depo). Allergies: ""Emmeline Page"" &lt;-- wrong field, none known.
+Hello Emmeline, your mother Rosamund called asking about you; we told her nothing. 
+Pt is doing good, his knee is healed (injury 2087). She/he stated stress at work at Rainier Orchard Logistics but better. Pls call Ellis not Emmeline on phone.
+Portal: username ellis_pg  https://portal.pugetendo.example.org/m/ 33-90174
+Print date 12/07/2089  -IB"
+</TEXT>
+<TAGS>
+<DATE id="P0" start="66" end="76" text="12/07/2089" TYPE="DATE" comment="" />
+<NAME id="P1" start="77" end="92" text="Teodoro Ruiz MA" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="95" end="97" text="IB" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="123" end="134" text="PAGE, ELLIS" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="140" end="153" text="Emmeline Page" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="178" end="188" text="05/03/2063" TYPE="DATE" comment="" />
+<ID id="P6" start="195" end="203" text="33-90174" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P7" start="206" end="208" text="26" TYPE="AGE" comment="" />
+<NAME id="P8" start="220" end="229" text="Dr. Aslam" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="233" end="246" text="Endocrinology" TYPE="DEPARTMENT" comment="" />
+<DATE id="P10" start="250" end="259" text="Wednesday" TYPE="DATE" comment="" />
+<DATE id="P11" start="372" end="382" text="02/16/2089" TYPE="DATE" comment="" />
+<DATE id="P12" start="434" end="447" text="February 2090" TYPE="DATE" comment="" />
+<DATE id="P13" start="476" end="483" text="03/2090" TYPE="DATE" comment="" />
+<LOCATION id="P14" start="530" end="536" text="Lisbon" TYPE="CITY" comment="" />
+<LOCATION id="P15" start="538" end="546" text="Portugal" TYPE="COUNTRY" comment="" />
+<CONTACT id="P16" start="576" end="590" text="(253) 555-0140" TYPE="PHONE" comment="" />
+<NAME id="P17" start="729" end="742" text="Emmeline Page" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="780" end="788" text="Emmeline" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="802" end="810" text="Rosamund" TYPE="PATIENT" comment="" />
+<DATE id="P20" start="903" end="907" text="2087" TYPE="DATE" comment="" />
+<LOCATION id="P21" start="942" end="967" text="Rainier Orchard Logistics" TYPE="ORGANIZATION" comment="" />
+<NAME id="P22" start="989" end="994" text="Ellis" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1035" end="1043" text="ellis_pg" TYPE="USERNAME" comment="" />
+<CONTACT id="P24" start="1045" end="1084" text="https://portal.pugetendo.example.org/m/" TYPE="URL" comment="" />
+<ID id="P25" start="1085" end="1093" text="33-90174" TYPE="IDNUM" comment="" />
+<DATE id="P26" start="1105" end="1115" text="12/07/2089" TYPE="DATE" comment="" />
+<NAME id="P27" start="1118" end="1120" text="IB" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

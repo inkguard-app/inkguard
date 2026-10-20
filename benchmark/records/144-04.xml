@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ED NOTE   02/07/2073   Cascadia Lakes Medical Center
+Pt: SORENSEN, EVANDER   48 M   MRN RL-0762215   Insurance member ID WPH-4471-0098-22
+
+HPI (dictated but not read): fell on ice while walking to his car, a silver sedan, plate WA 7KLP293 (called in by the police as "whiskey alpha seven kilo lima papa two nine three"), striking the back of his head. No loss of consciousness, brief confusion, vomiting once. On clopidogrel so CT head ordered. Sent by Gerald Oyinlola, MD, ED, ext x6120.
+
+CT head without contrast: no hemorrhage, no fracture. Read by Dr Priscilla Dunmore, 2/7/2073.
+Dx concussion with no loss of consciousness. Discharged home with brother.
+Wi-fi note from triage tablet: connected at 192.168.40.12.
+Paged radiology at pager five five zero nine.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="10" end="20" text="02/07/2073" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="23" end="52" text="Cascadia Lakes Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="57" end="74" text="SORENSEN, EVANDER" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="77" end="79" text="48" TYPE="AGE" comment="" />
+<ID id="P4" start="88" end="98" text="RL-0762215" TYPE="MEDICALRECORD" comment="" />
+<ID id="P5" start="121" end="137" text="WPH-4471-0098-22" TYPE="HEALTHPLAN" comment="" />
+<ID id="P6" start="228" end="238" text="WA 7KLP293" TYPE="VEHICLE" comment="" />
+<NAME id="P7" start="453" end="468" text="Gerald Oyinlola" TYPE="DOCTOR" comment="" />
+<CONTACT id="P8" start="482" end="487" text="x6120" TYPE="PHONE" comment="" />
+<NAME id="P9" start="555" end="572" text="Priscilla Dunmore" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="574" end="582" text="2/7/2073" TYPE="DATE" comment="" />
+<CONTACT id="P11" start="703" end="716" text="192.168.40.12" TYPE="IPADDR" comment="" />
+<CONTACT id="P12" start="743" end="762" text="five five zero nine" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

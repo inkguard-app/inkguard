@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"ENC_ID","UNIT","MRN","PAT_NAME","NOTE_TYPE","NOTE_DT","AUTHOR","NOTE_TEXT"
+"CHF-0514-3321","Cobbler Hill Family Practice","408312","Constance Early","AFTER VISIT SUMMARY","05/14/2071","MALDOUS","AFTER VISIT SUMMARY
+Name: Constance Early    DOB: 03/09/2038    Age: 33
+Visit: wellness visit w/ Dr. Aldous, 5/14
+
+Today: BP 119/91 (a bit high on the bottom #), wt 69.6 kg, BMI 29.3, A1c 6.0 (prediabetes, stable). Pain 1/10. Anxiety screen low (GAD-7 1). Hgb chek next time.
+
+What we did: talked about the OD 2 weeks ago, glad ur doing ok. Cont bup as Rx'd, keep naloxone at home -- Toby knows where it is. Cont B12 shot monthly.
+What to do:
+- addiction clinic every 2 wks
+- dental referral, call Lackawanna Smiles Dental 570-555-0129 for appt (referral going out 5/28)
+- recheck BP 4 wks
+- ask about birth control, pls dont skip -- you told us not sure
+- low back: stretches handout, PT optional
+Call us if: chest pain, cant wake, thoughts of hurting yourself, 911.
+
+Next: June. Hi Connie, take care of you too!
+@NAME@ (0 yo) - template, ignore.
+Dr. Marguerite Aldous -- sig pending"
+</TEXT>
+<TAGS>
+<ID id="P0" start="77" end="90" text="CHF-0514-3321" TYPE="ACCOUNT" comment="" />
+<LOCATION id="P1" start="93" end="121" text="Cobbler Hill Family Practice" TYPE="HOSPITAL" comment="" />
+<ID id="P2" start="124" end="130" text="408312" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="133" end="148" text="Constance Early" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="173" end="183" text="05/14/2071" TYPE="DATE" comment="" />
+<NAME id="P5" start="186" end="193" text="MALDOUS" TYPE="USERNAME" comment="" />
+<NAME id="P6" start="222" end="237" text="Constance Early" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="246" end="256" text="03/09/2038" TYPE="DATE" comment="" />
+<AGE id="P8" start="265" end="267" text="33" TYPE="AGE" comment="" />
+<NAME id="P9" start="297" end="303" text="Aldous" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="305" end="309" text="5/14" TYPE="DATE" comment="" />
+<NAME id="P12" start="580" end="584" text="Toby" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="694" end="718" text="Lackawanna Smiles Dental" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P14" start="719" end="731" text="570-555-0129" TYPE="PHONE" comment="" />
+<DATE id="P15" start="761" end="765" text="5/28" TYPE="DATE" comment="" />
+<DATE id="P16" start="971" end="975" text="June" TYPE="DATE" comment="" />
+<NAME id="P17" start="980" end="986" text="Connie" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="1018" end="1019" text="0" TYPE="AGE" comment="" />
+<NAME id="P19" start="1048" end="1065" text="Marguerite Aldous" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

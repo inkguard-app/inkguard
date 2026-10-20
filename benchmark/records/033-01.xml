@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"ENC_ID","UNIT","MRN","PAT_NAME","NOTE_TYPE","NOTE_DT","AUTHOR","NOTE_TEXT"
+"HAR-77104492","EARLY, CONSTANCE R","408213","4 WEST ONC","NURSING NOTE","04/30/2071 21:40","PLINDQVIST","Pt 33 yo F, 10 wks PP (del 02/19/71), arrvied from ED ~1800 on stretcher. OD, found unresponsve on bthrm floor by husb Toby. EMS gave narcan x2, resp'd. Admitted to onc overflow bed 12 -- no tele bed avail. Dept: Medical Oncology, Attending: Voss, Imelda (template default, pls disregard, pt under hospitalist Dr. Paine). Allergies: Constance Early. [x] Lives with spouse  [ ] Lives alone  Emergency contact: ***
+
+A&amp;Ox3 but drowsy. VS 98.1 / HR 88 / RR 14 / BP 112/70 / SpO2 97% RA. Resp even, unlabored, no distress. Skin warm dry. Hx chronic pain, chronic low back pain, migraine, dependent drug abuse, anemia, prediabetes. Pt prefers Connie. Denise SI/HI when asked x2, says 'I just took too much'. Intent unclear, psych/addiction consult in AM per MD. 1:1 sitter at bedside, belongings sent home w/ husb. Whiteboard: 4W-12 EARLY - NO VISITORS EXCEPT HUSBAND.
+
+Pumping, baby home w/ MIL Lorraine. Lactation to see. Pain 3/10 lower back, tylenol given. No furthr events thru 2300. Pt resting, call light in reach, bed alarm on
+-PL RN
+
+Electronically signed by Priya Lindqvist RN on 04/30/2071 23:12
+EARLY, CONSTANCE R  MRN 408213  Page 1 of 1"
+</TEXT>
+<TAGS>
+<ID id="P0" start="77" end="89" text="HAR-77104492" TYPE="ACCOUNT" comment="" />
+<NAME id="P1" start="92" end="110" text="EARLY, CONSTANCE R" TYPE="PATIENT" comment="" />
+<ID id="P2" start="113" end="119" text="408213" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="122" end="132" text="4 WEST ONC" TYPE="DEPARTMENT" comment="" />
+<DATE id="P4" start="150" end="160" text="04/30/2071" TYPE="DATE" comment="" />
+<NAME id="P5" start="169" end="179" text="PLINDQVIST" TYPE="USERNAME" comment="" />
+<AGE id="P6" start="185" end="187" text="33" TYPE="AGE" comment="" />
+<DATE id="P7" start="209" end="217" text="02/19/71" TYPE="DATE" comment="" />
+<NAME id="P8" start="301" end="305" text="Toby" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="364" end="366" text="12" TYPE="ROOM" comment="" />
+<NAME id="P10" start="424" end="436" text="Voss, Imelda" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="496" end="501" text="Paine" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="515" end="530" text="Constance Early" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="819" end="825" text="Connie" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="1003" end="1008" text="4W-12" TYPE="ROOM" comment="" />
+<NAME id="P15" start="1009" end="1014" text="EARLY" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1072" end="1080" text="Lorraine" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1212" end="1214" text="PL" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1244" end="1259" text="Priya Lindqvist" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1266" end="1276" text="04/30/2071" TYPE="DATE" comment="" />
+<NAME id="P20" start="1283" end="1301" text="EARLY, CONSTANCE R" TYPE="PATIENT" comment="" />
+<ID id="P21" start="1307" end="1313" text="408213" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

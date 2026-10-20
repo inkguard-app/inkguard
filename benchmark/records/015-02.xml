@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,note_type,enc_date,author,text
+7714,LAB COMMENT TO PATIENT,2069-08-17,snachtergael,"RESULT NOTE - released to portal
+Ms. Hunt, you labs from Monday:
+- Cholesterol total 171.8, LDL 117.3 (goal below 100 given your history). Up from last year (LDL 88).
+- Fasting glucose 99.7, upper edge of normal.
+- Kidney function (eGFR 73.0) fine - safe for the bone medcine.
+Plan: stay on simvastain 10 mg. We will recheck in a year. Take the alendronic acid as written - upright, water only.
+If hunt's joint pain flares call us. (template glitch: patient pronoun not filled)
+Patient's name: Marlene Hunt   Age: 70   Sex: F    Pt phone: ***
+Result reviewed by Dr. Achterberg
+Result note copy-forward: Last visit comment: Your A1c is stable. Your bone scan is due. (stale: scan was done 08/14/2069)
+Sincerely, Endocrinology Clinic"
+</TEXT>
+<TAGS>
+<DATE id="P0" start="66" end="76" text="2069-08-17" TYPE="DATE" comment="" />
+<NAME id="P1" start="77" end="89" text="snachtergael" TYPE="USERNAME" comment="" />
+<NAME id="P2" start="128" end="132" text="Hunt" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="148" end="154" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P4" start="489" end="493" text="hunt" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="585" end="597" text="Marlene Hunt" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="605" end="607" text="70" TYPE="AGE" comment="" />
+<NAME id="P7" start="653" end="667" text="Dr. Achterberg" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="779" end="789" text="08/14/2069" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

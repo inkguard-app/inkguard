@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE                                                                 Page 1 of 2
+Bellwether Valley Medical Center  --  Medicine 3 North
+VARGA, PRISCILLA A      MRN QH-0066-5142      DOB 08/14/2010      Age 64
+
+- Date/time of death: 12/08/2074 at 0312 (pt admitted 11/27/2074 via ED, overdose; readmit to ICU 12/01)
+- Pronounced by: Dr. Lakshmi Ranganathan (covering)
+- Attending of record: Dr. Hamid Rostami [WRONG attending picked from the dropdown -- that is the oncology SW; true attending is Dr. Jun-ho Baek]
+- Cause: complications of overdose per team; ME case? NO per Whatcom County Medical Examiner (declined jurisdiction)
+- Family at bedside: sister Katalin Varga-Doyle, brother-in-law Neil Doyle. Mother Ilona Varga (92yo) NOT told in person, siister will tell her herself in the morning when hospice chaplain Rev. Anselm Dube is available.
+- Pt was 64 y/o, never married, no children, lived alone.
+- Belongings: CPAP RS-5520-884731 sent home w/ sis; phone; $0.
+- Funeral home: sister to call. Chart merge w/ dup QH-0071-9930 (alias "Pris Vargas", DOB 01/01/1900) still PENDING; pls do not merge untl HIM verifies.
+- PCP Clarice Mbeki and Addiction Med notified 12/08 0700 by E. Thorsby RN.
+- Death cert: signed 12/08/2074.
+- Employer Greywether Home Health Supply to be informed by sister (pt was working there as dispatcher since May).
+
+Electronically signed by Lakshmi Ranganathan MD  12/08/2074 0540
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="87" end="119" text="Bellwether Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="125" end="141" text="Medicine 3 North" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="142" end="160" text="VARGA, PRISCILLA A" TYPE="PATIENT" comment="" />
+<ID id="P3" start="170" end="182" text="QH-0066-5142" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="192" end="202" text="08/14/2010" TYPE="DATE" comment="" />
+<AGE id="P5" start="212" end="214" text="64" TYPE="AGE" comment="" />
+<DATE id="P6" start="238" end="248" text="12/08/2074" TYPE="DATE" comment="" />
+<DATE id="P7" start="270" end="280" text="11/27/2074" TYPE="DATE" comment="" />
+<DATE id="P8" start="314" end="319" text="12/01" TYPE="DATE" comment="" />
+<NAME id="P9" start="338" end="361" text="Dr. Lakshmi Ranganathan" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="400" end="413" text="Hamid Rostami" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="506" end="517" text="Jun-ho Baek" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="580" end="611" text="Whatcom County Medical Examiner" TYPE="ORGANIZATION" comment="" />
+<NAME id="P13" start="664" end="683" text="Katalin Varga-Doyle" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="700" end="710" text="Neil Doyle" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="719" end="730" text="Ilona Varga" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="732" end="734" text="92" TYPE="AGE" comment="" />
+<PROFESSION id="P17" start="808" end="824" text="hospice chaplain" TYPE="PROFESSION" comment="" />
+<NAME id="P18" start="825" end="841" text="Rev. Anselm Dube" TYPE="DOCTOR" comment="" />
+<AGE id="P19" start="865" end="867" text="64" TYPE="AGE" comment="" />
+<ID id="P20" start="933" end="947" text="RS-5520-884731" TYPE="DEVICE" comment="" />
+<ID id="P21" start="1028" end="1040" text="QH-0071-9930" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P22" start="1049" end="1060" text="Pris Vargas" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="1067" end="1077" text="01/01/1900" TYPE="DATE" comment="" />
+<NAME id="P24" start="1136" end="1149" text="Clarice Mbeki" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="1177" end="1182" text="12/08" TYPE="DATE" comment="" />
+<NAME id="P26" start="1191" end="1201" text="E. Thorsby" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1227" end="1237" text="12/08/2074" TYPE="DATE" comment="" />
+<LOCATION id="P28" start="1250" end="1279" text="Greywether Home Health Supply" TYPE="ORGANIZATION" comment="" />
+<DATE id="P29" start="1347" end="1350" text="May" TYPE="DATE" comment="" />
+<NAME id="P30" start="1379" end="1398" text="Lakshmi Ranganathan" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="1403" end="1413" text="12/08/2074" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

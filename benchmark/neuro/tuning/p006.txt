@@ -1,0 +1,27 @@
+NEUROINTERVENTIONAL PROCEDURE NOTE
+{{FACILITY|Marlowe Heights Medical Center}} — Biplane Suite 2
+Patient: {{NAME|Joaquin Restrepo-Lind}}   MRN {{MRN|MHM-2204816}}
+Date: {{DATE|11/02/2062}}
+Operator: {{NAME|Celeste Fisher}}, MD   Fellow: {{NAME|Ravi Subramaniam}}, MD
+
+Indication: 44 M, ruptured [[anterior communicating artery aneurysm]], [[Hunt-Hess 2]], [[WFNS 1]], [[Fisher grade 3]] (the [[original Fisher scale]]; [[modified Fisher 3]]). Dr. {{NAME|Fisher}} notes for the record that the [[Fisher scale]] is unrelated to her.
+
+Access: [[right common femoral artery]], 6F short sheath. [[Neuron MAX 088 long sheath]] in the left ICA, [[Headway 17 microcatheter]] over a [[Synchro 2 microwire]]. Heparinised saline flush; no systemic heparin until first coil placed.
+
+Findings: 5.8 x 4.9 mm [[AComm aneurysm]] projecting anteriorly, neck 2.6 mm, small daughter sac at the dome (presumed rupture point). [[A1 dominance]] left. No vasospasm.
+
+Treatment: [[primary coil embolization]]. Coils: [[Target 360 Soft 5 mm x 15 cm]], [[Target Helical Ultra 3 mm x 6 cm]], [[Target Nano 2 mm x 3 cm]]. Final [[Raymond-Roy class I]] (complete occlusion). [[Packing density]] 31%. No thromboembolic complication; [[distal ACA branches]] intact on final run.
+
+Closure: [[Angio-Seal VIP 6F]].
+Post-procedure: [[nimodipine 60 mg q4h]], admit NeuroICU, [[TCD]] monitoring. Daughter {{NAME|Ines Restrepo}} updated at {{PHONE|555-447-1180}}.
+=====NOTE=====
+NEUROICU DISCHARGE SUMMARY
+Name: {{NAME|RESTREPO-LIND, JOAQUIN}}   MRN {{MRN|MHM-2204816}}
+Admission {{DATE|11/01/2062}} — Discharge {{DATE|11/16/2062}}
+Attending: Dr. {{NAME|Celeste Fisher}}
+
+Diagnoses: [[aneurysmal subarachnoid haemorrhage]], [[AComm aneurysm]] status post [[endovascular coiling]] ([[Raymond-Roy I]]); [[acute hydrocephalus]] treated with [[external ventricular drain]] (placed at [[Kocher's point]], opened at [[15 cmH2O]], weaned and clamped day 9, removed day 11 without need for [[VP shunt]]); asymptomatic [[angiographic vasospasm]] day 7 managed with [[nimodipine]] and euvolaemia; [[hyponatraemia]] (nadir 129) from [[SIADH]], treated with [[fluid restriction]] and [[sodium chloride tablets 2 g TID]].
+
+Neuro exam at discharge: [[GCS 15]], mild short-term memory complaint, otherwise non-focal. [[mRS 1]].
+
+Follow-up: [[DSA]] at 6 months to assess for [[coil compaction]] / recanalisation; clinic with Dr. {{NAME|R. Subramaniam}} in 4 weeks. Neuropsychology referral. Address on file: {{ADDRESS|207 Tillbrook Lane, Apt 3C, Wexcombe}}, NJ {{ZIP|07762}}.

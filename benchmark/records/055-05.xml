@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NORTHCREST HEART CLINIC - AFTER VISIT SUMMARY
+Patient: Nova Brandt     DOB: 06/02/2038     MRN: 055-31877
+Visit date: 12/10/2061   Provider: Saint Okoro, MD   Nurse: Joy Sorensen, RN
+
+Dear [PATIENT],
+Dear Ms. Brandt,
+Thank you for coming in today. Here is what we talked about.
+
+WHY YOU CAME: yearly heart and general check, age 23. 
+
+YOUR NUMBERS TODAY
+- Blood pressure: 113/90  (the bottom number is a little high, we will recheck)
+- Weight: 68.8 kg   BMI 24.2
+- Pain: 0 out of 10
+
+WHAT WE DID
+- Heart check and a talk about how you are doing. 
+- Health and social needs questions. If you ever feel unsafe, tell us or call Lake Voss's number on file.
+
+PLAN
+- Check your blood pressure at home twice a week. Your home cuff connects to your wifi network NovaB38_5G. Sign in to the portal with username nova_b38 to send us the numbers.
+- Come back in 1 year, or sooner for chest pain or fainting
+- Medicines: iron is finished. Stop Yaz if it is still on your list, it was ended in 2057
+
+Mail and voicemail will go to: Ms. Quince, 407 Quince Street, Apt 2, Spokane, WA 99205
+Questions? Call (509) 555-0144
+
+Your family history (grandmother Odalys, ninety-two, and great-aunt Rowan Brandt, aged 94) was reviewed.  Great-grandmother lived to 91 y/o.
+Insurance on file: CMH-4471-8823-01
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="23" text="NORTHCREST HEART CLINIC" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="55" end="66" text="Nova Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="76" end="86" text="06/02/2038" TYPE="DATE" comment="" />
+<ID id="P3" start="96" end="105" text="055-31877" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="118" end="128" text="12/10/2061" TYPE="DATE" comment="" />
+<NAME id="P5" start="141" end="152" text="Saint Okoro" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="166" end="178" text="Joy Sorensen" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="205" end="215" text="Ms. Brandt" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="329" end="331" text="23" TYPE="AGE" comment="" />
+<NAME id="P9" start="625" end="634" text="Lake Voss" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="754" end="764" text="NovaB38_5G" TYPE="USERNAME" comment="" />
+<NAME id="P11" start="802" end="810" text="nova_b38" TYPE="USERNAME" comment="" />
+<DATE id="P12" start="980" end="984" text="2057" TYPE="DATE" comment="" />
+<NAME id="P13" start="1017" end="1027" text="Ms. Quince" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="1029" end="1053" text="407 Quince Street, Apt 2" TYPE="STREET" comment="" />
+<LOCATION id="P15" start="1055" end="1062" text="Spokane" TYPE="CITY" comment="" />
+<LOCATION id="P16" start="1064" end="1066" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P17" start="1067" end="1072" text="99205" TYPE="ZIP" comment="" />
+<CONTACT id="P18" start="1089" end="1103" text="(509) 555-0144" TYPE="PHONE" comment="" />
+<NAME id="P19" start="1138" end="1144" text="Odalys" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="1146" end="1156" text="ninety-two" TYPE="AGE" comment="" />
+<NAME id="P21" start="1173" end="1185" text="Rowan Brandt" TYPE="PATIENT" comment="" />
+<AGE id="P22" start="1192" end="1194" text="94" TYPE="AGE" comment="" />
+<AGE id="P23" start="1238" end="1240" text="91" TYPE="AGE" comment="" />
+<ID id="P24" start="1265" end="1281" text="CMH-4471-8823-01" TYPE="HEALTHPLAN" comment="" />
+</TAGS>
+</deIdi2b2>

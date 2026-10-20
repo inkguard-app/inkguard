@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE - DENTAL
+REQUESTED BY: PCP. SEEN: 01/29/2073   DR RUTKOWSKI
+REASON: SCALING AND ROUTINE DENTAL CARE, REFERRED 01/15/2073.
+HX: 72 YO MALE, FLUOXETINE, DEPRESSION, ETOH HX. LAST DENTAL WORK 2072.
+PROCEDURE TODAY: ORAL EXAM, SUPRA AND SUBGINGIVAL SCALING ALL TEETH. FLUORIDE AND GINGIVAL EXAM DONE 01/30/2073 (PT RETURNED NEXT DAY).
+IMPRESSION: MILD GINGIVITIS HX, GOOD HYGIENE NOW.
+PLAN: RECALL 6 MONTHS.
+PORTAL MESSAGE SENT TO https://myportal.superiorbay.example/login/estrand PER PT REQUEST.
+NO FURTHER IDENTIFIERS IN THIS NOTE.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="47" end="57" text="01/29/2073" TYPE="DATE" comment="" />
+<NAME id="P1" start="63" end="72" text="RUTKOWSKI" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="123" end="133" text="01/15/2073" TYPE="DATE" comment="" />
+<DATE id="P3" start="201" end="205" text="2072" TYPE="DATE" comment="" />
+<DATE id="P4" start="308" end="318" text="01/30/2073" TYPE="DATE" comment="" />
+<CONTACT id="P5" start="439" end="489" text="https://myportal.superiorbay.example/login/estrand" TYPE="URL" comment="" />
+</TAGS>
+</deIdi2b2>

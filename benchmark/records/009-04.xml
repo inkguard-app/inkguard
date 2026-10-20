@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 8012 | 12/16/2083 | FAX COVER + MSG | AUTH: Dunleavy, Pilar RN
+**********  FAX  **********
+TO: Gwendolyn Aaberg RN, School Nurse, Fenwick Hollow Middle School
+FAX: (218) 555-0188   PHONE: (218) 555-0121
+FROM: Harbor Pediatrics Group  FAX (218) 555-0199
+RE: Mateo Pellerin  DOB 06/09/2070  Gr 8
+PAGES: 3 incl cover. If recieved in error pls call and destroy.
+MSG: Ms Aaberg - attached = egg allergy action plan signed by Dr Okonkwo-Hale, ED d/c instr. Mateo had anaphylaxis 12/14. 2 epi pens to be kept in ur office + 1 on him. NO egg in class snacks - pls tell his teacher Mr. Lindqvist. Mom Odalys OK'd sharing.
+&gt;&gt;&gt;
+Pasted from ED d/c: "Mateo should avoid all egg. Give epi into thigh at first sign of throat tightness, repeat in 5-15 min if no better, call 911." 
+Signed T. Dunleavy  [PHONE_NUM]
+&gt;&gt;&gt;
+12/15/2083 lab: egg IgE 14.2 high. Allergy to call. -- Okonkwo-Hale, 12/15/2083 14:10
+Pt: Matteo Pellerin MRN NGC0782214
+Page 1 of 1
+</TEXT>
+<TAGS>
+<DATE id="P0" start="11" end="21" text="12/16/2083" TYPE="DATE" comment="" />
+<NAME id="P1" start="48" end="63" text="Dunleavy, Pilar" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="99" end="115" text="Gwendolyn Aaberg" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="134" end="162" text="Fenwick Hollow Middle School" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P4" start="168" end="182" text="(218) 555-0188" TYPE="FAX" comment="" />
+<CONTACT id="P5" start="192" end="206" text="(218) 555-0121" TYPE="PHONE" comment="" />
+<LOCATION id="P6" start="213" end="236" text="Harbor Pediatrics Group" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P7" start="242" end="256" text="(218) 555-0199" TYPE="FAX" comment="" />
+<NAME id="P8" start="261" end="275" text="Mateo Pellerin" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="281" end="291" text="06/09/2070" TYPE="DATE" comment="" />
+<NAME id="P10" start="370" end="376" text="Aaberg" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="424" end="439" text="Dr Okonkwo-Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="455" end="460" text="Mateo" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="477" end="482" text="12/14" TYPE="DATE" comment="" />
+<NAME id="P14" start="577" end="590" text="Mr. Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="596" end="602" text="Odalys" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="642" end="647" text="Mateo" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="777" end="788" text="T. Dunleavy" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="806" end="816" text="12/15/2083" TYPE="DATE" comment="" />
+<NAME id="P19" start="861" end="873" text="Okonkwo-Hale" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="875" end="885" text="12/15/2083" TYPE="DATE" comment="" />
+<NAME id="P21" start="896" end="911" text="Matteo Pellerin" TYPE="PATIENT" comment="" />
+<ID id="P22" start="916" end="926" text="NGC0782214" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

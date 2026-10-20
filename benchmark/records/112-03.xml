@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP) - Primary care / wellness     12/24/2073
+Pt: Renata Lindqvist   DOB 03/14/2025   MRN RC-2208-314    Provider: Henrik Voss, MD
+.HPI
+{FIRST_NAME} is a 48 yo female here for annual exam. Seen by MA Destiny Marlow for intake. Lives w/ husband Anders, daughter Tilly (3), stepson Oskar now 17. Not working outside the home since Dec 2071. Mother in law Birgit helps with child care on Tuesdays. Landlord issue resolved, they are moving in the spring.
+
+Dictated but not read: Ms Lindqvist reports she is generally well. She feels a bit isolated now that Oskar has his own friends and her husbands ferry schedule keeps him away. She denies depression, PHQ ok. She got the Nexplanon implant on 10/31/2073 and has had irregular spotting but tolerates it. No migraines this year (chart says chronic migraine -- she says that was her mother, Lucia, not her).
+
+S: weight up. Wants to lose weight, BMI 30.8. A1c 6.0 prediabetic range. Cholesterol ok on simvastatin.
+O: Wt 70.2 kg, BP 119/65. GAD-7 0. Gen: well appearing. CV RRR. Lungs clear.
+A: 1. Prediabetes 2. Hyperlipidemia 3. Obesity class I 4. Contraception, implant in place 5. Dental referral for gingivitis.
+P: Lifestyle counseling, repeat A1c in 6 mo. Continue statin. Dental referral to Dr. Anneliese Brandt. Return in 1 yr.
+
+Allergies: Renata Lindqvist
+Emergency contact: hypertension
+Pharmacy phone: (000) 000-0000
+Electronically signed by Henrik Voss MD 12/24/2073 15:40; routed to Northshore Community Hospital HIM.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="51" end="61" text="12/24/2073" TYPE="DATE" comment="" />
+<NAME id="P1" start="66" end="82" text="Renata Lindqvist" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="89" end="99" text="03/14/2025" TYPE="DATE" comment="" />
+<ID id="P3" start="106" end="117" text="RC-2208-314" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P4" start="131" end="142" text="Henrik Voss" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="170" end="172" text="48" TYPE="AGE" comment="" />
+<NAME id="P6" start="216" end="230" text="Destiny Marlow" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="260" end="266" text="Anders" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="277" end="282" text="Tilly" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="284" end="285" text="3" TYPE="AGE" comment="" />
+<NAME id="P10" start="296" end="301" text="Oskar" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="306" end="308" text="17" TYPE="AGE" comment="" />
+<DATE id="P12" start="345" end="353" text="Dec 2071" TYPE="DATE" comment="" />
+<NAME id="P13" start="369" end="375" text="Birgit" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="707" end="717" text="10/31/2073" TYPE="DATE" comment="" />
+<NAME id="P15" start="852" end="857" text="Lucia" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1261" end="1277" text="Anneliese Brandt" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="1372" end="1386" text="(000) 000-0000" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1412" end="1423" text="Henrik Voss" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1427" end="1437" text="12/24/2073" TYPE="DATE" comment="" />
+<LOCATION id="P20" start="1455" end="1484" text="Northshore Community Hospital" TYPE="ORGANIZATION" comment="" />
+</TAGS>
+</deIdi2b2>

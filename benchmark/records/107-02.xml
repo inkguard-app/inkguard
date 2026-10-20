@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Prairie Shield Health
+Attn: Utilization Review / Pharmacy Appeals
+Fax (918) 555-0390
+
+May 15, 2061
+
+RE: Legend Dax Ward   DOB 03/14/2031   Member ID PSH-2204-88317
+    Claim ref CLM-61-0509-4471
+    Address on file: 2290 Wren Court, Apt 9, Tulsa, OK 74104
+
+To whom it may concern,
+
+I am writing on behalf of my patient, Mr. Ward, a 30-year-old man hospitalized 5/11 through 5/15 at Cedarmoor Regional Hospital for decompensated heart failure.
+
+- he was discharged today with new sacubitril/valsartan (Entresto), carvedilol (Coreg), furosemide (Lasix) and spironolactone (Aldactone)
+- prior auth for Entresto was denied last month; we ask you to overturn it
+- he was previously on oral Lasix only (12/2055), IV furosemide 11/26/2056
+- he lost his job at Hartline Logistics in 2056 and has had no work since, so this is also a letter for his employer-sponsored COBRA ... please confirm the date coverage ends (mid-June?)
+
+Heart failure education was given on 5/15. He is not able to return to work at a physical job through at least Christmas.
+
+His mother, Glorie Ward, has been the main support. She can be reached at (918) 555-0121; his sister Rain handles the mail.
+
+Sincerely,
+
+Hope Lindqvist, MD
+Cardiology, Cedarmoor Regional Hospital
+cc: Legend Ward; chart CR-5518203
+Dictated 5/15/61, not proofread.  Dear {PAYER_NAME}, Dear [PATIENT], -- (template leftovers)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="21" text="Prairie Shield Health" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P1" start="70" end="84" text="(918) 555-0390" TYPE="FAX" comment="" />
+<DATE id="P2" start="86" end="98" text="May 15, 2061" TYPE="DATE" comment="" />
+<NAME id="P3" start="104" end="119" text="Legend Dax Ward" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="126" end="136" text="03/14/2031" TYPE="DATE" comment="" />
+<ID id="P5" start="149" end="163" text="PSH-2204-88317" TYPE="HEALTHPLAN" comment="" />
+<ID id="P6" start="178" end="194" text="CLM-61-0509-4471" TYPE="IDNUM" comment="" />
+<LOCATION id="P7" start="216" end="238" text="2290 Wren Court, Apt 9" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="240" end="245" text="Tulsa" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="247" end="249" text="OK" TYPE="STATE" comment="" />
+<LOCATION id="P10" start="250" end="255" text="74104" TYPE="ZIP" comment="" />
+<NAME id="P11" start="324" end="328" text="Ward" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="332" end="334" text="30" TYPE="AGE" comment="" />
+<DATE id="P13" start="361" end="365" text="5/11" TYPE="DATE" comment="" />
+<DATE id="P14" start="374" end="378" text="5/15" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="382" end="409" text="Cedarmoor Regional Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P16" start="697" end="704" text="12/2055" TYPE="DATE" comment="" />
+<DATE id="P17" start="721" end="731" text="11/26/2056" TYPE="DATE" comment="" />
+<LOCATION id="P18" start="753" end="771" text="Hartline Logistics" TYPE="ORGANIZATION" comment="" />
+<DATE id="P19" start="775" end="779" text="2056" TYPE="DATE" comment="" />
+<DATE id="P20" start="912" end="916" text="June" TYPE="DATE" comment="" />
+<DATE id="P21" start="957" end="961" text="5/15" TYPE="DATE" comment="" />
+<DATE id="P22" start="1031" end="1040" text="Christmas" TYPE="DATE" comment="" />
+<NAME id="P23" start="1055" end="1066" text="Glorie Ward" TYPE="PATIENT" comment="" />
+<CONTACT id="P24" start="1117" end="1131" text="(918) 555-0121" TYPE="PHONE" comment="" />
+<NAME id="P25" start="1144" end="1148" text="Rain" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1180" end="1194" text="Hope Lindqvist" TYPE="DOCTOR" comment="" />
+<LOCATION id="P27" start="1211" end="1238" text="Cedarmoor Regional Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P28" start="1243" end="1254" text="Legend Ward" TYPE="PATIENT" comment="" />
+<ID id="P29" start="1262" end="1272" text="CR-5518203" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P30" start="1282" end="1289" text="5/15/61" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

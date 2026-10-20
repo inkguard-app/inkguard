@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO PATIENT                               02/25/2075
+To: Wyatt Holloway  (DOB 08/14/2040, MRN HW-0075-4410)
+Sent via portal and mailed to 18 Cobbett Lane, Killeen, TX 76541
+From: Dr. Teodoro Salinas, Salinas Primary Care
+Re: your visit and blood tests from Thursday, February 21
+
+Dear Mr. Holloway, this is Dr. Salinas dictating a note about the results of the blood work we drew at your annual checkup last Thursday. I am going to try to explain things as plainly as I can. Your total cholesterol came back at one seventy seven point one and your LDL, the so called bad cholesterol, was ninety six point one, which is a very nice improvement compared to the visit in February of 2072, when the total was two twenty four and the LDL was one forty six. Whatever you have been doing, keep doing it. Your hemoglobin was seventeen point two which is at the high end of normal and your white blood cell count was nine point four which is normal, so no sign of infection, and no sign of anything like Hodgkin lymphoma, I know your father Lyle was worried about that after his own scare.
+
+The one number that I do want you to pay attention to is your blood pressure which was one forty two over ninety three in our office. It was one thirty over ninety four back in 2072 so it is still creeping up. Your weight is now eighty nine point eight kilograms and your BMI is exactly thirty, that is the line for obesity. I would like you to cut back on salt, the fast food, and the energy drinks, and I want you to check your pressure at home twice a day for two weeks and bring the numbers to see me around mid-March. If it is still high we will talk about starting something like Lisinopril, no Parkinson's disease worries here, just a pill that you take once a day.
+
+Also, you were referred to the dentist and I see you went on March 7th for the gingivitis - [Inserted: wait, that is next week, scratch that, the referral is placed but not yet attended] - great.
+Your wife Marguerita asked whether she can call for your results. Please sign the release form first. Our front desk number is (254) 555-0109. If the nurse picks up, ask for Ardith. If nobody does, speak to Mr. Young, he is our office manager, Mr. Young will page me. [Comment ab12: is "Marguerita" right? chart says Marguerite]
+
+Warm regards, Dr. Salinas. P.S. Margerite is welcome to call.
+Dictated but not read. Dictated 02/25/2075 08:11, transcribed 02/25/2075 11:40 by tranmed_04.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="60" end="70" text="02/25/2075" TYPE="DATE" comment="" />
+<NAME id="P1" start="75" end="89" text="Wyatt Holloway" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="96" end="106" text="08/14/2040" TYPE="DATE" comment="" />
+<ID id="P3" start="112" end="124" text="HW-0075-4410" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P4" start="156" end="171" text="18 Cobbett Lane" TYPE="STREET" comment="" />
+<LOCATION id="P5" start="173" end="180" text="Killeen" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="182" end="184" text="TX" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="185" end="190" text="76541" TYPE="ZIP" comment="" />
+<NAME id="P8" start="201" end="216" text="Teodoro Salinas" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="218" end="238" text="Salinas Primary Care" TYPE="ORGANIZATION" comment="" />
+<DATE id="P10" start="275" end="296" text="Thursday, February 21" TYPE="DATE" comment="" />
+<DATE id="P11" start="426" end="434" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P12" start="686" end="702" text="February of 2072" TYPE="DATE" comment="" />
+<NAME id="P13" start="1050" end="1054" text="Lyle" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="1277" end="1281" text="2072" TYPE="DATE" comment="" />
+<DATE id="P15" start="1612" end="1621" text="mid-March" TYPE="DATE" comment="" />
+<DATE id="P16" start="1835" end="1844" text="March 7th" TYPE="DATE" comment="" />
+<NAME id="P17" start="1980" end="1990" text="Marguerita" TYPE="PATIENT" comment="" />
+<CONTACT id="P18" start="2097" end="2111" text="(254) 555-0109" TYPE="PHONE" comment="" />
+<NAME id="P19" start="2144" end="2150" text="Ardith" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="2181" end="2186" text="Young" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="2218" end="2223" text="Young" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="2247" end="2251" text="ab12" TYPE="USERNAME" comment="" />
+<NAME id="P23" start="2318" end="2325" text="Salinas" TYPE="DOCTOR" comment="" />
+<NAME id="P24" start="2332" end="2341" text="Margerite" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="2394" end="2404" text="02/25/2075" TYPE="DATE" comment="" />
+<DATE id="P26" start="2424" end="2434" text="02/25/2075" TYPE="DATE" comment="" />
+<NAME id="P27" start="2444" end="2454" text="tranmed_04" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

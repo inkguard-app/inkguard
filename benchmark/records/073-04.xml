@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>From: delphine whitcombe &lt;dwhitcombe.knits@example.org&gt;
+To: Cascadia Valley Medical Group Patient Portal
+Sent: 11/03/2064 21:17
+Subject: re: my tooth gum surgery and my NAME!!
+
+hi Dr bhatt (or whoever reads this),
+
+i had the gum thing done last week on the 29th and its sore but ok, no bleeding really. dental office said use the salt water. i take my warfarin every nite like u said. im a little anxious about everything lately the part time job at Ridgeline Garden Center is slow and i feel alone since the divorce. my sister Carris Pell calls but she is in Boise. my mom Ottoline Whitcombe is ninety-three and I do her groceries so cant skip.
+
+PLEASE fix my name in the chart. i am not harrowgate anymore, it is Whitcombe. the portal still says welcome Delphine Harrowgate!! and my insurance card has the old one too. my ex Warren should NOT get any info. also my birthday on the portal is wrong, its March 19 not March 9 (i think?? my mom says the 9th).
+
+Also i do NOT have heart trouble that was a one time thing. the nurse put afib in my list. also no i dont drink, maybe a glass of wine on Sundays.
+
+thx
+dee
+--
+Sent from my phone  | dee_whitcombe_wool on the 'gram | shop: Whitcombe Wool &amp; Yarn
+Fitbit Versa synced FB-VRS-2294-0713
+ref for the copay i paid by mistake: acct 6011-0012-3499-8821 (my bank, pls dont share lol)
+</TEXT>
+<TAGS>
+<NAME id="P0" start="6" end="24" text="delphine whitcombe" TYPE="PATIENT" comment="" />
+<CONTACT id="P1" start="26" end="54" text="dwhitcombe.knits@example.org" TYPE="EMAIL" comment="" />
+<DATE id="P2" start="111" end="121" text="11/03/2064" TYPE="DATE" comment="" />
+<NAME id="P3" start="180" end="188" text="Dr bhatt" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="253" end="261" text="the 29th" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="450" end="473" text="Ridgeline Garden Center" TYPE="ORGANIZATION" comment="" />
+<NAME id="P6" start="528" end="539" text="Carris Pell" TYPE="PATIENT" comment="" />
+<LOCATION id="P7" start="560" end="565" text="Boise" TYPE="CITY" comment="" />
+<NAME id="P8" start="574" end="592" text="Ottoline Whitcombe" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="715" end="724" text="Whitcombe" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="756" end="775" text="Delphine Harrowgate" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="827" end="833" text="Warren" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="904" end="912" text="March 19" TYPE="DATE" comment="" />
+<DATE id="P13" start="917" end="924" text="March 9" TYPE="DATE" comment="" />
+<DATE id="P14" start="1097" end="1104" text="Sundays" TYPE="DATE" comment="" />
+<NAME id="P15" start="1140" end="1158" text="dee_whitcombe_wool" TYPE="USERNAME" comment="" />
+<LOCATION id="P16" start="1180" end="1201" text="Whitcombe Wool &amp; Yarn" TYPE="ORGANIZATION" comment="" />
+<ID id="P17" start="1222" end="1238" text="FB-VRS-2294-0713" TYPE="DEVICE" comment="" />
+<ID id="P18" start="1281" end="1300" text="6011-0012-3499-8821" TYPE="ACCOUNT" comment="" />
+</TAGS>
+</deIdi2b2>

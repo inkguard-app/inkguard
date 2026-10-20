@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>KITSILANO FAMILY PRACTICE / Cambie Crest Children's Hospital Paediatric Clinic
+HISTORY AND PHYSICAL
+Name: Takeda-Raman, Anand K     DOB: 05/11/2059     Age: 11     Sex: M     MRN: KM 5531-0922
+Visit date: 2071-02-14 (Saturday, walk-in clinic)     Provider: Dr. Pavel Horvath (ENT)  &lt;- selected from list, actual provider Dr. Marguerite Lachance
+Informant: father, Hiroshi Takeda, and patient
+
+CHIEF COMPLAINT: "stuffy nose and my face hurts" since about three weeks.
+
+HPI: 11-year-old boy with a previous history of sinusitis (2070-11-25, treated, incomplete resolution) presents with nasal congestion, thick yellow green discharge, a cough worse at night and pressure over the cheeks. Low grade fever last week. His father says he is using Flonase and Zyrtec from the pharmacy and Tylenol at night, little change. No sick contacts except his sister Mei (14) who had a cold in the New Year period. No eye swelling, no stiff neck. Sinusitis recurrent; assessed as chronic sinusitis today.
+
+PMH: laceration thigh 2066 repaired, sprain of wrist 2068, gingival disease 2066. 
+FH: grandfather Takeda Isamu (Osaka) had Hodgkin lymphoma at 60, grandmother Lakshmi Raman (Chennai) has Parkinson's disease. Mother Priya has hay fever. No known immune deficiency.
+SH: Lives with parents, sister. Attends Cypress Hill Secondary, grade 6 (elementary program) and plays cello. Father works as a structural engineer at Granville Span Engineering. Family speaks English, Tamil and Japanese at home. They rent: landlord Mr. Ferris Wheeler (no relation to the amusement ride) keeps the building at 2284 West 14th Ave, Vancouver, BC V6K 2W7.
+
+ROS: negative except above. No headache beyond facial pressure. 
+EXAM: T 37.6, HR 88, BP normal for age, wt 38 kg. Nasal mucosa boggy and pink, mucopurulent discharge, tenderness over maxillary sinuses, throat clear, ears normal, neck supple, no lymphadenopathy. Face symmetric. Chest clear.
+IMPRESSION: Chronic sinusitis. Allergic component likely. 
+PLAN: Augmentin course, saline rinses, continue nasal steroid. Refer to ENT, Dr. Pavel Horvath, if not better in 4 weeks. CT only if complications.
+
+Template remnants: "Patient: ______   DOB: **/**/****   Phone: (000) 000-0000" 
+Contact: father 604-555-0147, email hiroshi.takeda@granvillespan.example
+Electronically signed by Dr. Lachance 2071-02-14 17:51; routed to Dr. Horvath; cc Lachance
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="25" text="KITSILANO FAMILY PRACTICE" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="28" end="60" text="Cambie Crest Children's Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="106" end="127" text="Takeda-Raman, Anand K" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="137" end="147" text="05/11/2059" TYPE="DATE" comment="" />
+<AGE id="P4" start="157" end="159" text="11" TYPE="AGE" comment="" />
+<ID id="P5" start="180" end="192" text="KM 5531-0922" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="205" end="215" text="2071-02-14" TYPE="DATE" comment="" />
+<DATE id="P7" start="217" end="225" text="Saturday" TYPE="DATE" comment="" />
+<NAME id="P8" start="261" end="274" text="Pavel Horvath" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="325" end="344" text="Marguerite Lachance" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="364" end="378" text="Hiroshi Takeda" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="473" end="475" text="11" TYPE="AGE" comment="" />
+<DATE id="P12" start="527" end="537" text="2070-11-25" TYPE="DATE" comment="" />
+<NAME id="P13" start="850" end="853" text="Mei" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="881" end="889" text="New Year" TYPE="DATE" comment="" />
+<DATE id="P15" start="1011" end="1015" text="2066" TYPE="DATE" comment="" />
+<DATE id="P16" start="1042" end="1046" text="2068" TYPE="DATE" comment="" />
+<DATE id="P17" start="1065" end="1069" text="2066" TYPE="DATE" comment="" />
+<NAME id="P18" start="1088" end="1100" text="Takeda Isamu" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="1102" end="1107" text="Osaka" TYPE="CITY" comment="" />
+<NAME id="P20" start="1149" end="1162" text="Lakshmi Raman" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="1164" end="1171" text="Chennai" TYPE="CITY" comment="" />
+<NAME id="P22" start="1205" end="1210" text="Priya" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="1294" end="1316" text="Cypress Hill Secondary" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P24" start="1382" end="1401" text="structural engineer" TYPE="PROFESSION" comment="" />
+<LOCATION id="P25" start="1405" end="1431" text="Granville Span Engineering" TYPE="ORGANIZATION" comment="" />
+<NAME id="P26" start="1508" end="1522" text="Ferris Wheeler" TYPE="PATIENT" comment="" />
+<LOCATION id="P27" start="1581" end="1599" text="2284 West 14th Ave" TYPE="STREET" comment="" />
+<LOCATION id="P28" start="1601" end="1610" text="Vancouver" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="1612" end="1614" text="BC" TYPE="STATE" comment="" />
+<LOCATION id="P30" start="1615" end="1622" text="V6K 2W7" TYPE="ZIP" comment="" />
+<NAME id="P31" start="2057" end="2070" text="Pavel Horvath" TYPE="DOCTOR" comment="" />
+<CONTACT id="P32" start="2221" end="2233" text="604-555-0147" TYPE="PHONE" comment="" />
+<CONTACT id="P33" start="2241" end="2277" text="hiroshi.takeda@granvillespan.example" TYPE="EMAIL" comment="" />
+<NAME id="P34" start="2307" end="2315" text="Lachance" TYPE="DOCTOR" comment="" />
+<DATE id="P35" start="2316" end="2326" text="2071-02-14" TYPE="DATE" comment="" />
+<NAME id="P36" start="2348" end="2355" text="Horvath" TYPE="DOCTOR" comment="" />
+<NAME id="P37" start="2360" end="2368" text="Lachance" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

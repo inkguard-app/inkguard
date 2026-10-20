@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id,msg_id,sender,channel,subject,sent,body
+90117,"PM-2082-0715-33","Nolan Strand","Patient Portal","Question about my blood pressure","07/15/2082 21:03","
+hi,
+i had my yearly physical on Monday and the nurse said my bp was 92 over 85 which she said was a little low on the top number. also my cholestrol was 177 and the bad one 98. is that ok?? I dont have a heart problem that i know of but the heart monitor thing in March didnt show anything bad as far as i was told. sometimes i get light headed when i stand up fast. no fainting. i dont drink much any more.
+can someone call me or just reply here. i can't find the results page, the link i was sent doesnt work on my phone
+thanks
+Sent from my phone"
+</TEXT>
+<TAGS>
+<ID id="P0" start="54" end="69" text="PM-2082-0715-33" TYPE="IDNUM" comment="" />
+<NAME id="P1" start="72" end="84" text="Nolan Strand" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="139" end="149" text="07/15/2082" TYPE="DATE" comment="" />
+<DATE id="P3" start="191" end="197" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P4" start="423" end="428" text="March" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

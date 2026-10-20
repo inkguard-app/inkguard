@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>SAINT ANSGAR MEDICAL CENTER  -  EMERGENCY DEPARTMENT
+HARTNETT, CORINNE V   MRN 5530-2917   DOB 08/19/1997   Page 1 of 3
+Visit # ED61-0905-3318   Arrived 09/05/2061 21:40 by EMS   Room ED-14
+Attending (from drop-down): Dr. Marguerite Hallett   PCP: Dr. Priyanka Venkataraghavan
+
+"TRIAGE NOTES" (entered by Brianna Solis, MA)
+- pt is a 63 yo lady, came in with her neighbor mrs Chepanski (sticker says Szepanski??) who called 911 after hearing a "thud"
+-&gt; pt was super chill but vibes were a little off, looked like she did'nt want to talk in front of the husband
+-&gt; husband Desmund Hartnett was in waiting room, said "she just tripped on the back steps on the fifth"
+** bp 138/86, hr 92, spo2 98 RA **
+In conclusion, the patient's journey to the ED started on the evening of the fifth of September and she is now in room 14.
+
+HPI (dictated by Dr. Quarter-ten, speech recognition on)
+Mrs. Hartnet is a sixty-three-year-old woman with a history of hyper tension off medications, pre diabettes, osteoarthritis of the knee on na proxy in, chronic sinusitis, and anemia who presents after a fall down about four steps onto concrete. She struck the right side of the head. There was no loss of consciousness by her account but a neighbor says she was confused for several minutes. She has a headache, mild nausea, no vomiting, no neck pain. She takes over the counter naproxen for the knee, last dose this morning.
+
+SOCIAL (partly template, partly free text)
+Lives with spouse Desmond Hartnett at 418 Kestrel Lane, Toledo, OH 43609. Landlord is Abernathy Voss, who has been slow to fix the back steps according to the patient. Worked part time at Greywater Logistics until 02/2061. Her mother Gwendolyn Valdivia is 91 and lives in assisted living; the patient visits her. Adult son Tobias lives in the same city.
+Emergency contact: Desmund Hartnett  (419) 555-0163
+Domestic safety screen: interviewed alone with the nurse at the bedside. Pt states she fell. Chart carries a flag entered 02/02/2061. Social work paged, Mr. Wierzba, spoke with her privately and gave resources.
+
+EXAM
+Alert, oriented times three. GCS 15. Small right parietal hematoma, no laseration. Pupils equal reactive. Cranial nerves intact. Neck non tender. Gait steady with a limp from the known knee arthritis.
+
+COPIED FORWARD FROM 02/02/2061 VISIT
+Medications: lisinopril 10 mg daily, amlodipine 2.5 mg daily, hydrochlorothiazide 25 mg daily, naproxen 220 mg prn.
+(note from reviewer: first three stopped back in 2057, ignore)
+
+ASSESSMENT AND PLAN
+Mild traumatic brain injury / concusion, no LOC. Canadian CT head rule: age over 60 so CT head without contrast, ordered, see tea head with out contrast. Hold naproxen. Tylenol for pain. If CT negative discharge with concussion precautions and follow up with Dr. Venkataraghavan in two months.
+
+Electronically signed by Leopold Kwarteng, MD on 09/05/2061 23:52
+Last edited by lkwarteng on 9/6/2061 00:14 from 10.44.8.129
+Dictated but not proofread.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="SAINT ANSGAR MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="52" text="EMERGENCY DEPARTMENT" TYPE="DEPARTMENT" comment="" />
+<ID id="P2" start="79" end="88" text="5530-2917" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="95" end="105" text="08/19/1997" TYPE="DATE" comment="" />
+<ID id="P4" start="128" end="142" text="ED61-0905-3318" TYPE="IDNUM" comment="" />
+<DATE id="P5" start="153" end="163" text="09/05/2061" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="184" end="189" text="ED-14" TYPE="ROOM" comment="" />
+<NAME id="P7" start="222" end="240" text="Marguerite Hallett" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="252" end="276" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="305" end="318" text="Brianna Solis" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="334" end="336" text="63" TYPE="AGE" comment="" />
+<NAME id="P11" start="376" end="385" text="Chepanski" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="573" end="589" text="Desmund Hartnett" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="659" end="664" text="fifth" TYPE="DATE" comment="" />
+<DATE id="P14" start="774" end="796" text="the fifth of September" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="820" end="822" text="14" TYPE="ROOM" comment="" />
+<NAME id="P16" start="846" end="857" text="Quarter-ten" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="887" end="894" text="Hartnet" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="900" end="911" text="sixty-three" TYPE="AGE" comment="" />
+<NAME id="P19" start="1470" end="1486" text="Desmond Hartnett" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="1490" end="1506" text="418 Kestrel Lane" TYPE="STREET" comment="" />
+<LOCATION id="P21" start="1508" end="1514" text="Toledo" TYPE="CITY" comment="" />
+<LOCATION id="P22" start="1516" end="1518" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P23" start="1519" end="1524" text="43609" TYPE="ZIP" comment="" />
+<NAME id="P24" start="1538" end="1552" text="Abernathy Voss" TYPE="PATIENT" comment="" />
+<LOCATION id="P25" start="1640" end="1659" text="Greywater Logistics" TYPE="ORGANIZATION" comment="" />
+<DATE id="P26" start="1666" end="1673" text="02/2061" TYPE="DATE" comment="" />
+<NAME id="P27" start="1686" end="1704" text="Gwendolyn Valdivia" TYPE="PATIENT" comment="" />
+<AGE id="P28" start="1708" end="1710" text="91" TYPE="AGE" comment="" />
+<NAME id="P29" start="1775" end="1781" text="Tobias" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="1825" end="1841" text="Desmund Hartnett" TYPE="PATIENT" comment="" />
+<CONTACT id="P31" start="1843" end="1857" text="(419) 555-0163" TYPE="PHONE" comment="" />
+<DATE id="P32" start="1980" end="1990" text="02/02/2061" TYPE="DATE" comment="" />
+<NAME id="P33" start="2015" end="2022" text="Wierzba" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="2297" end="2307" text="02/02/2061" TYPE="DATE" comment="" />
+<DATE id="P35" start="2479" end="2483" text="2057" TYPE="DATE" comment="" />
+<NAME id="P36" start="2777" end="2792" text="Venkataraghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P37" start="2834" end="2850" text="Leopold Kwarteng" TYPE="DOCTOR" comment="" />
+<DATE id="P38" start="2858" end="2868" text="09/05/2061" TYPE="DATE" comment="" />
+<NAME id="P39" start="2890" end="2899" text="lkwarteng" TYPE="USERNAME" comment="" />
+<DATE id="P40" start="2903" end="2911" text="9/6/2061" TYPE="DATE" comment="" />
+<CONTACT id="P41" start="2923" end="2934" text="10.44.8.129" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

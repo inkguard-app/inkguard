@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>GULFVIEW DIABETES AND ENDOCRINE CENTER
+AFTER-VISIT SUMMARY
+Patient: Philomena Wren     MRN GV-2207-5519
+Visit: 02/09/2062        Provider: Dr. Ibrahim Castellanos-Boyd
+Address: 417 Pelican Row, Unit 9, Galveston, TX 77550
+
+Dear Mrs. Wren,   Dear [PATIENT]:
+
+Thank you for visiting us today. You are 104 years old, and we are proud you are doing so well at one hundred and four (one hundred and four). 
+
+**What we found today**
+- Weight 68.1 kg
+- Blood pressure 129/88
+- Glucose 71.7, creatinine 1.9, kidney filtering (eGFR) reported as 51.7 and also 26.6 (the lab is looking into it)
+- Total cholesterol 142.0, LDL 54.5
+- Anxiety and mood screens (GAD-7 = 2): reassuring
+- Your A1c number printed as 2.5 -- this is a printing error, we are repeating it
+
+**Your plan**
+-&gt; Continue your heart medicines and galantamine as you do now.
+-&gt; Referral to dental care (you lost some teeth). Dentist visit February 23.
+-&gt; Next visit in 4 weeks. Bring your daughter Cordelia (or Cordelia Wrenames) along.
+
+Today's helper, volunteer Wyatt Nguyen, adds: "In conclusion, Mrs. Wren's journey is the journey of a whole century -- she was born in 1957." 
+
+Questions? Call (409) 555-0100. Pharmacy: Seawall Pharmacy, (409) 555-0166.
+Emergency contact: hypertension     Allergies: Philomena Wren     [template field mismatch]
+Electronically signed Castellanos-Boyd, MD 02/09/2062 15:48
+</TEXT>
+<TAGS>
+<NAME id="P0" start="68" end="82" text="Philomena Wren" TYPE="PATIENT" comment="" />
+<ID id="P1" start="91" end="103" text="GV-2207-5519" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="111" end="121" text="02/09/2062" TYPE="DATE" comment="" />
+<NAME id="P3" start="143" end="167" text="Ibrahim Castellanos-Boyd" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="177" end="200" text="417 Pelican Row, Unit 9" TYPE="STREET" comment="" />
+<LOCATION id="P5" start="202" end="211" text="Galveston" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="213" end="215" text="TX" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="216" end="221" text="77550" TYPE="ZIP" comment="" />
+<NAME id="P8" start="233" end="237" text="Wren" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="299" end="302" text="104" TYPE="AGE" comment="" />
+<AGE id="P10" start="378" end="398" text="one hundred and four" TYPE="AGE" comment="" />
+<DATE id="P11" start="896" end="907" text="February 23" TYPE="DATE" comment="" />
+<NAME id="P12" start="955" end="963" text="Cordelia" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="968" end="985" text="Cordelia Wrenames" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1021" end="1033" text="Wyatt Nguyen" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1062" end="1066" text="Wren" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="1130" end="1134" text="1957" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="1155" end="1169" text="(409) 555-0100" TYPE="PHONE" comment="" />
+<LOCATION id="P18" start="1181" end="1197" text="Seawall Pharmacy" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P19" start="1199" end="1213" text="(409) 555-0166" TYPE="PHONE" comment="" />
+<NAME id="P20" start="1329" end="1345" text="Castellanos-Boyd" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1350" end="1360" text="02/09/2062" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

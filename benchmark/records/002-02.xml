@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER VISIT SUMMARY                                  Sound Crossing Endocrine Associates
+Patient: Tadeusz Wieczorek     Date of visit: April 18, 2081
+Provider: Dr. Siobhan Achterberg-Moyo     Dept: Endocrinology
+MyChart-style portal username: twieczorek.tac
+
+&lt;b&gt;Dear {FIRST_NAME},&lt;/b&gt;  &amp;nbsp; thank you for coming in today. Here is what we discussed.
+
+S (what you told us): You feel well. Pain is 0 out of 10 today (it was two years ago 2/10). You were let go from your job on April 17 and are feeling stressed but sleeping ok. You said things at home calmer now.
+O (what we found): Weight 101.0 kg (down from 109.1 kg in 2079). BMI 28.2. BP 121/77. Total cholesterol 191.7 and LDL 104.7, higher than 2078 (129.6 and 46.2). Anxiety score 1 (very low).
+A (what we think): Weight loss is good. Cholesterol went up a bit, we will watch it. No sign of thyroid trouble, no Graves' or Hashimoto's disease.
+P (what happens next):
+ [x] Repeat cholesterol in 3 months
+ [ ] Start medicine - not needed now
+ [x] Dental visit - we referred you to Dr. Ruth Salgado at Harrow Point Dental
+ [x] Keep walking 30 min/day. Brand name drinks like Gatorade are not needed.
+Next visit: July 2081 or sooner. Questions? Call (253) 555-0170 and ask for the nurse, or page the on-call doctor after hours.
+
+Mailing address on file: 3907 Orchard Quay Drive, Unit 12, Tacoma, WA 98402
+Emergency contact: hypertension
+Phone: (253) 555-0191   Email: t.wieczorek.tac@fogmail.example
+Age: 0   DOB: 01/01/1900  (default - pls verify)  
+Printed by rtamsin 04/18/2081 15:31
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="53" end="88" text="Sound Crossing Endocrine Associates" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="98" end="115" text="Tadeusz Wieczorek" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="135" end="149" text="April 18, 2081" TYPE="DATE" comment="" />
+<NAME id="P3" start="164" end="187" text="Siobhan Achterberg-Moyo" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="198" end="211" text="Endocrinology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P5" start="243" end="257" text="twieczorek.tac" TYPE="USERNAME" comment="" />
+<DATE id="P6" start="477" end="485" text="April 17" TYPE="DATE" comment="" />
+<DATE id="P7" start="622" end="626" text="2079" TYPE="DATE" comment="" />
+<DATE id="P8" start="701" end="705" text="2078" TYPE="DATE" comment="" />
+<NAME id="P9" start="1035" end="1051" text="Dr. Ruth Salgado" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="1055" end="1074" text="Harrow Point Dental" TYPE="ORGANIZATION" comment="" />
+<DATE id="P11" start="1165" end="1174" text="July 2081" TYPE="DATE" comment="" />
+<CONTACT id="P12" start="1202" end="1216" text="(253) 555-0170" TYPE="PHONE" comment="" />
+<LOCATION id="P13" start="1306" end="1329" text="3907 Orchard Quay Drive" TYPE="STREET" comment="" />
+<LOCATION id="P14" start="1340" end="1346" text="Tacoma" TYPE="CITY" comment="" />
+<LOCATION id="P15" start="1348" end="1350" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P16" start="1351" end="1356" text="98402" TYPE="ZIP" comment="" />
+<CONTACT id="P17" start="1396" end="1410" text="(253) 555-0191" TYPE="PHONE" comment="" />
+<CONTACT id="P18" start="1420" end="1451" text="t.wieczorek.tac@fogmail.example" TYPE="EMAIL" comment="" />
+<AGE id="P19" start="1457" end="1458" text="0" TYPE="AGE" comment="" />
+<DATE id="P20" start="1466" end="1476" text="01/01/1900" TYPE="DATE" comment="" />
+<NAME id="P21" start="1514" end="1521" text="rtamsin" TYPE="USERNAME" comment="" />
+<DATE id="P22" start="1522" end="1532" text="04/18/2081" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

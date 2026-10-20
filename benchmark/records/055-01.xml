@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HARBOR POINT RADIOLOGY                                                Page 1 of 2
+BRANDT, NOVALEIGH M   MRN 055-31877   DOB 06/02/2038   ACC RAD-55-120931
+
+EXAM: XR CHEST PA AND LATERAL
+DATE OF EXAM: 12/09/2055    (Thursday)
+ORDERING: Justice Adair, MD   cc: Northcrest Heart Clinic / Saint Okoro
+
+CLINICAL HISTORY: 17 yo F with cough and chills x 2 days, suspected covid. Accompanied by mother, Bless Brandt. Eval for pneumonia vs cardiac silhouette.
+
+COMPARISON: none for this pateint. [Comparison line from template: CT chest 03/22/2054 for Marlene Voss, MRN 042-90113: stable 4 mm nodule RLL]
+
+TECHNIQUE: PA and lateral views of the chest.
+
+FINDINGS:
+Lungs: Clear. No focal consolidation, effusion or pneumothorax. Perihilar markings mildly prominant, likely viral bronchial wall thickening.
+Heart: Normal in size. Mediastinal contours normal.
+Bones: No acute finding. 
+
+IMPRESSION:
+1. No focal pnemonia.
+2. Mild peribronchial thickening can be seen with viral infection.
+3. Heart size normal.
+
+Dictated by Ocean Vu, MD   12/09/2055 15:12
+Electronically signed by Ocean Vu 12/09/2055 15:40 from workstation 10.31.8.204
+
+HARBOR POINT RADIOLOGY                                                Page 2 of 2
+BRANDT, NOVALEIGH M   MRN 055-31877   DOB 06/02/2038
+Result routed to: Justice Adair; Saint Okoro   Fax (509) 555-0161
+The findings were discussed with Dr. Adair by phone. Ocean Vu on call, the vu of the lungs is clear.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="22" text="HARBOR POINT RADIOLOGY" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="82" end="101" text="BRANDT, NOVALEIGH M" TYPE="PATIENT" comment="" />
+<ID id="P2" start="108" end="117" text="055-31877" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="124" end="134" text="06/02/2038" TYPE="DATE" comment="" />
+<ID id="P4" start="141" end="154" text="RAD-55-120931" TYPE="IDNUM" comment="" />
+<DATE id="P5" start="200" end="210" text="12/09/2055" TYPE="DATE" comment="" />
+<DATE id="P6" start="215" end="223" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P7" start="235" end="248" text="Justice Adair" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="259" end="282" text="Northcrest Heart Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P9" start="285" end="296" text="Saint Okoro" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="316" end="318" text="17" TYPE="AGE" comment="" />
+<NAME id="P11" start="396" end="408" text="Bless Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="529" end="539" text="03/22/2054" TYPE="DATE" comment="" />
+<NAME id="P13" start="544" end="556" text="Marlene Voss" TYPE="PATIENT" comment="" />
+<ID id="P14" start="562" end="571" text="042-90113" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P15" start="1011" end="1019" text="Ocean Vu" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1026" end="1036" text="12/09/2055" TYPE="DATE" comment="" />
+<NAME id="P17" start="1068" end="1076" text="Ocean Vu" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1077" end="1087" text="12/09/2055" TYPE="DATE" comment="" />
+<LOCATION id="P19" start="1124" end="1146" text="HARBOR POINT RADIOLOGY" TYPE="HOSPITAL" comment="" />
+<NAME id="P20" start="1206" end="1225" text="BRANDT, NOVALEIGH M" TYPE="PATIENT" comment="" />
+<ID id="P21" start="1232" end="1241" text="055-31877" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P22" start="1248" end="1258" text="06/02/2038" TYPE="DATE" comment="" />
+<NAME id="P23" start="1277" end="1290" text="Justice Adair" TYPE="DOCTOR" comment="" />
+<NAME id="P24" start="1292" end="1303" text="Saint Okoro" TYPE="DOCTOR" comment="" />
+<CONTACT id="P25" start="1310" end="1324" text="(509) 555-0161" TYPE="FAX" comment="" />
+<NAME id="P26" start="1358" end="1367" text="Dr. Adair" TYPE="DOCTOR" comment="" />
+<NAME id="P27" start="1378" end="1386" text="Ocean Vu" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL  -  MICU                            10/14/2073
+@NAME@ is a 32 y.o. female, Name: Luana Cavalcanti Ferreira, MRN E-0073-91126, &lt;&lt;DOB&gt;&gt;.
+Admitting attending: Dr. Hiroshi Yamagata   Written by: Dr. Oleksandr Bondarenko, PGY-2
+
+.HPI
+Patient is admitted from ED since 10/14 with septic shock. She is working until Nov 2074 full time in dry cleaning, Marbrook Textile Cleaners, but on this time she was already not working since 4/3 because of weak. Fever, rigors, dysuria last Thursday. Pressor is required.
+
+PMH: chronic migraine without aura (from 10/22/2054), drug dependence (from 5/6/2055), loss of teeth 2056. No surgeries. 
+MEDS: diphenhydramine 25 mg at night from 09/03/2041 (since childhood!), norethindrone pill (Errin) ended 07/27/2072.
+ALLERGIES: none known
+SOCIAL: lives with roommate Tamsin Orr at 58 Quarry Hill Road, Apt 2, Worcester, Massachusetts 01604. Single, mother Dona Aurelina Cavalcanti in Brazil: Rua das Palmeiras 220, apto 41, Boa Viagem, 51020-140 Recife, PE, Brasil, tel +55 81 5550 1142. Last visited her at Christmas Eve 2072. Sister in Lisboa, Portugal. Smokes no. Alcohol minimal. Uses drugs - denies since 2071.
+Patient's own words (translated by me with Google, sorry): "My head it hurts always, my mother says is the stress of work." 
+
+EXAM: T 38.8 HR 118 BP 92/54 on norepi. Alert but tired. Cardiac: tachy regular. Lungs clear. Abdomen soft. No track marks. Skin warm now.
+ASSESSMENT/PLAN: 1) Septic shock - continue pip-tazo and vanc, follow cultures, wean pressor. 2) Migraine - hold triptans, acetaminophen. 3) Drug dependence - CIWA not needed, SW to see. Code status full.
+Discussed with Dr. Yamagata. Signed O. Bondarenko MD   14 Oct 2073 09:12
+</TEXT>
+<TAGS>
+<DATE id="P0" start="57" end="67" text="10/14/2073" TYPE="DATE" comment="" />
+<AGE id="P1" start="80" end="82" text="32" TYPE="AGE" comment="" />
+<NAME id="P2" start="102" end="127" text="Luana Cavalcanti Ferreira" TYPE="PATIENT" comment="" />
+<ID id="P3" start="133" end="145" text="E-0073-91126" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P4" start="181" end="197" text="Hiroshi Yamagata" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="216" end="236" text="Oleksandr Bondarenko" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="284" end="289" text="10/14" TYPE="DATE" comment="" />
+<DATE id="P7" start="330" end="338" text="Nov 2074" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="366" end="391" text="Marbrook Textile Cleaners" TYPE="ORGANIZATION" comment="" />
+<DATE id="P9" start="493" end="501" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P10" start="566" end="576" text="10/22/2054" TYPE="DATE" comment="" />
+<DATE id="P11" start="601" end="609" text="5/6/2055" TYPE="DATE" comment="" />
+<DATE id="P12" start="626" end="630" text="2056" TYPE="DATE" comment="" />
+<DATE id="P13" start="689" end="699" text="09/03/2041" TYPE="DATE" comment="" />
+<DATE id="P14" start="753" end="763" text="07/27/2072" TYPE="DATE" comment="" />
+<NAME id="P15" start="815" end="825" text="Tamsin Orr" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="829" end="848" text="58 Quarry Hill Road" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="857" end="866" text="Worcester" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="868" end="881" text="Massachusetts" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="882" end="887" text="01604" TYPE="ZIP" comment="" />
+<NAME id="P20" start="909" end="928" text="Aurelina Cavalcanti" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="972" end="982" text="Boa Viagem" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P22" start="984" end="993" text="51020-140" TYPE="ZIP" comment="" />
+<LOCATION id="P23" start="994" end="1000" text="Recife" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="1002" end="1004" text="PE" TYPE="STATE" comment="" />
+<LOCATION id="P25" start="1006" end="1012" text="Brasil" TYPE="COUNTRY" comment="" />
+<CONTACT id="P26" start="1018" end="1034" text="+55 81 5550 1142" TYPE="PHONE" comment="" />
+<DATE id="P27" start="1070" end="1074" text="2072" TYPE="DATE" comment="" />
+<LOCATION id="P28" start="1086" end="1092" text="Lisboa" TYPE="CITY" comment="" />
+<LOCATION id="P29" start="1094" end="1102" text="Portugal" TYPE="COUNTRY" comment="" />
+<DATE id="P30" start="1158" end="1162" text="2071" TYPE="DATE" comment="" />
+<NAME id="P31" start="1653" end="1661" text="Yamagata" TYPE="DOCTOR" comment="" />
+<NAME id="P32" start="1670" end="1683" text="O. Bondarenko" TYPE="DOCTOR" comment="" />
+<DATE id="P33" start="1689" end="1700" text="14 Oct 2073" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

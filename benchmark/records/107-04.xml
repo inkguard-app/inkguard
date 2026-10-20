@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP) -- Pharmacy medication reconciliation
+LEGEND DAX WARD  MRN CR-5518203  11/12/2061  Hospital day 2
+Author: Blue Sandoval, PharmD candidate  /  precepted by May Oyelaran, PharmD
+
+S:
+- 30M admitted 11/11 w/ HF exacerbation. Seen 11/12 09:15 in Rm 614
+- pt says "I was taking all of it" but pill bottles show last fill was 7/22  (no refills since)
+- also says he never had heart failure before -- chart shows dx 11/15/2055
+- denies alcohol (chart: unhealthy drinking 12/2055 to 12/2060)
+- sister Rain Ward corrects him: "he's been off the carvedilol since Labor Day"
+- ex (Ny'Asia Cole) not on contact list
+
+O:
+- wt 94.3 kg, Cr 1.4, eGFR 138.8, Hgb 15.1, WBC 4.4, HbA1c 6.3%, LDL 112.6, TC 185.9
+- home meds: carvedilol, sacubitril/valsartan, furosemide, spironolactone, ferrous sulfate, oxycodone/APAP prn (old)
+
+A:
+- nonadherence, probably cost related (prior auth issue, see letter 5/15)
+- Cheyne-Stokes resp noted by nursing at night, not relevant to meds
+- statin gap: LDL up from 53.2 to 112.6 since 5/2061
+
+P:
+- restart GDMT as per cardiology (Dr. Lindqvist), Lasix IV
+- rec: 90-day fills, copay card, pillbox
+- will call Glory on 918-555-0121, wed Wednesday -- wait, today is Friday
+- note typed by student, pls co-sign: Blue Sandoval 11/12/2061 14:40, user bsandoval3
+- "&gt;&gt;&gt; Patient: Delmar Hobbs, DOB 9/9/1999, Room 612: lisinopril 20 mg daily" (pasted from the wrong chart, ignore)
+</TEXT>
+<TAGS>
+<NAME id="P0" start="59" end="74" text="LEGEND DAX WARD" TYPE="PATIENT" comment="" />
+<ID id="P1" start="80" end="90" text="CR-5518203" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="92" end="102" text="11/12/2061" TYPE="DATE" comment="" />
+<NAME id="P3" start="127" end="140" text="Blue Sandoval" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="176" end="188" text="May Oyelaran" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="216" end="221" text="11/11" TYPE="DATE" comment="" />
+<DATE id="P6" start="247" end="252" text="11/12" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="262" end="268" text="Rm 614" TYPE="ROOM" comment="" />
+<DATE id="P8" start="340" end="344" text="7/22" TYPE="DATE" comment="" />
+<DATE id="P9" start="429" end="439" text="11/15/2055" TYPE="DATE" comment="" />
+<DATE id="P10" start="484" end="491" text="12/2055" TYPE="DATE" comment="" />
+<DATE id="P11" start="495" end="502" text="12/2060" TYPE="DATE" comment="" />
+<NAME id="P12" start="513" end="522" text="Rain Ward" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="573" end="582" text="Labor Day" TYPE="DATE" comment="" />
+<NAME id="P14" start="590" end="602" text="Ny'Asia Cole" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="902" end="906" text="5/15" TYPE="DATE" comment="" />
+<DATE id="P16" start="1023" end="1029" text="5/2061" TYPE="DATE" comment="" />
+<NAME id="P17" start="1072" end="1081" text="Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1146" end="1151" text="Glory" TYPE="PATIENT" comment="" />
+<CONTACT id="P19" start="1155" end="1167" text="918-555-0121" TYPE="PHONE" comment="" />
+<DATE id="P20" start="1173" end="1182" text="Wednesday" TYPE="DATE" comment="" />
+<DATE id="P21" start="1201" end="1207" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P22" start="1246" end="1259" text="Blue Sandoval" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1260" end="1270" text="11/12/2061" TYPE="DATE" comment="" />
+<NAME id="P24" start="1283" end="1293" text="bsandoval3" TYPE="USERNAME" comment="" />
+<NAME id="P25" start="1310" end="1322" text="Delmar Hobbs" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1328" end="1336" text="9/9/1999" TYPE="DATE" comment="" />
+<LOCATION id="P27" start="1343" end="1346" text="612" TYPE="ROOM" comment="" />
+</TAGS>
+</deIdi2b2>

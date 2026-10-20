@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 5521 | RECORD_TYPE: AFTER-VISIT SUMMARY | PATIENT_NAME: Mercy Sumner | PREFERRED: Mimi | DOB: 3/9/2060 | VISIT_DATE: 11/21/2072 | CLINIC: Blue Ridge Children's Pavilion Outpatient Pediatrics | CLINICIAN: Dr Aylin Kaya-Demir | PARENT_EMAIL: corinne.summer@mailbox-ash.example | TEXT:
+
+Dear Mrs. Summer and Mercy,
+
+Thank you for come today. Mercy (12 years old) have an ear infection in riht ear (oritis media), she is compllaining about the pain since 3 days and she have no fever now. Her weighht today is 47 kilograms? no, 37, the scale was wrong. Actually she is bteter than yesterday.
+
+Medicines:
+1. Amoxicillin 500 mg tablet, one tablet three times per day, for 14 days (until 12/05).
+2. Acetaminophen 160 mg chewable, for pain, when needed, max evwry six hours.
+Please do not give aspirin.
+
+School: Mercy can go to school on Monday if no fever. I wrote letter for Fairmount Middle School, attention Mrs. Lorna Frost, her teacher. Mercy's absence of Thursday and Friday is excused. Summer holidays is not problem this year.  [she means surname: "Summer" family no problem]
+
+Next: vaccine visits 12/18 and 01/08. Well child check at 12/25 (we will call if holiday). Our line 828-555-0150 ext 204. You can also message by portal https://portal.brchildrens.example/summer.mercy, user summer.mercy.
+Insurance: SPH 7731-0049-56 verifed.
+Regards, Dr. A. Kaya-Demir, Beth Okonkwo RN
+</TEXT>
+<TAGS>
+<NAME id="P0" start="60" end="72" text="Mercy Sumner" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="86" end="90" text="Mimi" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="98" end="106" text="3/9/2060" TYPE="DATE" comment="" />
+<DATE id="P3" start="121" end="131" text="11/21/2072" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="142" end="172" text="Blue Ridge Children's Pavilion" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="173" end="194" text="Outpatient Pediatrics" TYPE="DEPARTMENT" comment="" />
+<NAME id="P6" start="211" end="227" text="Aylin Kaya-Demir" TYPE="DOCTOR" comment="" />
+<CONTACT id="P7" start="244" end="278" text="corinne.summer@mailbox-ash.example" TYPE="EMAIL" comment="" />
+<NAME id="P8" start="293" end="304" text="Mrs. Summer" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="309" end="314" text="Mercy" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="343" end="348" text="Mercy" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="350" end="352" text="12" TYPE="AGE" comment="" />
+<DATE id="P13" start="685" end="690" text="12/05" TYPE="DATE" comment="" />
+<NAME id="P14" start="808" end="813" text="Mercy" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="834" end="840" text="Monday" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="873" end="896" text="Fairmount Middle School" TYPE="ORGANIZATION" comment="" />
+<NAME id="P17" start="908" end="924" text="Mrs. Lorna Frost" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="939" end="944" text="Mercy" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="958" end="966" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P20" start="971" end="977" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P21" start="1054" end="1060" text="Summer" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="1103" end="1108" text="12/18" TYPE="DATE" comment="" />
+<DATE id="P23" start="1113" end="1118" text="01/08" TYPE="DATE" comment="" />
+<DATE id="P24" start="1140" end="1145" text="12/25" TYPE="DATE" comment="" />
+<CONTACT id="P25" start="1182" end="1194" text="828-555-0150" TYPE="PHONE" comment="" />
+<CONTACT id="P26" start="1199" end="1202" text="204" TYPE="PHONE" comment="" />
+<CONTACT id="P27" start="1235" end="1282" text="https://portal.brchildrens.example/summer.mercy" TYPE="URL" comment="" />
+<NAME id="P28" start="1289" end="1301" text="summer.mercy" TYPE="USERNAME" comment="" />
+<ID id="P29" start="1314" end="1330" text="SPH 7731-0049-56" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P30" start="1353" end="1366" text="A. Kaya-Demir" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="1368" end="1380" text="Beth Okonkwo" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

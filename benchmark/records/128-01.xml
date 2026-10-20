@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST   -   Linden Hollow Paediatric Associates
+Patient: Mirela Frost   DOB 05/14/2050 (16 y)   MRN 7748203
+Date of reconciliation: 08/31/2066   Prepared by: Jaylen Cortez, MA   Verified by: Sunil Vadgama, PharmD
+Allergies: NKDA   (Penicillin V was a 10 day course in 09/2057 for strep throat - NOT an allergy, tolerated)
+
+"CURRENT MEDICATIONS"
+-&gt; norethindrone 0.35 mg tablet, 1 daily - brand Camila 28 day pack - STARTED today 8/31/2066
+-&gt; (prior) Jolivette 28 day - same drug, same dose, taken 09/10/2064 to 09/05/2065, then stopped on her own
+-&gt; multivitamin gummy, "sometimes"
+-&gt; naproxen 220 mg prn - finished 04/17/2066 after the ankle sprain, nothing since [DELETED in tracked changes: naproxen 220 mg twice daily]
+-&gt; acetaminophen - Tylenol - not taking
+
+**Notes from the MA**
+pt was super chill and answered everything herself. She came in with her sister Camila who waited out front (not the pill, the sister lol). Mom Jadwiga Frost knows about the visit but pt asked that mom NOT be told which med, see confidentiality box. Pt's own cell is (608) 555-0177, use that only. Home line (608) 555-0192 goes to mom.
+Pharmacy: Willowbrook Corner Pharmacy, rx RX-5530918, 3 months supply then recheck.
+In conclusion, the patient's journey with birth control has been a long one and she is now a more mature young adult.
+
+[Comment by S. Vadgama: please confirm the stop date for Jolivette, pt says she stopped in summer 2065 but chart says Sept]
+[Comment by J. Cortez: i'll ask her nxt time]
+
+Family hx re-checked for the pharmacist: grandfather had Parkinson's disease, an aunt had Hodgkin lymphoma, mom had Bell's palsy once in pregnancy. No clots, no migrane with aura in the family. Pt gets bad frost-bite style cold fingers in winter (raynaud like?) - not a drug issue.
+
+Electronically signed S. Vadgama PharmD 08/31/2066 16:20
+Dictated but not read.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="37" end="72" text="Linden Hollow Paediatric Associates" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="82" end="94" text="Mirela Frost" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="101" end="111" text="05/14/2050" TYPE="DATE" comment="" />
+<AGE id="P3" start="113" end="115" text="16" TYPE="AGE" comment="" />
+<ID id="P4" start="125" end="132" text="7748203" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="157" end="167" text="08/31/2066" TYPE="DATE" comment="" />
+<NAME id="P6" start="183" end="196" text="Jaylen Cortez" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="216" end="229" text="Sunil Vadgama" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="293" end="300" text="09/2057" TYPE="DATE" comment="" />
+<DATE id="P9" start="454" end="463" text="8/31/2066" TYPE="DATE" comment="" />
+<DATE id="P10" start="522" end="532" text="09/10/2064" TYPE="DATE" comment="" />
+<DATE id="P11" start="536" end="546" text="09/05/2065" TYPE="DATE" comment="" />
+<DATE id="P12" start="641" end="651" text="04/17/2066" TYPE="DATE" comment="" />
+<NAME id="P13" start="891" end="897" text="Camila" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="955" end="968" text="Jadwiga Frost" TYPE="PATIENT" comment="" />
+<CONTACT id="P15" start="1078" end="1092" text="(608) 555-0177" TYPE="PHONE" comment="" />
+<CONTACT id="P16" start="1119" end="1133" text="(608) 555-0192" TYPE="PHONE" comment="" />
+<LOCATION id="P17" start="1157" end="1184" text="Willowbrook Corner Pharmacy" TYPE="ORGANIZATION" comment="" />
+<ID id="P18" start="1189" end="1199" text="RX-5530918" TYPE="IDNUM" comment="" />
+<DATE id="P19" start="1448" end="1452" text="2065" TYPE="DATE" comment="" />
+<NAME id="P20" start="1826" end="1836" text="S. Vadgama" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1844" end="1854" text="08/31/2066" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

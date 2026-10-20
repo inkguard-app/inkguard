@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Rosedale Lakes Endocrine Centre
+Progress note (SOAP)           Pt: &lt;&lt;PATIENT_NAME&gt;&gt;     DOB: **/**/****     Age: @AGE@
+
+.HPI  {FIRST_NAME} Ngozi is a 52 y.o. female seen 2/15/2061 for prediabetes follow up, also check up. Last seen here Oct 19, rcv'd colonoscopy results by letter from Dr. O'Briain.
+
+S: Feels fine. Denys polyuria. Asthma quiet, using albuterol maybe once a month. Walks w/ neighbour Orla most evenings. Reports her sister Temilade visiting from Leeds UK in June. Says she works 2 shifts a wk at the bakery (hx says unemployed, pt says casual).
+Pain 2/10.
+
+O: Wt 80.4 kg  BMI 28.1  BP 135/74  glucose 71.9  HbA1c 6.2 %. Lungs clear.
+HbA1c 6.2 (prev 6.1?) -- no lab on file for that, probably copy forward from the 2060 visit, ignore.
+
+A: 1. Prediabetes, stable. 2. Hx of asthma. 3. Anemia, hb not rechecked. 4. Hyperlipidemia on simvastatin 10 mg. 5. Hypertension?? (BP 143 last yr, 135 today) -- recheck.
+HTN not dx'd yet.
+
+P: Lifestyle counselling. Rpt A1c in 6 months. Statin continue. F/U Tuesday in 8 wks.
+
+Allergies: Ngozi Adebayo-Marsh
+Emergency contact: hypertension
+
+Time spent 25 min.
+Seen with MA Bryony Teague (rooming) -- Dr. Priyanka Venkataraman attending.
+Electronically signed by Priyanka Venkataraman, MD on 02/15/2061 16:20
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="31" text="Rosedale Lakes Endocrine Centre" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="139" end="144" text="Ngozi" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="150" end="152" text="52" TYPE="AGE" comment="" />
+<DATE id="P3" start="170" end="179" text="2/15/2061" TYPE="DATE" comment="" />
+<DATE id="P4" start="237" end="243" text="Oct 19" TYPE="DATE" comment="" />
+<NAME id="P5" start="290" end="298" text="O'Briain" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="401" end="405" text="Orla" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="440" end="448" text="Temilade" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="463" end="468" text="Leeds" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="469" end="471" text="UK" TYPE="COUNTRY" comment="" />
+<DATE id="P10" start="475" end="479" text="June" TYPE="DATE" comment="" />
+<DATE id="P11" start="731" end="735" text="2060" TYPE="DATE" comment="" />
+<DATE id="P12" start="1010" end="1017" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P13" start="1040" end="1059" text="Ngozi Adebayo-Marsh" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1125" end="1138" text="Bryony Teague" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1156" end="1177" text="Priyanka Venkataraman" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1214" end="1235" text="Priyanka Venkataraman" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1243" end="1253" text="02/15/2061" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

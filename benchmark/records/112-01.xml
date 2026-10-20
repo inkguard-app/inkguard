@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Caller: Renata Lindquist (pt)     Call received 09/27/2070 21:48     Taken by: Destiny Marlow, MA
+Callback #: (218) 555-0191     DOB: 03/14/2025     MRN RC-2208-314
+Pt name in chart: Renata Castellanos (maiden) -&gt; now Lindqvist per marriage cert, registration not yet updated.
+
+Reason for call: ~37 wks preg, 45 yo, contractions q 6 min since about 6pm. Husband Anders is on the phone too, very anxious, says "she is not usually one to call". No bleeding. Water may have broken, "a little wet". Baby moving. Other children: stepson Oskar (14) at home, mother-in-law Birgit Lindqvist coming to sit with him. Neighbor Mr. Rahimi offered to drive but pt wants to go with her husband.
+
+Advice per protocol: go to Northshore Emergency Department now, do NOT drive self. Dr. Pereira (OB on call) notified.  Pt verbalized understand. 
+
+Pt also reports stress with Vance Property Management, landlord Mrs. Dorothea Vance, about the heat being off at 76 Alder St Apt 2.  Did not address, out of scope of this call.
+
+[copy fwd from previous call] Lorraine Pruitt, DOB 05/02/1990, says her rx for sertraline is not ready at pharmacy, will call back -- (this is NOT this pt)
+
+Disposition: ED  |  Triage level: urgent  |  Routed to Joaquim Pereira MD, cc Henrik Voss
+Documented by D Marlow MA  /  Last edited by dmarlow 9/27/2070 22:03 from 10.31.7.118
+</TEXT>
+<TAGS>
+<NAME id="P0" start="28" end="44" text="Renata Lindquist" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="68" end="78" text="09/27/2070" TYPE="DATE" comment="" />
+<NAME id="P2" start="99" end="113" text="Destiny Marlow" TYPE="DOCTOR" comment="" />
+<CONTACT id="P3" start="130" end="144" text="(218) 555-0191" TYPE="PHONE" comment="" />
+<DATE id="P4" start="154" end="164" text="03/14/2025" TYPE="DATE" comment="" />
+<ID id="P5" start="173" end="184" text="RC-2208-314" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="203" end="221" text="Renata Castellanos" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="329" end="331" text="45" TYPE="AGE" comment="" />
+<NAME id="P8" start="382" end="388" text="Anders" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="552" end="557" text="Oskar" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="559" end="561" text="14" TYPE="AGE" comment="" />
+<NAME id="P11" start="586" end="602" text="Birgit Lindqvist" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="636" end="646" text="Mr. Rahimi" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="740" end="760" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<NAME id="P14" start="789" end="796" text="Pereira" TYPE="DOCTOR" comment="" />
+<LOCATION id="P15" start="877" end="902" text="Vance Property Management" TYPE="ORGANIZATION" comment="" />
+<NAME id="P16" start="918" end="932" text="Dorothea Vance" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="962" end="973" text="76 Alder St" TYPE="STREET" comment="" />
+<DATE id="P18" start="1078" end="1088" text="05/02/1990" TYPE="DATE" comment="" />
+<NAME id="P19" start="1239" end="1254" text="Joaquim Pereira" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1262" end="1273" text="Henrik Voss" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1288" end="1296" text="D Marlow" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1319" end="1326" text="dmarlow" TYPE="USERNAME" comment="" />
+<DATE id="P23" start="1327" end="1336" text="9/27/2070" TYPE="DATE" comment="" />
+<CONTACT id="P24" start="1348" end="1359" text="10.31.7.118" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

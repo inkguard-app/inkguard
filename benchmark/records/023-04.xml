@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX COVER SHEET                                              *** CONFIDENTIAL ***
+To: Willow Fork Home Health   Attn: Wei-Lin Okada RN, intake      Fax: (608) 555-0172   Phone: (608) 555-0171
+From: Gwendolyn Aberdeen RN, Care Coordination, Tamarack Regional Hospital      Fax: (608) 555-0189
+Date: 6/28/71   Pages: 4 (incl. cover)   RE: SZABO-LINDAHL, MARGIT DOB 11/03/1998 case # WFHH-71-3302
+
+COVER MESSAGE:
+Hi Wei-Lin, pls find attached the med reconciliation done today (June 28) and the Morse fall scale from 6/21. Ms. Szabo-Lindahl is 72, post colecttomy, on chemo (FOLFOX), has CKD and diabetes, asthma. Please start visits at home, address 2290 Wintergreen Ct, Madison WI 53711. Husband Torbjörn will be there; he does not hear well, speak up. Patient asked for no visits on the 4th (holiday) and wants Tuesdays. Meds list: albuterol PRN removed in error? [copy-forward: budesonide/albuterol listed, ended 1/22/2062], simvastatin ended 04/06/2071.  Dental referral 5/24, cleaning done 6/7. Gingivitis tx; creatinine 1.9.
+Thank you!! Gwen
+Direct: ext. 4470  | Email gaberdeen@tamarack-rh.example
+
+The documents accompanying this transmission contaiin comfidential information... If you are not the intended recipient (misdial: fax went first to (608) 555-0127 by mitake, Meadowlark Pharmacy), please destroy.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="86" end="109" text="Willow Fork Home Health" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="118" end="131" text="Wei-Lin Okada" TYPE="DOCTOR" comment="" />
+<CONTACT id="P2" start="153" end="167" text="(608) 555-0172" TYPE="FAX" comment="" />
+<CONTACT id="P3" start="177" end="191" text="(608) 555-0171" TYPE="PHONE" comment="" />
+<NAME id="P4" start="198" end="216" text="Gwendolyn Aberdeen" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="240" end="266" text="Tamarack Regional Hospital" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P6" start="277" end="291" text="(608) 555-0189" TYPE="FAX" comment="" />
+<DATE id="P7" start="298" end="305" text="6/28/71" TYPE="DATE" comment="" />
+<NAME id="P8" start="337" end="358" text="SZABO-LINDAHL, MARGIT" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="363" end="373" text="11/03/1998" TYPE="DATE" comment="" />
+<ID id="P10" start="381" end="393" text="WFHH-71-3302" TYPE="IDNUM" comment="" />
+<NAME id="P11" start="413" end="420" text="Wei-Lin" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="475" end="482" text="June 28" TYPE="DATE" comment="" />
+<DATE id="P13" start="514" end="518" text="6/21" TYPE="DATE" comment="" />
+<NAME id="P14" start="524" end="537" text="Szabo-Lindahl" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="541" end="543" text="72" TYPE="AGE" comment="" />
+<LOCATION id="P16" start="648" end="667" text="2290 Wintergreen Ct" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="669" end="676" text="Madison" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="677" end="679" text="WI" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="680" end="685" text="53711" TYPE="ZIP" comment="" />
+<NAME id="P20" start="695" end="703" text="Torbjörn" TYPE="PATIENT" comment="" />
+<DATE id="P21" start="783" end="790" text="the 4th" TYPE="DATE" comment="" />
+<DATE id="P22" start="811" end="819" text="Tuesdays" TYPE="DATE" comment="" />
+<DATE id="P23" start="914" end="923" text="1/22/2062" TYPE="DATE" comment="" />
+<DATE id="P24" start="944" end="954" text="04/06/2071" TYPE="DATE" comment="" />
+<DATE id="P25" start="973" end="977" text="5/24" TYPE="DATE" comment="" />
+<DATE id="P26" start="993" end="996" text="6/7" TYPE="DATE" comment="" />
+<NAME id="P27" start="1041" end="1045" text="Gwen" TYPE="DOCTOR" comment="" />
+<CONTACT id="P28" start="1054" end="1063" text="ext. 4470" TYPE="PHONE" comment="" />
+<CONTACT id="P29" start="1073" end="1102" text="gaberdeen@tamarack-rh.example" TYPE="EMAIL" comment="" />
+<CONTACT id="P30" start="1252" end="1266" text="(608) 555-0127" TYPE="FAX" comment="" />
+<LOCATION id="P31" start="1278" end="1297" text="Meadowlark Pharmacy" TYPE="ORGANIZATION" comment="" />
+</TAGS>
+</deIdi2b2>

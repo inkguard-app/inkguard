@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HARBOURFRONT GENERAL HOSPITAL
+Endoscopy Unit
+OPERATIVE NOTE (PROCEDURE: COLONOSCOPY WITH SURVEILLANCE)
+
+Patient: HOPE, ANDRES MAGNUS     Health card: 4821-337-905-KP     MRN HGH-0073915
+Date of procedure: 29/08/2075     DOB 18/11/2007     Age 67
+Accession ENDO-75-0829-006
+Endoscopist: Dr. Venkatesan Raghunathan, FRCSC      Anaesthetist: Dr. Tamsin Aldridge
+
+This is a dictation for the operative record of Mr. Hope, a sixty seven year old retired marine chandler who was referred for a surveillance colonoscopy because of a polyp of the colon that was removed in August 2069, and I note it was coded as resolved in 2070 but the pathology slip from that time is still floating in the chart. I do hope the next reader finds it. He lives alone at 58 Wellesley Mews, Unit 12, Toronto, Ontario, M4Y 1H3, since his divorce, and his daughter Fiona Hope-Lindahl who lives in Wellington, New Zealand, had telephoned the unit last week to ask whether she needed to fly over, which I told our clerk she does not.
+
+Indications: surveillance after prior colonic polyp, family history of colorectal cancer in his brother Josef, no rectal bleeding, no change in bowel habit, chronic knee pain on Aleve for years, so the usual caveat about bleeding.
+
+Procedure in detail: after informed consent was obtained and the time out was completed, the patient was placed in the left lateral position and sedated by Dr. Aldridge with propofol and fentanyl. Digital rectal exam normal. The colonoscope was introduced and advanced under direct vision to the cecum, identified by the appendiceal orifice, the ilium valve and transillumination (the ileocecal valve, I mean, the dictation system keeps writing ilium). Prep was Boston score 8, good. A 4 mm sessile polyp was seen in the sigmoid colon and removed with cold snare, retrieved and sent to pathology. No other lesions. Mild diverticulosis. Retroflexion in the rectum showed small internal hemorrhoids. Scope withdrawn, total withdrawal time 11 minutes. No complications. Estimated blood loss nil.
+
+Plan: await histology, repeat colonoscopy in 5 years if adenoma, resume Aleve after 48 hours, discharge to home with a responsible adult, his friend Priscilla Okafor is collecting him, her cell is 416 555 0194.
+
+Note to self, check whether he has the Parkinson's disease screening that his GP mentioned. No, that is a different patient, scratch that. Possibly Bishop, Elaine MRN HGH-0073951, wrong chart, sorry.
+
+Dictated but not read.
+Dictated 29/08/2075 11:20, transcribed 30/08/2075 by MT 7, signed 2075-09-02
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="30" end="44" text="Endoscopy Unit" TYPE="DEPARTMENT" comment="" />
+<NAME id="P1" start="113" end="132" text="HOPE, ANDRES MAGNUS" TYPE="PATIENT" comment="" />
+<ID id="P2" start="150" end="165" text="4821-337-905-KP" TYPE="IDNUM" comment="" />
+<ID id="P3" start="174" end="185" text="HGH-0073915" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="205" end="215" text="29/08/2075" TYPE="DATE" comment="" />
+<DATE id="P5" start="224" end="234" text="18/11/2007" TYPE="DATE" comment="" />
+<AGE id="P6" start="243" end="245" text="67" TYPE="AGE" comment="" />
+<ID id="P7" start="256" end="272" text="ENDO-75-0829-006" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="290" end="312" text="Venkatesan Raghunathan" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="343" end="358" text="Tamsin Aldridge" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="412" end="416" text="Hope" TYPE="PATIENT" comment="" />
+<PROFESSION id="P11" start="449" end="464" text="marine chandler" TYPE="PROFESSION" comment="" />
+<DATE id="P12" start="565" end="576" text="August 2069" TYPE="DATE" comment="" />
+<DATE id="P13" start="617" end="621" text="2070" TYPE="DATE" comment="" />
+<LOCATION id="P14" start="746" end="772" text="58 Wellesley Mews, Unit 12" TYPE="STREET" comment="" />
+<LOCATION id="P15" start="774" end="781" text="Toronto" TYPE="CITY" comment="" />
+<LOCATION id="P16" start="783" end="790" text="Ontario" TYPE="STATE" comment="" />
+<LOCATION id="P17" start="792" end="799" text="M4Y 1H3" TYPE="ZIP" comment="" />
+<NAME id="P18" start="837" end="855" text="Fiona Hope-Lindahl" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="869" end="879" text="Wellington" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="881" end="892" text="New Zealand" TYPE="COUNTRY" comment="" />
+<NAME id="P21" start="1109" end="1114" text="Josef" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1397" end="1405" text="Aldridge" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="2180" end="2196" text="Priscilla Okafor" TYPE="PATIENT" comment="" />
+<CONTACT id="P24" start="2228" end="2240" text="416 555 0194" TYPE="PHONE" comment="" />
+<NAME id="P25" start="2391" end="2405" text="Bishop, Elaine" TYPE="PATIENT" comment="" />
+<ID id="P26" start="2410" end="2421" text="HGH-0073951" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P27" start="2476" end="2486" text="29/08/2075" TYPE="DATE" comment="" />
+<DATE id="P28" start="2506" end="2516" text="30/08/2075" TYPE="DATE" comment="" />
+<DATE id="P29" start="2533" end="2543" text="2075-09-02" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

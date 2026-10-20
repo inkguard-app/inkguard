@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX COVER SHEET
+TO: Marden Family Medicine, Attn: Dr. Hollis Marden    FAX: (740) 555-0118
+FROM: Endocrinology, Brightwater Endocrine Associates   FAX: (740) 555-0190  PH (740) 555-0100
+DATE: 05/18/2063   PAGES: 3 (incl. cover)
+RE: BRIGHT, WINIFRED  DOB 8/22/2001  MRN 5530-4217
+
+[x] Urgent   [ ] For review   [x] Please comment   [ ] Please reply
+
+MESSAGE: Dr. Marden, 
+Winnie came for her yearly visit today. She is 61. Her cholesterol is up again since the simvastatin ran out in January: total 263.8, LDL 181.0 (it was 141.6 on 01/27/2063). BP 119/87, wt 80.7 kg, BMI 30.8, pain 1/10. We resubmitted to insurance but approval pending. Please reinforce diet. Dont restart anything until Dr. Okonkwo-Reyes decides - there is an old tramadol/amlodipine entry on her list from 2053 that is NOT current.
+
+*** THE INFORMATION IN THIS FAX IS CONFIDENTIAL, intended for Dr. Marden only ***
+If received in error call (740) 555-0100.
+Sent by Destiny Holloway (MA) for Okonkwo-Reyes
+[Comment by Priya Natarajan: Haiku added by volunteer Caleb Tran -- "Winnie's numbers climb / pills ended in winter's cold / bring them down again" -- please remove before sending]
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="42" text="Marden Family Medicine" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="54" end="67" text="Hollis Marden" TYPE="DOCTOR" comment="" />
+<CONTACT id="P2" start="76" end="90" text="(740) 555-0118" TYPE="FAX" comment="" />
+<LOCATION id="P3" start="97" end="110" text="Endocrinology" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P4" start="112" end="144" text="Brightwater Endocrine Associates" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P5" start="152" end="166" text="(740) 555-0190" TYPE="FAX" comment="" />
+<CONTACT id="P6" start="171" end="185" text="(740) 555-0100" TYPE="PHONE" comment="" />
+<DATE id="P7" start="192" end="202" text="05/18/2063" TYPE="DATE" comment="" />
+<NAME id="P8" start="232" end="248" text="BRIGHT, WINIFRED" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="254" end="263" text="8/22/2001" TYPE="DATE" comment="" />
+<ID id="P10" start="269" end="278" text="5530-4217" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P11" start="418" end="420" text="61" TYPE="AGE" comment="" />
+<DATE id="P12" start="483" end="490" text="January" TYPE="DATE" comment="" />
+<DATE id="P13" start="532" end="542" text="01/27/2063" TYPE="DATE" comment="" />
+<NAME id="P14" start="694" end="707" text="Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="777" end="781" text="2053" TYPE="DATE" comment="" />
+<NAME id="P16" start="870" end="876" text="Marden" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="912" end="926" text="(740) 555-0100" TYPE="PHONE" comment="" />
+<NAME id="P18" start="936" end="952" text="Destiny Holloway" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="962" end="975" text="Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="988" end="1003" text="Priya Natarajan" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="1030" end="1040" text="Caleb Tran" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

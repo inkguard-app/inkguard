@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MARROWGATE REGIONAL MEDICAL CENTER -- Emergency Department
+PROGRESS NOTE (SOAP)     Dictated by: Harold B. Teague, MD   .HPI
+
+Patient: Garrett Pruitt      MRN: 0418-2297      DOB: 03/09/2027
+Date of service: 09/24/2076      Location: Bay 7
+Attending: Dr. Harold Teague      Resident: Dr. Priyanka Venkataraghavan
+PCP: Dr. Samir Oduya
+
+S: @NAME@ is a 49 year old male who presents with a burn to the rite forearm and hand sustained this morning at work. He is a forklift operator for Calloway Freight Systems and says a steam line at the loading dock let go and caught his arm. His wife Marisol drove him in, she is in the waiting room with there neighbor Edgar Hollis who lives across the landing. Patient denies loss of conciousness, denies inhalation, no chest pain. Pain 7 out of ten on arrival. He states hes been under alot of stress, "the landlord Bernard Shimanski is threatening to sell the building", and he is not sleeping. Hx of sleep apnea, not on CPAP, chronic sinusitis and prediabetes. Pt's father Walter Pruitt is 91 and lives with them in Kettering, two kids at home, Tobias and Wren.
+
+O: Vitals stable, afebrile. Partial thickness burn volar right forearm and dorsum of hand, roughly 4 percent TBSA, blistering intact in places, cap refill brisk. No circumferential component. Sensation intact. Lungs clear. Hypertnsion not noted, BP 138 over 86.
+
+A: Partial thickness burn, right upper extremity, work related. Sleep apnea. Prediabetes.
+
+P: Cooled, cleaned, silver dressing applied. Start cefuroxime 250 mg and acetaminophen, meperidine 50 mg for breakthrough pain, short supply. Tetanus up to date per wife. Plain films of hand ordered to rule out foreign body. Burn clinic follow up in 3 weeks. Patient to transfer to Willowmere Care Center for dressing care because the apartment has no one home days. Work comp forms to Calloway Freight Systems HR.
+
+Scratch that, the patient is right handed, the burn is to his dominant hand. Patient seen and discussed with Dr. Ven Kata Raghavan.
+
+Dictated but not read.
+Electronically signed by Harold B. Teague, MD on 09/24/2076 14:02
+Last edited by hteague from 10.20.4.55 on 9/25/2076 09:14
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="38" end="58" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<NAME id="P1" start="135" end="149" text="Garrett Pruitt" TYPE="PATIENT" comment="" />
+<ID id="P2" start="160" end="169" text="0418-2297" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="180" end="190" text="03/09/2027" TYPE="DATE" comment="" />
+<DATE id="P4" start="208" end="218" text="09/24/2076" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="234" end="239" text="Bay 7" TYPE="ROOM" comment="" />
+<NAME id="P6" start="255" end="268" text="Harold Teague" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="288" end="312" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="322" end="333" text="Samir Oduya" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="350" end="352" text="49" TYPE="AGE" comment="" />
+<PROFESSION id="P10" start="461" end="478" text="forklift operator" TYPE="PROFESSION" comment="" />
+<LOCATION id="P11" start="483" end="507" text="Calloway Freight Systems" TYPE="ORGANIZATION" comment="" />
+<NAME id="P12" start="586" end="593" text="Marisol" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="655" end="667" text="Edgar Hollis" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="854" end="871" text="Bernard Shimanski" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1013" end="1026" text="Walter Pruitt" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="1030" end="1032" text="91" TYPE="AGE" comment="" />
+<LOCATION id="P17" start="1056" end="1065" text="Kettering" TYPE="CITY" comment="" />
+<NAME id="P18" start="1085" end="1091" text="Tobias" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1096" end="1100" text="Wren" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="1739" end="1761" text="Willowmere Care Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P21" start="1843" end="1867" text="Calloway Freight Systems" TYPE="ORGANIZATION" comment="" />
+<NAME id="P22" start="1986" end="2003" text="Ven Kata Raghavan" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="2054" end="2070" text="Harold B. Teague" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="2078" end="2088" text="09/24/2076" TYPE="DATE" comment="" />
+<CONTACT id="P25" start="2123" end="2133" text="10.20.4.55" TYPE="IPADDR" comment="" />
+<DATE id="P26" start="2137" end="2146" text="9/25/2076" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

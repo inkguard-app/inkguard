@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Tamarack Endocrine and Metabolic Group
+21st November 2089
+
+Dr Fitzgerald Pope
+Ridgeway Memory Clinic
+
+Dear Fitz,
+
+Re: Mr Lyle Will, DOB 22.9.2006
+
+Thank you for seeing this very pleasant gentleman who I have followed here for lipids and glucose over the last few years. Over the past twelve months his niece has noticed that he repeats himself, mislays his keys and left the stove on. He was started on galantamine last year by his GP. I am referring for review of treatment because of poor tolerance (nausea) and I would be grateful for an opinion on switching to a donepezil and memantine combination, which we started today.
+
+He lives alone, is single, has a niece who helps (Ms June Bright, who has power of attorney, phone 828-555-0146). He was a smoker until recently and has coronary disease, prostate carcinoma in situ managed conservatively, and takes simvastatin 20 mg, metoprolol succinate 100 mg and a nitroglycerin spray. Bloods are at goal. Glucose sixty-seven in December 2088 was low and I have asked the nurse to repeat it.
+
+Kind regards,
+Everett Strand-Mbeki
+EsM/dd   (typed by dd)
+cc: patient, Ms Bright
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="38" text="Tamarack Endocrine and Metabolic Group" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="39" end="57" text="21st November 2089" TYPE="DATE" comment="" />
+<NAME id="P2" start="62" end="77" text="Fitzgerald Pope" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="78" end="100" text="Ridgeway Memory Clinic" TYPE="ORGANIZATION" comment="" />
+<NAME id="P4" start="107" end="111" text="Fitz" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="121" end="130" text="Lyle Will" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="136" end="145" text="22.9.2006" TYPE="DATE" comment="" />
+<NAME id="P7" start="682" end="693" text="June Bright" TYPE="PATIENT" comment="" />
+<CONTACT id="P8" start="728" end="740" text="828-555-0146" TYPE="PHONE" comment="" />
+<DATE id="P9" start="978" end="991" text="December 2088" TYPE="DATE" comment="" />
+<NAME id="P10" start="1056" end="1076" text="Everett Strand-Mbeki" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="1077" end="1083" text="EsM/dd" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1096" end="1098" text="dd" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1116" end="1122" text="Bright" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

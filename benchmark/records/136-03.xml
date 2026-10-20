@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Bayfront Regional Medical Center
+2200 Quarry Point Road, Baltimore, MD 21231
+January 23rd, 2092
+
+Winston Adeyemi-Clarke, DDS
+Eastside Dental Collective
+Fax 410-555-0173
+
+Re: Marcus D. Whitlock, born June 9th, 2049, MRN 0044718
+
+Dear Dr Adeyemi-Clarke,
+
+I am writing at the close of Mr Whitlock's annual physical today, to ask that you see him for a general dental review and follow up of a history of gingivitis, loose fillings and one lost filling. He is now forty-two, was housed after a long period without a home, and is now settled in his own flat. His diabetes risk is borderline, hemoglobin A one C six point three, weight 91.5 kilograms, blood pressure 122 over 75. He takes hydrocodone and acetaminophen for chronic back pain and has no allergies. He is comfortable with a cleaning but anxious about drilling, so a gentle approach will be appreciated. He is reachable on (410) 555-0138; if no answer, his sister Ms Whitlock-Greer. Please send the report to my attention.
+
+This dictation has not been read by me. Yours sincerely,
+
+R. Ashgrove-Mensah
+cc: patient
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="32" text="Bayfront Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="33" end="55" text="2200 Quarry Point Road" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="57" end="66" text="Baltimore" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="68" end="70" text="MD" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="71" end="76" text="21231" TYPE="ZIP" comment="" />
+<DATE id="P5" start="77" end="95" text="January 23rd, 2092" TYPE="DATE" comment="" />
+<NAME id="P6" start="97" end="119" text="Winston Adeyemi-Clarke" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="125" end="151" text="Eastside Dental Collective" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P8" start="156" end="168" text="410-555-0173" TYPE="FAX" comment="" />
+<NAME id="P9" start="174" end="192" text="Marcus D. Whitlock" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="199" end="213" text="June 9th, 2049" TYPE="DATE" comment="" />
+<ID id="P11" start="219" end="226" text="0044718" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P12" start="285" end="293" text="Whitlock" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="460" end="469" text="forty-two" TYPE="AGE" comment="" />
+<CONTACT id="P14" start="880" end="894" text="(410) 555-0138" TYPE="PHONE" comment="" />
+<NAME id="P15" start="924" end="938" text="Whitlock-Greer" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1039" end="1057" text="R. Ashgrove-Mensah" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

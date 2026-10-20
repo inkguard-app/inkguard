@@ -1,0 +1,18 @@
+EMERGENCY DEPARTMENT — BACK PAIN WITH RED FLAGS
+{{FACILITY|Tallis Creek Medical Center}} — {{DATE|08/19/2066}} 23:10
+{{NAME|Octavian Lasègue-Barros}}, 41 M, MRN {{MRN|TCM-7701924}}
+ED physician Dr. {{NAME|Seraphine Nkosi}}; PA {{NAME|Holden Mathers}}, PA-C
+
+3 days of severe low back pain and bilateral sciatica after moving furniture; today [[urinary retention]] (could not void for 10 h), [[saddle numbness]] noticed when wiping, and [[erectile dysfunction]].
+Exam: [[straight leg raise]] positive at 30 degrees bilaterally ([[Lasègue sign]] — and the patient is Mr. {{NAME|Lasègue-Barros}}; chart the test as "[[straight leg raise (Lasègue sign)]]"), [[crossed straight leg raise]] positive, [[ankle plantarflexion]] 4/5 bilaterally, [[absent ankle reflexes]], [[saddle anaesthesia]] S2-S5, reduced [[anal tone]] on DRE, [[bladder scan]] 950 mL → [[Foley catheter]]. [[Bulbocavernosus reflex]] reduced.
+Impression: [[cauda equina syndrome]] — incomplete ([[CES-R]], retention).
+[[MRI lumbar spine (stat)]]: massive [[L4-5 central disc extrusion]] occupying 80% of the canal, compressing the [[cauda equina]]. No [[conus]] involvement.
+Plan: emergent [[L4-5 laminectomy and discectomy]] within 48 h — ideally now. Neurosurgery Dr. {{NAME|Klemens Varga-Oduya}} accepting.
+=====NOTE=====
+OP NOTE — {{DATE|08/20/2066}} 02:15 — {{NAME|LASÈGUE-BARROS, O.}} — {{MRN|TCM-7701924}}
+Surgeon Dr. {{NAME|K. Varga-Oduya}}; neuromonitoring {{NAME|Ilse Brandvold}}, R. NCS.T — [[free-run EMG]] and [[triggered EMG]] of L4-S2 myotomes, [[anal sphincter EMG]], [[bulbocavernosus reflex monitoring]].
+Prone, [[Wilson frame]]. [[Bilateral L4 laminectomy]] with partial L5 laminotomy; [[ligamentum flavum]] removed; a large extruded fragment found centrally, ventral to the thecal sac; dura retracted gently to the right then left; [[sequestrated fragments]] removed; [[annulotomy]] and discectomy with [[pituitary rongeurs]]. Thecal sac decompressed and pulsatile. No [[durotomy]]. EMG trains during retraction stopped with release.
+[[CPT 63030]] (laminotomy with decompression of nerve roots including discectomy) rather than [[CPT 63005]], to be confirmed by coder review; [[ICD-10 G83.4]] (cauda equina syndrome), [[M51.16]].
+=====NOTE=====
+POD1 — {{DATE|08/21/2066}} — {{NAME|O. Lasègue-Barros}}
+Leg pain resolved. Saddle sensation partially returned. [[Foley]] remains; [[voiding trial]] POD3; [[post-void residual]] by [[bladder scan]]. [[Urology]] referral for [[urodynamics]] at 3 months. [[Pelvic floor physiotherapy]]. [[Erectile dysfunction]] counselling. [[Enoxaparin 40 mg]] from POD1. Social work {{NAME|Marisela Quintanilla}}, LCSW: FMLA paperwork for employer {{ORG|Tallis Creek Moving and Storage}}.

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NORTHSHORE BEHAVIORAL HEALTH CLINIC
+AFTER-VISIT SUMMARY
+PATIENT: PAGE, EZEKIEL      MRN: BH-0093817      DOB: 11/03/2041
+VISIT DATE: 06/07/2087       SEEN BY: ROSALIND ACHTERBERG, PSYD
+ADDRESS ON FILE: 58 TALLOW CHANDLER LN, APT 3B, DULUTH, MN 5580
+
+DEAR MR. PAGE,
+
+THANK YOU FOR COMING IN TODAY (TUESDAY). YOU ARE 45 YEARS OLD AND WE REVIEWED YOUR ANXIETY SCORE (GAD-7 = 1, DOWN FROM 4 LAST YEAR), YOUR ALCOHOL QUESTIONNAIRE AND YOUR MOOD. YOU SAID YOU FEEL "BETTER THAN IN YEARS".
+
+** WHAT WE TALKED ABOUT **
+- YOUR WEIGHT IS 106.1 KG AND BP 93/79
+- YOUR A1C WAS 6.4 ON 06/06/2087 (PREDIABETES - WATCH SUGARS)
+- DENTAL: YOU HAD YOUR TEETH WORK DONE; DENTURE FITTING IS BOOKED 06/27/2087
+- MEDS: FERROUS SULFATE 325 MG AND NAPROXEN 220 MG. DO NOT TAKE EXTRA NAPROXEN.
+
+** YOUR NEXT STEPS **
+-&gt; CALL (218) 555-0100 EXT 4417 IF QUESTIONS, OR SEND A MESSAGE AT https://portal.northshorebh.example/ezpage
+-&gt; NEXT CHECKUP JUNE 2088
+-&gt; TELL YOUR WIFE ODALIS HELLO FROM US.
+
+IN CONCLUSION, THE PATIENT'S JOURNEY THIS YEAR HAS BEEN ONE OF STEADY GROWTH. (WRITTEN BY VOLUNTEER JAYLEN ORTIZ; EDITED BY TAMSIN VOGEL MA)
+
+PATIENT: ______   DOB: **/**/****   (TEMPLATE FIELDS, NOT FILLED)
+PRINTED 06/07/2087 BY TVOGEL AT WORKSTATION 172.16.9.77
+</TEXT>
+<TAGS>
+<NAME id="P0" start="65" end="78" text="PAGE, EZEKIEL" TYPE="PATIENT" comment="" />
+<ID id="P1" start="89" end="99" text="BH-0093817" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="110" end="120" text="11/03/2041" TYPE="DATE" comment="" />
+<DATE id="P3" start="133" end="143" text="06/07/2087" TYPE="DATE" comment="" />
+<NAME id="P4" start="159" end="178" text="ROSALIND ACHTERBERG" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="202" end="231" text="58 TALLOW CHANDLER LN, APT 3B" TYPE="STREET" comment="" />
+<LOCATION id="P6" start="233" end="239" text="DULUTH" TYPE="CITY" comment="" />
+<LOCATION id="P7" start="241" end="243" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P8" start="244" end="248" text="5580" TYPE="ZIP" comment="" />
+<NAME id="P9" start="259" end="263" text="PAGE" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="297" end="304" text="TUESDAY" TYPE="DATE" comment="" />
+<AGE id="P11" start="315" end="317" text="45" TYPE="AGE" comment="" />
+<DATE id="P12" start="572" end="582" text="06/06/2087" TYPE="DATE" comment="" />
+<DATE id="P13" start="678" end="688" text="06/27/2087" TYPE="DATE" comment="" />
+<CONTACT id="P14" start="800" end="814" text="(218) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P15" start="819" end="823" text="4417" TYPE="PHONE" comment="" />
+<CONTACT id="P16" start="859" end="901" text="https://portal.northshorebh.example/ezpage" TYPE="URL" comment="" />
+<DATE id="P17" start="918" end="927" text="JUNE 2088" TYPE="DATE" comment="" />
+<NAME id="P18" start="946" end="952" text="ODALIS" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1069" end="1081" text="JAYLEN ORTIZ" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1093" end="1105" text="TAMSIN VOGEL" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1185" end="1195" text="06/07/2087" TYPE="DATE" comment="" />
+<NAME id="P22" start="1199" end="1205" text="TVOGEL" TYPE="USERNAME" comment="" />
+<CONTACT id="P23" start="1221" end="1232" text="172.16.9.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

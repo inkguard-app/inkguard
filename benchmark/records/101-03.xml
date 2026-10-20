@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE / PROCEDURE NOTE - CARDIAC CATHETERISATION LABORATORY
+St. Aldric Regional Medical Center   Cath Lab   Lab 2
+Date: 13 September 2081     Start 07:31   End 08:24
+Patient: Yilder, Matthew   5520-1194   Age 54   Sex M
+Operator: Joon-ho Baek, MD       Assistant: Dr. Teixeira (fellow)    Scrub: Patience Wells
+Pre-op diagnosis: Acute anterior ST segment elevation myocardial infarction.
+Post-op diagnosis: same, culprit lesion proximal LAD thrombotic occlusion.
+Procedure: emergent left heart catheterisation, coronary angiography, primary PCI of the LAD with drug eluting stent.
+Access: right radial artery, 6 French.
+Anaesthesia: local lidocaine 1%, no sedation because patient anxious but cooperating, wife outside.
+Consent: Obtained from the patient with phone interpreter Zeynep (Turkish). Name on wristband first was YILDIRIM, MEHMET - old registration, we have verified with date of birth 02/17/2027 and corrected the band.
+
+FINDINGS: Left main normal. LAD: proximal total thrombotic occlusion, TIMI 0. Circumflex: 40 percent mid. RCA dominant, mild plaque. EF by ventriculogram about 45 percent.
+DESCRIPTION: Heparin was given in ED plus additional bolus, ACT at target. Aspiration thrombectomy, then 3.0 x 24 mm drug eluting stent deployed in proximal LAD, post-dilated, TIMI 3 flow restored, no residual stenosis, no dissection. Door to balloon time 39 minutes. Patient had no complication, chest pain free at end.
+Stent device: serial DES-30024-77Q, lot L 8830921. Implant card issued name Mehmet Yildirim - card to be reprinted.
+Blood loss minimal. Contrast 140 mL. Fluoro time 9.2 min.
+Plan: CCU, prasugrel 10 plus aspirin 81 (clopidogrel only loading dose from ED), atorvastatin, nebivolol, TR band removal 4 hours. Echo.
+
+Dictated by Joon-ho Baek MD.  Transcribed 09/13/2081 11:10 by jhbaek_dict.
+Surgeon wish to add: stent is not a "Plavix" stent, please do not write like that. 
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="64" end="98" text="St. Aldric Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="101" end="109" text="Cath Lab" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="112" end="117" text="Lab 2" TYPE="ROOM" comment="" />
+<DATE id="P3" start="124" end="141" text="13 September 2081" TYPE="DATE" comment="" />
+<NAME id="P4" start="179" end="194" text="Yilder, Matthew" TYPE="PATIENT" comment="" />
+<ID id="P5" start="197" end="206" text="5520-1194" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P6" start="213" end="215" text="54" TYPE="AGE" comment="" />
+<NAME id="P7" start="234" end="246" text="Joon-ho Baek" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="268" end="280" text="Dr. Teixeira" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="300" end="314" text="Patience Wells" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="782" end="788" text="Zeynep" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="828" end="844" text="YILDIRIM, MEHMET" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="901" end="911" text="02/17/2027" TYPE="DATE" comment="" />
+<ID id="P13" start="1451" end="1464" text="DES-30024-77Q" TYPE="DEVICE" comment="" />
+<ID id="P14" start="1470" end="1479" text="L 8830921" TYPE="DEVICE" comment="" />
+<NAME id="P15" start="1506" end="1521" text="Mehmet Yildirim" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1754" end="1766" text="Joon-ho Baek" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1784" end="1794" text="09/13/2081" TYPE="DATE" comment="" />
+<NAME id="P18" start="1804" end="1815" text="jhbaek_dict" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

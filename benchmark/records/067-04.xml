@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PATIENT PORTAL MESSAGE (written by patient)
+From: jaxx_t_35   Name on account: JAXXON TEAGUE
+To: Dr Achebe's office, Sandia Ridge Cancer Center
+Date: 08/13/2091  06:12
+Subject: teeth + blood work + a question
+
+Hello Dr Achebi,
+this is Jax Teague (user jaxx_t_53 - i mean 35).
+- Went to the ER saturday night bc my filling broke. They fixed it for now. Need a real dentist visit today?
+- Did I get the lab slip for the iron tests?? Wife Justis says we are supposed to go this friday
+- Im still taking Naproxen sometimes for my hands. is that ok. You said stop. Hands hurt in the morning
+- Can you call Justice instead of me she is better at phones, her number 505 555 0178 (or my cell, same as always (505) 555-0187)
+- Landlord Rich wants to come in and fix the sink the 20th, can I do the test before that, my boss at the yard Mr Teller wont give me time off
+- also my son Kxng sent me a message that "king" is not how its spelled lol
+
+thanks
+-jax
+sent from my phone
+</TEXT>
+<TAGS>
+<NAME id="P0" start="50" end="59" text="jaxx_t_35" TYPE="USERNAME" comment="" />
+<NAME id="P1" start="79" end="92" text="JAXXON TEAGUE" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="100" end="106" text="Achebe" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="117" end="143" text="Sandia Ridge Cancer Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="150" end="160" text="08/13/2091" TYPE="DATE" comment="" />
+<NAME id="P5" start="219" end="225" text="Achebi" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="235" end="238" text="Jax" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="239" end="245" text="Teague" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="252" end="261" text="jaxx_t_53" TYPE="USERNAME" comment="" />
+<DATE id="P9" start="293" end="301" text="saturday" TYPE="DATE" comment="" />
+<NAME id="P10" start="436" end="442" text="Justis" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="475" end="481" text="friday" TYPE="DATE" comment="" />
+<NAME id="P12" start="601" end="608" text="Justice" TYPE="PATIENT" comment="" />
+<CONTACT id="P13" start="659" end="671" text="505 555 0178" TYPE="PHONE" comment="" />
+<CONTACT id="P14" start="700" end="714" text="(505) 555-0187" TYPE="PHONE" comment="" />
+<NAME id="P15" start="727" end="731" text="Rich" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="766" end="774" text="the 20th" TYPE="DATE" comment="" />
+<NAME id="P17" start="827" end="836" text="Mr Teller" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="873" end="877" text="Kxng" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

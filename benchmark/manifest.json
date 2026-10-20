@@ -1,0 +1,5195 @@
+[
+ {
+  "record": "001-01",
+  "case": "001",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a1",
+  "identifiers": 21
+ },
+ {
+  "record": "001-02",
+  "case": "001",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a1",
+  "identifiers": 19
+ },
+ {
+  "record": "001-03",
+  "case": "001",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a1",
+  "identifiers": 24
+ },
+ {
+  "record": "001-04",
+  "case": "001",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a1",
+  "identifiers": 21
+ },
+ {
+  "record": "001-05",
+  "case": "001",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a1",
+  "identifiers": 28
+ },
+ {
+  "record": "002-01",
+  "case": "002",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave1/a1",
+  "identifiers": 22
+ },
+ {
+  "record": "002-02",
+  "case": "002",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave1/a1",
+  "identifiers": 23
+ },
+ {
+  "record": "002-03",
+  "case": "002",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave1/a1",
+  "identifiers": 31
+ },
+ {
+  "record": "002-04",
+  "case": "002",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave1/a1",
+  "identifiers": 26
+ },
+ {
+  "record": "003-01",
+  "case": "003",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave1/a1",
+  "identifiers": 27
+ },
+ {
+  "record": "003-02",
+  "case": "003",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave1/a1",
+  "identifiers": 37
+ },
+ {
+  "record": "003-03",
+  "case": "003",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave1/a1",
+  "identifiers": 39
+ },
+ {
+  "record": "004-01",
+  "case": "004",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a1",
+  "identifiers": 25
+ },
+ {
+  "record": "004-02",
+  "case": "004",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a1",
+  "identifiers": 21
+ },
+ {
+  "record": "004-03",
+  "case": "004",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a1",
+  "identifiers": 25
+ },
+ {
+  "record": "004-04",
+  "case": "004",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a1",
+  "identifiers": 20
+ },
+ {
+  "record": "005-01",
+  "case": "005",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a1",
+  "identifiers": 25
+ },
+ {
+  "record": "005-02",
+  "case": "005",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a1",
+  "identifiers": 17
+ },
+ {
+  "record": "005-03",
+  "case": "005",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a1",
+  "identifiers": 34
+ },
+ {
+  "record": "005-04",
+  "case": "005",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a1",
+  "identifiers": 37
+ },
+ {
+  "record": "006-01",
+  "case": "006",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a1",
+  "identifiers": 18
+ },
+ {
+  "record": "006-02",
+  "case": "006",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a1",
+  "identifiers": 8
+ },
+ {
+  "record": "006-03",
+  "case": "006",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a1",
+  "identifiers": 18
+ },
+ {
+  "record": "006-04",
+  "case": "006",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a1",
+  "identifiers": 19
+ },
+ {
+  "record": "007-01",
+  "case": "007",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a1",
+  "identifiers": 20
+ },
+ {
+  "record": "007-02",
+  "case": "007",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a1",
+  "identifiers": 32
+ },
+ {
+  "record": "007-03",
+  "case": "007",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a1",
+  "identifiers": 35
+ },
+ {
+  "record": "007-04",
+  "case": "007",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a1",
+  "identifiers": 30
+ },
+ {
+  "record": "008-01",
+  "case": "008",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a1",
+  "identifiers": 28
+ },
+ {
+  "record": "008-02",
+  "case": "008",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a1",
+  "identifiers": 26
+ },
+ {
+  "record": "008-03",
+  "case": "008",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a1",
+  "identifiers": 21
+ },
+ {
+  "record": "008-04",
+  "case": "008",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a1",
+  "identifiers": 39
+ },
+ {
+  "record": "009-01",
+  "case": "009",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a2",
+  "identifiers": 20
+ },
+ {
+  "record": "009-02",
+  "case": "009",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a2",
+  "identifiers": 23
+ },
+ {
+  "record": "009-03",
+  "case": "009",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a2",
+  "identifiers": 10
+ },
+ {
+  "record": "009-04",
+  "case": "009",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a2",
+  "identifiers": 23
+ },
+ {
+  "record": "010-01",
+  "case": "010",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave1/a2",
+  "identifiers": 40
+ },
+ {
+  "record": "010-02",
+  "case": "010",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave1/a2",
+  "identifiers": 27
+ },
+ {
+  "record": "010-03",
+  "case": "010",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave1/a2",
+  "identifiers": 26
+ },
+ {
+  "record": "010-04",
+  "case": "010",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave1/a2",
+  "identifiers": 20
+ },
+ {
+  "record": "010-05",
+  "case": "010",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave1/a2",
+  "identifiers": 10
+ },
+ {
+  "record": "011-01",
+  "case": "011",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a2",
+  "identifiers": 25
+ },
+ {
+  "record": "011-02",
+  "case": "011",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a2",
+  "identifiers": 31
+ },
+ {
+  "record": "011-03",
+  "case": "011",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a2",
+  "identifiers": 18
+ },
+ {
+  "record": "011-04",
+  "case": "011",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a2",
+  "identifiers": 29
+ },
+ {
+  "record": "011-05",
+  "case": "011",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a2",
+  "identifiers": 27
+ },
+ {
+  "record": "012-01",
+  "case": "012",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a2",
+  "identifiers": 36
+ },
+ {
+  "record": "012-02",
+  "case": "012",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a2",
+  "identifiers": 24
+ },
+ {
+  "record": "012-03",
+  "case": "012",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a2",
+  "identifiers": 26
+ },
+ {
+  "record": "012-04",
+  "case": "012",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a2",
+  "identifiers": 16
+ },
+ {
+  "record": "012-05",
+  "case": "012",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a2",
+  "identifiers": 27
+ },
+ {
+  "record": "013-01",
+  "case": "013",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a2",
+  "identifiers": 31
+ },
+ {
+  "record": "013-02",
+  "case": "013",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a2",
+  "identifiers": 22
+ },
+ {
+  "record": "013-03",
+  "case": "013",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a2",
+  "identifiers": 20
+ },
+ {
+  "record": "013-04",
+  "case": "013",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a2",
+  "identifiers": 24
+ },
+ {
+  "record": "013-05",
+  "case": "013",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a2",
+  "identifiers": 28
+ },
+ {
+  "record": "014-01",
+  "case": "014",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a2",
+  "identifiers": 40
+ },
+ {
+  "record": "014-02",
+  "case": "014",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a2",
+  "identifiers": 32
+ },
+ {
+  "record": "014-03",
+  "case": "014",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a2",
+  "identifiers": 27
+ },
+ {
+  "record": "014-04",
+  "case": "014",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a2",
+  "identifiers": 28
+ },
+ {
+  "record": "015-01",
+  "case": "015",
+  "half": "held-out",
+  "setting": "endocrinology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a2",
+  "identifiers": 11
+ },
+ {
+  "record": "015-02",
+  "case": "015",
+  "half": "held-out",
+  "setting": "endocrinology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a2",
+  "identifiers": 9
+ },
+ {
+  "record": "015-03",
+  "case": "015",
+  "half": "held-out",
+  "setting": "endocrinology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a2",
+  "identifiers": 9
+ },
+ {
+  "record": "015-04",
+  "case": "015",
+  "half": "held-out",
+  "setting": "endocrinology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a2",
+  "identifiers": 13
+ },
+ {
+  "record": "015-05",
+  "case": "015",
+  "half": "held-out",
+  "setting": "endocrinology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a2",
+  "identifiers": 11
+ },
+ {
+  "record": "016-01",
+  "case": "016",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a2",
+  "identifiers": 22
+ },
+ {
+  "record": "016-02",
+  "case": "016",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a2",
+  "identifiers": 33
+ },
+ {
+  "record": "016-03",
+  "case": "016",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a2",
+  "identifiers": 26
+ },
+ {
+  "record": "016-04",
+  "case": "016",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a2",
+  "identifiers": 41
+ },
+ {
+  "record": "016-05",
+  "case": "016",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a2",
+  "identifiers": 31
+ },
+ {
+  "record": "017-01",
+  "case": "017",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a3",
+  "identifiers": 28
+ },
+ {
+  "record": "017-02",
+  "case": "017",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a3",
+  "identifiers": 39
+ },
+ {
+  "record": "017-03",
+  "case": "017",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a3",
+  "identifiers": 45
+ },
+ {
+  "record": "017-04",
+  "case": "017",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a3",
+  "identifiers": 35
+ },
+ {
+  "record": "018-01",
+  "case": "018",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "SOAP format",
+  "agent": "wave1/a3",
+  "identifiers": 22
+ },
+ {
+  "record": "018-02",
+  "case": "018",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "SOAP format",
+  "agent": "wave1/a3",
+  "identifiers": 20
+ },
+ {
+  "record": "018-03",
+  "case": "018",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "SOAP format",
+  "agent": "wave1/a3",
+  "identifiers": 19
+ },
+ {
+  "record": "019-01",
+  "case": "019",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave1/a3",
+  "identifiers": 24
+ },
+ {
+  "record": "019-02",
+  "case": "019",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave1/a3",
+  "identifiers": 26
+ },
+ {
+  "record": "019-03",
+  "case": "019",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave1/a3",
+  "identifiers": 23
+ },
+ {
+  "record": "019-04",
+  "case": "019",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave1/a3",
+  "identifiers": 32
+ },
+ {
+  "record": "020-01",
+  "case": "020",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a3",
+  "identifiers": 20
+ },
+ {
+  "record": "020-02",
+  "case": "020",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a3",
+  "identifiers": 23
+ },
+ {
+  "record": "020-03",
+  "case": "020",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a3",
+  "identifiers": 25
+ },
+ {
+  "record": "020-04",
+  "case": "020",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a3",
+  "identifiers": 32
+ },
+ {
+  "record": "020-05",
+  "case": "020",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a3",
+  "identifiers": 27
+ },
+ {
+  "record": "021-01",
+  "case": "021",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a3",
+  "identifiers": 19
+ },
+ {
+  "record": "021-02",
+  "case": "021",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a3",
+  "identifiers": 31
+ },
+ {
+  "record": "021-03",
+  "case": "021",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a3",
+  "identifiers": 33
+ },
+ {
+  "record": "022-01",
+  "case": "022",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a3",
+  "identifiers": 33
+ },
+ {
+  "record": "022-02",
+  "case": "022",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a3",
+  "identifiers": 24
+ },
+ {
+  "record": "022-03",
+  "case": "022",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a3",
+  "identifiers": 21
+ },
+ {
+  "record": "023-01",
+  "case": "023",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a3",
+  "identifiers": 32
+ },
+ {
+  "record": "023-02",
+  "case": "023",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a3",
+  "identifiers": 49
+ },
+ {
+  "record": "023-03",
+  "case": "023",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a3",
+  "identifiers": 28
+ },
+ {
+  "record": "023-04",
+  "case": "023",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a3",
+  "identifiers": 32
+ },
+ {
+  "record": "024-01",
+  "case": "024",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a3",
+  "identifiers": 26
+ },
+ {
+  "record": "024-02",
+  "case": "024",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a3",
+  "identifiers": 12
+ },
+ {
+  "record": "024-03",
+  "case": "024",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a3",
+  "identifiers": 13
+ },
+ {
+  "record": "024-04",
+  "case": "024",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a3",
+  "identifiers": 9
+ },
+ {
+  "record": "025-01",
+  "case": "025",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a4",
+  "identifiers": 39
+ },
+ {
+  "record": "025-02",
+  "case": "025",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a4",
+  "identifiers": 43
+ },
+ {
+  "record": "025-03",
+  "case": "025",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a4",
+  "identifiers": 32
+ },
+ {
+  "record": "025-04",
+  "case": "025",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a4",
+  "identifiers": 46
+ },
+ {
+  "record": "026-01",
+  "case": "026",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave1/a4",
+  "identifiers": 30
+ },
+ {
+  "record": "026-02",
+  "case": "026",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave1/a4",
+  "identifiers": 51
+ },
+ {
+  "record": "026-03",
+  "case": "026",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave1/a4",
+  "identifiers": 61
+ },
+ {
+  "record": "026-04",
+  "case": "026",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave1/a4",
+  "identifiers": 32
+ },
+ {
+  "record": "027-01",
+  "case": "027",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "bullet points",
+  "agent": "wave1/a4",
+  "identifiers": 21
+ },
+ {
+  "record": "027-02",
+  "case": "027",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "bullet points",
+  "agent": "wave1/a4",
+  "identifiers": 32
+ },
+ {
+  "record": "027-03",
+  "case": "027",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "bullet points",
+  "agent": "wave1/a4",
+  "identifiers": 5
+ },
+ {
+  "record": "027-04",
+  "case": "027",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "bullet points",
+  "agent": "wave1/a4",
+  "identifiers": 36
+ },
+ {
+  "record": "028-01",
+  "case": "028",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a4",
+  "identifiers": 32
+ },
+ {
+  "record": "028-02",
+  "case": "028",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a4",
+  "identifiers": 48
+ },
+ {
+  "record": "028-03",
+  "case": "028",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a4",
+  "identifiers": 36
+ },
+ {
+  "record": "029-01",
+  "case": "029",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a4",
+  "identifiers": 32
+ },
+ {
+  "record": "029-02",
+  "case": "029",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a4",
+  "identifiers": 31
+ },
+ {
+  "record": "029-03",
+  "case": "029",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a4",
+  "identifiers": 47
+ },
+ {
+  "record": "029-04",
+  "case": "029",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a4",
+  "identifiers": 54
+ },
+ {
+  "record": "033-01",
+  "case": "033",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a5",
+  "identifiers": 22
+ },
+ {
+  "record": "033-02",
+  "case": "033",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a5",
+  "identifiers": 24
+ },
+ {
+  "record": "033-03",
+  "case": "033",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a5",
+  "identifiers": 44
+ },
+ {
+  "record": "033-04",
+  "case": "033",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a5",
+  "identifiers": 19
+ },
+ {
+  "record": "034-01",
+  "case": "034",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "SOAP format",
+  "agent": "wave1/a5",
+  "identifiers": 27
+ },
+ {
+  "record": "034-02",
+  "case": "034",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "SOAP format",
+  "agent": "wave1/a5",
+  "identifiers": 42
+ },
+ {
+  "record": "034-03",
+  "case": "034",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "SOAP format",
+  "agent": "wave1/a5",
+  "identifiers": 24
+ },
+ {
+  "record": "034-04",
+  "case": "034",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "SOAP format",
+  "agent": "wave1/a5",
+  "identifiers": 27
+ },
+ {
+  "record": "034-05",
+  "case": "034",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "SOAP format",
+  "agent": "wave1/a5",
+  "identifiers": 34
+ },
+ {
+  "record": "035-01",
+  "case": "035",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a5",
+  "identifiers": 19
+ },
+ {
+  "record": "035-02",
+  "case": "035",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a5",
+  "identifiers": 21
+ },
+ {
+  "record": "035-03",
+  "case": "035",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a5",
+  "identifiers": 27
+ },
+ {
+  "record": "035-04",
+  "case": "035",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a5",
+  "identifiers": 24
+ },
+ {
+  "record": "035-05",
+  "case": "035",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave1/a5",
+  "identifiers": 19
+ },
+ {
+  "record": "036-01",
+  "case": "036",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a5",
+  "identifiers": 16
+ },
+ {
+  "record": "036-02",
+  "case": "036",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a5",
+  "identifiers": 15
+ },
+ {
+  "record": "036-03",
+  "case": "036",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a5",
+  "identifiers": 17
+ },
+ {
+  "record": "036-04",
+  "case": "036",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a5",
+  "identifiers": 18
+ },
+ {
+  "record": "036-05",
+  "case": "036",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a5",
+  "identifiers": 22
+ },
+ {
+  "record": "037-01",
+  "case": "037",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a5",
+  "identifiers": 14
+ },
+ {
+  "record": "037-02",
+  "case": "037",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a5",
+  "identifiers": 20
+ },
+ {
+  "record": "037-03",
+  "case": "037",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a5",
+  "identifiers": 19
+ },
+ {
+  "record": "037-04",
+  "case": "037",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a5",
+  "identifiers": 27
+ },
+ {
+  "record": "037-05",
+  "case": "037",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a5",
+  "identifiers": 20
+ },
+ {
+  "record": "038-01",
+  "case": "038",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a5",
+  "identifiers": 41
+ },
+ {
+  "record": "038-02",
+  "case": "038",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a5",
+  "identifiers": 32
+ },
+ {
+  "record": "038-03",
+  "case": "038",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a5",
+  "identifiers": 64
+ },
+ {
+  "record": "038-04",
+  "case": "038",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a5",
+  "identifiers": 37
+ },
+ {
+  "record": "038-05",
+  "case": "038",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a5",
+  "identifiers": 35
+ },
+ {
+  "record": "039-01",
+  "case": "039",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a5",
+  "identifiers": 29
+ },
+ {
+  "record": "039-02",
+  "case": "039",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a5",
+  "identifiers": 33
+ },
+ {
+  "record": "039-03",
+  "case": "039",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a5",
+  "identifiers": 60
+ },
+ {
+  "record": "039-04",
+  "case": "039",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave1/a5",
+  "identifiers": 36
+ },
+ {
+  "record": "040-01",
+  "case": "040",
+  "half": "tuning",
+  "setting": "primary care",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a5",
+  "identifiers": 44
+ },
+ {
+  "record": "040-02",
+  "case": "040",
+  "half": "tuning",
+  "setting": "primary care",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a5",
+  "identifiers": 27
+ },
+ {
+  "record": "040-03",
+  "case": "040",
+  "half": "tuning",
+  "setting": "primary care",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a5",
+  "identifiers": 49
+ },
+ {
+  "record": "040-04",
+  "case": "040",
+  "half": "tuning",
+  "setting": "primary care",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave1/a5",
+  "identifiers": 33
+ },
+ {
+  "record": "041-01",
+  "case": "041",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a6",
+  "identifiers": 34
+ },
+ {
+  "record": "041-02",
+  "case": "041",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a6",
+  "identifiers": 31
+ },
+ {
+  "record": "041-03",
+  "case": "041",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a6",
+  "identifiers": 54
+ },
+ {
+  "record": "041-04",
+  "case": "041",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave1/a6",
+  "identifiers": 60
+ },
+ {
+  "record": "042-01",
+  "case": "042",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave1/a6",
+  "identifiers": 17
+ },
+ {
+  "record": "042-02",
+  "case": "042",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave1/a6",
+  "identifiers": 16
+ },
+ {
+  "record": "042-03",
+  "case": "042",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave1/a6",
+  "identifiers": 31
+ },
+ {
+  "record": "042-04",
+  "case": "042",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave1/a6",
+  "identifiers": 23
+ },
+ {
+  "record": "043-01",
+  "case": "043",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "bullet points",
+  "agent": "wave1/a6",
+  "identifiers": 25
+ },
+ {
+  "record": "043-02",
+  "case": "043",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "bullet points",
+  "agent": "wave1/a6",
+  "identifiers": 58
+ },
+ {
+  "record": "043-03",
+  "case": "043",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "bullet points",
+  "agent": "wave1/a6",
+  "identifiers": 40
+ },
+ {
+  "record": "043-04",
+  "case": "043",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "bullet points",
+  "agent": "wave1/a6",
+  "identifiers": 61
+ },
+ {
+  "record": "044-01",
+  "case": "044",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a6",
+  "identifiers": 47
+ },
+ {
+  "record": "044-02",
+  "case": "044",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a6",
+  "identifiers": 44
+ },
+ {
+  "record": "044-03",
+  "case": "044",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a6",
+  "identifiers": 26
+ },
+ {
+  "record": "044-04",
+  "case": "044",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave1/a6",
+  "identifiers": 59
+ },
+ {
+  "record": "045-01",
+  "case": "045",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a6",
+  "identifiers": 20
+ },
+ {
+  "record": "045-02",
+  "case": "045",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a6",
+  "identifiers": 24
+ },
+ {
+  "record": "045-03",
+  "case": "045",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave1/a6",
+  "identifiers": 29
+ },
+ {
+  "record": "046-01",
+  "case": "046",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a6",
+  "identifiers": 52
+ },
+ {
+  "record": "046-02",
+  "case": "046",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a6",
+  "identifiers": 43
+ },
+ {
+  "record": "046-03",
+  "case": "046",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave1/a6",
+  "identifiers": 23
+ },
+ {
+  "record": "030-01",
+  "case": "030",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/gap",
+  "identifiers": 47
+ },
+ {
+  "record": "030-02",
+  "case": "030",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/gap",
+  "identifiers": 36
+ },
+ {
+  "record": "030-03",
+  "case": "030",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/gap",
+  "identifiers": 32
+ },
+ {
+  "record": "030-04",
+  "case": "030",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/gap",
+  "identifiers": 34
+ },
+ {
+  "record": "031-01",
+  "case": "031",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/gap",
+  "identifiers": 26
+ },
+ {
+  "record": "031-02",
+  "case": "031",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/gap",
+  "identifiers": 35
+ },
+ {
+  "record": "031-03",
+  "case": "031",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/gap",
+  "identifiers": 40
+ },
+ {
+  "record": "031-04",
+  "case": "031",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/gap",
+  "identifiers": 33
+ },
+ {
+  "record": "032-01",
+  "case": "032",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 37
+ },
+ {
+  "record": "032-02",
+  "case": "032",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 40
+ },
+ {
+  "record": "032-03",
+  "case": "032",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 38
+ },
+ {
+  "record": "032-04",
+  "case": "032",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 29
+ },
+ {
+  "record": "047-01",
+  "case": "047",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/gap",
+  "identifiers": 25
+ },
+ {
+  "record": "047-02",
+  "case": "047",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/gap",
+  "identifiers": 38
+ },
+ {
+  "record": "047-03",
+  "case": "047",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/gap",
+  "identifiers": 24
+ },
+ {
+  "record": "047-04",
+  "case": "047",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/gap",
+  "identifiers": 30
+ },
+ {
+  "record": "048-01",
+  "case": "048",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 34
+ },
+ {
+  "record": "048-02",
+  "case": "048",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 36
+ },
+ {
+  "record": "048-03",
+  "case": "048",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 34
+ },
+ {
+  "record": "048-04",
+  "case": "048",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 27
+ },
+ {
+  "record": "048-05",
+  "case": "048",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/gap",
+  "identifiers": 25
+ },
+ {
+  "record": "049-01",
+  "case": "049",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 24
+ },
+ {
+  "record": "049-02",
+  "case": "049",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 24
+ },
+ {
+  "record": "049-03",
+  "case": "049",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 19
+ },
+ {
+  "record": "049-04",
+  "case": "049",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 34
+ },
+ {
+  "record": "053-01",
+  "case": "053",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 30
+ },
+ {
+  "record": "053-02",
+  "case": "053",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 19
+ },
+ {
+  "record": "053-03",
+  "case": "053",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 24
+ },
+ {
+  "record": "053-04",
+  "case": "053",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 20
+ },
+ {
+  "record": "057-01",
+  "case": "057",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 28
+ },
+ {
+  "record": "057-02",
+  "case": "057",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 40
+ },
+ {
+  "record": "057-03",
+  "case": "057",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 24
+ },
+ {
+  "record": "061-01",
+  "case": "061",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 30
+ },
+ {
+  "record": "061-02",
+  "case": "061",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 20
+ },
+ {
+  "record": "061-03",
+  "case": "061",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 22
+ },
+ {
+  "record": "061-04",
+  "case": "061",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 19
+ },
+ {
+  "record": "061-05",
+  "case": "061",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 24
+ },
+ {
+  "record": "065-01",
+  "case": "065",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 32
+ },
+ {
+  "record": "065-02",
+  "case": "065",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 15
+ },
+ {
+  "record": "065-03",
+  "case": "065",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 24
+ },
+ {
+  "record": "065-04",
+  "case": "065",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA1",
+  "identifiers": 40
+ },
+ {
+  "record": "069-01",
+  "case": "069",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 11
+ },
+ {
+  "record": "069-02",
+  "case": "069",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 14
+ },
+ {
+  "record": "069-03",
+  "case": "069",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 16
+ },
+ {
+  "record": "069-04",
+  "case": "069",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA1",
+  "identifiers": 16
+ },
+ {
+  "record": "073-01",
+  "case": "073",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 19
+ },
+ {
+  "record": "073-02",
+  "case": "073",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 26
+ },
+ {
+  "record": "073-03",
+  "case": "073",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 28
+ },
+ {
+  "record": "073-04",
+  "case": "073",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 19
+ },
+ {
+  "record": "073-05",
+  "case": "073",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 55
+ },
+ {
+  "record": "077-01",
+  "case": "077",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 23
+ },
+ {
+  "record": "077-02",
+  "case": "077",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 26
+ },
+ {
+  "record": "077-03",
+  "case": "077",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 46
+ },
+ {
+  "record": "077-04",
+  "case": "077",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 35
+ },
+ {
+  "record": "081-01",
+  "case": "081",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 19
+ },
+ {
+  "record": "081-02",
+  "case": "081",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 10
+ },
+ {
+  "record": "081-03",
+  "case": "081",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 17
+ },
+ {
+  "record": "081-04",
+  "case": "081",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 24
+ },
+ {
+  "record": "085-01",
+  "case": "085",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 28
+ },
+ {
+  "record": "085-02",
+  "case": "085",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 31
+ },
+ {
+  "record": "085-03",
+  "case": "085",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 38
+ },
+ {
+  "record": "085-04",
+  "case": "085",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 28
+ },
+ {
+  "record": "089-01",
+  "case": "089",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 31
+ },
+ {
+  "record": "089-02",
+  "case": "089",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 17
+ },
+ {
+  "record": "089-03",
+  "case": "089",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 6
+ },
+ {
+  "record": "089-04",
+  "case": "089",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 26
+ },
+ {
+  "record": "089-05",
+  "case": "089",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave2/tA2",
+  "identifiers": 18
+ },
+ {
+  "record": "093-01",
+  "case": "093",
+  "half": "held-out",
+  "setting": "endocrinology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 23
+ },
+ {
+  "record": "093-02",
+  "case": "093",
+  "half": "held-out",
+  "setting": "endocrinology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 28
+ },
+ {
+  "record": "093-03",
+  "case": "093",
+  "half": "held-out",
+  "setting": "endocrinology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave2/tA2",
+  "identifiers": 28
+ },
+ {
+  "record": "050-01",
+  "case": "050",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 40
+ },
+ {
+  "record": "050-02",
+  "case": "050",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 18
+ },
+ {
+  "record": "050-03",
+  "case": "050",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 24
+ },
+ {
+  "record": "050-04",
+  "case": "050",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 25
+ },
+ {
+  "record": "050-05",
+  "case": "050",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 19
+ },
+ {
+  "record": "054-01",
+  "case": "054",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 39
+ },
+ {
+  "record": "054-02",
+  "case": "054",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 7
+ },
+ {
+  "record": "054-03",
+  "case": "054",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 21
+ },
+ {
+  "record": "058-01",
+  "case": "058",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 24
+ },
+ {
+  "record": "058-02",
+  "case": "058",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 22
+ },
+ {
+  "record": "058-03",
+  "case": "058",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 20
+ },
+ {
+  "record": "058-04",
+  "case": "058",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 24
+ },
+ {
+  "record": "058-05",
+  "case": "058",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 25
+ },
+ {
+  "record": "062-01",
+  "case": "062",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 21
+ },
+ {
+  "record": "062-02",
+  "case": "062",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 26
+ },
+ {
+  "record": "062-03",
+  "case": "062",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 34
+ },
+ {
+  "record": "062-04",
+  "case": "062",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 24
+ },
+ {
+  "record": "066-01",
+  "case": "066",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 24
+ },
+ {
+  "record": "066-02",
+  "case": "066",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 13
+ },
+ {
+  "record": "066-03",
+  "case": "066",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 21
+ },
+ {
+  "record": "066-04",
+  "case": "066",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "SOAP format",
+  "agent": "wave2/tB1",
+  "identifiers": 32
+ },
+ {
+  "record": "070-01",
+  "case": "070",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 45
+ },
+ {
+  "record": "070-02",
+  "case": "070",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 23
+ },
+ {
+  "record": "070-03",
+  "case": "070",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB1",
+  "identifiers": 29
+ },
+ {
+  "record": "074-01",
+  "case": "074",
+  "half": "tuning",
+  "setting": "obstetrics",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 20
+ },
+ {
+  "record": "074-02",
+  "case": "074",
+  "half": "tuning",
+  "setting": "obstetrics",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 27
+ },
+ {
+  "record": "074-03",
+  "case": "074",
+  "half": "tuning",
+  "setting": "obstetrics",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 16
+ },
+ {
+  "record": "074-04",
+  "case": "074",
+  "half": "tuning",
+  "setting": "obstetrics",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 25
+ },
+ {
+  "record": "074-05",
+  "case": "074",
+  "half": "tuning",
+  "setting": "obstetrics",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 24
+ },
+ {
+  "record": "078-01",
+  "case": "078",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 11
+ },
+ {
+  "record": "078-02",
+  "case": "078",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 11
+ },
+ {
+  "record": "078-03",
+  "case": "078",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 16
+ },
+ {
+  "record": "078-04",
+  "case": "078",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 11
+ },
+ {
+  "record": "078-05",
+  "case": "078",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 12
+ },
+ {
+  "record": "082-01",
+  "case": "082",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 20
+ },
+ {
+  "record": "082-02",
+  "case": "082",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 15
+ },
+ {
+  "record": "082-03",
+  "case": "082",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 23
+ },
+ {
+  "record": "082-04",
+  "case": "082",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 28
+ },
+ {
+  "record": "086-01",
+  "case": "086",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 24
+ },
+ {
+  "record": "086-02",
+  "case": "086",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 24
+ },
+ {
+  "record": "086-03",
+  "case": "086",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 20
+ },
+ {
+  "record": "086-04",
+  "case": "086",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 11
+ },
+ {
+  "record": "090-01",
+  "case": "090",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 13
+ },
+ {
+  "record": "090-02",
+  "case": "090",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 16
+ },
+ {
+  "record": "090-03",
+  "case": "090",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 4
+ },
+ {
+  "record": "090-04",
+  "case": "090",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "SOAP format",
+  "agent": "wave2/tB2",
+  "identifiers": 20
+ },
+ {
+  "record": "094-01",
+  "case": "094",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 35
+ },
+ {
+  "record": "094-02",
+  "case": "094",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 26
+ },
+ {
+  "record": "094-03",
+  "case": "094",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 23
+ },
+ {
+  "record": "094-04",
+  "case": "094",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave2/tB2",
+  "identifiers": 26
+ },
+ {
+  "record": "051-01",
+  "case": "051",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 17
+ },
+ {
+  "record": "051-02",
+  "case": "051",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 28
+ },
+ {
+  "record": "051-03",
+  "case": "051",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 18
+ },
+ {
+  "record": "051-04",
+  "case": "051",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 16
+ },
+ {
+  "record": "055-01",
+  "case": "055",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 28
+ },
+ {
+  "record": "055-02",
+  "case": "055",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 25
+ },
+ {
+  "record": "055-03",
+  "case": "055",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 34
+ },
+ {
+  "record": "055-04",
+  "case": "055",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 44
+ },
+ {
+  "record": "055-05",
+  "case": "055",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 25
+ },
+ {
+  "record": "059-01",
+  "case": "059",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 27
+ },
+ {
+  "record": "059-02",
+  "case": "059",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 20
+ },
+ {
+  "record": "059-03",
+  "case": "059",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 34
+ },
+ {
+  "record": "059-04",
+  "case": "059",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 23
+ },
+ {
+  "record": "063-01",
+  "case": "063",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 31
+ },
+ {
+  "record": "063-02",
+  "case": "063",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 9
+ },
+ {
+  "record": "063-03",
+  "case": "063",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 37
+ },
+ {
+  "record": "067-01",
+  "case": "067",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 18
+ },
+ {
+  "record": "067-02",
+  "case": "067",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 48
+ },
+ {
+  "record": "067-03",
+  "case": "067",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 30
+ },
+ {
+  "record": "067-04",
+  "case": "067",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave2/tC1",
+  "identifiers": 19
+ },
+ {
+  "record": "071-01",
+  "case": "071",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 30
+ },
+ {
+  "record": "071-02",
+  "case": "071",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 30
+ },
+ {
+  "record": "071-03",
+  "case": "071",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 30
+ },
+ {
+  "record": "071-04",
+  "case": "071",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC1",
+  "identifiers": 44
+ },
+ {
+  "record": "075-01",
+  "case": "075",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 27
+ },
+ {
+  "record": "075-02",
+  "case": "075",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 33
+ },
+ {
+  "record": "075-03",
+  "case": "075",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 21
+ },
+ {
+  "record": "075-04",
+  "case": "075",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 24
+ },
+ {
+  "record": "079-01",
+  "case": "079",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 22
+ },
+ {
+  "record": "079-02",
+  "case": "079",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 27
+ },
+ {
+  "record": "079-03",
+  "case": "079",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 17
+ },
+ {
+  "record": "079-04",
+  "case": "079",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 19
+ },
+ {
+  "record": "079-05",
+  "case": "079",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 34
+ },
+ {
+  "record": "083-01",
+  "case": "083",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 47
+ },
+ {
+  "record": "083-02",
+  "case": "083",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 24
+ },
+ {
+  "record": "083-03",
+  "case": "083",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 29
+ },
+ {
+  "record": "087-01",
+  "case": "087",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 9
+ },
+ {
+  "record": "087-02",
+  "case": "087",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 26
+ },
+ {
+  "record": "087-03",
+  "case": "087",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 15
+ },
+ {
+  "record": "087-04",
+  "case": "087",
+  "half": "held-out",
+  "setting": "cardiology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 11
+ },
+ {
+  "record": "091-01",
+  "case": "091",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 21
+ },
+ {
+  "record": "091-02",
+  "case": "091",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 30
+ },
+ {
+  "record": "091-03",
+  "case": "091",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 25
+ },
+ {
+  "record": "091-04",
+  "case": "091",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "bullet points",
+  "agent": "wave2/tC2",
+  "identifiers": 25
+ },
+ {
+  "record": "095-01",
+  "case": "095",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 29
+ },
+ {
+  "record": "095-02",
+  "case": "095",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 40
+ },
+ {
+  "record": "095-03",
+  "case": "095",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 22
+ },
+ {
+  "record": "095-04",
+  "case": "095",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 30
+ },
+ {
+  "record": "095-05",
+  "case": "095",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave2/tC2",
+  "identifiers": 35
+ },
+ {
+  "record": "052-01",
+  "case": "052",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 27
+ },
+ {
+  "record": "052-02",
+  "case": "052",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 12
+ },
+ {
+  "record": "052-03",
+  "case": "052",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 20
+ },
+ {
+  "record": "052-04",
+  "case": "052",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 17
+ },
+ {
+  "record": "052-05",
+  "case": "052",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 24
+ },
+ {
+  "record": "056-01",
+  "case": "056",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 30
+ },
+ {
+  "record": "056-02",
+  "case": "056",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 18
+ },
+ {
+  "record": "056-03",
+  "case": "056",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 25
+ },
+ {
+  "record": "056-04",
+  "case": "056",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 38
+ },
+ {
+  "record": "060-01",
+  "case": "060",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 13
+ },
+ {
+  "record": "060-02",
+  "case": "060",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 10
+ },
+ {
+  "record": "060-03",
+  "case": "060",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 17
+ },
+ {
+  "record": "060-04",
+  "case": "060",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 10
+ },
+ {
+  "record": "064-01",
+  "case": "064",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 33
+ },
+ {
+  "record": "064-02",
+  "case": "064",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 21
+ },
+ {
+  "record": "064-03",
+  "case": "064",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 14
+ },
+ {
+  "record": "068-01",
+  "case": "068",
+  "half": "tuning",
+  "setting": "cardiology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 15
+ },
+ {
+  "record": "068-02",
+  "case": "068",
+  "half": "tuning",
+  "setting": "cardiology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 54
+ },
+ {
+  "record": "068-03",
+  "case": "068",
+  "half": "tuning",
+  "setting": "cardiology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 19
+ },
+ {
+  "record": "068-04",
+  "case": "068",
+  "half": "tuning",
+  "setting": "cardiology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD1",
+  "identifiers": 23
+ },
+ {
+  "record": "072-01",
+  "case": "072",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 19
+ },
+ {
+  "record": "072-02",
+  "case": "072",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 18
+ },
+ {
+  "record": "072-03",
+  "case": "072",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 11
+ },
+ {
+  "record": "072-04",
+  "case": "072",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD1",
+  "identifiers": 12
+ },
+ {
+  "record": "076-01",
+  "case": "076",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 20
+ },
+ {
+  "record": "076-02",
+  "case": "076",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 28
+ },
+ {
+  "record": "076-03",
+  "case": "076",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 14
+ },
+ {
+  "record": "076-04",
+  "case": "076",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 36
+ },
+ {
+  "record": "076-05",
+  "case": "076",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 41
+ },
+ {
+  "record": "080-01",
+  "case": "080",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 24
+ },
+ {
+  "record": "080-02",
+  "case": "080",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 23
+ },
+ {
+  "record": "080-03",
+  "case": "080",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 27
+ },
+ {
+  "record": "084-01",
+  "case": "084",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 30
+ },
+ {
+  "record": "084-02",
+  "case": "084",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 23
+ },
+ {
+  "record": "084-03",
+  "case": "084",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 27
+ },
+ {
+  "record": "088-01",
+  "case": "088",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 28
+ },
+ {
+  "record": "088-02",
+  "case": "088",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 45
+ },
+ {
+  "record": "088-03",
+  "case": "088",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 35
+ },
+ {
+  "record": "088-04",
+  "case": "088",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 41
+ },
+ {
+  "record": "092-01",
+  "case": "092",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 24
+ },
+ {
+  "record": "092-02",
+  "case": "092",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 46
+ },
+ {
+  "record": "092-03",
+  "case": "092",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 28
+ },
+ {
+  "record": "092-04",
+  "case": "092",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave2/tD2",
+  "identifiers": 36
+ },
+ {
+  "record": "096-01",
+  "case": "096",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 11
+ },
+ {
+  "record": "096-02",
+  "case": "096",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 11
+ },
+ {
+  "record": "096-03",
+  "case": "096",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave2/tD2",
+  "identifiers": 18
+ },
+ {
+  "record": "097-01",
+  "case": "097",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 48
+ },
+ {
+  "record": "097-02",
+  "case": "097",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 24
+ },
+ {
+  "record": "097-03",
+  "case": "097",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 20
+ },
+ {
+  "record": "101-01",
+  "case": "101",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 29
+ },
+ {
+  "record": "101-02",
+  "case": "101",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 38
+ },
+ {
+  "record": "101-03",
+  "case": "101",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 19
+ },
+ {
+  "record": "101-04",
+  "case": "101",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 25
+ },
+ {
+  "record": "101-05",
+  "case": "101",
+  "half": "held-out",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 38
+ },
+ {
+  "record": "105-01",
+  "case": "105",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 18
+ },
+ {
+  "record": "105-02",
+  "case": "105",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 19
+ },
+ {
+  "record": "105-03",
+  "case": "105",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 17
+ },
+ {
+  "record": "109-01",
+  "case": "109",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 38
+ },
+ {
+  "record": "109-02",
+  "case": "109",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 24
+ },
+ {
+  "record": "109-03",
+  "case": "109",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 29
+ },
+ {
+  "record": "109-04",
+  "case": "109",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 33
+ },
+ {
+  "record": "113-01",
+  "case": "113",
+  "half": "held-out",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 25
+ },
+ {
+  "record": "113-02",
+  "case": "113",
+  "half": "held-out",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 34
+ },
+ {
+  "record": "113-03",
+  "case": "113",
+  "half": "held-out",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 34
+ },
+ {
+  "record": "113-04",
+  "case": "113",
+  "half": "held-out",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA3",
+  "identifiers": 26
+ },
+ {
+  "record": "117-01",
+  "case": "117",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 19
+ },
+ {
+  "record": "117-02",
+  "case": "117",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 17
+ },
+ {
+  "record": "117-03",
+  "case": "117",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 13
+ },
+ {
+  "record": "117-04",
+  "case": "117",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 11
+ },
+ {
+  "record": "117-05",
+  "case": "117",
+  "half": "held-out",
+  "setting": "radiology and lab reports",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA3",
+  "identifiers": 10
+ },
+ {
+  "record": "121-01",
+  "case": "121",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 34
+ },
+ {
+  "record": "121-02",
+  "case": "121",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 22
+ },
+ {
+  "record": "121-03",
+  "case": "121",
+  "half": "held-out",
+  "setting": "emergency department",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 50
+ },
+ {
+  "record": "125-01",
+  "case": "125",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 16
+ },
+ {
+  "record": "125-02",
+  "case": "125",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 18
+ },
+ {
+  "record": "125-03",
+  "case": "125",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 32
+ },
+ {
+  "record": "125-04",
+  "case": "125",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 34
+ },
+ {
+  "record": "129-01",
+  "case": "129",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 18
+ },
+ {
+  "record": "129-02",
+  "case": "129",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 22
+ },
+ {
+  "record": "129-03",
+  "case": "129",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 14
+ },
+ {
+  "record": "129-04",
+  "case": "129",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 17
+ },
+ {
+  "record": "133-01",
+  "case": "133",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 15
+ },
+ {
+  "record": "133-02",
+  "case": "133",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 37
+ },
+ {
+  "record": "133-03",
+  "case": "133",
+  "half": "held-out",
+  "setting": "primary care",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 22
+ },
+ {
+  "record": "137-01",
+  "case": "137",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 43
+ },
+ {
+  "record": "137-02",
+  "case": "137",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 21
+ },
+ {
+  "record": "137-03",
+  "case": "137",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 23
+ },
+ {
+  "record": "137-04",
+  "case": "137",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "terse and heavily abbreviated",
+  "agent": "wave3/tA4",
+  "identifiers": 43
+ },
+ {
+  "record": "141-01",
+  "case": "141",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 7
+ },
+ {
+  "record": "141-02",
+  "case": "141",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 12
+ },
+ {
+  "record": "141-03",
+  "case": "141",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 7
+ },
+ {
+  "record": "141-04",
+  "case": "141",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "written by a clinician whose first language is not English",
+  "agent": "wave3/tA4",
+  "identifiers": 9
+ },
+ {
+  "record": "098-01",
+  "case": "098",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 24
+ },
+ {
+  "record": "098-02",
+  "case": "098",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 29
+ },
+ {
+  "record": "098-03",
+  "case": "098",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 13
+ },
+ {
+  "record": "098-04",
+  "case": "098",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 20
+ },
+ {
+  "record": "098-05",
+  "case": "098",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 22
+ },
+ {
+  "record": "102-01",
+  "case": "102",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 23
+ },
+ {
+  "record": "102-02",
+  "case": "102",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 17
+ },
+ {
+  "record": "102-03",
+  "case": "102",
+  "half": "tuning",
+  "setting": "behavioural health",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 24
+ },
+ {
+  "record": "106-01",
+  "case": "106",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 20
+ },
+ {
+  "record": "106-02",
+  "case": "106",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 18
+ },
+ {
+  "record": "106-03",
+  "case": "106",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 22
+ },
+ {
+  "record": "106-04",
+  "case": "106",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 23
+ },
+ {
+  "record": "110-01",
+  "case": "110",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 20
+ },
+ {
+  "record": "110-02",
+  "case": "110",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 20
+ },
+ {
+  "record": "110-03",
+  "case": "110",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 31
+ },
+ {
+  "record": "110-04",
+  "case": "110",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 32
+ },
+ {
+  "record": "114-01",
+  "case": "114",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 18
+ },
+ {
+  "record": "114-02",
+  "case": "114",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 11
+ },
+ {
+  "record": "114-03",
+  "case": "114",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 10
+ },
+ {
+  "record": "114-04",
+  "case": "114",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 11
+ },
+ {
+  "record": "114-05",
+  "case": "114",
+  "half": "tuning",
+  "setting": "nursing and care coordination",
+  "voice": "SOAP format",
+  "agent": "wave3/tB3",
+  "identifiers": 10
+ },
+ {
+  "record": "118-01",
+  "case": "118",
+  "half": "tuning",
+  "setting": "primary care",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 25
+ },
+ {
+  "record": "118-02",
+  "case": "118",
+  "half": "tuning",
+  "setting": "primary care",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 21
+ },
+ {
+  "record": "118-03",
+  "case": "118",
+  "half": "tuning",
+  "setting": "primary care",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 13
+ },
+ {
+  "record": "118-04",
+  "case": "118",
+  "half": "tuning",
+  "setting": "primary care",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB3",
+  "identifiers": 19
+ },
+ {
+  "record": "122-01",
+  "case": "122",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 28
+ },
+ {
+  "record": "122-02",
+  "case": "122",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 33
+ },
+ {
+  "record": "122-03",
+  "case": "122",
+  "half": "tuning",
+  "setting": "inpatient medicine (discharge summaries)",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 41
+ },
+ {
+  "record": "126-01",
+  "case": "126",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 19
+ },
+ {
+  "record": "126-02",
+  "case": "126",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 8
+ },
+ {
+  "record": "126-03",
+  "case": "126",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 9
+ },
+ {
+  "record": "126-04",
+  "case": "126",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 9
+ },
+ {
+  "record": "126-05",
+  "case": "126",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 6
+ },
+ {
+  "record": "130-01",
+  "case": "130",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 20
+ },
+ {
+  "record": "130-02",
+  "case": "130",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 39
+ },
+ {
+  "record": "130-03",
+  "case": "130",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 28
+ },
+ {
+  "record": "130-04",
+  "case": "130",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 34
+ },
+ {
+  "record": "134-01",
+  "case": "134",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 31
+ },
+ {
+  "record": "134-02",
+  "case": "134",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 18
+ },
+ {
+  "record": "134-03",
+  "case": "134",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 21
+ },
+ {
+  "record": "134-04",
+  "case": "134",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 15
+ },
+ {
+  "record": "138-01",
+  "case": "138",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 24
+ },
+ {
+  "record": "138-02",
+  "case": "138",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 12
+ },
+ {
+  "record": "138-03",
+  "case": "138",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 13
+ },
+ {
+  "record": "138-04",
+  "case": "138",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 18
+ },
+ {
+  "record": "138-05",
+  "case": "138",
+  "half": "tuning",
+  "setting": "oncology",
+  "voice": "SOAP format",
+  "agent": "wave3/tB4",
+  "identifiers": 17
+ },
+ {
+  "record": "142-01",
+  "case": "142",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 20
+ },
+ {
+  "record": "142-02",
+  "case": "142",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 31
+ },
+ {
+  "record": "142-03",
+  "case": "142",
+  "half": "tuning",
+  "setting": "social work and case management",
+  "voice": "legacy system ALL CAPS",
+  "agent": "wave3/tB4",
+  "identifiers": 30
+ },
+ {
+  "record": "099-01",
+  "case": "099",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 22
+ },
+ {
+  "record": "099-02",
+  "case": "099",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 22
+ },
+ {
+  "record": "099-03",
+  "case": "099",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 29
+ },
+ {
+  "record": "099-04",
+  "case": "099",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 19
+ },
+ {
+  "record": "103-01",
+  "case": "103",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 33
+ },
+ {
+  "record": "103-02",
+  "case": "103",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 43
+ },
+ {
+  "record": "103-03",
+  "case": "103",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 34
+ },
+ {
+  "record": "107-01",
+  "case": "107",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 23
+ },
+ {
+  "record": "107-02",
+  "case": "107",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 31
+ },
+ {
+  "record": "107-03",
+  "case": "107",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 21
+ },
+ {
+  "record": "107-04",
+  "case": "107",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 28
+ },
+ {
+  "record": "107-05",
+  "case": "107",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 27
+ },
+ {
+  "record": "111-01",
+  "case": "111",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 35
+ },
+ {
+  "record": "111-02",
+  "case": "111",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 15
+ },
+ {
+  "record": "111-03",
+  "case": "111",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 20
+ },
+ {
+  "record": "111-04",
+  "case": "111",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 22
+ },
+ {
+  "record": "115-01",
+  "case": "115",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 25
+ },
+ {
+  "record": "115-02",
+  "case": "115",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 36
+ },
+ {
+  "record": "115-03",
+  "case": "115",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 15
+ },
+ {
+  "record": "115-04",
+  "case": "115",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave3/tC3",
+  "identifiers": 28
+ },
+ {
+  "record": "119-01",
+  "case": "119",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 24
+ },
+ {
+  "record": "119-02",
+  "case": "119",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 42
+ },
+ {
+  "record": "119-03",
+  "case": "119",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 28
+ },
+ {
+  "record": "119-04",
+  "case": "119",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC3",
+  "identifiers": 34
+ },
+ {
+  "record": "123-01",
+  "case": "123",
+  "half": "held-out",
+  "setting": "behavioural health",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 20
+ },
+ {
+  "record": "123-02",
+  "case": "123",
+  "half": "held-out",
+  "setting": "behavioural health",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 21
+ },
+ {
+  "record": "123-03",
+  "case": "123",
+  "half": "held-out",
+  "setting": "behavioural health",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 15
+ },
+ {
+  "record": "127-01",
+  "case": "127",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 42
+ },
+ {
+  "record": "127-02",
+  "case": "127",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 33
+ },
+ {
+  "record": "127-03",
+  "case": "127",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 34
+ },
+ {
+  "record": "127-04",
+  "case": "127",
+  "half": "held-out",
+  "setting": "nursing and care coordination",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 36
+ },
+ {
+  "record": "131-01",
+  "case": "131",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 39
+ },
+ {
+  "record": "131-02",
+  "case": "131",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 39
+ },
+ {
+  "record": "131-03",
+  "case": "131",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 28
+ },
+ {
+  "record": "131-04",
+  "case": "131",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 25
+ },
+ {
+  "record": "135-01",
+  "case": "135",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 21
+ },
+ {
+  "record": "135-02",
+  "case": "135",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 29
+ },
+ {
+  "record": "135-03",
+  "case": "135",
+  "half": "held-out",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 24
+ },
+ {
+  "record": "139-01",
+  "case": "139",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 37
+ },
+ {
+  "record": "139-02",
+  "case": "139",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 27
+ },
+ {
+  "record": "139-03",
+  "case": "139",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 28
+ },
+ {
+  "record": "139-04",
+  "case": "139",
+  "half": "held-out",
+  "setting": "oncology",
+  "voice": "bullet points",
+  "agent": "wave3/tC4",
+  "identifiers": 31
+ },
+ {
+  "record": "143-01",
+  "case": "143",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 39
+ },
+ {
+  "record": "143-02",
+  "case": "143",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 32
+ },
+ {
+  "record": "143-03",
+  "case": "143",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 21
+ },
+ {
+  "record": "143-04",
+  "case": "143",
+  "half": "held-out",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "EHR template with headers and copy-forward text repeated from the last note",
+  "agent": "wave3/tC4",
+  "identifiers": 25
+ },
+ {
+  "record": "100-01",
+  "case": "100",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 21
+ },
+ {
+  "record": "100-02",
+  "case": "100",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 26
+ },
+ {
+  "record": "100-03",
+  "case": "100",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 22
+ },
+ {
+  "record": "100-04",
+  "case": "100",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 17
+ },
+ {
+  "record": "104-01",
+  "case": "104",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 39
+ },
+ {
+  "record": "104-02",
+  "case": "104",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 33
+ },
+ {
+  "record": "104-03",
+  "case": "104",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 49
+ },
+ {
+  "record": "108-01",
+  "case": "108",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 17
+ },
+ {
+  "record": "108-02",
+  "case": "108",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 7
+ },
+ {
+  "record": "108-03",
+  "case": "108",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 13
+ },
+ {
+  "record": "108-04",
+  "case": "108",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 8
+ },
+ {
+  "record": "112-01",
+  "case": "112",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 25
+ },
+ {
+  "record": "112-02",
+  "case": "112",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 37
+ },
+ {
+  "record": "112-03",
+  "case": "112",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 21
+ },
+ {
+  "record": "116-01",
+  "case": "116",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 14
+ },
+ {
+  "record": "116-02",
+  "case": "116",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 21
+ },
+ {
+  "record": "116-03",
+  "case": "116",
+  "half": "tuning",
+  "setting": "pharmacy and medication reconciliation",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD3",
+  "identifiers": 29
+ },
+ {
+  "record": "120-01",
+  "case": "120",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 29
+ },
+ {
+  "record": "120-02",
+  "case": "120",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 23
+ },
+ {
+  "record": "120-03",
+  "case": "120",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD3",
+  "identifiers": 34
+ },
+ {
+  "record": "124-01",
+  "case": "124",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 42
+ },
+ {
+  "record": "124-02",
+  "case": "124",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 16
+ },
+ {
+  "record": "124-03",
+  "case": "124",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 32
+ },
+ {
+  "record": "124-04",
+  "case": "124",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 20
+ },
+ {
+  "record": "128-01",
+  "case": "128",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 22
+ },
+ {
+  "record": "128-02",
+  "case": "128",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 51
+ },
+ {
+  "record": "128-03",
+  "case": "128",
+  "half": "tuning",
+  "setting": "paediatrics (parents and schools in the notes)",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 15
+ },
+ {
+  "record": "132-01",
+  "case": "132",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 16
+ },
+ {
+  "record": "132-02",
+  "case": "132",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 14
+ },
+ {
+  "record": "132-03",
+  "case": "132",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 6
+ },
+ {
+  "record": "132-04",
+  "case": "132",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 12
+ },
+ {
+  "record": "132-05",
+  "case": "132",
+  "half": "tuning",
+  "setting": "endocrinology",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 10
+ },
+ {
+  "record": "136-01",
+  "case": "136",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 37
+ },
+ {
+  "record": "136-02",
+  "case": "136",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 18
+ },
+ {
+  "record": "136-03",
+  "case": "136",
+  "half": "tuning",
+  "setting": "emergency department",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 17
+ },
+ {
+  "record": "140-01",
+  "case": "140",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 21
+ },
+ {
+  "record": "140-02",
+  "case": "140",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 13
+ },
+ {
+  "record": "140-03",
+  "case": "140",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 19
+ },
+ {
+  "record": "140-04",
+  "case": "140",
+  "half": "tuning",
+  "setting": "orthopaedics and surgery (operative notes)",
+  "voice": "speech-recognition errors left in",
+  "agent": "wave3/tD4",
+  "identifiers": 23
+ },
+ {
+  "record": "144-01",
+  "case": "144",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 12
+ },
+ {
+  "record": "144-02",
+  "case": "144",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 17
+ },
+ {
+  "record": "144-03",
+  "case": "144",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 6
+ },
+ {
+  "record": "144-04",
+  "case": "144",
+  "half": "tuning",
+  "setting": "radiology and lab reports",
+  "voice": "long dictated prose with 'Dictated but not read'",
+  "agent": "wave3/tD4",
+  "identifiers": 13
+ }
+]

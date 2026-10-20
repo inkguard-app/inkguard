@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Lakehead Behavioral Wellness Center
+410 Harbormaster Way, Duluth, MN 5580
+March 30, 2090
+
+Dr. Femi Oyedepo-Strand
+Bluestem Dental Associates
+Fax (218) 555-0188
+
+RE: Elias Frost (DOB 11/04/2008), MRN LBW-90-44127
+Dear Dr. Oyedepo-Strand,
+
+Thank you for seeing Mr. Frost, an 81-year-old retired man, for dental evaluation. He has long standing hx of loss of teeth, gingivitis (last treated Feb 2083), and a cavity 2081. He is on simvastatin only; BP was 80/55 today at his wellness visit (low, he is asymptomatic, repeat showed same) so please take it slowly with epinephrine. He has obstructive sleep apnea.
+
+He lives with his wife, Hope, and she or their daughter Luz Frost-Ibarra will come with him. Transport has been hard since their landlord sold the building; ask the front desk to confirm any appointment by phone, wife's cell (218) 555-0133.
+
+Hope to hear back soon. 
+
+Sincerely,
+
+Nandini Rajagopalan-Whitfield, MD
+Behavioral Health / Primary Care
+dictated 03/30/2090, transcribed 03/31/2090 -- "Rajagopalen" in the header in error
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="35" text="Lakehead Behavioral Wellness Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="36" end="56" text="410 Harbormaster Way" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="58" end="64" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="66" end="68" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="69" end="73" text="5580" TYPE="ZIP" comment="" />
+<DATE id="P5" start="74" end="88" text="March 30, 2090" TYPE="DATE" comment="" />
+<NAME id="P6" start="94" end="113" text="Femi Oyedepo-Strand" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="114" end="140" text="Bluestem Dental Associates" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P8" start="145" end="159" text="(218) 555-0188" TYPE="FAX" comment="" />
+<NAME id="P9" start="165" end="176" text="Elias Frost" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="182" end="192" text="11/04/2008" TYPE="DATE" comment="" />
+<ID id="P11" start="199" end="211" text="LBW-90-44127" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P12" start="221" end="235" text="Oyedepo-Strand" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="263" end="268" text="Frost" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="273" end="275" text="81" TYPE="AGE" comment="" />
+<DATE id="P15" start="388" end="396" text="Feb 2083" TYPE="DATE" comment="" />
+<DATE id="P16" start="412" end="416" text="2081" TYPE="DATE" comment="" />
+<NAME id="P17" start="632" end="636" text="Hope" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="664" end="680" text="Luz Frost-Ibarra" TYPE="PATIENT" comment="" />
+<CONTACT id="P19" start="833" end="847" text="(218) 555-0133" TYPE="PHONE" comment="" />
+<NAME id="P20" start="888" end="917" text="Nandini Rajagopalan-Whitfield" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="964" end="974" text="03/30/2090" TYPE="DATE" comment="" />
+<DATE id="P22" start="988" end="998" text="03/31/2090" TYPE="DATE" comment="" />
+<NAME id="P23" start="1003" end="1014" text="Rajagopalen" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

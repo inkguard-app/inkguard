@@ -1,0 +1,20 @@
+PEDIATRIC NEUROSURGERY CLINIC
+{{FACILITY|Larkfield Children's Medical Center}}
+Patient: {{NAME|Elodie Chiari-Moss}}   DOB {{DATE|07/22/2066}}   MRN {{MRN|LCM-2201857}}
+Visit {{DATE|09/12/2075}}
+History taken by {{NAME|Graciela Fontaine}}, PA-C; seen with Dr. {{NAME|Hollis Brightman-Sefu}}
+
+9-year-old girl (mother {{NAME|Danielle Chiari-Moss}} jokes that the family name "finally makes sense") with occipital headaches provoked by coughing, laughing and straining ([[Valsalva-induced tussive headache]]), lasting seconds to minutes. Teacher at {{ORG|Hollybush Lane Elementary School}} reports she stops running at recess due to headaches. Two months of intermittent [[dysphagia]] and snoring.
+
+Exam: [[downbeat nystagmus]] on lateral gaze, absent [[gag reflex]] on the left, [[left hand intrinsic weakness]], [[dissociated suspended sensory loss]] over the shoulders, [[scoliosis]] on [[Adam forward bend]]. [[Abdominal reflexes]] absent on the left.
+
+MRI brain and whole spine: [[Chiari I malformation]] with [[tonsillar ectopia]] 11 mm below the [[foramen magnum]] ([[McRae line]]), peg-shaped tonsils, crowded [[craniocervical junction]], [[holocord syrinx]] C2-T9 (max width 7 mm). [[Phase-contrast CSF flow MRI]]: absent flow dorsal to the tonsils. No [[basilar invagination]] ([[Chamberlain line]] normal), [[clivo-axial angle]] 145 degrees, no [[retroflexed odontoid]]. Polysomnography: [[central sleep apnoea]] AHI 6.
+
+Plan: [[suboccipital decompression]] with [[C1 laminectomy]] and [[expansile duraplasty]]. Not a [[Chiari malformation type II]] (no myelomeningocele). Consent signed by mother.
+=====NOTE=====
+OPERATIVE NOTE — {{DATE|10/03/2075}} — {{NAME|CHIARI-MOSS, ELODIE}} — {{MRN|LCM-2201857}}
+Surgeon {{NAME|H. Brightman-Sefu}}; fellow Dr. {{NAME|Ngozi Afolabi-Strand}}; neuromonitoring technologist {{NAME|Damon Kowalczyk}}, R. EP T.
+Prone in [[Mayfield three-pin head holder]] (pediatric pins, reduced pressure 40 lb). [[SSEP]] and [[MEP]] baselines obtained before and after positioning — no change with neck flexion. [[Suboccipital craniectomy]] 3 x 3 cm, [[C1 posterior arch removal]]. [[Intraoperative ultrasound]] after bony decompression showed persistent tonsillar crowding; Y-shaped durotomy preserving the [[arachnoid]]; [[expansile duraplasty]] with [[bovine pericardium]] graft; [[tonsillar coagulation (subpial reduction)]] not required. Ultrasound confirmed free CSF pulsation at the [[obex]]. [[DuraSeal]] applied. Muscle closed in layers to reduce [[pseudomeningocele]] risk. [[Cefazolin 30 mg/kg]], [[dexamethasone 0.15 mg/kg]] once.
+EBL 40 mL. Extubated. Admit PICU overnight.
+=====NOTE=====
+PICU/FLOOR NOTE POD2 {{DATE|10/05/2075}} {{NAME|E. Chiari-Moss}}: tolerating diet, no [[pseudomeningocele]], no [[aseptic meningitis]] signs. Neck stiffness mild. [[Gag reflex]] symmetric now. [[Oxycodone 0.1 mg/kg]] PRN, [[diazepam]] for muscle spasm. [[Downbeat nystagmus]] less prominent. [[Ondansetron]] PRN for nausea. Monitor for [[hydrocephalus]] and [[CSF leak]]. Discharge POD3. School note for {{ORG|Hollybush Lane Elementary School}} — no contact sports 3 months. MRI at 6 months to evaluate [[syrinx]] resolution and [[tonsillar]] position; [[scoliosis]] films ([[Cobb angle]] currently 22 degrees) in 6 months; repeat [[polysomnography]] for [[central sleep apnoea]]. Note by {{NAME|G. Fontaine}}, PA-C.

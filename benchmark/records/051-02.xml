@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 5902 | ENC E-99120 | PT_NAME: Frost, Sky | NOTE_TYPE: TELEPHONE ENCOUNTER
+
+** Telephone encounter ** 01/27/2072 08:52  (taken by Kash Beaumont, MA)
+
+Caller: mother, Hope Frost, re her daughter Sky (8), DOB 3/9/63  callback (828) 555-0142
+
+- Seen yesterday (Tuesday) for bronchitis. Pt on tylenol per instructions
+- Mom says cough is wrose at nite, no fever over 100.4, drinking ok
+- Asked if Sky can go to soccer practise Thursday. Coach is Sunday Okpara
+- Mom also asked if the older brother x183474 (hes 14, goes by his gamer tag, she says to just call him that) needs to stay home from school. Told her no, not unless symptoms
+- brother's real name is Tobias per chart, mom laughed
+- Mom worried about "the sky is the limit" cough drops, grandmother Bless Adeyemi gave honey?? Reminded no honey under 1 yr but fine for Sky, ok
+
+Per Dr. Page: continue acetaminophen, fluids, rest 2-3 more days. Come in if breathing fast, fever &gt;101 for 48h, or not drinking.
+Mom verbalised understanding. Spoke 6 min.
+
+routed to: wpage ; cc Dawn Summer RN (school nurse) NOT sent, check box left blank
+
+--- per prior note, see below ---
+Cedar Hollow Pediatrics  letter 01/10/2069
+RE: Sky Frots, 5 y.o., kindergarten at Willowmere Elementary
+- return half days, no climbing frame. mom is Hope Forst, dad Royal Adeyemi
+Electronically signed 01/10/2069 16:41 by wpage
+(visit 3/1/69 concussion resolved - FYI this was never closed in the tracker)
+</TEXT>
+<TAGS>
+<ID id="P0" start="15" end="22" text="E-99120" TYPE="IDNUM" comment="" />
+<NAME id="P1" start="34" end="44" text="Frost, Sky" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="105" end="115" text="01/27/2072" TYPE="DATE" comment="" />
+<NAME id="P3" start="133" end="146" text="Kash Beaumont" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="169" end="179" text="Hope Frost" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="197" end="200" text="Sky" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="202" end="203" text="8" TYPE="AGE" comment="" />
+<DATE id="P7" start="210" end="216" text="3/9/63" TYPE="DATE" comment="" />
+<CONTACT id="P8" start="227" end="241" text="(828) 555-0142" TYPE="PHONE" comment="" />
+<DATE id="P9" start="261" end="268" text="Tuesday" TYPE="DATE" comment="" />
+<DATE id="P10" start="426" end="434" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P11" start="445" end="458" text="Sunday Okpara" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="497" end="504" text="x183474" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="659" end="665" text="Tobias" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="757" end="770" text="Bless Adeyemi" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="843" end="847" text="Page" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1020" end="1025" text="wpage" TYPE="USERNAME" comment="" />
+<NAME id="P17" start="1031" end="1042" text="Dawn Summer" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="1127" end="1150" text="Cedar Hollow Pediatrics" TYPE="HOSPITAL" comment="" />
+<DATE id="P19" start="1159" end="1169" text="01/10/2069" TYPE="DATE" comment="" />
+<NAME id="P20" start="1174" end="1183" text="Sky Frots" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="1185" end="1186" text="5" TYPE="AGE" comment="" />
+<LOCATION id="P22" start="1209" end="1230" text="Willowmere Elementary" TYPE="ORGANIZATION" comment="" />
+<NAME id="P23" start="1277" end="1287" text="Hope Forst" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1293" end="1306" text="Royal Adeyemi" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="1329" end="1339" text="01/10/2069" TYPE="DATE" comment="" />
+<NAME id="P26" start="1349" end="1354" text="wpage" TYPE="USERNAME" comment="" />
+<DATE id="P27" start="1362" end="1368" text="3/1/69" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

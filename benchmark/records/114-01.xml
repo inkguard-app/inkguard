@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL - LABOR AND DELIVERY ADMISSION
+Cedar Ridge Medical Center     Date: 05/23/2067
+Pt: FROST, AMARIS    MRN CR-4408216    Bed 4W-12
+Written by: Elodie Marchetti, MS3, for Pilar Okonjo, MD
+
+**NAME ALERT** another pt on unit with same last name: FROST, AMBER room 4W-17 - check 2 identifiers before every med!!
+
+S: 39 y.o. G1P0 at term, presented to the ED w/ contractions q4min since the morning and leaking fluid. Ms. Frost's prenatal course was uncomplicated (visits monthly from October 2066). GBS swab done 05/09/2067 -- strep group B antigen result sent. Denies vaginal bleeding, headache, vision change. Past hx: recurrent UTI, chronic sinusitis, prediabetes, anemia (iron), prior concussion. No allergies. Soc: single, formerly bookkeeper at Pinecone Bookkeeping, mother Lorna visiting, supportive partner Devendra Rao at bedside, lives locally, finished college.
+Pt's chief concern in her words: "i just want the baby to be okay."
+
+O: BP 128/84, afebrile. Gen: tired but comfortable between contractions. Abd gravid, fundal height 38 cm, cephalic by Leopold's. FHR 140s reactive. Cervix 4 cm / 80% / -1.
+
+A: 1. Term pregnancy in early labor. 2. Prediabetes, diet controlled. 3. GBS status as above.
+P: Admit L&amp;D. Augment labor w/ oxytocin per protocol. Continuous fetal monitoring. Pain plan epidural on request. Anaesthesia aware. Will update attending.
+
+In conclusion, this patient's journey to motherhood is just beginning and she is brave.
+(Seen with attending, who agrees. Signed E. Marchetti MS3 05/23/2067 07:55)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="52" end="78" text="Cedar Ridge Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="89" end="99" text="05/23/2067" TYPE="DATE" comment="" />
+<NAME id="P2" start="104" end="117" text="FROST, AMARIS" TYPE="PATIENT" comment="" />
+<ID id="P3" start="125" end="135" text="CR-4408216" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P4" start="143" end="148" text="4W-12" TYPE="ROOM" comment="" />
+<NAME id="P5" start="161" end="177" text="Elodie Marchetti" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="188" end="200" text="Pilar Okonjo" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="261" end="273" text="FROST, AMBER" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="279" end="284" text="4W-17" TYPE="ROOM" comment="" />
+<AGE id="P9" start="330" end="332" text="39" TYPE="AGE" comment="" />
+<NAME id="P10" start="435" end="440" text="Frost" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="498" end="510" text="October 2066" TYPE="DATE" comment="" />
+<DATE id="P12" start="527" end="537" text="05/09/2067" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="765" end="785" text="Pinecone Bookkeeping" TYPE="ORGANIZATION" comment="" />
+<NAME id="P14" start="794" end="799" text="Lorna" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="829" end="841" text="Devendra Rao" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1509" end="1521" text="E. Marchetti" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1526" end="1536" text="05/23/2067" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

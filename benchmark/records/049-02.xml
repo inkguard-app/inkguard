@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE NOTE - Harbor Dental Surgery Center
+Pt: VOLK, DANIEL   MRN 4471-209   DOS 01/18/2080
+(x-ray film sleeve from 01/17/2080 labeled "Volkov, Dmitri" - same pt, confirmed by DOB 11/20/2050 verbal, chart says 11/02/2050. pt gave bth date 2 diff ways. went w chart)
+Surgeon: Hyun-woo Baek, DDS    Asst: Colm Detweiler
+Pre-op dx: gingivits/gingival disease, primary dental caries.  Post-op dx same.
+Proc: gingivectomy/gingivoplasty per tooth, restoration w full cusp coverage, fluoride tx, OHI.
+Anesth: local, lidocaine w epi. Pt reports "no sieuzures ever" - NOTE chart has seizure d/o dx 2051. Told anesthesia to proceed w local only, no sedation.
+Tolerated well. EBL minimal. no complications. sutures none.
+Post-op: soft diet, chlorhexidine rinse BID, f/u 2 wks. Ride home = girlfriend Tessa waiting in lobby, brother Pavel Volkov to pick up later.
+Pasted from 01/17 note: Exam of gingivae, bitewing xrays, scaling sub and supragingival, desensitizing medicament. Pt cooperative. Hx per pt: lives w mother Irina Volkova 29?? (no - mother is 58, lives in Superior WI, landlord Sunil Patel is who pt lives near)
+Electronically signed by Hyun-woo Baek, DDS on 01/18/2080 15:10
+Last edited by hbaek on 1/18/2080 15:44 from 10.20.4.55
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="17" end="45" text="Harbor Dental Surgery Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="56" end="62" text="DANIEL" TYPE="PATIENT" comment="" />
+<ID id="P2" start="69" end="77" text="4471-209" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="84" end="94" text="01/18/2080" TYPE="DATE" comment="" />
+<DATE id="P4" start="119" end="129" text="01/17/2080" TYPE="DATE" comment="" />
+<NAME id="P5" start="139" end="153" text="Volkov, Dmitri" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="183" end="193" text="11/20/2050" TYPE="DATE" comment="" />
+<DATE id="P7" start="213" end="223" text="11/02/2050" TYPE="DATE" comment="" />
+<NAME id="P8" start="278" end="291" text="Hyun-woo Baek" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="306" end="320" text="Colm Detweiler" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="592" end="596" text="2051" TYPE="DATE" comment="" />
+<NAME id="P11" start="792" end="797" text="Tessa" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="824" end="836" text="Pavel Volkov" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1012" end="1025" text="Irina Volkova" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="1026" end="1028" text="29" TYPE="AGE" comment="" />
+<AGE id="P15" start="1047" end="1049" text="58" TYPE="AGE" comment="" />
+<LOCATION id="P16" start="1060" end="1068" text="Superior" TYPE="CITY" comment="" />
+<LOCATION id="P17" start="1069" end="1071" text="WI" TYPE="STATE" comment="" />
+<NAME id="P18" start="1082" end="1093" text="Sunil Patel" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1141" end="1154" text="Hyun-woo Baek" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1163" end="1173" text="01/18/2080" TYPE="DATE" comment="" />
+<NAME id="P21" start="1195" end="1200" text="hbaek" TYPE="USERNAME" comment="" />
+<DATE id="P22" start="1204" end="1213" text="1/18/2080" TYPE="DATE" comment="" />
+<CONTACT id="P23" start="1225" end="1235" text="10.20.4.55" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

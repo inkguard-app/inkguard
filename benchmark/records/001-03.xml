@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>.HPI  PROGRESS NOTE (SOAP)    06/02/2091   Primary Care
+Pt: Brenna Kowalczyk-Aldous  DOB 09/22/2040  Age: 50  MRN 4471-0829
+PCP: Dr. Ifeoma Nwachukwu
+
+S: @NAME@ is a 50 y.o. female c/o feeling "flat" since losing the preg in March. Complete miscarriage 3/13. Also laid off from Hartwell Dental Supply (PT) last wk. Not sleeping, isolating, sister Renata Pruit worried. Denies SI. EtOH: AUDIT-C neg. no drugs. Mother Ottilie is 92 yo at Pinecrest, falls, pt visits dly - stress. Divorced from Dale, no contact, hx IPV resolved.
+O: BP 136/85, wt 76.3 kg, BMI 28.9, pain 3. Gen: tearful at times, NAD. HbA1c 6.0, glu 78.9, TC 169.5, LDL 86.7. PHQ screen done, GAD-7 5 (was 18 on 6/25/2089).
+A:
+1. Prediabetes - stable, A1c 6.0
+2. Anxiety, improved vs 2089
+3. Grief after pregnancy loss, social isolation, unemployed
+4. Gingivitis - dental referral
+5. Colon ca screening due age 50, GI referral done
+P: counselling resources, SW referral for job + benefits, f/u 4 wk, colonoscopy w/ Dr. Tran. Med rec done - no meds currently, Mirena out. pt not on any meds. Seasonique STILL on list - remove.
+Pt drives self, no safety concerns. spoke w/ pt abt hx of abuse, none ongoing
+
+Electronically signed by Ifeoma Nwachukwu, MD 06/02/2091 16:10
+Routed to: Dr. Samuel Tran, fax (937) 555-0140; H. Granger DDS fax (937) 555-0177
+</TEXT>
+<TAGS>
+<DATE id="P0" start="30" end="40" text="06/02/2091" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="43" end="55" text="Primary Care" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="60" end="83" text="Brenna Kowalczyk-Aldous" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="89" end="99" text="09/22/2040" TYPE="DATE" comment="" />
+<AGE id="P4" start="106" end="108" text="50" TYPE="AGE" comment="" />
+<ID id="P5" start="114" end="123" text="4471-0829" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="133" end="149" text="Ifeoma Nwachukwu" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="166" end="168" text="50" TYPE="AGE" comment="" />
+<DATE id="P8" start="225" end="230" text="March" TYPE="DATE" comment="" />
+<DATE id="P9" start="253" end="257" text="3/13" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="278" end="300" text="Hartwell Dental Supply" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="347" end="359" text="Renata Pruit" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="416" end="423" text="Ottilie" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="427" end="429" text="92" TYPE="AGE" comment="" />
+<NAME id="P14" start="492" end="496" text="Dale" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="676" end="685" text="6/25/2089" TYPE="DATE" comment="" />
+<DATE id="P16" start="748" end="752" text="2089" TYPE="DATE" comment="" />
+<NAME id="P17" start="983" end="987" text="Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1194" end="1210" text="Ifeoma Nwachukwu" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1215" end="1225" text="06/02/2091" TYPE="DATE" comment="" />
+<NAME id="P20" start="1247" end="1258" text="Samuel Tran" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="1264" end="1278" text="(937) 555-0140" TYPE="FAX" comment="" />
+<NAME id="P22" start="1280" end="1290" text="H. Granger" TYPE="DOCTOR" comment="" />
+<CONTACT id="P23" start="1299" end="1313" text="(937) 555-0177" TYPE="FAX" comment="" />
+</TAGS>
+</deIdi2b2>

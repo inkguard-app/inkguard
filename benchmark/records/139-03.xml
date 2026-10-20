@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Cobalt Ridge Cancer Center
+Hematology / Oncology - 410 Alder Street, Greenville, SC 29601
+
+May 24, 2088
+
+To: Human Resources, Harlan &amp; Dunmore Insurance Group
+Attn: Ms. Priya Ramanathan
+Re: Family leave certification - employee Nova Early-Pike (employee ID E-40817)
+
+To whom it may concern,
+
+- I am the oncologist for Juniper Early (DOB 02/19/2023), mother of the employee above. She has a serious health condition and underwent an autologous stem cell transplant in April 2088; she left hospital on May 22.
+- Her daughter is her primary caregiver at home and needs to drive her to visits and be present for the first weeks.
+- I certify the need for intermittent leave of up to 2 days per week from May 24, 2088 through August 31, 2088, with possible extension.
+- Her other child, Twelve Early, lives out of state and cannot share the daily care. Neighbours Mr. Page and his wife help with errands only.
+- No diagnosis details are being shared beyond what is needed.
+
+[x] Employee has already signed the release   [ ] Release pending   Release form no. REL-2088-0315
+
+Please send questions to the office, (864) 555-0120, or email tvasquez@cobaltridge.example. Fax the form back to (864) 555-0121.
+
+Sincerely,
+
+Tre Vasquez, MD
+Medical Oncology
+Dictated 05/23/2088, not proofread. "Early" here is the patient's surname, not an adverb. Early return of the form is appreciated.
+
+cc: patient; Nova at nova.earlypike@mailbox.example
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="26" text="Cobalt Ridge Cancer Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="27" end="48" text="Hematology / Oncology" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P2" start="51" end="67" text="410 Alder Street" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="69" end="79" text="Greenville" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="81" end="83" text="SC" TYPE="STATE" comment="" />
+<LOCATION id="P5" start="84" end="89" text="29601" TYPE="ZIP" comment="" />
+<DATE id="P6" start="91" end="103" text="May 24, 2088" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="126" end="158" text="Harlan &amp; Dunmore Insurance Group" TYPE="ORGANIZATION" comment="" />
+<NAME id="P8" start="165" end="185" text="Ms. Priya Ramanathan" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="228" end="243" text="Nova Early-Pike" TYPE="PATIENT" comment="" />
+<ID id="P10" start="257" end="264" text="E-40817" TYPE="IDNUM" comment="" />
+<NAME id="P11" start="318" end="331" text="Juniper Early" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="337" end="347" text="02/19/2023" TYPE="DATE" comment="" />
+<DATE id="P13" start="467" end="477" text="April 2088" TYPE="DATE" comment="" />
+<DATE id="P14" start="500" end="506" text="May 22" TYPE="DATE" comment="" />
+<DATE id="P15" start="699" end="711" text="May 24, 2088" TYPE="DATE" comment="" />
+<DATE id="P16" start="720" end="735" text="August 31, 2088" TYPE="DATE" comment="" />
+<NAME id="P17" start="781" end="793" text="Twelve Early" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="858" end="866" text="Mr. Page" TYPE="PATIENT" comment="" />
+<ID id="P19" start="1053" end="1066" text="REL-2088-0315" TYPE="IDNUM" comment="" />
+<CONTACT id="P20" start="1105" end="1119" text="(864) 555-0120" TYPE="PHONE" comment="" />
+<CONTACT id="P21" start="1130" end="1158" text="tvasquez@cobaltridge.example" TYPE="EMAIL" comment="" />
+<CONTACT id="P22" start="1181" end="1195" text="(864) 555-0121" TYPE="FAX" comment="" />
+<NAME id="P23" start="1210" end="1221" text="Tre Vasquez" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1252" end="1262" text="05/23/2088" TYPE="DATE" comment="" />
+<NAME id="P25" start="1280" end="1285" text="Early" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1388" end="1392" text="Nova" TYPE="PATIENT" comment="" />
+<CONTACT id="P27" start="1396" end="1426" text="nova.earlypike@mailbox.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER
+Hudson Crossing Cancer and Genetics Center
+Date: 11/14/2089   Time of call: 10:12   Taken by: Dwayne Pruett, medical assistant
+
+-&gt; Caller: patient, Daisy (legal name Marguerite Hartley-Nwosu), DOB 3/15/2056
+-&gt; Callback: 518-555-0176, ok to leave detailed message? YES
+-&gt; RE: results of last Saturday's blood work + question about prenatal visit
+
+"What she said"
+- She is pregnant (found out a few weeks ago) and wants to know whether the genetic risk counselling can go ahead anyway. Pt sounded a bit stressed but chill.
+- Her mother Beatrice had breast cancer in her fifties which is why she was referred. Sister Cordelia is the one who told her about the test.
+- Asked about her Epi pen, she wants to check it is not expired, serial # EPI-SN 70441-K9 (she read it out slowly, "E P I dash S N, seven oh four four one dash K nine").
+- Allergies: loratadine PRN + the epinephrine (since childhood)
+
+"What I did"
+- Transferred to nurse navigator Fatima on ext x4421, no answer, left page on pager 4417
+- Told pt Dr. Tamihana will call back within 2 business days.
+
+In conclusion, the patient's journey today was a call about worry; she was reassured. Routed to Dr. Tamihana. Hepatitis, HIV, rubella etc. done 11/11 at the OB intake, results are with Capital Women's Health Associates.
+
+Dictated but not read -- Last edited by dpruett from 172.16.8.113 on 11/14/2089 10:31
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="62" text="Hudson Crossing Cancer and Genetics Center" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="69" end="79" text="11/14/2089" TYPE="DATE" comment="" />
+<NAME id="P2" start="114" end="127" text="Dwayne Pruett" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="168" end="173" text="Daisy" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="186" end="210" text="Marguerite Hartley-Nwosu" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="217" end="226" text="3/15/2056" TYPE="DATE" comment="" />
+<CONTACT id="P6" start="240" end="252" text="518-555-0176" TYPE="PHONE" comment="" />
+<DATE id="P7" start="311" end="319" text="Saturday" TYPE="DATE" comment="" />
+<NAME id="P8" start="554" end="562" text="Beatrice" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="634" end="642" text="Cordelia" TYPE="PATIENT" comment="" />
+<ID id="P10" start="757" end="772" text="EPI-SN 70441-K9" TYPE="DEVICE" comment="" />
+<NAME id="P11" start="964" end="970" text="Fatima" TYPE="DOCTOR" comment="" />
+<CONTACT id="P12" start="978" end="983" text="x4421" TYPE="PHONE" comment="" />
+<CONTACT id="P13" start="1015" end="1019" text="4417" TYPE="PHONE" comment="" />
+<NAME id="P14" start="1034" end="1042" text="Tamihana" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="1227" end="1232" text="11/11" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="1268" end="1301" text="Capital Women's Health Associates" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P17" start="1357" end="1369" text="172.16.8.113" TYPE="IPADDR" comment="" />
+<DATE id="P18" start="1373" end="1383" text="11/14/2089" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

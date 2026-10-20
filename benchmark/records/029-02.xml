@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Liffeyside General Hospital  -  DEPARTMENT OF RADIOLOGY
+CHEST RADIOGRAPH PA AND LATERAL                                    Accession no: XR/82/061/3390
+Name: Oksana Havrylenko      D.O.B.: 19.05.2061      Hosp no: LGH 20-448193      Sex: F
+Date of exam: 01/06/2082   08:55          Ward/Location: Maternity Ward 2, bed 11
+Requested by: Dr E. Villaverde Mora (Cardiology)       Reported by: Dr Anjali Deshpande-Kerr, Consultant Radiologist
+
+CLINICAL DETAILS (as given on request): 21 year old, 34 weeks pregnant, severe pre-eclampsia admitted yesterday evening, dispnea and orthopnea since 2 days. Exclude pulmonary edema, cardiomegaly. Abdomen shielded.
+
+TECHNIQUE: PA erect and lateral in the bed (patient could not stand well), low dose, lead shield apply on the abdomen.
+
+COMPARISON: There is no previous chest imaging in our system. Patient say she had a chest film in Lviv, Ukraine in 2079 at her university medical check but is no possible to get.
+
+FINDINGS:
+The heart size is in the normal limits (cardiothoracic ratio about 0.50, taking in account the AP projection and the pregnancy). The mediastinal contour is normal. No widened mediastinum.
+Lungs: mild perihilar haziness and Kerley B lines at both bases, in keeping with early interstitial pulmonary edema. No consolidation. Small bilateral pleural effusions, blunting of the costophrenic angles, right more than left. No pneumothorax.
+Bones: the left clavicle shows an old healed fracture with callus, mid shaft, no acute abnormality. (Matches history of clavicle fracture 09/2074 in the clinical notes.) Rest of visible skeleton normal.
+Upper abdomen: gas pattern normal.
+Lines: no lines or tubes.
+
+IMPRESSION:
+1. Early interstitial pulmonary edema with small bilateral effusions, heart size normal. This may be due to hypertensive disorder of the pregnancy, a cardiac cause is less likely but echocardiogram is suggested.
+2. Old healed left clavicle fracture.
+3. No pneumonia. No sign of Pott's or sarcoid disease.
+
+Recommend: echocardiography, and repeat film after delivery and diuresis. Results phoned to Dr Villaverde at 09:40 on 01/06/2082 and to the ward sister Grace Day, who read back.
+
+Reported 01/06/2082 09:32 by A. Deshpande-Kerr; verified electronically. Typed by secretary M. Gray (initials MG) / audit adkerr from 172.20.31.8
+Copies: Prof N. Brannigan (Obstetrics), GP Dr Hearn, Hearn &amp; Quigley Medical Practice, 12 Kilmainham Lane, Dublin 8
+Page 2 of 2 - HAVRYLENKO O. - 20-448193
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="Liffeyside General Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="55" text="DEPARTMENT OF RADIOLOGY" TYPE="DEPARTMENT" comment="" />
+<ID id="P2" start="137" end="151" text="XR/82/061/3390" TYPE="IDNUM" comment="" />
+<NAME id="P3" start="158" end="175" text="Oksana Havrylenko" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="189" end="199" text="19.05.2061" TYPE="DATE" comment="" />
+<ID id="P5" start="214" end="227" text="LGH 20-448193" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="254" end="264" text="01/06/2082" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="297" end="321" text="Maternity Ward 2, bed 11" TYPE="ROOM" comment="" />
+<NAME id="P8" start="339" end="357" text="E. Villaverde Mora" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="393" end="414" text="Anjali Deshpande-Kerr" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="480" end="491" text="21 year old" TYPE="AGE" comment="" />
+<LOCATION id="P11" start="873" end="877" text="Lviv" TYPE="CITY" comment="" />
+<LOCATION id="P12" start="879" end="886" text="Ukraine" TYPE="COUNTRY" comment="" />
+<DATE id="P13" start="890" end="894" text="2079" TYPE="DATE" comment="" />
+<DATE id="P14" start="1537" end="1544" text="09/2074" TYPE="DATE" comment="" />
+<NAME id="P15" start="2077" end="2087" text="Villaverde" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="2100" end="2110" text="01/06/2082" TYPE="DATE" comment="" />
+<NAME id="P17" start="2134" end="2143" text="Grace Day" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="2170" end="2180" text="01/06/2082" TYPE="DATE" comment="" />
+<NAME id="P19" start="2190" end="2207" text="A. Deshpande-Kerr" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="2253" end="2260" text="M. Gray" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="2271" end="2273" text="MG" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="2283" end="2289" text="adkerr" TYPE="USERNAME" comment="" />
+<CONTACT id="P23" start="2295" end="2306" text="172.20.31.8" TYPE="IPADDR" comment="" />
+<NAME id="P24" start="2320" end="2332" text="N. Brannigan" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="2353" end="2358" text="Hearn" TYPE="DOCTOR" comment="" />
+<LOCATION id="P26" start="2360" end="2392" text="Hearn &amp; Quigley Medical Practice" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P27" start="2394" end="2412" text="12 Kilmainham Lane" TYPE="STREET" comment="" />
+<LOCATION id="P28" start="2414" end="2420" text="Dublin" TYPE="CITY" comment="" />
+<NAME id="P29" start="2437" end="2450" text="HAVRYLENKO O." TYPE="PATIENT" comment="" />
+<ID id="P30" start="2453" end="2462" text="20-448193" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

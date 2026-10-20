@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>RADIOLOGY REPORT
+Harlan County General Hospital - Department of Radiology
+Patient: CHANCE, SILAS H    DOB 02/19/1995    Exam date: 05/24/2089
+EXAMINATION: Chest radiograph, two views, and lumbar spine radiograph.
+CLINICAL INDICATION: 94 year old man with dementia, found confused, possible fall, chronic back pain.
+COMPARISON: None in our system.
+
+FINDINGS: Chest: Heart size is at the upper limit of normal. Mild pulmonary vascular prominence consistent with volume overload in a patient with chronic kidney disease. No focal consolidation, effusion or pneumothorax. There is a healed deformity of the left clavicle in keeping with an old fracture. A metallic chain with a small flat identification tag lies over the upper chest, outside the patient. The legible stamped lettering on the tag reads "CHANCE SILAS H  US 55 417 308  T89  PROT" and, on the back, "LUCKY". This is a personal item and has been noted for the nurse.
+Lumbar spine: Mild multilevel degenerative disc space narrowing and anterior osteophytes. Vertebral body heights preserved. No acute fracture.
+
+IMPRESSION:
+1. Mild pulmonary vascular congestion, no pneumonia.
+2. Old left clavicle fracture, healed.
+3. No acute lumbar fracture; degenerative changes.
+4. Identification tag over the chest, outside the body - recommend return to the patient or niece.
+
+Dictated by Imogen Pettibone, MD, Radiology. Dictated but not read. 05/24/2089 16:41.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="17" end="47" text="Harlan County General Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="50" end="73" text="Department of Radiology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="83" end="98" text="CHANCE, SILAS H" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="106" end="116" text="02/19/1995" TYPE="DATE" comment="" />
+<DATE id="P4" start="131" end="141" text="05/24/2089" TYPE="DATE" comment="" />
+<AGE id="P5" start="234" end="236" text="94" TYPE="AGE" comment="" />
+<NAME id="P6" start="800" end="814" text="CHANCE SILAS H" TYPE="PATIENT" comment="" />
+<ID id="P7" start="816" end="829" text="US 55 417 308" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="861" end="866" text="LUCKY" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="1338" end="1354" text="Imogen Pettibone" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="1394" end="1404" text="05/24/2089" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX                                  NORTHGATE CARDIOLOGY ASSOCIATES
+TO:    Haven Prassad, MD, Tri-River Gastroenterology
+FAX:   (423) 555-0171                PHONE: (423) 555-0170
+FROM:  Pilar Grove for Lane Winter, MD       FAX: (423) 555-0140
+DATE:  11/25/2076       PAGES: 4 including cover
+RE:    ELWOOD T FAULKNER    DOB 02/17/2021    Age 55
+
+COVER MESSAGE
+Dear Dr. Prasad,
+Mr. Faulkner (he goes by Tre) was seen today in cardiology clinic and has new anemia: Hgb 11.9 on 11/25/2076, WBC 7.8; it was 15.7 on 11/01/2073. He is on clopidogrel, so we are worried about GI loss. Colonoscopy on 10/27/2076 at your office -- we do not have the report. Please send it, and let us know if any antiplatelet hold is needed for repeat work up.
+Attached: AVS 11/13/2075 and nursing note (pasted below). Please call Dr. Winter at x4417 or page 5521.
+
+&gt;&gt;&gt; pasted from nursing note 01/30/2074
+Pt: FAULKNER, ELWOOD T  MRN 063-88145. Nurse Joy Park, RN. BP 107, Wt 82.1 kg. Meds: clopidogrel, simvastatin, metoprolol, amlodipine, naproxen (verify)
+Lives alone, daughter Legend Falkner. Ride plate TN 7TRE441.
+
+&gt;&gt;&gt; pasted AVS 11/13/2075: "Hi Mr. Faulkner ... do NOT take naproxen"
+Brother A1 Faulkner (A1) is emergency contact (423) 555-0155, neighbor Mabel Rich has a key. A1c 6.0 11/18/2076.
+
+CONFIDENTIALITY NOTICE: This fax is intended only for Ocean Prasad, fax (423) 555-0199. If received in error call (423) 555-0140.
+Fax sent by pgrove from 10.44.2.31.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="37" end="68" text="NORTHGATE CARDIOLOGY ASSOCIATES" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="76" end="89" text="Haven Prassad" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="95" end="121" text="Tri-River Gastroenterology" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P3" start="129" end="143" text="(423) 555-0171" TYPE="FAX" comment="" />
+<CONTACT id="P4" start="166" end="180" text="(423) 555-0170" TYPE="PHONE" comment="" />
+<NAME id="P5" start="188" end="199" text="Pilar Grove" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="204" end="215" text="Lane Winter" TYPE="DOCTOR" comment="" />
+<CONTACT id="P7" start="231" end="245" text="(423) 555-0140" TYPE="FAX" comment="" />
+<DATE id="P8" start="253" end="263" text="11/25/2076" TYPE="DATE" comment="" />
+<NAME id="P9" start="302" end="319" text="ELWOOD T FAULKNER" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="327" end="337" text="02/17/2021" TYPE="DATE" comment="" />
+<AGE id="P11" start="345" end="347" text="55" TYPE="AGE" comment="" />
+<NAME id="P12" start="384" end="392" text="Faulkner" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="405" end="408" text="Tre" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="478" end="488" text="11/25/2076" TYPE="DATE" comment="" />
+<DATE id="P15" start="514" end="524" text="11/01/2073" TYPE="DATE" comment="" />
+<DATE id="P16" start="596" end="606" text="10/27/2076" TYPE="DATE" comment="" />
+<DATE id="P17" start="753" end="763" text="11/13/2075" TYPE="DATE" comment="" />
+<NAME id="P18" start="809" end="819" text="Dr. Winter" TYPE="DOCTOR" comment="" />
+<CONTACT id="P19" start="823" end="828" text="x4417" TYPE="PHONE" comment="" />
+<CONTACT id="P20" start="837" end="841" text="5521" TYPE="PHONE" comment="" />
+<DATE id="P21" start="873" end="883" text="01/30/2074" TYPE="DATE" comment="" />
+<NAME id="P22" start="888" end="906" text="FAULKNER, ELWOOD T" TYPE="PATIENT" comment="" />
+<ID id="P23" start="912" end="921" text="063-88145" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P24" start="929" end="937" text="Joy Park" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1059" end="1073" text="Legend Falkner" TYPE="PATIENT" comment="" />
+<ID id="P26" start="1086" end="1096" text="TN 7TRE441" TYPE="VEHICLE" comment="" />
+<DATE id="P27" start="1114" end="1124" text="11/13/2075" TYPE="DATE" comment="" />
+<NAME id="P28" start="1177" end="1188" text="A1 Faulkner" TYPE="PATIENT" comment="" />
+<CONTACT id="P29" start="1215" end="1229" text="(423) 555-0155" TYPE="PHONE" comment="" />
+<NAME id="P30" start="1240" end="1250" text="Mabel Rich" TYPE="PATIENT" comment="" />
+<DATE id="P31" start="1270" end="1280" text="11/18/2076" TYPE="DATE" comment="" />
+<NAME id="P32" start="1337" end="1349" text="Ocean Prasad" TYPE="DOCTOR" comment="" />
+<CONTACT id="P33" start="1355" end="1369" text="(423) 555-0199" TYPE="FAX" comment="" />
+<CONTACT id="P34" start="1397" end="1411" text="(423) 555-0140" TYPE="PHONE" comment="" />
+<NAME id="P35" start="1425" end="1431" text="pgrove" TYPE="USERNAME" comment="" />
+<CONTACT id="P36" start="1437" end="1447" text="10.44.2.31" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

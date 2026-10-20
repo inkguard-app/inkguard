@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>GULFVIEW DIABETES AND ENDOCRINE CENTER                     
+LAB RESULT COMMENT TO PATIENT
+To: Philomena Wren (DOB 03/02/1957), c/o Cordelia Wren-Ames
+Re: labs drawn 03/09/2062, accession ACC 62-0309-4471
+Written 03/10/2062 by Kiera Delacroix, MA for Dr. Castellanos-Boyd
+
+Hello Ms. Wren!
+
+Happy early birthday, you are about to be 105, in your 106th year (106th year -- sorry, 105th). Here is what your blood tests said:
+
+- Glucose (sugar): 90.2 -- normal
+- Total cholesterol 223.0 and LDL 129.9: higher than in February. You stopped simvastatin in August 2061, this may be why. Dr. Castellanos-Boyd wants to talk about restarting.
+- Creatinine 2.0. Your kidney filtering number came back as 30.8 on one line and 18.8 on another. We think the lab used two formulas. Your kidneys have long been in stage 3 CKD, please drink water.
+- A1c: shown as 2.5 again. This is not possible and we have asked the lab, Bayou Reference Lab, to check the machine.
+- Fall risk (Morse) was checked, your neighbor Okafor says hes watching her.
+
+No need to call unless you have symptoms. Hope your March birthday is great!  (:
+pt's DOB per old chart was typed 3/2/1975 - wrong, should be 1957. Fixed? 
+
+Sincerely, Kiera
+Page 1 of 1  WREN, PHILOMENA  MRN GV-2207-5519
+Reviewed by Castellanos-Boyd 03/10/2062; Last edit kdelacroix from 10.44.1.19
+</TEXT>
+<TAGS>
+<NAME id="P0" start="94" end="108" text="Philomena Wren" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="114" end="124" text="03/02/1957" TYPE="DATE" comment="" />
+<NAME id="P2" start="131" end="149" text="Cordelia Wren-Ames" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="165" end="175" text="03/09/2062" TYPE="DATE" comment="" />
+<ID id="P4" start="187" end="203" text="ACC 62-0309-4471" TYPE="IDNUM" comment="" />
+<DATE id="P5" start="212" end="222" text="03/10/2062" TYPE="DATE" comment="" />
+<NAME id="P6" start="226" end="241" text="Kiera Delacroix" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="254" end="270" text="Castellanos-Boyd" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="282" end="286" text="Wren" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="331" end="334" text="105" TYPE="AGE" comment="" />
+<AGE id="P10" start="356" end="366" text="106th year" TYPE="AGE" comment="" />
+<DATE id="P11" start="549" end="560" text="August 2061" TYPE="DATE" comment="" />
+<NAME id="P12" start="583" end="599" text="Castellanos-Boyd" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="905" end="924" text="Bayou Reference Lab" TYPE="ORGANIZATION" comment="" />
+<NAME id="P14" start="995" end="1001" text="Okafor" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="1078" end="1083" text="March" TYPE="DATE" comment="" />
+<DATE id="P16" start="1140" end="1148" text="3/2/1975" TYPE="DATE" comment="" />
+<NAME id="P17" start="1194" end="1199" text="Kiera" TYPE="DOCTOR" comment="" />
+<ID id="P18" start="1234" end="1246" text="GV-2207-5519" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P19" start="1259" end="1275" text="Castellanos-Boyd" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1276" end="1286" text="03/10/2062" TYPE="DATE" comment="" />
+<NAME id="P21" start="1298" end="1308" text="kdelacroix" TYPE="USERNAME" comment="" />
+<CONTACT id="P22" start="1314" end="1324" text="10.44.1.19" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

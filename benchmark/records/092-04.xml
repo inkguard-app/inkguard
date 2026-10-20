@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE
+Patient: Theodore Brook / Dad's surname Park: school uses "Theo Park"       Monday 23 June 2092
+Author: Priyanka Menon, RN, care coordinator, Paediatric Complex Care
+
+Summary: Dental referral from the well child visit of 14 June closed - child attended Elbow Dental Kids on Saturday 21 June: exam, bitewing X-rays, scale and polish, fluoride treatment, oral health education. Dr. Fournier noted gingivitis mild only. No treatment needed, recall in 6 months (December).
+
+Contacts / actions:
+1. Mother, Dr. Clare Brook (GP by profession - general practitioner), travelling to the UK from July 2. UK address for the summer: Flat 3, 22 Clifton Vale, Bristol BS8 4PN, United Kingdom; mobile +44 7700 900174. Her mother, Mrs. Margaret Ellison, is the host.
+2. Copy of the dental letter sent to school nurse Beverley Hatch at Maplewood Elementary School.
+3. Sent immunization summary to Clifton Park Surgery Bristol (fax +44 117 496 0102) for the UK visit, release form ROI-2092-0618 signed.
+4. Dad Sung-ho Park to pick up an extra inhaler? NO - not asthmatic, ignore the last copy-forward line "Theo uses Ventolin" (that is Emmeline Vo, DOB 09/11/2086).
+
+Pasted from 2091-09-24 letter: "Theo is excused from school Monday and Tuesday for viral pharyngitis."
+Pasted from 2092-06-14 note: Weight 22.3 kg, BMI 15.2. Allergy: NKDA.
+
+Signed P. Menon RN 23/06/2092 11:05    Routed to: Dr. Venkataswamy; cc clinic.admin@bowriverkids.example
+</TEXT>
+<TAGS>
+<NAME id="P0" start="32" end="46" text="Theodore Brook" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="63" end="67" text="Park" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="82" end="91" text="Theo Park" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="99" end="118" text="Monday 23 June 2092" TYPE="DATE" comment="" />
+<NAME id="P4" start="127" end="141" text="Priyanka Menon" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="165" end="188" text="Paediatric Complex Care" TYPE="DEPARTMENT" comment="" />
+<DATE id="P6" start="244" end="251" text="14 June" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="276" end="293" text="Elbow Dental Kids" TYPE="ORGANIZATION" comment="" />
+<DATE id="P8" start="297" end="313" text="Saturday 21 June" TYPE="DATE" comment="" />
+<NAME id="P9" start="403" end="411" text="Fournier" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="481" end="489" text="December" TYPE="DATE" comment="" />
+<NAME id="P11" start="528" end="539" text="Clare Brook" TYPE="PATIENT" comment="" />
+<PROFESSION id="P12" start="560" end="580" text="general practitioner" TYPE="PROFESSION" comment="" />
+<LOCATION id="P13" start="601" end="603" text="UK" TYPE="COUNTRY" comment="" />
+<DATE id="P14" start="609" end="615" text="July 2" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="644" end="667" text="Flat 3, 22 Clifton Vale" TYPE="STREET" comment="" />
+<LOCATION id="P16" start="669" end="676" text="Bristol" TYPE="CITY" comment="" />
+<LOCATION id="P17" start="677" end="684" text="BS8 4PN" TYPE="ZIP" comment="" />
+<LOCATION id="P18" start="686" end="700" text="United Kingdom" TYPE="COUNTRY" comment="" />
+<CONTACT id="P19" start="709" end="724" text="+44 7700 900174" TYPE="PHONE" comment="" />
+<NAME id="P20" start="743" end="759" text="Margaret Ellison" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="824" end="838" text="Beverley Hatch" TYPE="DOCTOR" comment="" />
+<LOCATION id="P22" start="842" end="869" text="Maplewood Elementary School" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P23" start="903" end="923" text="Clifton Park Surgery" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P24" start="924" end="931" text="Bristol" TYPE="CITY" comment="" />
+<CONTACT id="P25" start="937" end="953" text="+44 117 496 0102" TYPE="FAX" comment="" />
+<ID id="P26" start="986" end="999" text="ROI-2092-0618" TYPE="IDNUM" comment="" />
+<NAME id="P27" start="1015" end="1027" text="Sung-ho Park" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1141" end="1152" text="Emmeline Vo" TYPE="PATIENT" comment="" />
+<DATE id="P29" start="1158" end="1168" text="09/11/2086" TYPE="DATE" comment="" />
+<DATE id="P30" start="1184" end="1194" text="2091-09-24" TYPE="DATE" comment="" />
+<DATE id="P31" start="1287" end="1297" text="2092-06-14" TYPE="DATE" comment="" />
+<NAME id="P32" start="1353" end="1361" text="P. Menon" TYPE="DOCTOR" comment="" />
+<DATE id="P33" start="1365" end="1375" text="23/06/2092" TYPE="DATE" comment="" />
+<NAME id="P34" start="1400" end="1412" text="Venkataswamy" TYPE="DOCTOR" comment="" />
+<CONTACT id="P35" start="1417" end="1450" text="clinic.admin@bowriverkids.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

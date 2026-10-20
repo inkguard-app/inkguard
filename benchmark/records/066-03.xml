@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE NOTE  --  Clark Fork Surgical Hospital
+Date of surgery: 09/21/2083
+Patient: Desmond Page     Age 61     MRN VBH-7-318402     Room 4 West, bed 12
+Surgeon: Dr. Ingrid Valtteri-Osei    Assistant: B. Larrabee, RN first assist    Anesthesia: GETA
+
+PREOP DX: Ascending colon adenocarcinoma (overlapping malignant neoplasm of colon).
+POSTOP DX: Same.
+PROCEDURE: Laparoscopic right hemicolectomy with ileocolic anastomosis.
+
+INDICATIONS: Mr. Page's tumor was found on screening colonoscopy and staged 9/10. I discussed risks at length with him and his wife, Lark Paige, in the pre-op area; consent signed, witnessed by Ransom Page (his son, 34), not by staff?? -- consent form to be redone, witness must be a staff member.
+
+DESCRIPTION: Under GETA, prepped and draped. 4 ports. The right colon was mobilized and the ileocolic pedicle was divided. A 5 cm extraction incision. Specimen out in bag. Side-to-side stapled anastomosis, checked. Fascia closed. EBL 100 mL. Counts correct x2. Tolerated well, to PACU stable.
+
+Smartwatch alarm (patient's, WS-77-4410-B) went off in the pre-op area at 06:12 with GPS 46.8721 N, 113.9940 W (hospital car park).
+
+Please page me for any bleeding: the page goes to pager 4417.
+Dictated by Ingrid Valtteri-Osei, MD 09/21/2083. 
+Signed: -- I. Valtteri   (Dez = patient, I.V. = me)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="48" text="Clark Fork Surgical Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="66" end="76" text="09/21/2083" TYPE="DATE" comment="" />
+<NAME id="P2" start="86" end="98" text="Desmond Page" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="107" end="109" text="61" TYPE="AGE" comment="" />
+<ID id="P4" start="118" end="130" text="VBH-7-318402" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P5" start="140" end="154" text="4 West, bed 12" TYPE="ROOM" comment="" />
+<NAME id="P6" start="168" end="188" text="Ingrid Valtteri-Osei" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="203" end="214" text="B. Larrabee" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="444" end="448" text="Page" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="503" end="507" text="9/10" TYPE="DATE" comment="" />
+<NAME id="P10" start="560" end="570" text="Lark Paige" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="621" end="632" text="Ransom Page" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="643" end="645" text="34" TYPE="AGE" comment="" />
+<ID id="P13" start="1049" end="1061" text="WS-77-4410-B" TYPE="DEVICE" comment="" />
+<LOCATION id="P14" start="1109" end="1130" text="46.8721 N, 113.9940 W" TYPE="LOCATION-OTHER" comment="" />
+<CONTACT id="P15" start="1209" end="1213" text="4417" TYPE="PHONE" comment="" />
+<NAME id="P16" start="1227" end="1247" text="Ingrid Valtteri-Osei" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1252" end="1262" text="09/21/2083" TYPE="DATE" comment="" />
+<NAME id="P18" start="1276" end="1287" text="I. Valtteri" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1291" end="1294" text="Dez" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="1306" end="1310" text="I.V." TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

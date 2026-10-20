@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PAIN MEDICINE CONSULT NOTE                          Capital Hollow Primary Care
+Date: 05/24/2051      Patient: Callum Ashdawn      DOB: 1/23/2019      Age: 32
+Requested by Dr. Pylypchuk for review of long term opioid therapy.
+Consultant: Dr. Ravindra Chaudhary-Moore
+
+History: Mr. Ashdown is 32 years old gentleman, working as boat welder in Apalachee Boatworks, who is having chronic neck pain since April 2048 after a fall from the scaffold. Since May 2050 he is taking Percocet and long acting hydrocodone capsule, one year now. Kindly note he also had right knee meniscus tear in December, now improved with physiotherapy and he is no more using the crutches. 
+
+He tells that pain is 4 of 10 on average, and that medicines help "only little". He is having constipation and sleeps badly. Wife Marisol is telling that he is more angry and tired since from last year. No illicit drugs, no alcohol according him, urine screen is consistent. No history of overdose.
+
+Examination: BMI 30, BP 126/71. Tender paraspinal muscles C5-C7, range of motion neck reduced 30%. Neurology intact, no myelopathy. 
+
+Impression:
+1. Chronic neck pain with long term opioid therapy, poor benefit, side effects.
+2. Mood is low, screening is needed.
+
+Plan:
+- We will taper both opioids slowly and stop completely today. Doctor Pylypchuk to prescribe, pharmacy Magnolia Bend Outpatient Pharmacy.
+- Physiotherapy, and neck exercises, and non opioid medicines only.
+- Referral to dentist as he have gingivitis symptoms (bleeding gum), done today by Dr. Pylypchuk.
+- Review after 3 month here. Call (850) 555-0163 in case problem.
+
+Thank you for referring this nice patient.
+Dr Chaudhary Moore, MD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="52" end="79" text="Capital Hollow Primary Care" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="86" end="96" text="05/24/2051" TYPE="DATE" comment="" />
+<NAME id="P2" start="111" end="125" text="Callum Ashdawn" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="136" end="145" text="1/23/2019" TYPE="DATE" comment="" />
+<AGE id="P4" start="156" end="158" text="32" TYPE="AGE" comment="" />
+<NAME id="P5" start="176" end="185" text="Pylypchuk" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="242" end="266" text="Ravindra Chaudhary-Moore" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="281" end="288" text="Ashdown" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="292" end="294" text="32" TYPE="AGE" comment="" />
+<PROFESSION id="P9" start="327" end="338" text="boat welder" TYPE="PROFESSION" comment="" />
+<LOCATION id="P10" start="342" end="361" text="Apalachee Boatworks" TYPE="ORGANIZATION" comment="" />
+<DATE id="P11" start="401" end="411" text="April 2048" TYPE="DATE" comment="" />
+<DATE id="P12" start="450" end="458" text="May 2050" TYPE="DATE" comment="" />
+<DATE id="P13" start="584" end="592" text="December" TYPE="DATE" comment="" />
+<NAME id="P14" start="796" end="803" text="Marisol" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1306" end="1315" text="Pylypchuk" TYPE="DOCTOR" comment="" />
+<LOCATION id="P16" start="1339" end="1372" text="Magnolia Bend Outpatient Pharmacy" TYPE="ORGANIZATION" comment="" />
+<NAME id="P17" start="1529" end="1538" text="Pylypchuk" TYPE="DOCTOR" comment="" />
+<CONTACT id="P18" start="1574" end="1588" text="(850) 555-0163" TYPE="PHONE" comment="" />
+<NAME id="P19" start="1653" end="1668" text="Chaudhary Moore" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

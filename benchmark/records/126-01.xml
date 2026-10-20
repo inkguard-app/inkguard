@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE
+SUPERIOR BAY MEDICAL CENTER ED   DATE OF SERVICE: 11/15/2071   ARRIVAL 19:48
+PT: STRAND, EVERETT L   MRN LOS-300417   DOB 09/04/2000   AGE 71Y   SEX M
+INS MEMBER ID: MBR-8841-0027-JT3
+TRIAGE RN: K. BRANDT (VOL, ASSIST ONLY)  ATTENDING: A. OBUYA  &lt;-- ORTHO ON CALL ??? SEE BELOW
+
+CC: SORE THROAT X 1 DAY. PT SAYS "ITS LIKE SWALOWING GLASS"
+
+HPI: 71 YO M WITH HX MDD ON FLUOXETINE, ETOH HX, OBESITY BMI 30+ (DX 2025), VETERAN. CAME IN AFTER WIFE CORINE URGED HIM. NO FEVER AT HOME. NO TRISMUS. NO DROOLING. DENIES CURRENT ALCOHOL. SMARTWATCH SHOWED "IRREGULAR" SO PT SHOWED ME THE LINK: https://share.pulsewatch.example/ecg/Strand-9f3a  (PT PHONE WAS 4% BATERY.)
+
+MEDS: FLUOXETINE 20 MG DAILY, CHLORPHENIRAMINE LIQ PRN. NKDA.
+
+EXAM: T 37.6 HR 84 BP 121/79. PHARYNX ERYTHEMATOUS NO EXUDATE. NECK SUPPLE. LUNGS CLEAR.
+
+ED COURSE: RAPID STREP NEG. ASSESSED AS ACUTE VIRAL PHARYNGITIS. SUPPORTIVE CARE. TOLD TO F/U WITH PCP DR PRADHAN-WEISS TOMORROW.
+DISPO: HOME WITH WIFE. DRIVING HIMSELF? NO. PLATE OF CAR IN LOT C MN 482-RKT FOR VALIDATION.
+
+NOTE ROUTED TO LAKSHMI PRADHAN-WEISS
+SIGNED A. OBUYA MD 11/15/2071 22:31  WORKSTATION 172.16.8.204
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="26" end="53" text="SUPERIOR BAY MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="54" end="56" text="ED" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="76" end="86" text="11/15/2071" TYPE="DATE" comment="" />
+<NAME id="P3" start="107" end="124" text="STRAND, EVERETT L" TYPE="PATIENT" comment="" />
+<ID id="P4" start="131" end="141" text="LOS-300417" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="148" end="158" text="09/04/2000" TYPE="DATE" comment="" />
+<AGE id="P6" start="165" end="167" text="71" TYPE="AGE" comment="" />
+<ID id="P7" start="192" end="209" text="MBR-8841-0027-JT3" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P8" start="221" end="230" text="K. BRANDT" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="262" end="270" text="A. OBUYA" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="435" end="439" text="2025" TYPE="DATE" comment="" />
+<NAME id="P11" start="470" end="476" text="CORINE" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="611" end="659" text="https://share.pulsewatch.example/ecg/Strand-9f3a" TYPE="URL" comment="" />
+<NAME id="P13" start="947" end="960" text="PRADHAN-WEISS" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="1037" end="1047" text="MN 482-RKT" TYPE="VEHICLE" comment="" />
+<NAME id="P15" start="1080" end="1101" text="LAKSHMI PRADHAN-WEISS" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1109" end="1117" text="A. OBUYA" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1121" end="1131" text="11/15/2071" TYPE="DATE" comment="" />
+<CONTACT id="P18" start="1151" end="1163" text="172.16.8.204" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

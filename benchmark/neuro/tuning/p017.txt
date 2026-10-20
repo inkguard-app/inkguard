@@ -1,0 +1,19 @@
+NEUROSURGERY CLINIC — SHUNT CLINIC
+{{FACILITY|Orchard Mill Neurosciences}}
+Patient: {{NAME|Salomon Hakim-Ortega}}   MRN {{MRN|OMN-3091847}}   Visit {{DATE|09/09/2065}}
+
+Mr. {{NAME|Hakim-Ortega}}, 49, has [[communicating hydrocephalus]] after [[bacterial meningitis]] (pneumococcal) in childhood and had a right frontal [[ventriculoperitoneal shunt]] revised twice. (He knows his surname is shared with the inventor of the [[Hakim valve]] and finds it amusing that he has one.)
+
+Current hardware: [[Codman Hakim programmable valve]] with [[SiphonGuard anti-siphon device]], right frontal ventricular catheter at [[Kocher's point]] (an old [[Frazier point]] burr hole is unused), peritoneal catheter tunnelled to the RUQ. Valve currently set to [[120 mmH2O]] (confirmed with the [[Codman verification tool]] and [[skull X-ray]] showing the cam position). Patient's valve serial number {{ID|CHPV-82-114709}}.
+
+Symptoms: 3 weeks of positional headaches worse on standing and improved lying down, consistent with [[overdrainage]]. No vomiting, no [[papilloedema]] on fundoscopy, no [[Parinaud syndrome]] ([[upgaze palsy]] absent).
+
+[[CT head]]: slit-like ventricles, [[Evans index]] 0.19 (previous 0.24), no subdural collections. [[Shunt series]] intact, no disconnection.
+
+Plan: increase setting to [[150 mmH2O]] at today's visit with the [[Codman programmer]], confirm with X-ray. Review in 2 weeks. If symptoms persist consider [[slit ventricle syndrome]] work-up, [[ICP monitoring]].
+
+Dr. {{NAME|Philippa Esterhazy}}, Consultant Neurosurgeon
+Patient contact {{PHONE|(555) 488-1172}}
+=====NOTE=====
+Phone follow-up {{DATE|09/23/2065}} — {{NAME|S. Hakim-Ortega}} — {{MRN|OMN-3091847}}
+Pt reports positional headache resolved since valve change to [[150 mmH2O]]. Had an [[MRI 3T]] for an unrelated knee issue at an outside centre; reminded that the [[Codman Hakim valve]] may change setting with MRI — he attended for a re-check X-ray which showed setting drifted to [[100 mmH2O]]; reprogrammed to [[150 mmH2O]] by Nurse Practitioner {{NAME|Ines Batbayar}}. Advised to consider future revision to an [[MRI-resistant valve]] such as [[Codman Certas Plus]] or [[Miethke proGAV 2.0]] with [[shunt assistant]]. [[Shunt passport]] updated with setting and serial. [[Fundoscopy]] normal. Red flags reviewed: [[shunt malfunction]] symptoms (headache, vomiting, drowsiness, [[sunsetting]] not applicable in adults), fever ([[shunt infection]]), abdominal pain ([[pseudocyst]]). Letter sent to {{ADDRESS|92 Brackenridge Way, Hollinsford}}, MI {{ZIP|48216}}.

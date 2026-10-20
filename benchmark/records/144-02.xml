@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY
+Patient: SORENSEN, EVANDER P     RL-0762215
+Admitted 08/12/2068  Discharged 08/18/2068
+
+DIAGNOSES: Ischemic heart disease with abnormal imaging of the coronary circulation. Emphysema. Sleep apnea. Hypertension.
+
+HOSPITAL COURSE: Dictated but not read. This 43 year old gentleman was admitted on 08/12 with exertional chest pressure. The cardiology team, led by Dr Teixeira-Banda, reviewed the CT and decided on medical management, with troponins negative three times. He was started on clopidogrel 75 mg daily, simvastatin 20 mg nightly, metoprolol succinate 100 mg daily and sublingual nitroglycerin spray. He was seen again on 08/16 and 08/18 for medication teaching and blood pressure review, tolerating the regimen.
+His home CPAP, serial SN RS-77310044, was brought in and used overnight.
+
+IMAGING AND LAB (summary): Cardiac CT angiography showed calcified plaque in the proximal left anterior descending artery. Lab report from Cascadia Diagnostics and Imaging, accession pending. Hemoglobin 17.4 at the later wellness check.
+
+DISCHARGE PLAN: Continue medicines. Smoking cessation. Follow up with Dr Hyun-woo Baek in two weeks, clinic line 253-555-0140 x6120. Portal: https://mychart.cascadialakes.example/p/esorensen.
+Dictated by M. Teixeira-Banda. Signed 08/18/2068.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="27" end="46" text="SORENSEN, EVANDER P" TYPE="PATIENT" comment="" />
+<ID id="P1" start="51" end="61" text="RL-0762215" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="71" end="81" text="08/12/2068" TYPE="DATE" comment="" />
+<DATE id="P3" start="94" end="104" text="08/18/2068" TYPE="DATE" comment="" />
+<AGE id="P4" start="275" end="277" text="43" TYPE="AGE" comment="" />
+<DATE id="P5" start="313" end="318" text="08/12" TYPE="DATE" comment="" />
+<NAME id="P6" start="382" end="396" text="Teixeira-Banda" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="647" end="652" text="08/16" TYPE="DATE" comment="" />
+<DATE id="P8" start="657" end="662" text="08/18" TYPE="DATE" comment="" />
+<ID id="P9" start="760" end="774" text="SN RS-77310044" TYPE="DEVICE" comment="" />
+<LOCATION id="P10" start="951" end="983" text="Cascadia Diagnostics and Imaging" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="1123" end="1136" text="Hyun-woo Baek" TYPE="DOCTOR" comment="" />
+<CONTACT id="P12" start="1163" end="1175" text="253-555-0140" TYPE="PHONE" comment="" />
+<CONTACT id="P13" start="1176" end="1181" text="x6120" TYPE="PHONE" comment="" />
+<CONTACT id="P14" start="1191" end="1240" text="https://mychart.cascadialakes.example/p/esorensen" TYPE="URL" comment="" />
+<NAME id="P15" start="1254" end="1271" text="M. Teixeira-Banda" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1280" end="1290" text="08/18/2068" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

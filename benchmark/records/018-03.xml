@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE (SOAP)
+Pt: Winifred Adair Ruskin    DOB 05/22/2003    MRN A-2230981
+Date: 07/18/2078    Author: Ruth Abernathy-Soto, LCSW
+
+S: Pt 75 yo F, transer to skilled nursing facility today after fall at home last week (no fracture). Diet cond: DM2, obesity (BMI 28.2 per last wellness visit, not 30). "I want to go home." Daughter Tamsin Ruskin-Beale spelled it for me on voicemail, "R-U-S-K-I-N hyphen B-E-A-L-E", so the innsurer stops getting it wrong. Son Dexter lives out of state.
+O: Accepted at Pinecrest Hollow Care Center, room to be assigned, bed hold til Fri. Plan transport via wheelchair van, pickup 07/18 14:00. Home needs: grab bars, rails. Pt's portal: https://mychart.northmere-gen.example/ruskin.w (username = ruskin.w).
+Current meds (copied fwd, NOT reconciled): simvastatin 10 mg AND pravastatin 40 mg (dup, flag to pharmacy), ckopidogrel 75, metoprool succ 100 [was 25 post-MI], nitroglycerin SL prn, ASA 81.
+A: Needs short-term rehab, 2-3 wks, then reassess. Eye follow-up due (Aug) - diabetic retinopathy, nonproliferative.
+P: 1. SNF liaison call to (218) 555-0172 x3. 2. Update PCP Dr. Daniel Aldous. 3. Bed alarm unit and glucometer go with pt. 4. Meds list to be reviewed by pharmacist before d/c.
+
+R. Abernathy-Soto, LCSW   pager 3305   &lt;&lt;TEMPLATE_FOOTER_PLACEHOLDER&gt;&gt;
+</TEXT>
+<TAGS>
+<NAME id="P0" start="34" end="55" text="Winifred Adair Ruskin" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="63" end="73" text="05/22/2003" TYPE="DATE" comment="" />
+<ID id="P2" start="81" end="90" text="A-2230981" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="97" end="107" text="07/18/2078" TYPE="DATE" comment="" />
+<NAME id="P4" start="119" end="138" text="Ruth Abernathy-Soto" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="152" end="154" text="75" TYPE="AGE" comment="" />
+<NAME id="P7" start="345" end="364" text="Tamsin Ruskin-Beale" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="398" end="426" text="R-U-S-K-I-N hyphen B-E-A-L-E" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="473" end="479" text="Dexter" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="515" end="543" text="Pinecrest Hollow Care Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P11" start="579" end="582" text="Fri" TYPE="DATE" comment="" />
+<DATE id="P12" start="626" end="631" text="07/18" TYPE="DATE" comment="" />
+<CONTACT id="P13" start="682" end="728" text="https://mychart.northmere-gen.example/ruskin.w" TYPE="URL" comment="" />
+<NAME id="P14" start="741" end="749" text="ruskin.w" TYPE="USERNAME" comment="" />
+<DATE id="P15" start="1013" end="1016" text="Aug" TYPE="DATE" comment="" />
+<CONTACT id="P16" start="1086" end="1100" text="(218) 555-0172" TYPE="PHONE" comment="" />
+<NAME id="P17" start="1123" end="1136" text="Daniel Aldous" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1238" end="1255" text="R. Abernathy-Soto" TYPE="DOCTOR" comment="" />
+<CONTACT id="P19" start="1270" end="1274" text="3305" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

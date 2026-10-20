@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Millbrook Regional Medical Center
+Emergency Department - PROCEDURE / OPERATIVE NOTE
+Patient: KESSLER, DWAYNE T     MRN: 4471-0382     DOB: 11/08/2025
+Date of procedure: 07/29/2070     Surgeon: Dr. Alistair Penhaligon (locum)     Assist: Marisol Quintanilla RN
+Dictated using voice recognition, Dictated but not read.
+
+Pre-op diagnosis: Laceration, left brow and zygomatic region.
+Post-op diagnosis: Same.  Procedure: Simple layered repare of facial laceration, 4.5 cm.
+
+DICTATION BEGINS. This is a 44-year-old right handed gentleman who works part time as a linen delivery driver for Brightwater Linen Supply and presented this evening with a laceration to the left face. Patient name is Kessler, that is Kilo Echo Sierra Sierra Lima Echo Romeo, K-E-S-S-L-E-R, first name Dwayne, as in Duane, scratch that, D W A Y N E. He says he caught his face on a cabinet door at home. His sister Gwen, Gwendolyn Kessler-Hart, who drove him in, was somewhat more doubtful of that account and said so to the nurse, not to me, and social work has been asked to see him. I did not feel it was my place to press the matter in the middle of a repair but I have documented her comment.
+
+The area was prepped with chlorhexidine and draped in the usual sterile fashion. One percent lidocaine with epinephrine was infiltrated, about 5 mils. The wound was irrigated with 500 ml of normal saline and explored; there was no foreign body and no bony step off to palpation. Deep dermal layer closed with 5-0 absorbable interrupted. Skin closed with 6-0 nylon, 9 interrupted sutures. Hemostasis was adequate. Patient tolerated the procedure well, there were no complications. Tetnus status was up-to-date per the registry, so no booster was given.
+
+Plan: ibuprofin 200 mg tabs, two tablets every 6 hours with food for pain.  Keep dry for 48 hours.  Sutures out in 5 days (that would be 08/03/2070) with his PCP or back here. Return for redness, pus, or fever.  Dispo home with sister.
+
+Per the template: Patient &lt;&lt;PATIENT_NAME&gt;&gt; verbalised understanding. Interpreter: not required. Allergies: *** 
+Note to Dr. Penn Allegan for signature.
+
+Electronically signed by Alistair Penhaligon, MD on 07/30/2070 08:12
+Last edited by mquintanilla on 7/30/2070 09:14 from 10.20.4.55
+KESSLER, DWAYNE T  MRN 4471-0382  Page 1 of 1
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="33" text="Millbrook Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="34" end="54" text="Emergency Department" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="93" end="110" text="KESSLER, DWAYNE T" TYPE="PATIENT" comment="" />
+<ID id="P3" start="120" end="129" text="4471-0382" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="139" end="149" text="11/08/2025" TYPE="DATE" comment="" />
+<DATE id="P5" start="169" end="179" text="07/29/2070" TYPE="DATE" comment="" />
+<NAME id="P6" start="197" end="216" text="Alistair Penhaligon" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="237" end="256" text="Marisol Quintanilla" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="498" end="500" text="44" TYPE="AGE" comment="" />
+<PROFESSION id="P9" start="558" end="579" text="linen delivery driver" TYPE="PROFESSION" comment="" />
+<LOCATION id="P10" start="584" end="608" text="Brightwater Linen Supply" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="746" end="759" text="K-E-S-S-L-E-R" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="891" end="913" text="Gwendolyn Kessler-Hart" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="1859" end="1869" text="08/03/2070" TYPE="DATE" comment="" />
+<NAME id="P14" start="2083" end="2095" text="Penn Allegan" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2137" end="2156" text="Alistair Penhaligon" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="2164" end="2174" text="07/30/2070" TYPE="DATE" comment="" />
+<NAME id="P17" start="2196" end="2208" text="mquintanilla" TYPE="USERNAME" comment="" />
+<DATE id="P18" start="2212" end="2221" text="7/30/2070" TYPE="DATE" comment="" />
+<CONTACT id="P19" start="2233" end="2243" text="10.20.4.55" TYPE="IPADDR" comment="" />
+<ID id="P20" start="2267" end="2276" text="4471-0382" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

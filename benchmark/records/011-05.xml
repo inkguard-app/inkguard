@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX TRANSMISSION          Pages (incl. cover): 3
+To: Rowan's Pharmacy, Attn Hazel Rowan MPSI       Fax: +353 42 555 0173
+From: Dr Will Case, Dundalk Medical Centre           Date: 07/23/2076
+Re: medication reconciliation - Aoife Kowalczyk Brennan (DOB 17/02/2024, 52 y)
+
+Cover message
+- Annual review done today (23/07/2076 - yes the date on the fax header is American style, our fax machine reset)
+- Please verify against your dispensing record: 
+  - Etonogestrel implant removed 20/12/2074
+  - Naproxen sodium 220 mg - STOPPED 15/12/2075 after forearm fracture healed (Colles-type, left) 
+  - Acetaminophen/paracetamol - prn
+  - Yaz - last pack 12/2074
+- Colonoscopy 19/07/2074 normal, next due 2084
+- Her address changed? post returned from ul. Lipowa 12/4, 80-001 Gdansk, Poland - that is the mother in law's, pls do not use
+- Bone density scan 27/09/2075 abnormal (osteopenia)
+- Lives w/ husband Cathal + daughter Saoirse (3); no longer employed at Boyne Valley Pharmaceuticals since 23/07/2076
+Spelled for the record: K-O-W-A-L-C-Z-Y-K, or "Kilo Oscar Whiskey Alpha Lima Charlie Zulu Yankee Kilo" as she says on the phone.
+Confidentiality: this fax is for [PATIENT_NAME]... 
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="53" end="69" text="Rowan's Pharmacy" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="76" end="87" text="Hazel Rowan" TYPE="DOCTOR" comment="" />
+<CONTACT id="P2" start="104" end="120" text="+353 42 555 0173" TYPE="FAX" comment="" />
+<NAME id="P3" start="127" end="139" text="Dr Will Case" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="141" end="163" text="Dundalk Medical Centre" TYPE="ORGANIZATION" comment="" />
+<DATE id="P5" start="180" end="190" text="07/23/2076" TYPE="DATE" comment="" />
+<NAME id="P6" start="223" end="246" text="Aoife Kowalczyk Brennan" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="252" end="262" text="17/02/2024" TYPE="DATE" comment="" />
+<AGE id="P8" start="264" end="266" text="52" TYPE="AGE" comment="" />
+<DATE id="P9" start="313" end="323" text="23/07/2076" TYPE="DATE" comment="" />
+<DATE id="P10" start="481" end="491" text="20/12/2074" TYPE="DATE" comment="" />
+<DATE id="P11" start="529" end="539" text="15/12/2075" TYPE="DATE" comment="" />
+<DATE id="P12" start="647" end="654" text="12/2074" TYPE="DATE" comment="" />
+<DATE id="P13" start="669" end="679" text="19/07/2074" TYPE="DATE" comment="" />
+<DATE id="P14" start="697" end="701" text="2084" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="744" end="759" text="ul. Lipowa 12/4" TYPE="STREET" comment="" />
+<LOCATION id="P16" start="761" end="767" text="80-001" TYPE="ZIP" comment="" />
+<LOCATION id="P17" start="768" end="774" text="Gdansk" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="776" end="782" text="Poland" TYPE="COUNTRY" comment="" />
+<DATE id="P19" start="849" end="859" text="27/09/2075" TYPE="DATE" comment="" />
+<NAME id="P20" start="901" end="907" text="Cathal" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="919" end="926" text="Saoirse" TYPE="PATIENT" comment="" />
+<AGE id="P22" start="928" end="929" text="3" TYPE="AGE" comment="" />
+<LOCATION id="P23" start="954" end="982" text="Boyne Valley Pharmaceuticals" TYPE="ORGANIZATION" comment="" />
+<DATE id="P24" start="989" end="999" text="23/07/2076" TYPE="DATE" comment="" />
+<NAME id="P25" start="1024" end="1041" text="K-O-W-A-L-C-Z-Y-K" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1047" end="1101" text="Kilo Oscar Whiskey Alpha Lima Charlie Zulu Yankee Kilo" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

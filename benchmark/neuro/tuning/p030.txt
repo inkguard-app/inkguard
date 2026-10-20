@@ -1,0 +1,16 @@
+CRANIOFACIAL CLINIC — {{FACILITY|Oakhurst Children's Craniofacial Program}}
+Patient: {{NAME|Theodore Okwuosa-Lund}}   DOB {{DATE|01/04/2069}}   MRN {{MRN|OCC-339180}}   Seen {{DATE|04/20/2069}}
+Parents: {{NAME|Chidinma Okwuosa}} and {{NAME|Henrik Lund}}
+
+3-month-old boy with an elongated head since birth. Exam: [[scaphocephaly]] with frontal bossing and occipital bulleting, palpable [[sagittal suture ridge]], [[cephalic index]] 67. Anterior fontanelle small, soft. No [[papilloedema]] on dilated fundoscopy (ophthalmology). Development appropriate. [[Head circumference]] 41 cm, normal [[ear position]], no [[ocular proptosis]], no [[hypertelorism]]. No syndromic features — no [[Apert syndrome]] syndactyly, no [[Crouzon syndrome]] midface hypoplasia, no [[Muenke]] features; [[FGFR2/FGFR3]] testing not indicated.
+
+[[Low-dose 3D CT head]]: isolated [[sagittal craniosynostosis]]; other sutures patent.
+
+Options: [[endoscopic strip craniectomy]] (best before 4 months) followed by [[helmet orthosis]] for 9-12 months, versus [[open cranial vault remodelling (total calvarial reconstruction / pi procedure)]] at 6-12 months. Parents choose endoscopic.
+
+Neurosurgery Dr. {{NAME|Marisol Dunleavy}}; Plastic Surgery Dr. {{NAME|Kofi Brandvold}}; nurse coordinator {{NAME|Persephone Grieg}}, RN.
+=====NOTE=====
+OP NOTE — {{DATE|05/02/2069}} — {{NAME|OKWUOSA-LUND, THEODORE}} — {{MRN|OCC-339180}}
+[[Endoscope-assisted strip craniectomy]] of the [[sagittal suture]] with [[bilateral barrel-stave osteotomies]]. Prone, [[sphinx position]] modified; [[horseshoe headrest]]. Two small incisions at the vertex (anterior behind the [[anterior fontanelle]], posterior at the [[lambda]]). Epidural plane dissected under the [[30-degree endoscope]], protecting the [[superior sagittal sinus]]. 5 cm wide strip removed with [[Mayo scissors]] and bone cutters; bone edges haemostasis with [[bipolar]] and [[bone wax]]. [[Arterial line]] and two [[peripheral IVs]]; [[precordial Doppler]] for [[venous air embolism]] monitoring. EBL 45 mL (approx. 15% of EBV); no transfusion. [[Tranexamic acid 10 mg/kg]] load. Anesthesia Dr. {{NAME|Wilhelm Ostergaard}}.
+=====NOTE=====
+ORTHOTIC + PLASTICS FOLLOW-UP {{DATE|05/20/2069}} — {{NAME|T. Okwuosa-Lund}}: Incisions healed. [[Cranial remoulding helmet]] fitted by orthotist {{NAME|Bianca Lofthouse}}, CO; wear 23 h/day. [[Cephalic index]] improved to 72. [[Anterior fontanelle]] soft and flat; no [[subgaleal haematoma]]. [[Head circumference]] 41.5 cm. Next scan with [[3D surface imaging]] (non-ionising) in 4 weeks. Parents counselled about [[helmet skin breakdown]], [[pressure sores]] and signs of [[raised intracranial pressure]] (irritability, vomiting, [[bulging fontanelle]]). [[Sagittal synostosis]] correction tracked by [[cranial index]] and [[cranial vault asymmetry index]]. [[Developmental milestones]] on track (social smile, head control). Follow-up with Dr. {{NAME|K. Brandvold}}.

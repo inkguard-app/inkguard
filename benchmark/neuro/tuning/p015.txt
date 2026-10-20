@@ -1,0 +1,19 @@
+NEUROSURGERY CONSULT
+{{FACILITY|Larchmont County Hospital}}
+Patient: {{NAME|Ambrose Fennimore-Tate}}   Age: {{AGE|91}}   MRN {{MRN|LCH-0072159}}
+Date: {{DATE|04/18/2072}}
+
+{{AGE|91}}-year-old man on [[apixaban]] for AF with a 3-week history of falls, [[confusion]] and right-sided weakness. No clear trauma. [[GCS 14 (E4V4M6)]]. [[Right pronator drift]], power 4/5 right arm. [[Markwalder grade 2]].
+
+[[CT head]]: left [[chronic subdural haematoma]] 19 mm, mixed density with [[septations]] (trabecular type) and acute component, [[midline shift]] 8 mm. [[Andexanet alfa]] given in ED.
+
+Plan: [[left frontal and parietal burr-hole evacuation]] under local anaesthesia with sedation, [[subdural drain]] 48 h. Discussed with patient and daughter {{NAME|Philomena Tate}}; also discussed adjunctive [[middle meningeal artery embolization]] to reduce [[recurrence]]. Hold [[apixaban]] 4 weeks.
+
+Dr. {{NAME|Ignatius Bramwell-Osei}}
+=====NOTE=====
+OP NOTE {{DATE|04/19/2072}} {{NAME|FENNIMORE-TATE, A.}} {{MRN|LCH-0072159}}
+Left [[two burr-hole craniostomy]] (frontal and parietal) under [[monitored anaesthesia care]]. Dura opened in cruciate fashion, membrane coagulated. Motor-oil coloured fluid under pressure evacuated; irrigated with warm saline until clear. [[Jackson-Pratt subdural drain]] placed via the frontal burr hole, tunnelled, kept at the level of the head ([[passive drainage]]). No cortical injury. [[Brain re-expansion]] partial at closure. Burr holes covered with [[titanium burr hole covers]]. Post-op: [[bed flat 24 hours]], [[GCS]] hourly, [[CT head]] POD1, hold [[apixaban]], [[levetiracetam]] not started (no seizure). [[Atorvastatin 20 mg]] considered to reduce [[cSDH recurrence]]. [[Glasgow Outcome Scale]] to be recorded at 6 months; [[Markwalder grade]] reassessed daily.
+=====NOTE=====
+INTERVENTIONAL NOTE — {{DATE|04/22/2072}} — {{NAME|A. Fennimore-Tate}}, {{AGE|91}} y — MRN {{MRN|LCH-0072159}}
+Adjunctive left [[middle meningeal artery embolization]] for [[chronic SDH]]. Radial access. [[Echelon 10 microcatheter]] into the frontal and parietal branches of the left [[MMA]]. Embolised with [[Squid 12 liquid embolic]], good penetration into the distal branches and across the membrane capillaries. Pre-procedure [[GCS 15]]. Avoided [[petrous branch]] (facial nerve supply) and [[ophthalmic collaterals]] (risk to the [[central retinal artery]]); [[superselective angiography]] before each injection. Post-embolization [[DSA]]: no [[ICA reflux]], [[cavernous sinus]] branches spared. No complications.
+Neuro: [[GCS 15]], drift resolved. Discharge to {{FACILITY|Willowmere Skilled Nursing Facility}} POD5. [[CT head]] 6 weeks.

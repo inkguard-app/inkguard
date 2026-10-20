@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE - CLINICAL PHARMACY MEDICATION RECONCILIATION
+Pt: Whitlok, Odessa   MRN 90-448-261   DOB 11/30/2023   Age 70
+Date: 05/28/2094     Requested by: Dr Lindahl
+Pharmacist: Anjali Rao Whitfield, PharmD    Pager 4471
+
+S: Pt in with husband Leonard Whitlock yesterday for her yearly wellness visit (05/27/2094). Brought a bag of bottles. Takes: simvastatin 10 mg qhs (since 2083), naproxen sodium 220 mg 2x/day for hand OA (since 2072), ferrous sulfate 325 mg (since 2045). Also takes "the green pill" from her sister Verna Dockery (unknown). Also uses home BP cuff HeartLine HL-200, serial SN-HL200-5518830.
+O: BP 107/82, wt 78.1 kg. Labs 05/28/2094: total chol 191.3, LDL 88.1, eGFR 85.7, glucose 96.3.
+A: 1) simvastatin working, LDL 88. Chol up a bit but fine. 2) Naproxen long term: kidney fn ok today, stop if eGFR falls. 3) Unknown pill.
+P: Stop simvastatin?? (per order entered in error, order cancelled - continue simvastatin). Bring "green pill" to Sunrise Apothecary pharmacist, Rx Rx# 3318-0472. Call clinic 605-555-0134 (that is her home number) if questions.
+
+Electronicaly signed A. Rao, PharmD, 05/28/2094 15:03
+</TEXT>
+<TAGS>
+<NAME id="P0" start="63" end="78" text="Whitlok, Odessa" TYPE="PATIENT" comment="" />
+<ID id="P1" start="85" end="95" text="90-448-261" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="102" end="112" text="11/30/2023" TYPE="DATE" comment="" />
+<AGE id="P3" start="119" end="121" text="70" TYPE="AGE" comment="" />
+<DATE id="P4" start="128" end="138" text="05/28/2094" TYPE="DATE" comment="" />
+<NAME id="P5" start="160" end="167" text="Lindahl" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="180" end="200" text="Anjali Rao Whitfield" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="246" end="262" text="Leonard Whitlock" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="304" end="314" text="05/27/2094" TYPE="DATE" comment="" />
+<DATE id="P9" start="379" end="383" text="2083" TYPE="DATE" comment="" />
+<DATE id="P10" start="435" end="439" text="2072" TYPE="DATE" comment="" />
+<DATE id="P11" start="472" end="476" text="2045" TYPE="DATE" comment="" />
+<NAME id="P12" start="523" end="536" text="Verna Dockery" TYPE="PATIENT" comment="" />
+<ID id="P13" start="596" end="612" text="SN-HL200-5518830" TYPE="DEVICE" comment="" />
+<DATE id="P14" start="645" end="655" text="05/28/2094" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="963" end="981" text="Sunrise Apothecary" TYPE="ORGANIZATION" comment="" />
+<ID id="P16" start="997" end="1010" text="Rx# 3318-0472" TYPE="IDNUM" comment="" />
+<CONTACT id="P17" start="1024" end="1036" text="605-555-0134" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1099" end="1105" text="A. Rao" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1115" end="1125" text="05/28/2094" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,90 @@
+# Builds the desktop app (in development, not part of 0.25.0) for Windows
+# and macOS. Runs only when started by hand: a 0.x version tag does not
+# build it. Signing secrets live in the repository's encrypted secrets,
+# never in files. The build tools below are pinned to exact versions
+# (pytest, installed in the test step, is not); the GitHub-owned actions
+# are pinned to major versions and could be pinned to commit SHAs.
+name: desktop
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  TAURI_CLI: "@tauri-apps/cli@2.12.1"
+  PYINSTALLER: "pyinstaller==6.22.3"
+  KEYRING: "keyring==25.7.0"
+  PLAYWRIGHT: "playwright==1.63.0"
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-latest
+            triple: x86_64-pc-windows-msvc
+            ext: ".exe"
+          - os: macos-latest
+            triple: aarch64-apple-darwin
+            ext: ""
+          - os: macos-15-intel          # macos-13 was retired in December 2025
+            triple: x86_64-apple-darwin
+            ext: ""
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Test the core and the screens before packaging
+        shell: bash
+        run: |
+          pip install -r requirements.txt pytest "$PYINSTALLER" "$KEYRING" "$PLAYWRIGHT"
+          python -m playwright install chromium
+          python -m pytest -q
+
+      - name: Package the core as a folder (fast start, signs cleanly)
+        shell: bash
+        run: |
+          pyinstaller --onedir --noconfirm --name opal-service --collect-all inkguard \
+            --hidden-import keyring.backends.Windows --hidden-import keyring.backends.macOS \
+            desktop/opal_service.py
+          rm -rf desktop/src-tauri/core
+          cp -R dist/opal-service desktop/src-tauri/core
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Rust toolchain
+        shell: bash
+        run: |
+          rustup toolchain install stable --profile minimal
+          rustup target add ${{ matrix.triple }}
+
+      - name: Build the installer
+        working-directory: desktop/src-tauri
+        env:
+          # Code signing (empty until the project has its certificates; the
+          # installers are then unsigned and the release notes say so):
+          APPLE_CERTIFICATE: ${{ secrets.APPLE_CERTIFICATE }}
+          APPLE_CERTIFICATE_PASSWORD: ${{ secrets.APPLE_CERTIFICATE_PASSWORD }}
+          APPLE_SIGNING_IDENTITY: ${{ secrets.APPLE_SIGNING_IDENTITY }}
+          APPLE_ID: ${{ secrets.APPLE_ID }}
+          APPLE_PASSWORD: ${{ secrets.APPLE_PASSWORD }}
+          APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+        run: npx --yes "$TAURI_CLI" build --target ${{ matrix.triple }}
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: inkguard-${{ matrix.triple }}
+          path: |
+            desktop/src-tauri/target/${{ matrix.triple }}/release/bundle/**/*.msi
+            desktop/src-tauri/target/${{ matrix.triple }}/release/bundle/**/*.exe
+            desktop/src-tauri/target/${{ matrix.triple }}/release/bundle/**/*.dmg
+          if-no-files-found: error

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAKESHORE MEDICAL CENTER - EMERGENCY DEPARTMENT NOTE
+Visit ED-75-883120   Arrival 12/17/2075 19:36   Pt CHASE, HARMONY   MRN 071-40762   DOB 12/30/2026   48 F
+ED MD: Gabriel Chase, MD   Nurse: Bridget Moon, RN   Pharmacy med rec: Winter Okafor-Reyes, PharmD
+
+CC: widespread pain flare, fibromyalgia
+
+HPI:
+Pt is a 48 y.o. woman with primary fibromyalgia (dx 03/14/2071), obesity, chronic sinusitis, hx pneumonia/DVT 12/2070. Pain 8/10 all over since Sunday, worse in the cold. Cannot sleep. Her husband Ocean Chase brought her; he says she lost her job at Birchwood Logistics on 09/10/2075, stress at home. Dr. Chase (no relation) will not chase her about the bill.
+
+PAST (copied forward from ED 10/17/2073 by Lyle Fenner): "pt 46 yo; pregabalin 100 mg started, f/u PCP" -- pregabalin was STOPPED 11/16/2073, not active.
+
+&gt;&gt;&gt; pasted TELEPHONE ENCOUNTER 11/16/2073: Pt: Harmony J Chase ... duloxetine (Cymbalta) offered mid-March, declined. Rx RX-7732905. Daughter Autumn and son Apple.
+
+MEDS ON ARRIVAL (reconciled by pharmacy): naproxen 500 BID (since 03/15/2071); acetaminophen prn. Not taking: pregabalin, enoxaparin (inpatient only 12/2070).
+Allergies: NKDA.  Hx: Bell palsy denied, Raynaud denied.
+Screen 09/10/2075: GAD-7 3, depression screen done.
+
+EXAM: obese, uncomfortable, diffusely tender, no joint swelling. BP 141 systolic. 
+
+ED COURSE/PLAN:
+- acetaminophen given. Start duloxetine 20 mg DR daily (Cymbalta) x 30 d, dispense through Greenway Pharmacy, Rx RX-7732906
+- Avoid NSAID going forward? discuss with PCP Imani Brook (stale). Call (585) 555-0165 Tuesday or 12/24 if worse -- Christmas Eve.
+- Portal user harmonyc_71. D/C home with husband.
+
+Electronically signed Gabriel Chase, MD 12/17/2075 22:03  Last edited by gchase 12/17/2075 22:15 from 10.19.6.64
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="24" text="LAKESHORE MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="59" end="71" text="ED-75-883120" TYPE="IDNUM" comment="" />
+<DATE id="P2" start="82" end="92" text="12/17/2075" TYPE="DATE" comment="" />
+<NAME id="P3" start="104" end="118" text="CHASE, HARMONY" TYPE="PATIENT" comment="" />
+<ID id="P4" start="125" end="134" text="071-40762" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="141" end="151" text="12/30/2026" TYPE="DATE" comment="" />
+<AGE id="P6" start="154" end="156" text="48" TYPE="AGE" comment="" />
+<NAME id="P7" start="166" end="179" text="Gabriel Chase" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="193" end="205" text="Bridget Moon" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="230" end="249" text="Winter Okafor-Reyes" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="313" end="315" text="48" TYPE="AGE" comment="" />
+<DATE id="P11" start="357" end="367" text="03/14/2071" TYPE="DATE" comment="" />
+<DATE id="P12" start="415" end="422" text="12/2070" TYPE="DATE" comment="" />
+<DATE id="P13" start="449" end="455" text="Sunday" TYPE="DATE" comment="" />
+<NAME id="P14" start="502" end="513" text="Ocean Chase" TYPE="PATIENT" comment="" />
+<LOCATION id="P15" start="555" end="574" text="Birchwood Logistics" TYPE="ORGANIZATION" comment="" />
+<DATE id="P16" start="578" end="588" text="09/10/2075" TYPE="DATE" comment="" />
+<NAME id="P17" start="610" end="615" text="Chase" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="695" end="705" text="10/17/2073" TYPE="DATE" comment="" />
+<NAME id="P19" start="709" end="720" text="Lyle Fenner" TYPE="DOCTOR" comment="" />
+<AGE id="P20" start="727" end="729" text="46" TYPE="AGE" comment="" />
+<DATE id="P21" start="796" end="806" text="11/16/2073" TYPE="DATE" comment="" />
+<DATE id="P22" start="852" end="862" text="11/16/2073" TYPE="DATE" comment="" />
+<NAME id="P23" start="868" end="883" text="Harmony J Chase" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="918" end="927" text="mid-March" TYPE="DATE" comment="" />
+<ID id="P25" start="942" end="952" text="RX-7732905" TYPE="IDNUM" comment="" />
+<NAME id="P26" start="963" end="969" text="Autumn" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="978" end="983" text="Apple" TYPE="PATIENT" comment="" />
+<DATE id="P28" start="1052" end="1062" text="03/15/2071" TYPE="DATE" comment="" />
+<DATE id="P29" start="1135" end="1142" text="12/2070" TYPE="DATE" comment="" />
+<DATE id="P30" start="1209" end="1219" text="09/10/2075" TYPE="DATE" comment="" />
+<LOCATION id="P31" start="1446" end="1463" text="Greenway Pharmacy" TYPE="ORGANIZATION" comment="" />
+<ID id="P32" start="1468" end="1478" text="RX-7732906" TYPE="IDNUM" comment="" />
+<NAME id="P33" start="1525" end="1536" text="Imani Brook" TYPE="DOCTOR" comment="" />
+<CONTACT id="P34" start="1551" end="1565" text="(585) 555-0165" TYPE="PHONE" comment="" />
+<DATE id="P35" start="1566" end="1573" text="Tuesday" TYPE="DATE" comment="" />
+<DATE id="P36" start="1577" end="1582" text="12/24" TYPE="DATE" comment="" />
+<DATE id="P37" start="1595" end="1608" text="Christmas Eve" TYPE="DATE" comment="" />
+<NAME id="P38" start="1624" end="1635" text="harmonyc_71" TYPE="USERNAME" comment="" />
+<NAME id="P39" start="1683" end="1696" text="Gabriel Chase" TYPE="DOCTOR" comment="" />
+<DATE id="P40" start="1701" end="1711" text="12/17/2075" TYPE="DATE" comment="" />
+<NAME id="P41" start="1734" end="1740" text="gchase" TYPE="USERNAME" comment="" />
+<DATE id="P42" start="1741" end="1751" text="12/17/2075" TYPE="DATE" comment="" />
+<CONTACT id="P43" start="1763" end="1773" text="10.19.6.64" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

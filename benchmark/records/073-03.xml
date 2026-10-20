@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Larkspur Home Health Supply
+Attn: Human Resources
+4410 Industrial Way, Spokane Valley, WA 99216
+
+October 30, 2064
+
+RE: &lt;&lt;EMPLOYEE_NAME&gt;&gt;   Employee ID LHS-20881
+Dear Ms. Harrowgate, Dear [PATIENT],
+
+To whom it may concern. This letter is to verify that Delphine Whitcomb (formerly Delphine Harrowgate, DOB 03/09/1994) is under my care at Cascadia Valley Medical Group and underwent a dental surgical procedure (gingivectomy) on 10/29/2064. She is 70 y.o. and has afib on anticoag, so healing/bleeding precautions apply.
+
+Pt is advised: no heavy lifting or driving to deliveries x 1 wk, soft diet, f/u with dental Dr. Moncada as scheduled. She may return to work on light duty effective 11/04/2064. Pls note pt has changed from full time to part time on 10/14/2064 per HER request d/t anxiety and I support this reduced schedule as medically reasonable.
+
+Pls address all future corespondence to her current legal name, Delphine Whitcombe, NOT the married name - she was divorced this yr and had name restored by court. Her personnel file may still show Mrs. Warren Harrowgate. Pls update. I have also cc'd her benefits at the Evergreen Mutual claims dept, member # EM-77120934.
+
+Sincerely,
+
+Anselm Bhatt, MD   Family Physician
+Tel (509) 555-0140   Fax (509) 555-0141
+Electronicaly signed by Anselm Bhatt 10/30/2064 17:48
+cc: D. Whitcombe; chart
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="Larkspur Home Health Supply" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="50" end="69" text="4410 Industrial Way" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="71" end="85" text="Spokane Valley" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="87" end="89" text="WA" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="90" end="95" text="99216" TYPE="ZIP" comment="" />
+<DATE id="P5" start="97" end="113" text="October 30, 2064" TYPE="DATE" comment="" />
+<ID id="P6" start="151" end="160" text="LHS-20881" TYPE="IDNUM" comment="" />
+<NAME id="P7" start="170" end="180" text="Harrowgate" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="253" end="270" text="Delphine Whitcomb" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="281" end="300" text="Delphine Harrowgate" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="306" end="316" text="03/09/1994" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="338" end="367" text="Cascadia Valley Medical Group" TYPE="HOSPITAL" comment="" />
+<DATE id="P12" start="428" end="438" text="10/29/2064" TYPE="DATE" comment="" />
+<AGE id="P13" start="447" end="449" text="70" TYPE="AGE" comment="" />
+<NAME id="P14" start="613" end="624" text="Dr. Moncada" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="686" end="696" text="11/04/2064" TYPE="DATE" comment="" />
+<DATE id="P16" start="753" end="763" text="10/14/2064" TYPE="DATE" comment="" />
+<NAME id="P17" start="918" end="936" text="Delphine Whitcombe" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1052" end="1074" text="Mrs. Warren Harrowgate" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="1125" end="1141" text="Evergreen Mutual" TYPE="ORGANIZATION" comment="" />
+<ID id="P20" start="1164" end="1175" text="EM-77120934" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P21" start="1190" end="1202" text="Anselm Bhatt" TYPE="DOCTOR" comment="" />
+<PROFESSION id="P22" start="1209" end="1225" text="Family Physician" TYPE="PROFESSION" comment="" />
+<CONTACT id="P23" start="1230" end="1244" text="(509) 555-0140" TYPE="PHONE" comment="" />
+<CONTACT id="P24" start="1251" end="1265" text="(509) 555-0141" TYPE="FAX" comment="" />
+<NAME id="P25" start="1290" end="1302" text="Anselm Bhatt" TYPE="DOCTOR" comment="" />
+<DATE id="P26" start="1303" end="1313" text="10/30/2064" TYPE="DATE" comment="" />
+<NAME id="P27" start="1324" end="1336" text="D. Whitcombe" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

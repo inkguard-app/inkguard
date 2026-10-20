@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CORRIB FAMILY MEDICAL CENTRE
+Dominick Lane, Galway                                  Tel +353 91 555 0120  Fax +353 91 555 0163
+
+06/06/2088
+
+Dr Matthias Ehrenreich
+Praxis am Isartor
+Isartorplatz 8
+80331 München, Germany
+
+DISCHARGE ADDRESS... sorry, RE: O BRIAIN, DECLAN PADRAIG, DOB 09/04/2033, Irish PPS 7342915KA, MRN IE-0098214
+[TRACKED CHANGE - DELETED BY jlowry_admin: 14 Cappagh Park, Doughiska, Galway H91 K4N2]
+Current address: Ard na Mara, Bohermore Road, Galway H91 X2R7, Ireland
+
+Dear Dr Ehrenreich,
+
+Thank you for agreeing as a courtesy to see my patient Mr O Briain, aged 55, who will be in Munich from the 20th of August for a trade fair, and then staying with relatives. I would be grateful for an interim review of his glycaemic status while he is away, as he has no GP cover there.
+
+Background: essential hypertension since February 2071 (lisinopril was stopped in April 2081 and BP has crept back up: 130/90 at his check on 30/05/2088), prediabetes and a mild anaemia first noted March 2074, chronic sinusitis, concussion in January 2084 (fully recovered). HbA1c has been 6.3% in 2086 and 2087 and 6.4% on 30/05/2088, fasting glucose 92.6 mg/dL, total WBC 10.0 and haemoglobin 13.5 g/dL on the same day. Weight is stable at 91.5 kg, BMI 27.6. GAD-7 was 4. He does not have Cushing's disease, Graves disease or Addison's disease to my knowledge, and there is no family history of Hodgkin lymphoma.
+
+Social: married to Marta Kowalczyk-Brennan, who is Polish and whose brother Jacek Kowalczyk lives in Gdansk (ul. Grunwaldzka 41/7, 80-244 Gdansk, Poland, phone +48 58 555 01 33) - he may be the contact if there is any problem. His daughter Niamh O Briain lives in Toronto (M5V 2T6, Canada) and his son Fergal O Briain in Melbourne, Victoria 3065, Australia. He has been unemployed last year and I am aware from his screening that he has had a difficult time at home in the past; he has said he is safe now and the 2086 entries on this are a copy-forward from his old chart. Please be gentle if he is reluctant to talk about it.
+
+Insurance: VHI style plan, policy CMP 4410 8872 31. Please send your report to me or to my receptionist Aoife Brannigan at reception@corribfamily.example. A copy to Dr Rajesh Pillai-Walsh (endocrinology, Ardmore Bay Regional Hospital) would be welcome.
+
+With kind regards,
+
+Dr Orla Fahy-Winter
+General Practitioner
+Corrib Family Medical Centre
+
+[COMMENT BY jlowry_admin: "DISCHARGE ADDRESS" at top was left over from the discharge template. Delete before sending. Also Dr Ehrenreich's name is spelt EHREINREICH on the fax cover sheet.]
+cc: Marta K-B (hand copy), file
+Dictated by Dr Fahy-Winter 06/06/2088, typed by J. Lowry 07/06/2088
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="28" text="CORRIB FAMILY MEDICAL CENTRE" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="29" end="42" text="Dominick Lane" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="44" end="50" text="Galway" TYPE="CITY" comment="" />
+<CONTACT id="P3" start="88" end="104" text="+353 91 555 0120" TYPE="PHONE" comment="" />
+<CONTACT id="P4" start="110" end="126" text="+353 91 555 0163" TYPE="FAX" comment="" />
+<DATE id="P5" start="128" end="138" text="06/06/2088" TYPE="DATE" comment="" />
+<NAME id="P6" start="143" end="162" text="Matthias Ehrenreich" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="163" end="180" text="Praxis am Isartor" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P8" start="181" end="195" text="Isartorplatz 8" TYPE="STREET" comment="" />
+<LOCATION id="P9" start="196" end="201" text="80331" TYPE="ZIP" comment="" />
+<LOCATION id="P10" start="202" end="209" text="München" TYPE="CITY" comment="" />
+<LOCATION id="P11" start="211" end="218" text="Germany" TYPE="COUNTRY" comment="" />
+<NAME id="P12" start="252" end="276" text="O BRIAIN, DECLAN PADRAIG" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="282" end="292" text="09/04/2033" TYPE="DATE" comment="" />
+<ID id="P14" start="304" end="313" text="7342915KA" TYPE="IDNUM" comment="" />
+<ID id="P15" start="319" end="329" text="IE-0098214" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P16" start="359" end="371" text="jlowry_admin" TYPE="USERNAME" comment="" />
+<LOCATION id="P17" start="435" end="462" text="Ard na Mara, Bohermore Road" TYPE="STREET" comment="" />
+<LOCATION id="P18" start="464" end="470" text="Galway" TYPE="CITY" comment="" />
+<LOCATION id="P19" start="471" end="479" text="H91 X2R7" TYPE="ZIP" comment="" />
+<LOCATION id="P20" start="481" end="488" text="Ireland" TYPE="COUNTRY" comment="" />
+<NAME id="P21" start="569" end="577" text="O Briain" TYPE="PATIENT" comment="" />
+<AGE id="P22" start="584" end="586" text="55" TYPE="AGE" comment="" />
+<DATE id="P23" start="615" end="633" text="the 20th of August" TYPE="DATE" comment="" />
+<DATE id="P24" start="840" end="853" text="February 2071" TYPE="DATE" comment="" />
+<DATE id="P25" start="881" end="891" text="April 2081" TYPE="DATE" comment="" />
+<DATE id="P26" start="941" end="951" text="30/05/2088" TYPE="DATE" comment="" />
+<DATE id="P27" start="997" end="1007" text="March 2074" TYPE="DATE" comment="" />
+<DATE id="P28" start="1042" end="1054" text="January 2084" TYPE="DATE" comment="" />
+<DATE id="P29" start="1097" end="1101" text="2086" TYPE="DATE" comment="" />
+<DATE id="P30" start="1106" end="1110" text="2087" TYPE="DATE" comment="" />
+<DATE id="P31" start="1123" end="1133" text="30/05/2088" TYPE="DATE" comment="" />
+<NAME id="P32" start="1434" end="1457" text="Marta Kowalczyk-Brennan" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="1491" end="1506" text="Jacek Kowalczyk" TYPE="PATIENT" comment="" />
+<LOCATION id="P34" start="1516" end="1522" text="Gdansk" TYPE="CITY" comment="" />
+<LOCATION id="P35" start="1524" end="1544" text="ul. Grunwaldzka 41/7" TYPE="STREET" comment="" />
+<LOCATION id="P36" start="1546" end="1552" text="80-244" TYPE="ZIP" comment="" />
+<LOCATION id="P37" start="1553" end="1559" text="Gdansk" TYPE="CITY" comment="" />
+<LOCATION id="P38" start="1561" end="1567" text="Poland" TYPE="COUNTRY" comment="" />
+<CONTACT id="P39" start="1575" end="1591" text="+48 58 555 01 33" TYPE="PHONE" comment="" />
+<NAME id="P40" start="1655" end="1669" text="Niamh O Briain" TYPE="PATIENT" comment="" />
+<LOCATION id="P41" start="1679" end="1686" text="Toronto" TYPE="CITY" comment="" />
+<LOCATION id="P42" start="1688" end="1695" text="M5V 2T6" TYPE="ZIP" comment="" />
+<LOCATION id="P43" start="1697" end="1703" text="Canada" TYPE="COUNTRY" comment="" />
+<NAME id="P44" start="1717" end="1732" text="Fergal O Briain" TYPE="PATIENT" comment="" />
+<LOCATION id="P45" start="1736" end="1745" text="Melbourne" TYPE="CITY" comment="" />
+<LOCATION id="P46" start="1747" end="1755" text="Victoria" TYPE="STATE" comment="" />
+<LOCATION id="P47" start="1756" end="1760" text="3065" TYPE="ZIP" comment="" />
+<LOCATION id="P48" start="1762" end="1771" text="Australia" TYPE="COUNTRY" comment="" />
+<DATE id="P49" start="1929" end="1933" text="2086" TYPE="DATE" comment="" />
+<ID id="P50" start="2078" end="2094" text="CMP 4410 8872 31" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P51" start="2148" end="2163" text="Aoife Brannigan" TYPE="DOCTOR" comment="" />
+<CONTACT id="P52" start="2167" end="2197" text="reception@corribfamily.example" TYPE="EMAIL" comment="" />
+<NAME id="P53" start="2212" end="2231" text="Rajesh Pillai-Walsh" TYPE="DOCTOR" comment="" />
+<LOCATION id="P54" start="2248" end="2277" text="Ardmore Bay Regional Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P55" start="2321" end="2337" text="Orla Fahy-Winter" TYPE="DOCTOR" comment="" />
+<LOCATION id="P56" start="2359" end="2387" text="Corrib Family Medical Centre" TYPE="HOSPITAL" comment="" />
+<NAME id="P57" start="2401" end="2413" text="jlowry_admin" TYPE="USERNAME" comment="" />
+<NAME id="P58" start="2543" end="2554" text="EHREINREICH" TYPE="DOCTOR" comment="" />
+<NAME id="P59" start="2584" end="2593" text="Marta K-B" TYPE="PATIENT" comment="" />
+<NAME id="P60" start="2627" end="2638" text="Fahy-Winter" TYPE="DOCTOR" comment="" />
+<DATE id="P61" start="2639" end="2649" text="06/06/2088" TYPE="DATE" comment="" />
+<NAME id="P62" start="2660" end="2668" text="J. Lowry" TYPE="DOCTOR" comment="" />
+<DATE id="P63" start="2669" end="2679" text="07/06/2088" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

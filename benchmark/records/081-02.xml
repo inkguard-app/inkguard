@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_key,note_type,svc_date,author,text
+MV20070322,LAB RESULT COMMENT TO PT,04/08/2059,Jolene Pike RN,"Dear Ms. Voss, your bloodwork from 04/06/2059 is back. Hemoglobin 11.6 (lower than your last one of 12.6), so mild anemia. Your B12 shot plan starts now - see schedule. Sugar test (A1c) from 03/30/2059 was 6.0 = prediabetes range; we'll talk about food at your next visit. No need to come in sooner. Call w/ questions. Eat iron rich foods, recheck in 3 months."
+MV20070322,LAB RESULT COMMENT TO PT,04/08/2059,jpike,"duplicate - sent again by mistake, pls disregard. LDL 138 from last yr still needs a plan. Thanks, Jolene"
+</TEXT>
+<TAGS>
+<ID id="P0" start="39" end="49" text="MV20070322" TYPE="IDNUM" comment="" />
+<DATE id="P1" start="75" end="85" text="04/08/2059" TYPE="DATE" comment="" />
+<NAME id="P2" start="86" end="100" text="Jolene Pike RN" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="111" end="115" text="Voss" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="137" end="147" text="04/06/2059" TYPE="DATE" comment="" />
+<DATE id="P5" start="293" end="303" text="03/30/2059" TYPE="DATE" comment="" />
+<ID id="P6" start="464" end="474" text="MV20070322" TYPE="IDNUM" comment="" />
+<DATE id="P7" start="500" end="510" text="04/08/2059" TYPE="DATE" comment="" />
+<NAME id="P8" start="511" end="516" text="jpike" TYPE="USERNAME" comment="" />
+<NAME id="P9" start="617" end="623" text="Jolene" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

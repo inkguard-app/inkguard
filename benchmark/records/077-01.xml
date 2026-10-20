@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE - Lake Superior Regional Hospital   Emergency Dept
+Date of service 8/30/2066  arrival 19:40   ED id SL-5503821
+Patient: BRANDL, ILINCA     Age: 55     DOB 17.02.2011 (as pt tell us)   Sex F
+Attending: Dr. Wojciech Zalewski    Triage RN M. Thorvaldsen    Room ED-7
+
+CC: pain, patient is coming with her husband Konrad, he is answering the all questions.
+
+HPI: 55 years old woman, she come to emergency because the pain in the right wrist and the side, since two day. Pain 3 of 10. The husband say she is falling on the stairs, but patient say "I am fine, nothing happens" and she look to the floor when I am asking. She denied any violence. Interpreter not needed, english is OK for her but she speaks Romanian with husband; he is born in Austria. She is living before in Cluj-Napoca, Romania.
+
+PMH per chart: prediabetes, anemia, obesity, recurent urinary infections, tubal ligation. Pt deny "any sugar problem".  Medications: none regular, acetaminophen finished one week ago for bronchitis (started 08/20/2066).
+
+Exam: BMI 30, BP 126/79, no deformity of wrist, full motion, tender on lateral ribs, no bruise I can see. X-ray not necessary by me, patient decline. glucose 71. HbA1c 6.0%.
+
+Assessment: pain muscoloskeletal, social: possible unsafe environment - the chart has "reports of violence in environment" since August 2065. I speak with the patient alone for five minutes while the husband is go to the car, she give me the card of the Harborlight Crisis Line and said "please, not call my home". Do not call home phone (218) 555-0119.
+
+Disposition: discharged. Follow with primary care Dr. Qureshi in one week (appointment Monday). Return if worse.
+Signed Wojciech Zalewski MD   08/30/2066 23:12
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="28" end="59" text="Lake Superior Regional Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="62" end="76" text="Emergency Dept" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="93" end="102" text="8/30/2066" TYPE="DATE" comment="" />
+<ID id="P3" start="126" end="136" text="SL-5503821" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P4" start="146" end="160" text="BRANDL, ILINCA" TYPE="PATIENT" comment="" />
+<AGE id="P5" start="170" end="172" text="55" TYPE="AGE" comment="" />
+<DATE id="P6" start="181" end="191" text="17.02.2011" TYPE="DATE" comment="" />
+<NAME id="P7" start="227" end="248" text="Dr. Wojciech Zalewski" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="262" end="276" text="M. Thorvaldsen" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="285" end="289" text="ED-7" TYPE="ROOM" comment="" />
+<NAME id="P10" start="336" end="342" text="Konrad" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="385" end="387" text="55" TYPE="AGE" comment="" />
+<LOCATION id="P12" start="764" end="771" text="Austria" TYPE="COUNTRY" comment="" />
+<LOCATION id="P13" start="797" end="808" text="Cluj-Napoca" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="810" end="817" text="Romania" TYPE="COUNTRY" comment="" />
+<DATE id="P15" start="1027" end="1037" text="08/20/2066" TYPE="DATE" comment="" />
+<DATE id="P16" start="1345" end="1356" text="August 2065" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="1470" end="1493" text="Harborlight Crisis Line" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P18" start="1554" end="1568" text="(218) 555-0119" TYPE="PHONE" comment="" />
+<NAME id="P19" start="1621" end="1632" text="Dr. Qureshi" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1658" end="1664" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P21" start="1691" end="1708" text="Wojciech Zalewski" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1714" end="1724" text="08/30/2066" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

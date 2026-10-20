@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PIEDMONT FAMILY MEDICINE - PROGRESS NOTE (SOAP)
+LOVE, RAYMOND E            MRN: 7704-1138            DOB: 06/21/2011
+Date of service: 09/27/2059     Provider: Dr. Winston Achebe-Marsh     MA: Brittany Ng
+Dictated but not read. Note typed as the doctor spoke.
+
+HPI: Mr. Love is a 48 year old married man, better known to all of us as Tank, who comes in for his annual visit. He has had hypertension since 2039 and has chronic kidney disease stage one with a kidney disorder due to diabetes. Mr. Love's wife, Margie, came with him and spoke up several times to remind him about his medicines. He is married to Marguerite Love (it's Margarite on the insurance, that is wrong) and has a son, Elijah, in the tenth grade. He is out of work at present after leaving his job as a forklift operator at Palmetto Roofing Supply some years ago and picks up odd jobs. He says his drinking is "down to nothing", although the chart says unhealthy alcohol use resolved September 2057.
+
+His home number is 864-555-0182, best time evenings. Please do not leave a message with Pearl, his sister in law.
+
+Objective: Wt 79.9 kg, BMI 27.8, BP 120/80, pain 3/10 in the lower back. Labs from today: creatinine 1.7, eGFR 96.9, total cholesterol 217. 
+Assessment: 1. Hypertension, off meds. 2. CKD 1 with diabetic kidney disease. 3. Dyslipidemia mild. 4. Gingivitis, dental referral.
+Plan: recheck labs in 6 months. R.E.L. to return sooner if swelling, foamy urine. Discussed Love's ... (cut off)
+
+Glucose meter log pasted: device GM-7K-224410 paired to network LoveShack_5G at 172.16.40.9, last sync 9/26.
+Thx, RL   //  Signed: W. Achebe-Marsh, MD  09/28/2059 08:12  Last edited by bng 
+</TEXT>
+<TAGS>
+<NAME id="P0" start="48" end="63" text="LOVE, RAYMOND E" TYPE="PATIENT" comment="" />
+<ID id="P1" start="80" end="89" text="7704-1138" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="106" end="116" text="06/21/2011" TYPE="DATE" comment="" />
+<DATE id="P3" start="134" end="144" text="09/27/2059" TYPE="DATE" comment="" />
+<NAME id="P4" start="163" end="183" text="Winston Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="192" end="203" text="Brittany Ng" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="269" end="273" text="Love" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="279" end="281" text="48" TYPE="AGE" comment="" />
+<NAME id="P8" start="333" end="337" text="Tank" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="404" end="408" text="2039" TYPE="DATE" comment="" />
+<NAME id="P10" start="494" end="500" text="Love's" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="507" end="513" text="Margie" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="608" end="623" text="Marguerite Love" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="688" end="694" text="Elijah" TYPE="PATIENT" comment="" />
+<PROFESSION id="P14" start="772" end="789" text="forklift operator" TYPE="PROFESSION" comment="" />
+<LOCATION id="P15" start="793" end="816" text="Palmetto Roofing Supply" TYPE="ORGANIZATION" comment="" />
+<DATE id="P16" start="953" end="967" text="September 2057" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="989" end="1001" text="864-555-0182" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1058" end="1063" text="Pearl" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1390" end="1396" text="R.E.L." TYPE="PATIENT" comment="" />
+<NAME id="P20" start="1450" end="1454" text="Love" TYPE="PATIENT" comment="" />
+<ID id="P21" start="1505" end="1517" text="GM-7K-224410" TYPE="DEVICE" comment="" />
+<LOCATION id="P22" start="1536" end="1548" text="LoveShack_5G" TYPE="LOCATION-OTHER" comment="" />
+<CONTACT id="P23" start="1552" end="1563" text="172.16.40.9" TYPE="IPADDR" comment="" />
+<DATE id="P24" start="1575" end="1579" text="9/26" TYPE="DATE" comment="" />
+<NAME id="P25" start="1586" end="1588" text="RL" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1603" end="1618" text="W. Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1624" end="1634" text="09/28/2059" TYPE="DATE" comment="" />
+<NAME id="P28" start="1657" end="1660" text="bng" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

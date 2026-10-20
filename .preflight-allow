@@ -1,0 +1,21 @@
+# Files a human has checked: their example names and numbers are fictional,
+# or are the names of cited authors. Only the patient-data check honours
+# this list; secrets and run artifacts never pass.
+# A line ending in "/" covers a whole folder.
+README.md
+THIRD_PARTY_NOTICES.md
+THREAT_MODEL.md
+docs/HOW_IT_WORKS.md
+docs/SECURITY_STANDARDS.md
+# Invented example names ("Lars Babinski", "SMITH, JOHN") and the author's name.
+CHANGELOG.md
+docs/DESIGN_DECISIONS.md
+docs/guides/
+# The synthetic benchmark: invented patients, written to look real on purpose.
+benchmark/
+
+# Invented sample notes for trying the tool (from the synthetic benchmark).
+examples/
+
+# Package pins: version numbers, and one invented example surname in a comment.
+requirements.txt

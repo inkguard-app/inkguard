@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 3318 | ENC E-88213 | PT_NAME: FROST, SKY W | NOTE_TYPE: LETTER TO SCHOOL
+
+Cedar Hollow Pediatrics
+Letter date: 01/10/2069
+
+To whom it may concern at Willowmere Elementary (attn Ms. Storey, classroom teacher, and school nurse Dawn Sumner)
+
+RE: Sky Frost, 5 y.o., kindergarten
+
+- Sky was seen in the ED on 12/19/2068 for a concusion (no loss of consciousness) after a fall from the climbing frame, and followed up here.
+- Still recovering. She may return to class for half days, building up as tolerated
+- No recess play on the climbing frame, no PE, no ball games until I clear her in writing
+- Screens and bright light: let her rest her eyes when she asks, a quiet corner is fine. Dont push her to "catch up" on worksheets
+- Watch for: headache that gets worse, vomiting, being unusually sleepy or cranky, double vision. If any of these - call Hope Frost (mom) and send her to us or the ED
+- Mom's cell is on the school card. Dad is Royal Adeyemi, different surname, please dont mix them up in the office system
+- Sky is a bright kid and the sky is not falling, she will be back to full activity in a few weeks, next review early March
+
+Thanks for your help. Sincerly,
+
+Will Page, MD
+Cedar Hollow Pediatrics
+Electronically signed 01/10/2069 16:41 by wpage
+</TEXT>
+<TAGS>
+<ID id="P0" start="15" end="22" text="E-88213" TYPE="IDNUM" comment="" />
+<NAME id="P1" start="34" end="46" text="FROST, SKY W" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="78" end="101" text="Cedar Hollow Pediatrics" TYPE="HOSPITAL" comment="" />
+<DATE id="P3" start="115" end="125" text="01/10/2069" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="153" end="174" text="Willowmere Elementary" TYPE="ORGANIZATION" comment="" />
+<NAME id="P5" start="181" end="191" text="Ms. Storey" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="229" end="240" text="Dawn Sumner" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="247" end="256" text="Sky Frost" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="258" end="259" text="5" TYPE="AGE" comment="" />
+<DATE id="P9" start="308" end="318" text="12/19/2068" TYPE="DATE" comment="" />
+<NAME id="P10" start="848" end="858" text="Hope Frost" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="937" end="950" text="Royal Adeyemi" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="1134" end="1139" text="March" TYPE="DATE" comment="" />
+<NAME id="P13" start="1174" end="1183" text="Will Page" TYPE="DOCTOR" comment="" />
+<LOCATION id="P14" start="1188" end="1211" text="Cedar Hollow Pediatrics" TYPE="HOSPITAL" comment="" />
+<DATE id="P15" start="1234" end="1244" text="01/10/2069" TYPE="DATE" comment="" />
+<NAME id="P16" start="1254" end="1259" text="wpage" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

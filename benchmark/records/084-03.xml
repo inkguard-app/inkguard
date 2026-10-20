@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>** MEDICATION RECONCILIATION LIST **  -  "Behavioral Health"
+Prepared by: Jayden Torres, medical assistant           Date: June 1, 2078  (Wednesday)
+Patient: O. Fields   aka Birdie   DOB 2/9/44   age 34   MRN BH-0058142
+Insurance: BCX 904-33-7781-02   Preferred pharmacy: Greenfield Family Pharmacy 508-555-0150
+Seen with: Dr. Nwosu-Bell and Dr. Castellanos
+
+--&gt; Pt was very cooperative, super chill, nice vibes, brought all her bottles in a bag
+--&gt; Pt says her husband "T.J." Terrence Fields handles the bottles at home
+
+CURRENT LIST (per bottles and pt):
+1. Acetaminophen 325 mg tabs, as needed, headaches - ok
+2. Naproxen 220 mg tab - STILL ON LIST from the foot cut in Oct 2075, ended on the 28th, REMOVE
+3. Sodium fluoride gel (dentist) - one time only 2070 copy forward, not current
+4. Multivitamin with iron daily - OTC, started a few months ago
+5. "Carprofen 25 mg chew" - Rx label reads: PATIENT: BISCUIT FIELDS (dog) / Dr. Ansel Rutherford DVM, Lakeside Veterinary Clinic 508-555-0173 Rx# VR-448120 - this is the DOG's pill, NOT for the pt. Remove!! (she carries it in her purse by mistake)
+6. Birth control: none, tubal ligation 2070
+
+Psych meds: none. Allergies: ______   (not entered)
+
+Screening done today: PHQ-9 / depression screen neg, substance use screen neg, drug screen neg. HbA1c 5.8, wt 81.8 kg, BMI 29.1, BP 124/72, total cholesterol 205, LDL 133, glucose 71, Hgb 15.7, WBC 6.5. Prediabetes still on problem list.
+
+Home BP cuff serial BPM-88213-QX - she brought it for us to check against ours. It read 4 points higher.
+Parking: car 4RTK-731 is in the visitor lot
+
+In conclusion, the patient's journey is one of hope and we are proud of her.  Dental referral done for 6/15.
+Portal login name: ofields_birdie44  pw reset sent
+</TEXT>
+<TAGS>
+<NAME id="P0" start="74" end="87" text="Jayden Torres" TYPE="DOCTOR" comment="" />
+<DATE id="P1" start="123" end="135" text="June 1, 2078" TYPE="DATE" comment="" />
+<DATE id="P2" start="138" end="147" text="Wednesday" TYPE="DATE" comment="" />
+<NAME id="P3" start="158" end="167" text="O. Fields" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="174" end="180" text="Birdie" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="187" end="193" text="2/9/44" TYPE="DATE" comment="" />
+<AGE id="P6" start="200" end="202" text="34" TYPE="AGE" comment="" />
+<ID id="P7" start="209" end="219" text="BH-0058142" TYPE="MEDICALRECORD" comment="" />
+<ID id="P8" start="231" end="249" text="BCX 904-33-7781-02" TYPE="HEALTHPLAN" comment="" />
+<LOCATION id="P9" start="272" end="298" text="Greenfield Family Pharmacy" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P10" start="299" end="311" text="508-555-0150" TYPE="PHONE" comment="" />
+<NAME id="P11" start="327" end="337" text="Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="346" end="357" text="Castellanos" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="477" end="492" text="Terrence Fields" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="673" end="681" text="Oct 2075" TYPE="DATE" comment="" />
+<DATE id="P15" start="696" end="700" text="28th" TYPE="DATE" comment="" />
+<DATE id="P16" start="758" end="762" text="2070" TYPE="DATE" comment="" />
+<NAME id="P17" start="906" end="920" text="BISCUIT FIELDS" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="933" end="949" text="Ansel Rutherford" TYPE="DOCTOR" comment="" />
+<LOCATION id="P19" start="955" end="981" text="Lakeside Veterinary Clinic" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P20" start="982" end="994" text="508-555-0173" TYPE="PHONE" comment="" />
+<ID id="P21" start="999" end="1008" text="VR-448120" TYPE="IDNUM" comment="" />
+<DATE id="P22" start="1140" end="1144" text="2070" TYPE="DATE" comment="" />
+<ID id="P23" start="1458" end="1470" text="BPM-88213-QX" TYPE="DEVICE" comment="" />
+<ID id="P24" start="1556" end="1564" text="4RTK-731" TYPE="VEHICLE" comment="" />
+<DATE id="P25" start="1691" end="1695" text="6/15" TYPE="DATE" comment="" />
+<NAME id="P26" start="1716" end="1732" text="ofields_birdie44" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

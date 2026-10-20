@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE NOTE  (minor procedure - ED procedure rm)
+St. Aldric Children's Hospital  Emergency
+Pt: ZIELINSKI, TOMASZ A   MRN CH-0458231   DOB 19/02/2065   Age 5y M
+Date of proc: 06/01/70  (arr 6/1 01:52, proc 03:10)
+Surgeon: Dr Samir Haddad  Assist: Dwayne Kowalczuk RN  Anesth: none, local only
+Room: Resus 2
+
+PRE-OP DX: scalp lac R parietal 3cm, post-ictal fall
+POST-OP DX: same
+PROC: Lac repair, simple, scalp.
+
+HX: 5yo known seizure d/o (since Apr 2067), GTC at home ~01:15 per mother Agnieska, fell fm couch onto radiator edge. LOC &lt;5 min, nl post-ictal recovery. No vomit. Sib Zosia woke mum. Father Tunde was on nightshift at Nordhaven Logistics, called by phone.
+Last seizure before this prev ED visit 3/23/69. No meds currently (diazepam d/c'd 8/2068). Neuro Dr Vasseur notified.
+
+CT head: not done, GCS 15, PECARN low risk, parents ok w obs.
+
+TECHNIQUE: Pt supine, mother holding hand. Hair clipped - not shaved. Cleaned NS irrig 200ml. 1% lido w epi inj, 4 ml. Explored, no galea breach, no FB. Closed w 4 simple interrupted 4-0 vicryl rapide / not stapled (mum pref). Hemostasis nl. EBL min. Pt tolerated well, no sedation. Sponge/needle count correct x2.
+
+COMPLICATIONS: none.
+Wt: *** kg   Allergies: ______   Pt phone: (000) 000-0000
+Dispo: home after 4h obs, ~07:30, w mother. Suture self-dissolve, wound check at peds clinic in 5d (this Fri). Return prec given in english AND polish. Tetanus UTD per record.
+
+Pt's school (Ecole Primaire du Ruisseau mat. class) note provided - off Mon Tues. Mum works pharmacist - understood instrctions well.
+
+Dictated/typed 06/01/2070 08:05  S. Haddad MD  e-sig shaddad
+Visit acct V70-0601-3351
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="52" end="82" text="St. Aldric Children's Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="84" end="93" text="Emergency" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="109" end="117" text="TOMASZ A" TYPE="PATIENT" comment="" />
+<ID id="P3" start="124" end="134" text="CH-0458231" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="141" end="151" text="19/02/2065" TYPE="DATE" comment="" />
+<AGE id="P5" start="158" end="159" text="5" TYPE="AGE" comment="" />
+<DATE id="P6" start="177" end="185" text="06/01/70" TYPE="DATE" comment="" />
+<DATE id="P7" start="192" end="195" text="6/1" TYPE="DATE" comment="" />
+<NAME id="P8" start="227" end="239" text="Samir Haddad" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="249" end="265" text="Dwayne Kowalczuk" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="301" end="308" text="Resus 2" TYPE="ROOM" comment="" />
+<AGE id="P11" start="418" end="419" text="5" TYPE="AGE" comment="" />
+<DATE id="P12" start="447" end="455" text="Apr 2067" TYPE="DATE" comment="" />
+<NAME id="P13" start="488" end="496" text="Agnieska" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="582" end="587" text="Zosia" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="605" end="610" text="Tunde" TYPE="PATIENT" comment="" />
+<LOCATION id="P16" start="632" end="651" text="Nordhaven Logistics" TYPE="ORGANIZATION" comment="" />
+<DATE id="P17" start="709" end="716" text="3/23/69" TYPE="DATE" comment="" />
+<DATE id="P18" start="752" end="758" text="8/2068" TYPE="DATE" comment="" />
+<NAME id="P19" start="770" end="777" text="Vasseur" TYPE="DOCTOR" comment="" />
+<CONTACT id="P20" start="1232" end="1246" text="(000) 000-0000" TYPE="PHONE" comment="" />
+<LOCATION id="P21" start="1328" end="1339" text="peds clinic" TYPE="DEPARTMENT" comment="" />
+<DATE id="P22" start="1352" end="1355" text="Fri" TYPE="DATE" comment="" />
+<LOCATION id="P23" start="1437" end="1463" text="Ecole Primaire du Ruisseau" TYPE="ORGANIZATION" comment="" />
+<DATE id="P24" start="1496" end="1499" text="Mon" TYPE="DATE" comment="" />
+<DATE id="P25" start="1500" end="1504" text="Tues" TYPE="DATE" comment="" />
+<PROFESSION id="P26" start="1516" end="1526" text="pharmacist" TYPE="PROFESSION" comment="" />
+<DATE id="P27" start="1574" end="1584" text="06/01/2070" TYPE="DATE" comment="" />
+<NAME id="P28" start="1592" end="1601" text="S. Haddad" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1612" end="1619" text="shaddad" TYPE="USERNAME" comment="" />
+<ID id="P30" start="1631" end="1644" text="V70-0601-3351" TYPE="ACCOUNT" comment="" />
+</TAGS>
+</deIdi2b2>

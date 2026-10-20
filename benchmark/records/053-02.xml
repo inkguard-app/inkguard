@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO PATIENT
+To: Mrs. Marisol Page   (portal: marisolpage77)
+Result date: 04/11/2059 and 04/04/2059
+
+Dear Mrs. Page,
+
+I am writing you for your blood tests. First, the tests of Apr 4th: HbA1c is 6.3 %, this is in the range we call prediabetes, not diabetes. Glucose 74 normal. Cholesterol total 118 and LDL 64 are very good.
+The test of 4/11 show hemoglobin 11.6, a little low, this is anemia, mild. White cells 5.2 normal. We need to look for the reason, maybe iron.
+Please do not worry. It is not Hodgkin or something bad, I only want to check iron and B12. This is no emergency, but do not take Aleve or Motrin every day because these can make the stomach bleed and anemia worse, and in the same time you have the high blood pressure number 141, we repeat.
+Please make an appointment in the next 2 weeks. If you have page from the on-call doctor please you answer, the number is (661) 555-0100. Also I have family history in the chart: your father with Parkinson's disease, yes? and your mother Leonor with sugar. Please confirm.
+
+Your name now is Page in our system since March 2059, but old lab slip say Marisol Rudd - is the same persone, we linked.
+
+Best regards,
+Dr. Truong Minh Khai
+Kern Valley Community Health, Dept Internal Medicine
+cc: Dr. Okafur   Last edited by ttruong 4/12/2059 08:51 from 10.44.2.19
+</TEXT>
+<TAGS>
+<NAME id="P0" start="34" end="51" text="Mrs. Marisol Page" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="63" end="76" text="marisolpage77" TYPE="USERNAME" comment="" />
+<DATE id="P2" start="91" end="101" text="04/11/2059" TYPE="DATE" comment="" />
+<DATE id="P3" start="106" end="116" text="04/04/2059" TYPE="DATE" comment="" />
+<NAME id="P4" start="128" end="132" text="Page" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="194" end="201" text="Apr 4th" TYPE="DATE" comment="" />
+<DATE id="P6" start="354" end="358" text="4/11" TYPE="DATE" comment="" />
+<CONTACT id="P7" start="899" end="913" text="(661) 555-0100" TYPE="PHONE" comment="" />
+<NAME id="P8" start="1015" end="1021" text="Leonor" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="1068" end="1072" text="Page" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="1093" end="1103" text="March 2059" TYPE="DATE" comment="" />
+<NAME id="P11" start="1126" end="1138" text="Marisol Rudd" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="1192" end="1208" text="Truong Minh Khai" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="1209" end="1237" text="Kern Valley Community Health" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P14" start="1244" end="1261" text="Internal Medicine" TYPE="DEPARTMENT" comment="" />
+<NAME id="P15" start="1270" end="1276" text="Okafur" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1294" end="1301" text="ttruong" TYPE="USERNAME" comment="" />
+<DATE id="P17" start="1302" end="1311" text="4/12/2059" TYPE="DATE" comment="" />
+<CONTACT id="P18" start="1323" end="1333" text="10.44.2.19" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Ohio Valley Family Medicine Associates
+420 Chapline Street, Suite 3, Wheeling, WV 2600
+Tel (304) 555-0100        Fax (304) 555-0120
+
+April 28, 2079
+
+To: Mr. Gilly Fenwick, Owner
+Gilly's Auto Salvage
+1900 Water Street, Wheeling, WV
+
+Re: Mr. Everett Hanratty, DOB 11/02/1933, employee
+
+Dear Mr. Fenwick:
+
+I am writing this letter on the request of my patient Mr. Hanratty, who is 45 years old and working in your yard as yard attendant. He is under my care since many years. He have a medical condition which need regular follow-up and treatment (with the patient permission, I am not give the details). 
+
+I kindly request you to allow him to attend appointment on Tuesday and Thursday afternoons for the next three months, from May 2079 until end of July 2079. He also should avoid lifting more than 20 kg for some time due to the neck problem and the high blood pressure, which is not yet well controled (BP 154/106 on 07 April 2079).
+
+Please do the needful. If any more clarifications are needed, kindly contact me in the office.
+
+With regards,
+
+Vasantha Ramaswamy-Iyer, MD
+Family Medicine
+cc: patient, Corinne Hanratty
+Dictated 28.04.2079 Typed kdosch from 10.30.2.77
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="38" text="Ohio Valley Family Medicine Associates" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="39" end="58" text="420 Chapline Street" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="69" end="77" text="Wheeling" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="79" end="81" text="WV" TYPE="STATE" comment="" />
+<LOCATION id="P4" start="82" end="86" text="2600" TYPE="ZIP" comment="" />
+<CONTACT id="P5" start="91" end="105" text="(304) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="117" end="131" text="(304) 555-0120" TYPE="FAX" comment="" />
+<DATE id="P7" start="133" end="147" text="April 28, 2079" TYPE="DATE" comment="" />
+<NAME id="P8" start="157" end="170" text="Gilly Fenwick" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="178" end="198" text="Gilly's Auto Salvage" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P10" start="199" end="216" text="1900 Water Street" TYPE="STREET" comment="" />
+<LOCATION id="P11" start="218" end="226" text="Wheeling" TYPE="CITY" comment="" />
+<LOCATION id="P12" start="228" end="230" text="WV" TYPE="STATE" comment="" />
+<NAME id="P13" start="236" end="256" text="Mr. Everett Hanratty" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="262" end="272" text="11/02/1933" TYPE="DATE" comment="" />
+<NAME id="P15" start="293" end="300" text="Fenwick" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="361" end="369" text="Hanratty" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="378" end="380" text="45" TYPE="AGE" comment="" />
+<PROFESSION id="P18" start="419" end="433" text="yard attendant" TYPE="PROFESSION" comment="" />
+<DATE id="P19" start="663" end="683" text="Tuesday and Thursday" TYPE="DATE" comment="" />
+<DATE id="P20" start="727" end="735" text="May 2079" TYPE="DATE" comment="" />
+<DATE id="P21" start="742" end="758" text="end of July 2079" TYPE="DATE" comment="" />
+<DATE id="P22" start="919" end="932" text="07 April 2079" TYPE="DATE" comment="" />
+<NAME id="P23" start="1047" end="1070" text="Vasantha Ramaswamy-Iyer" TYPE="DOCTOR" comment="" />
+<NAME id="P24" start="1104" end="1120" text="Corinne Hanratty" TYPE="PATIENT" comment="" />
+<DATE id="P25" start="1130" end="1140" text="28.04.2079" TYPE="DATE" comment="" />
+<NAME id="P26" start="1147" end="1153" text="kdosch" TYPE="USERNAME" comment="" />
+<CONTACT id="P27" start="1159" end="1169" text="10.30.2.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

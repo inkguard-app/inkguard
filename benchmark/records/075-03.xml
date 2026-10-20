@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id=4120 | patient_name=PAGE,SUMMER | note_type=RADIOLOGY REPORT | note_text=
+Eastgate Imaging Center   DXA BONE DENSITY
+Accession: SPAGE-0822-93   Exam date: 08/22/2093   MRN 0447-1209
+Patient name on scanner: PAGE SUMMER   DOB 02/11/2033   Age 60
+Ordering: Joy Hart NP        Tech: Mark Dunne
+- Indication: postmenopausal, wellness exam 08/21/2093 [sic] ordered, back pain, fall risk screen
+- Technique: dual energy x-ray, lumbar spine and both hips. Height 63 in, wt 78.4 kg
+- Findings:
+  - L1-L4 T-score -2.7, hip femoral neck T-score -2.4
+  - Spinal degenerative change may falsely raise density at L4
+  - No prior study for compairson
+- Impression: osteoporosis by WHO criteria
+- Rec: treatment per clinician, repeat in 2 yrs. FRAX not calculated, pt hx of fractures unknown (pt said she "cracked a bone on the lake" but nothing in chart)
+- Dictated by Noel Long, MD   08/23/2093   Reviewed too fast, pls call (918) 555-0155
+- Barcode: *SP021133*  
+&gt;&gt;&gt; pasted from last imaging note: ... Willa Cross, DOB 6/4/2031, MRN 0391-8856 lumbar xray unremarkable. &lt;&lt;&lt;
+Electronically signed Noel Long 08/23/2093 07:02 from 10.31.7.9
+</TEXT>
+<TAGS>
+<NAME id="P0" start="27" end="38" text="PAGE,SUMMER" TYPE="PATIENT" comment="" />
+<LOCATION id="P1" start="81" end="104" text="Eastgate Imaging Center" TYPE="HOSPITAL" comment="" />
+<ID id="P2" start="135" end="148" text="SPAGE-0822-93" TYPE="IDNUM" comment="" />
+<DATE id="P3" start="162" end="172" text="08/22/2093" TYPE="DATE" comment="" />
+<ID id="P4" start="179" end="188" text="0447-1209" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P5" start="214" end="225" text="PAGE SUMMER" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="232" end="242" text="02/11/2033" TYPE="DATE" comment="" />
+<AGE id="P7" start="249" end="251" text="60" TYPE="AGE" comment="" />
+<NAME id="P8" start="262" end="270" text="Joy Hart" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="287" end="297" text="Mark Dunne" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="342" end="352" text="08/21/2093" TYPE="DATE" comment="" />
+<NAME id="P11" start="862" end="871" text="Noel Long" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="878" end="888" text="08/23/2093" TYPE="DATE" comment="" />
+<CONTACT id="P13" start="919" end="933" text="(918) 555-0155" TYPE="PHONE" comment="" />
+<ID id="P14" start="946" end="954" text="SP021133" TYPE="IDNUM" comment="" />
+<NAME id="P15" start="997" end="1008" text="Willa Cross" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="1014" end="1022" text="6/4/2031" TYPE="DATE" comment="" />
+<ID id="P17" start="1028" end="1037" text="0391-8856" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P18" start="1090" end="1099" text="Noel Long" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1100" end="1110" text="08/23/2093" TYPE="DATE" comment="" />
+<CONTACT id="P20" start="1122" end="1131" text="10.31.7.9" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

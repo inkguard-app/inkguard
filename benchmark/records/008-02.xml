@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE                              Lone Star Valley Medical Center
+Patient: HOLLOWAY, WYATT T      MRN: HW-0075-4410      DOB: 08/14/2040     Sex: M
+Arrival: 04/12/2075 02:15 by EMS    ED attending: Dr. Evelyn Cook    Consult: Dr. Marcus Hunter, orthopaedic surgery
+
+This is a 34 year old right hand dominant male veteran brought in by ambulance after a fall of about eight feet from a ladder at a loading dock at Redmesa Freight and Dock Services where he started working in March, around midnight on the 11th. He landed on his outstretched right hand, there was no head strike, no loss of consciousness, and his coworker Dewayne Okoro called 911. He has had pain in his right wrist since then, 8 out of 10, and obvious deformity. His chart shows a wellness exam on 2/21 with a pain score of 3, a blood pressure of 142 over 93, and he is not taking any medicines. No known drug allergies. Social: married to Daisy Holloway, who is on the way from Killeen, with her mother Constance Birdsong watching the dog. Served in the Army from 2059; he mentioned he used to be a cook in a mess hall, so he knows his way around a kitchen. Drinks socially. Quit smoking.
+
+PHYSICAL EXAM: T 36.8, HR 102, BP 150/96, RR 18, SpO2 98%. He is in obvious pain but alert. Right wrist with dorsal angulation, a so called dinner fork deformity, swelling and tenderness over the distal radius, no open wound. Fingers warm, cap refill under two seconds, sensation intact in median, ulnar and radial distributions. No snuffbox tenderness. On exam his dog tag reads "HOLLOWAY WYATT T 900-14-7708 O POS", so I verified blood type. Neck non tender. Spine non tender. No other injuries.
+
+IMAGING: X-ray right wrist: comminuted fracture distal radius, dorsally displaced, intra articular extension, Colles type per the radiologist, no other fracture.
+ED COURSE: IV access, fentanyl in the department, hematoma block, closed reduction attempted by Dr. Hunter then volar splint. Post reduction film shows partial improvement but persistent step off, so operative fixation recommended. Percocet and Tylenol for pain. Tetanus updated. NPO after 4:00 AM for surgery. 
+
+IMPRESSION: Closed comminuted intra-articular right distal radius fracture, fall from height at work.
+DISPOSITION: admit to orthopaedics, OR on 4/13. Workers compensation case opened by employer. Dr. Hunter left a sticky note: "call me on my cell (254) 555-0188 if neurovasc changes" which I am transcribing here.
+
+Dictated but not read. Dictated by Evelyn Cook MD 04/12/2075 06:20
+[Tracked change by ecook: Deleted "left" -&gt; Inserted "right"]   [Comment: pls double check hand dominance - dictated as 'left' first]
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="55" end="86" text="Lone Star Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="96" end="113" text="HOLLOWAY, WYATT T" TYPE="PATIENT" comment="" />
+<ID id="P2" start="124" end="136" text="HW-0075-4410" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="147" end="157" text="08/14/2040" TYPE="DATE" comment="" />
+<DATE id="P4" start="178" end="188" text="04/12/2075" TYPE="DATE" comment="" />
+<NAME id="P5" start="223" end="234" text="Evelyn Cook" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="251" end="264" text="Marcus Hunter" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="297" end="299" text="34" TYPE="AGE" comment="" />
+<LOCATION id="P8" start="434" end="467" text="Redmesa Freight and Dock Services" TYPE="ORGANIZATION" comment="" />
+<DATE id="P9" start="496" end="501" text="March" TYPE="DATE" comment="" />
+<DATE id="P10" start="522" end="530" text="the 11th" TYPE="DATE" comment="" />
+<NAME id="P11" start="643" end="656" text="Dewayne Okoro" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="787" end="791" text="2/21" TYPE="DATE" comment="" />
+<NAME id="P13" start="929" end="943" text="Daisy Holloway" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="968" end="975" text="Killeen" TYPE="CITY" comment="" />
+<NAME id="P15" start="993" end="1011" text="Constance Birdsong" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="1054" end="1058" text="2059" TYPE="DATE" comment="" />
+<NAME id="P17" start="1561" end="1577" text="HOLLOWAY WYATT T" TYPE="PATIENT" comment="" />
+<ID id="P18" start="1578" end="1589" text="900-14-7708" TYPE="SSN" comment="" />
+<NAME id="P19" start="1941" end="1947" text="Hunter" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="2298" end="2302" text="4/13" TYPE="DATE" comment="" />
+<NAME id="P21" start="2354" end="2360" text="Hunter" TYPE="DOCTOR" comment="" />
+<CONTACT id="P22" start="2401" end="2415" text="(254) 555-0188" TYPE="PHONE" comment="" />
+<NAME id="P23" start="2504" end="2515" text="Evelyn Cook" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="2519" end="2529" text="04/12/2075" TYPE="DATE" comment="" />
+<NAME id="P25" start="2555" end="2560" text="ecook" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

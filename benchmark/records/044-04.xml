@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY  (Word document - tracked changes ON)
+Westbrook Regional Heart Hospital  -  4 West Cardiac Surgery Unit
+[DEL nchaudhry 08/20/2062 09:02: Patient: Hollis Brandt]
+[INS nchaudhry 08/20/2062 09:03: Patient: MARSH, DESMOND]    MRN MH-203391   DOB 02/11/1989   73-year-old male
+Admitted: 08/14/2062      Discharged: 08/20/2062      Bed: 418-B
+Attending surgeon: Dr. Naomi Paige    Cardiologist: Dr. Joaquin Lane    Hospitalist: Dr. Noor Chaudhry
+
+[COMMENT nchaudhry 08/20/2062 09:10: Dr. Page spelled Paige by dictation, fix. Also template pulled the wrong patient, see deleted text above]
+
+DIAGNOSES: 1. Coronary artery disease, multivessel, s/p CABG x3 08/15/2062 (cabbage per dictation, ha). 2. History of ST elevation myocardial infarction 6/16/2061. 3. Chronic kidney disease vs acute on chronic, creatinine 2.9. 4. Obstructive sleep apnea. 5. Essential hypertension. 6. Obesity, BMI 37.7.
+
+HISTORY OF PRESENT ILLNESS new paragraph
+This is a 73 year old gentleman with a heart attack in June 2061 treated medically and a recent angiogram showing three vessel disease who presents for elective bypass period. He was seen in clinic 7/24, 7/27 by phone and 7/31. Pre op he was on play licks, Zocor, Toprol, and lisinopril which was held. Nephrology saw him 08/10 and felt the kidney function is chronic, baseline eGFR around 10, no dialysis need.
+
+PROCEDURES 08/14: Pulmonary artery catheter (Swan Ganz) placed in OR holding. 08/15: Median stern at me, cannulation, cardiopulmonary bypass, cross clamp on, cardioplegia, LIMA to LAD, vein graft to OM and to RCA, cross clamp off, chest closed. Anesthesia: midazolam, propofol, rocuronium, remifentanil, isoflurane; cefazolin 2 g prophylaxis; heparin then protamine. Case number OR-62-08147. Chest x-ray post op: lines ok, no pneumothorax.
+
+HOSPITAL COURSE: Extubated POD 0 evening, chest tubes out POD 2, pacing wires out POD 4. Troponin down trending. WBC 4.0 on 08/15 then 7.9; hemoglobin 12.2 then 12.7, stable, no transfusion. Creatinine stayed 2.9, eGFR 9.3 then 10.8, K normal. No AF. Ambulating the hall with PT. Mr. Marsh was visited by wife Corinne and daughter Lila daily, brother in law Ray brought a card. Lipid panel pre op LDL 79.2, total 168.9.
+
+Pasted from telephone encounter 07/27/2062:
+Patient: Desmund Marsh   DOB: 02/11/1989   MRN: MH-203391
+Plan: continue meds, keep 7/31 appt. Pager 4471. Brilinta and Effient ... delete. 
+Called by Dana Tran, RN
+
+DISCHARGE MEDICATIONS (per med rec, Bridget Colby RN):
+1. Aspirin 81 mg daily
+2. Clopidogrel (Plavix) 75 mg daily, new bypass, take through 3 months then re-eval
+3. Simvastatin 20 mg nightly [DEL: atorvastatin 80 mg]
+4. Metoprolol succinate (Toprol XL) 100 mg daily
+5. Nitroglycerin spray prn
+6. Lisinopril 40 mg - HOLD
+7. Acetaminophen 650 mg q6h prn pain. NO NSAIDs
+8. Prasugrel REMOVED from list (duplicate antiplatelet)
+
+[COMMENT jlane 08/19/2062 17:44: Dr. Chaudhry please confirm metoprolol is 100 not 10, dictation heard "100" as "1 hundred and 5"]
+
+FOLLOW UP: Surgeon Dr. Page 9/6; Dr. Lane 2 weeks; nephrology 1 week with labs; PCP Dr. Ito. Cardiac rehab. Sternal precautions 8 weeks, no lifting over 10 pounds, no driving. Wife to drive: Corinne Marsh (937) 555-0127.
+
+Dictated by Dr. Chaudhry, dictation not proofread. Electronically signed 08/20/2062 11:56 by Noor Chaudhry MD, from workstation WRH-4W-WS07 10.31.4.77
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="56" end="89" text="Westbrook Regional Heart Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="94" end="121" text="4 West Cardiac Surgery Unit" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="127" end="136" text="nchaudhry" TYPE="USERNAME" comment="" />
+<DATE id="P3" start="137" end="147" text="08/20/2062" TYPE="DATE" comment="" />
+<NAME id="P4" start="164" end="177" text="Hollis Brandt" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="184" end="193" text="nchaudhry" TYPE="USERNAME" comment="" />
+<DATE id="P6" start="194" end="204" text="08/20/2062" TYPE="DATE" comment="" />
+<NAME id="P7" start="221" end="235" text="MARSH, DESMOND" TYPE="PATIENT" comment="" />
+<ID id="P8" start="244" end="253" text="MH-203391" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="260" end="270" text="02/11/1989" TYPE="DATE" comment="" />
+<AGE id="P10" start="273" end="275" text="73" TYPE="AGE" comment="" />
+<DATE id="P11" start="300" end="310" text="08/14/2062" TYPE="DATE" comment="" />
+<DATE id="P12" start="328" end="338" text="08/20/2062" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="349" end="354" text="418-B" TYPE="ROOM" comment="" />
+<NAME id="P14" start="378" end="389" text="Naomi Paige" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="411" end="423" text="Joaquin Lane" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="444" end="457" text="Noor Chaudhry" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="468" end="477" text="nchaudhry" TYPE="USERNAME" comment="" />
+<DATE id="P18" start="478" end="488" text="08/20/2062" TYPE="DATE" comment="" />
+<NAME id="P19" start="500" end="504" text="Page" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="513" end="518" text="Paige" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="667" end="677" text="08/15/2062" TYPE="DATE" comment="" />
+<DATE id="P22" start="756" end="765" text="6/16/2061" TYPE="DATE" comment="" />
+<AGE id="P23" start="959" end="961" text="73" TYPE="AGE" comment="" />
+<DATE id="P24" start="1004" end="1013" text="June 2061" TYPE="DATE" comment="" />
+<DATE id="P25" start="1147" end="1151" text="7/24" TYPE="DATE" comment="" />
+<DATE id="P26" start="1153" end="1157" text="7/27" TYPE="DATE" comment="" />
+<DATE id="P27" start="1171" end="1175" text="7/31" TYPE="DATE" comment="" />
+<DATE id="P28" start="1271" end="1276" text="08/10" TYPE="DATE" comment="" />
+<DATE id="P29" start="1373" end="1378" text="08/14" TYPE="DATE" comment="" />
+<DATE id="P30" start="1440" end="1445" text="08/15" TYPE="DATE" comment="" />
+<ID id="P31" start="1741" end="1752" text="OR-62-08147" TYPE="IDNUM" comment="" />
+<DATE id="P32" start="1927" end="1932" text="08/15" TYPE="DATE" comment="" />
+<NAME id="P33" start="2087" end="2092" text="Marsh" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="2113" end="2120" text="Corinne" TYPE="PATIENT" comment="" />
+<NAME id="P35" start="2134" end="2138" text="Lila" TYPE="PATIENT" comment="" />
+<NAME id="P36" start="2161" end="2164" text="Ray" TYPE="PATIENT" comment="" />
+<DATE id="P37" start="2256" end="2266" text="07/27/2062" TYPE="DATE" comment="" />
+<NAME id="P38" start="2277" end="2290" text="Desmund Marsh" TYPE="PATIENT" comment="" />
+<DATE id="P39" start="2298" end="2308" text="02/11/1989" TYPE="DATE" comment="" />
+<ID id="P40" start="2316" end="2325" text="MH-203391" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P41" start="2352" end="2356" text="7/31" TYPE="DATE" comment="" />
+<CONTACT id="P42" start="2369" end="2373" text="4471" TYPE="PHONE" comment="" />
+<NAME id="P43" start="2419" end="2428" text="Dana Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P44" start="2470" end="2483" text="Bridget Colby" TYPE="DOCTOR" comment="" />
+<NAME id="P45" start="2868" end="2873" text="jlane" TYPE="USERNAME" comment="" />
+<DATE id="P46" start="2874" end="2884" text="08/19/2062" TYPE="DATE" comment="" />
+<NAME id="P47" start="2896" end="2904" text="Chaudhry" TYPE="DOCTOR" comment="" />
+<NAME id="P48" start="3014" end="3018" text="Page" TYPE="DOCTOR" comment="" />
+<DATE id="P49" start="3019" end="3022" text="9/6" TYPE="DATE" comment="" />
+<NAME id="P50" start="3028" end="3032" text="Lane" TYPE="DOCTOR" comment="" />
+<NAME id="P51" start="3079" end="3082" text="Ito" TYPE="DOCTOR" comment="" />
+<NAME id="P52" start="3182" end="3195" text="Corinne Marsh" TYPE="PATIENT" comment="" />
+<CONTACT id="P53" start="3196" end="3210" text="(937) 555-0127" TYPE="PHONE" comment="" />
+<NAME id="P54" start="3229" end="3237" text="Chaudhry" TYPE="DOCTOR" comment="" />
+<DATE id="P55" start="3286" end="3296" text="08/20/2062" TYPE="DATE" comment="" />
+<NAME id="P56" start="3306" end="3319" text="Noor Chaudhry" TYPE="DOCTOR" comment="" />
+<ID id="P57" start="3341" end="3352" text="WRH-4W-WS07" TYPE="DEVICE" comment="" />
+<CONTACT id="P58" start="3353" end="3363" text="10.31.4.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

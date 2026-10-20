@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PSYCHIATRY CONSULT NOTE (SOAP)
+EARLY, HUNTER     DOB: 03/09/2022     MRN: E-0093817
+Referred by: Dr. Lindqvist, Northfield Family Medicine     Date of service: 08/26/2078
+Dept: Pediatric Behavioral Health   &lt;- wrong list item picked, pls see below, adult clinic seen
+
+S: 56 y/o married man sent after annual physical for "low mood and no one to talk to". Says he's been feeling flat for about a year since losing his hours at the warehouse. Sleep ok but early morning awakening 2-3x/wk, up at 4, cant get back. Appetite normal. Denies SI/HI. Denies hopelessness. Drinks "a couple beers on weekends". No drugs, drug screening at the visit today negative per PCP. Wife Margy is supportive but works nights, so he's alone most evenings. Stopped going to the bowling league. Says "Early's never been a talker" (laughs, referring to himself and his father). HTN and prediabetes known, meds adherent.
+
+O: Well groomed, cooperative, eye contact fair. Speech normal rate. Mood "okay, just tired". Affect mildly constricted, reactive. TP linear. No psychosis. Insight good, judgment good. GAD-7 3. BP 127/95 at PCP today, wt 78.1 kg. 
+Labs per PCP: HbA1c 6.6, glucose 116.8, LDL 125.3.
+
+A: Adjustment disorder, mild, with low mood in context of social isolation (new dx today) and job loss. Doesn't meet MDD criteria. Anxiety sx minimal. Mr. Early's risk of self harm low.
+
+P:
+1. Supportive therapy, referral to Okonkwo LCSW, 6 sessions.
+2. Behavioral activation; encouraged return to league, church group.
+3. No meds now.
+4. RTC 6 wks or sooner PRN. Patient given crisis line number.
+5. Will update Dr. Lindqvist.
+
+Patient: Hunter Ea                   &lt;- field truncated
+Phone: (___) ___-____    Emergency contact: SAME
+Seen 45 min. Thank you for this referral.
+
+A. Karimi, MD  Psychiatry
+Electronically signed by Ayesha Karimi, MD on 08/26/2078 16:12
+</TEXT>
+<TAGS>
+<NAME id="P0" start="38" end="44" text="HUNTER" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="54" end="64" text="03/09/2022" TYPE="DATE" comment="" />
+<ID id="P2" start="74" end="83" text="E-0093817" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="101" end="110" text="Lindqvist" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="112" end="138" text="Northfield Family Medicine" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="160" end="170" text="08/26/2078" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="177" end="204" text="Pediatric Behavioral Health" TYPE="DEPARTMENT" comment="" />
+<AGE id="P7" start="271" end="273" text="56" TYPE="AGE" comment="" />
+<NAME id="P8" start="667" end="672" text="Margy" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="777" end="782" text="Early" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="1333" end="1338" text="Early" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="1403" end="1410" text="Okonkwo" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1595" end="1604" text="Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1616" end="1625" text="Hunter Ea" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1755" end="1764" text="A. Karimi" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1806" end="1819" text="Ayesha Karimi" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1827" end="1837" text="08/26/2078" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>***** FACSIMILE TRANSMISSION *****
+
+TO: Capital Women's Health Associates      ATTN: Dr. Cornelius Abernathy
+FAX: (518) 555-0129                         PHONE: (518) 555-0130
+FROM: Hudson Crossing Cancer and Genetics Center   FAX: (518) 555-0166
+DATE: 01/08/2090        PAGES (incl. cover): 4
+RE: Patient: ______________   DOB: **/**/****
+
+COVER MESSAGE
+Dear colleagues,
+
+Please find enclosed the clinic summary on our shared patient, Mrs. Hartley-Nwosu, who is 33 and now well into her pregnancy by your dates. Her fetal anatomy scan and alpha-fetoprotein were done at your office on 1/6/2090. We would be grateful for the report. We confirm no cancer diagnosis and no oncologic contraindication to the pregnancy. Please note the allergy history is well documented in the pages.
+
+If you have any questions please call me or Fatima on the number above, option 3.
+
+Warm regards,
+Ngaire Tamihana
+
+CONFIDENTIALITY NOTICE: this transmission is intended only for the addressee and may contain protected information. If received in error, please notify the sender immediately and destroy.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="40" end="73" text="Capital Women's Health Associates" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="89" end="108" text="Cornelius Abernathy" TYPE="DOCTOR" comment="" />
+<CONTACT id="P2" start="114" end="128" text="(518) 555-0129" TYPE="FAX" comment="" />
+<CONTACT id="P3" start="160" end="174" text="(518) 555-0130" TYPE="PHONE" comment="" />
+<LOCATION id="P4" start="181" end="223" text="Hudson Crossing Cancer and Genetics Center" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P5" start="231" end="245" text="(518) 555-0166" TYPE="FAX" comment="" />
+<DATE id="P6" start="252" end="262" text="01/08/2090" TYPE="DATE" comment="" />
+<NAME id="P7" start="440" end="453" text="Hartley-Nwosu" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="585" end="593" text="1/6/2090" TYPE="DATE" comment="" />
+<NAME id="P9" start="825" end="831" text="Fatima" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="878" end="893" text="Ngaire Tamihana" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

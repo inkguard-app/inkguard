@@ -1,0 +1,16 @@
+PITUITARY CLINIC — {{FACILITY|Wexley Bay Pituitary and Neuroendocrine Center}}
+{{NAME|Barnabas Cushing-Mehta}}, 42 M, MRN {{MRN|WBP-1180427}}, {{DATE|05/03/2063}}
+Endocrinologist Dr. {{NAME|Lavinia Okoro-Sand}}; neurosurgeon Dr. {{NAME|Halvard Brennick}}; NP {{NAME|Tamsin Arrowood}}, NP
+
+18 months of weight gain (central), [[facial plethora]], [[dorsocervical fat pad]], wide [[violaceous striae]] (over 1 cm), [[proximal myopathy]], easy bruising, new [[hypertension]] and [[type 2 diabetes]]. Mr. {{NAME|Cushing-Mehta}} — yes, a patient named Cushing with [[Cushing disease]]; documentation must say "Cushing disease (ACTH-dependent hypercortisolism)" in full.
+Biochemistry: [[late-night salivary cortisol]] elevated x3; [[24-h urinary free cortisol]] 3.4x ULN x2; [[1 mg overnight dexamethasone suppression test]] cortisol 11.2 mcg/dL; [[ACTH]] 68 pg/mL (ACTH-dependent); [[high-dose dexamethasone suppression]] 70% suppression; [[CRH stimulation test]] positive.
+[[Pituitary MRI with dynamic contrast]]: 4 mm hypoenhancing lesion right side of the gland — [[microadenoma]]. [[Bilateral inferior petrosal sinus sampling (BIPSS)]] with [[desmopressin]]: central-to-peripheral ACTH ratio 8.2 post-stimulation → central source, right lateralisation.
+Plan: [[endoscopic endonasal transsphenoidal adenomectomy]] with ENT; perioperative glucocorticoid withheld and morning cortisol checked POD1-3 (remission = [[cortisol under 2 mcg/dL]]); [[VTE prophylaxis]] (hypercoagulable); [[osteoporosis]] screen with [[DEXA]].
+=====NOTE=====
+ENT/NEUROSURGERY OP NOTE — {{DATE|06/14/2063}} — {{NAME|CUSHING-MEHTA, BARNABAS}} {{MRN|WBP-1180427}}
+ENT Dr. {{NAME|Oriel Fanshawe-Ng}}; neurosurgery Dr. {{NAME|H. Brennick}}; scrub {{NAME|Lourdes Ybarra}}, CST
+[[Binostril four-hand technique]]. Right [[nasoseptal flap]] raised prophylactically and stored in the nasopharynx (Hadad-Bassagasteguy flap, pedicle on the [[posterior septal artery]]). [[Rescue flap]] incisions not needed on the left. Wide [[sphenoidotomy]], [[intersinus septations]] removed with [[Kerrison rongeur]] guided by [[navigation (Medtronic StealthStation ENT)]]. [[Sellar face]] opened; [[micro-Doppler]] confirms [[cavernous ICA]] bilaterally. [[Pseudocapsule]] identified in the right gland — [[extracapsular dissection]] of a 4 mm adenoma, en bloc. Small [[low-flow intraoperative CSF leak]] ([[Esposito grade 1]]) — repaired with [[fat graft]] from the abdomen, [[collagen matrix]], and the [[nasoseptal flap]], [[DuraSeal]]. No lumbar drain.
+Pathology: [[corticotroph adenoma (PitNET)]], [[Crooke hyaline change]] in adjacent normal corticotrophs.
+=====NOTE=====
+POD2 — {{DATE|06/16/2063}} — {{NAME|B. Cushing-Mehta}}
+08:00 [[serum cortisol 1.4 mcg/dL]] → biochemical [[remission]]. Started [[hydrocortisone 20 mg AM / 10 mg PM]] for expected [[adrenal insufficiency]] (may take 6-18 months to recover HPA axis). Na 141, UOP normal — no [[diabetes insipidus]]. No [[CSF rhinorrhoea]]. [[Sinus precautions]]. [[Enoxaparin 40 mg daily]] x4 weeks. BP improving → reduce [[amlodipine]]. Sick-day rules and [[emergency hydrocortisone 100 mg IM]] kit. [[Steroid withdrawal syndrome]] counselling (myalgia, fatigue). Post-op MRI 3 months. Follow-up {{PHONE|555-728-1016}}.

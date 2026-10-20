@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER   03/12/2082  4:52 PM
+Caller: Story Bright-Nakamura (daughter) at 802-555-0109  re: mom's cholesterol (LDL 123.9, total 175.8 today)
+Mom = BRIGHT, WINIFRED  MRN ONC-6618230
+
+S: Daughter asked why simvastatin 10 mg was stopped today (03/12/2082) when it was started 02/08/2074. Also asked "if my dads Desmond number is on file"
+A: Dr. N. Dube to answer. Told daughter we cant discuss without release; her mom signed one, on file.
+P: Callback x1. Called ext 4417; left msg.
+RN: Corey Platt 03/12/2082
+Cc: story.nakamura@vtmail.example
+</TEXT>
+<TAGS>
+<DATE id="P0" start="22" end="32" text="03/12/2082" TYPE="DATE" comment="" />
+<NAME id="P1" start="50" end="71" text="Story Bright-Nakamura" TYPE="PATIENT" comment="" />
+<CONTACT id="P2" start="86" end="98" text="802-555-0109" TYPE="PHONE" comment="" />
+<NAME id="P3" start="159" end="175" text="BRIGHT, WINIFRED" TYPE="PATIENT" comment="" />
+<ID id="P4" start="181" end="192" text="ONC-6618230" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="253" end="263" text="03/12/2082" TYPE="DATE" comment="" />
+<DATE id="P6" start="285" end="295" text="02/08/2074" TYPE="DATE" comment="" />
+<NAME id="P7" start="320" end="327" text="Desmond" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="354" end="361" text="N. Dube" TYPE="DOCTOR" comment="" />
+<CONTACT id="P9" start="472" end="480" text="ext 4417" TYPE="PHONE" comment="" />
+<NAME id="P10" start="496" end="507" text="Corey Platt" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="508" end="518" text="03/12/2082" TYPE="DATE" comment="" />
+<CONTACT id="P12" start="523" end="552" text="story.nakamura@vtmail.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

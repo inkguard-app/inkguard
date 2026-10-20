@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Northmere General Hospital
+Hematology/Oncology Transplant Program
+Ph (218) 555-0190 ext. x2219    Fax (218) 555-0191
+
+September 8, 2072
+
+To: Medical Director, Lakehead Mutual Health, Prior Authorization
+Re: Winifred A. Ruskin   Member ID LMH 4471 90238 W   DOB 05/22/2003
+
+S: Ms. Ruskin is a 69-year-old woman with multiple myeloma, dx 06/25/2072, completwd induction. She is liisted for autologous peripheral stem cell transplant (wait-list entry 09/01/2072). She is divorced and lives alone; her daughter will serve as caregiver. Type 2 diabbetes (A1c in goal), ischemic heart disease on clopidpgrel, metoprolol and statin. She works full time, and has asked for a letter for her employer, Fernhill Dental Supply, as well (separate).
+O: ECOG 1. Cardiac clearance by Dr. Imran Qureshi on file. eGFR adequate. Marrow response documented in attached clinic notes.
+A: Meets criteria for autologous transplant per plan policy. Delay risks progression.
+P: Request expedited authorization for admission with anticipated stay of about 3-4 weeks. Please call the undersigned at pager 4417 or (218) 555-0190 for peer-to-peer. Reference no. PA-72-09-0318.
+
+Sincerely,
+
+Beatrice Okonjo-Hart, MD
+Attending physician, Hematology
+Electronically signed 09/08/2072 15:06 via https://mychart.northmere-gen.example/provider
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="26" text="Northmere General Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="27" end="65" text="Hematology/Oncology Transplant Program" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P2" start="69" end="83" text="(218) 555-0190" TYPE="PHONE" comment="" />
+<CONTACT id="P3" start="89" end="94" text="x2219" TYPE="PHONE" comment="" />
+<CONTACT id="P4" start="102" end="116" text="(218) 555-0191" TYPE="FAX" comment="" />
+<DATE id="P5" start="118" end="135" text="September 8, 2072" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="159" end="181" text="Lakehead Mutual Health" TYPE="ORGANIZATION" comment="" />
+<NAME id="P7" start="207" end="225" text="Winifred A. Ruskin" TYPE="PATIENT" comment="" />
+<ID id="P8" start="238" end="254" text="LMH 4471 90238 W" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P9" start="261" end="271" text="05/22/2003" TYPE="DATE" comment="" />
+<NAME id="P10" start="280" end="286" text="Ruskin" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="292" end="294" text="69" TYPE="AGE" comment="" />
+<DATE id="P12" start="336" end="346" text="06/25/2072" TYPE="DATE" comment="" />
+<DATE id="P13" start="448" end="458" text="09/01/2072" TYPE="DATE" comment="" />
+<LOCATION id="P14" start="692" end="714" text="Fernhill Dental Supply" TYPE="ORGANIZATION" comment="" />
+<NAME id="P15" start="772" end="785" text="Imran Qureshi" TYPE="DOCTOR" comment="" />
+<CONTACT id="P16" start="1077" end="1081" text="4417" TYPE="PHONE" comment="" />
+<CONTACT id="P17" start="1085" end="1099" text="(218) 555-0190" TYPE="PHONE" comment="" />
+<ID id="P18" start="1132" end="1145" text="PA-72-09-0318" TYPE="IDNUM" comment="" />
+<NAME id="P19" start="1160" end="1180" text="Beatrice Okonjo-Hart" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1239" end="1249" text="09/08/2072" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1260" end="1306" text="https://mychart.northmere-gen.example/provider" TYPE="URL" comment="" />
+</TAGS>
+</deIdi2b2>

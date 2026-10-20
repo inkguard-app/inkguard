@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 7903 | ENC E-90144812 | 12/14/2083 19:52 | ED NOTE | AUTH: Tarrasch, Imogen MD | Pediatric Emergency
+Patient: Mateo Pellerin   DOB: **/**/****   Age: 13   Sex: M    MRN NGC0782214
+CC: allergic rxn, ate egg
+HPI: 13 yo M w/ hx egg-sens?? (never formally dx'd), alleric rhinitis, brought by mom, c/o lip swelling + hives + wheeze x ~20 min after eating scrambled eggs at friend Dmitri Kowal's house on Saturday. Friend's mom gave benadryl, did NOT give epi (autoinj at home, serial EAI-4471-90216, exp 03/2084, in backpack not w/ pt). Mom drove in own car, left in amb bay lol, plate KTR 5821, security paged.
+Nurse note: marker on trainer pen reads "MATEO P EGGS!! mom cell 218-555-0177" - good thing, school rn did that.
+PMH: AR, on loratadine 5 mg. NKDA. Immun UTD.
+Exam: T 37.1 HR 118 RR 24 SpO2 97% RA. BP 112/70. Urticaria trunk/face, lips mild edema, exp wheeze bilat, no stridor. Cap refill &lt;2s.
+ED course: epi IM 0.3 mg R thigh @ 19:58 w/ rapid improvement. pred 5 mg PO x1 hmm should be higher - pharmacy changed to 50 mg. Neb albuterol x1. Observed 4 h, no biphasic sx. 
+A/P: anaphylaxis, food (egg presumed). D/C home 23:50 w/ 2 new auto-inj, action plan, allergy referral Dr. Rutkowski. Return if sx recur. Mom Odalys verbalized understanding, dad Hartwell on phone.
+Pt's Fenwick Hollow Middle School to be notified w/ plan.
+Last edited by itarrasch 12/15/2083 00:31 from 10.44.9.131
+Portal: https://portal.ngcmc.health/p/9X4-77Q
+</TEXT>
+<TAGS>
+<ID id="P0" start="15" end="25" text="E-90144812" TYPE="IDNUM" comment="" />
+<DATE id="P1" start="28" end="38" text="12/14/2083" TYPE="DATE" comment="" />
+<NAME id="P2" start="63" end="79" text="Tarrasch, Imogen" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="85" end="104" text="Pediatric Emergency" TYPE="DEPARTMENT" comment="" />
+<NAME id="P4" start="114" end="128" text="Mateo Pellerin" TYPE="PATIENT" comment="" />
+<AGE id="P5" start="154" end="156" text="13" TYPE="AGE" comment="" />
+<ID id="P6" start="173" end="183" text="NGC0782214" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P7" start="215" end="217" text="13" TYPE="AGE" comment="" />
+<NAME id="P8" start="379" end="391" text="Dmitri Kowal" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="403" end="411" text="Saturday" TYPE="DATE" comment="" />
+<ID id="P10" start="483" end="497" text="EAI-4471-90216" TYPE="DEVICE" comment="" />
+<DATE id="P11" start="503" end="510" text="03/2084" TYPE="DATE" comment="" />
+<ID id="P12" start="585" end="593" text="KTR 5821" TYPE="VEHICLE" comment="" />
+<NAME id="P13" start="652" end="659" text="MATEO P" TYPE="PATIENT" comment="" />
+<CONTACT id="P14" start="676" end="688" text="218-555-0177" TYPE="PHONE" comment="" />
+<NAME id="P15" start="1186" end="1199" text="Dr. Rutkowski" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1225" end="1231" text="Odalys" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1262" end="1270" text="Hartwell" TYPE="PATIENT" comment="" />
+<LOCATION id="P18" start="1286" end="1314" text="Fenwick Hollow Middle School" TYPE="ORGANIZATION" comment="" />
+<NAME id="P19" start="1354" end="1363" text="itarrasch" TYPE="USERNAME" comment="" />
+<DATE id="P20" start="1364" end="1374" text="12/15/2083" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1386" end="1397" text="10.44.9.131" TYPE="IPADDR" comment="" />
+<CONTACT id="P22" start="1406" end="1443" text="https://portal.ngcmc.health/p/9X4-77Q" TYPE="URL" comment="" />
+</TAGS>
+</deIdi2b2>

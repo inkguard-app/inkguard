@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Aldermarsh Family Practice - Progress Note
+Date: 05/02/2060     Patient: Marisol Tangin     Age: 54     MRN TN-904417
+Provider: Dr. Ngozi Aldermarsh
+
+SUBJECTIVE. This is a fifty four year old female here for follow up of the burn to the left arm. she is no longer at the nursing facility, she is back home with her husband Bertrum Tangen and it was a long five weeks. She says her pain is 1 out of 10, it was 50 out of 10 in the first week.. She is eating well and not smoking. Her daughter Calla visits on Sundays and her son Zeke lives down the hall from his mother in the same complex. Landlord Mr. Deshmukh has been fixing the stove, which she says is the reason for the scald (it hissed and spilled). Neighbor Philippa Ngata brings soup. She is worried about work at Sunrise Ridge Bakery, where she helps on weekends.
+
+Pasted from ED note: Mrs. Tangen is a 54 year old woman who presented on 03/31/2060 after a scald burn to the left forearm and hand. Hot water in a pot. No loss of consciousness. Sent to Maple Terrace.
+
+OBJECTIVE. Skin: healed, pink, no blisters, full grip, no contracture. Heart regular. weight is stable. 
+ASSESSMENT. Epidermal burn healed, resolve today. Hyper tension not present. Prediabetes still there, last A1c checked in the fall.
+PLAN. Stop silver cream. Moisturizer. Sunscreen on the area. Return as needed. Patient spelled her last name for the schedule: Tango Alpha November Golf Echo November, and first name Mike Alpha Romeo India Sierra Oscar Lima. Next general exam in the fall.
+Note scribed with voice recognition by Dr. Aldermarsh, 5/2/60 11:48, from workstation 192.168.14.77
+</TEXT>
+<TAGS>
+<DATE id="P0" start="49" end="59" text="05/02/2060" TYPE="DATE" comment="" />
+<NAME id="P1" start="73" end="87" text="Marisol Tangin" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="97" end="99" text="54" TYPE="AGE" comment="" />
+<ID id="P3" start="108" end="117" text="TN-904417" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P4" start="132" end="148" text="Ngozi Aldermarsh" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="323" end="337" text="Bertrum Tangen" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="491" end="496" text="Calla" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="507" end="514" text="Sundays" TYPE="DATE" comment="" />
+<NAME id="P8" start="527" end="531" text="Zeke" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="598" end="610" text="Mr. Deshmukh" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="715" end="729" text="Philippa Ngata" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="772" end="792" text="Sunrise Ridge Bakery" TYPE="ORGANIZATION" comment="" />
+<AGE id="P12" start="862" end="864" text="54" TYPE="AGE" comment="" />
+<DATE id="P13" start="897" end="907" text="03/31/2060" TYPE="DATE" comment="" />
+<LOCATION id="P14" start="1011" end="1024" text="Maple Terrace" TYPE="ORGANIZATION" comment="" />
+<NAME id="P15" start="1391" end="1430" text="Tango Alpha November Golf Echo November" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1447" end="1487" text="Mike Alpha Romeo India Sierra Oscar Lima" TYPE="PATIENT" comment="" />
+<DATE id="P17" start="1514" end="1518" text="fall" TYPE="DATE" comment="" />
+<NAME id="P18" start="1559" end="1573" text="Dr. Aldermarsh" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1575" end="1581" text="5/2/60" TYPE="DATE" comment="" />
+<CONTACT id="P20" start="1606" end="1619" text="192.168.14.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

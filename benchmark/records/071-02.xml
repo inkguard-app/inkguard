@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>GENESEE VALLEY FAMILY MEDICINE - PROGRESS NOTE (SOAP)  -  Pharmacy / med rec visit
+Patient: Harmony Chase   DOB 12/30/2026   Age 44   MRN 071-40762
+Date of service: 03/15/2071   Provider: Imani Brooke, MD   Pharmacist: Winter Okafor-Reyes, PharmD
+
+S:
+- Wide spread pain x 1 yr, worse since the COVID hospitalization in 12/2070. "My body feels like a chase that never ends."
+- Seen yesterday (3/14) for widespread tenderness; dx primary fibromyalgia syndrome.
+- Sleep poor. Cough resolved after bronchitis (02/13/2071 to 03/01/2071) -- acetaminophen finished.
+- Works at Birchwood Logistics, daughter Autumn helps with groceries.
+
+O:
+- Wt 76.6 kg. No labs today. Creatinine 2.5 and eGFR 8.3 on 01/03/2071 (still low then; repeat NOT in chart).
+- GAD-7 3 on 02/24/2071
+
+A: Fibromyalgia. Pain high. Renal function not documented since discharge -- NSAID risk.
+
+P:
+1. Start naproxen 500 mg BID with food (Aleve-strength is lower; this is Rx strength) -- PHARMACIST: please check BMP FIRST. 
+2. Pregabalin (Lyrica) or duloxetine (Cymbalta) NOT yet, revisit if no relief by mid-April.
+3. Compare 3/4 vs 03/04/71 entries -- which is which? (the 3/4 item is a vaccine, not a visit)
+4. Return last Thursday -&gt; typo, means NEXT Thursday. 
+5. Vaccines at 06/30/2071 and 07/28/2071.
+6. Pharmacy: Greenway Pharmacy, Rx RX-7732905
+
+Copy forward from 02/24/2071: "patient and her husband Oceon Chase plan to travel in 2072."
+Electronically signed Imani Brooke 03/15/2071 12:48 / cosigned pharmacist W. Okafor
+</TEXT>
+<TAGS>
+<NAME id="P0" start="92" end="105" text="Harmony Chase" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="112" end="122" text="12/30/2026" TYPE="DATE" comment="" />
+<AGE id="P2" start="129" end="131" text="44" TYPE="AGE" comment="" />
+<ID id="P3" start="138" end="147" text="071-40762" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="165" end="175" text="03/15/2071" TYPE="DATE" comment="" />
+<NAME id="P5" start="188" end="200" text="Imani Brooke" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="219" end="238" text="Winter Okafor-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="319" end="326" text="12/2070" TYPE="DATE" comment="" />
+<DATE id="P8" start="392" end="396" text="3/14" TYPE="DATE" comment="" />
+<DATE id="P9" start="506" end="516" text="02/13/2071" TYPE="DATE" comment="" />
+<DATE id="P10" start="520" end="530" text="03/01/2071" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="570" end="589" text="Birchwood Logistics" TYPE="ORGANIZATION" comment="" />
+<NAME id="P12" start="600" end="606" text="Autumn" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="693" end="703" text="01/03/2071" TYPE="DATE" comment="" />
+<DATE id="P14" start="756" end="766" text="02/24/2071" TYPE="DATE" comment="" />
+<DATE id="P15" start="1068" end="1077" text="mid-April" TYPE="DATE" comment="" />
+<DATE id="P16" start="1090" end="1093" text="3/4" TYPE="DATE" comment="" />
+<DATE id="P17" start="1097" end="1105" text="03/04/71" TYPE="DATE" comment="" />
+<DATE id="P18" start="1138" end="1141" text="3/4" TYPE="DATE" comment="" />
+<DATE id="P19" start="1189" end="1197" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P20" start="1244" end="1254" text="06/30/2071" TYPE="DATE" comment="" />
+<DATE id="P21" start="1259" end="1269" text="07/28/2071" TYPE="DATE" comment="" />
+<LOCATION id="P22" start="1284" end="1301" text="Greenway Pharmacy" TYPE="ORGANIZATION" comment="" />
+<ID id="P23" start="1306" end="1316" text="RX-7732905" TYPE="IDNUM" comment="" />
+<DATE id="P24" start="1336" end="1346" text="02/24/2071" TYPE="DATE" comment="" />
+<NAME id="P25" start="1373" end="1384" text="Oceon Chase" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1403" end="1407" text="2072" TYPE="DATE" comment="" />
+<NAME id="P27" start="1432" end="1444" text="Imani Brooke" TYPE="DOCTOR" comment="" />
+<DATE id="P28" start="1445" end="1455" text="03/15/2071" TYPE="DATE" comment="" />
+<NAME id="P29" start="1484" end="1493" text="W. Okafor" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

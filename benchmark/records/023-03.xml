@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER                               Triage RN: Gwendolyn Aberdeen
+Pt: Margit Szabo Lindahl    DOB 11/3/98    MRN N-0231-7764    Phone (608) 555-0151
+Call date: Jan 22 2071  time 4/16 02:15  [template time field holds a date in error: 4/16]
+
+CRITICAL LAB CALLBACK. Lab called me 01/22 at 07:50: WBC 0.7, Hgb 6.1, eGFR 18.3. Pt had chemo 1/18 (cycle 10?). Called pt at home. Husband Torbj?rn answered, said she is "very tired, cold". Pt on phone: pain 5/10. No fever. I instructed to come to Tamarack Regional Hospital ED NOW, husbband drive. They left 08:25? Pt arrived. Admitted for neutropenia and anemia, transfusion given. Dr. Bhattacharya-Reilly notified by page 4470.
+
+Copy-forward from last Thursday: "Pt doing well, tolerating chemo. Has cold swnsitivity, expected. Next appt Christmas Eve." [stale -- appt was movwd; Christmas Eve was 12/24/2070, long past.]
+Neighbor Mr. Pawlak (cell 608.555.0166) will watch the house. Daughter in Sweden called me back later, wants upadtes, Ilse, she says her surname with the "dash" is Lindahl-Moreau.
+Pt's Medicare MBI re-verified: 3XA7-KE4-RP19.
+Routed to: K. Bhattacharya-Reilly; Olumide Fashola (nephrology re eGFR). Sig G. Aberdeen RN 01/22/2071 09:03
+</TEXT>
+<TAGS>
+<NAME id="P0" start="61" end="79" text="Gwendolyn Aberdeen" TYPE="DOCTOR" comment="" />
+<NAME id="P1" start="84" end="104" text="Margit Szabo Lindahl" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="112" end="119" text="11/3/98" TYPE="DATE" comment="" />
+<ID id="P3" start="127" end="138" text="N-0231-7764" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P4" start="148" end="162" text="(608) 555-0151" TYPE="PHONE" comment="" />
+<DATE id="P5" start="174" end="185" text="Jan 22 2071" TYPE="DATE" comment="" />
+<DATE id="P6" start="248" end="252" text="4/16" TYPE="DATE" comment="" />
+<DATE id="P7" start="292" end="297" text="01/22" TYPE="DATE" comment="" />
+<DATE id="P8" start="350" end="354" text="1/18" TYPE="DATE" comment="" />
+<NAME id="P9" start="395" end="403" text="Torbj?rn" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="504" end="530" text="Tamarack Regional Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P11" start="531" end="533" text="ED" TYPE="DEPARTMENT" comment="" />
+<NAME id="P12" start="644" end="663" text="Bhattacharya-Reilly" TYPE="DOCTOR" comment="" />
+<CONTACT id="P13" start="681" end="685" text="4470" TYPE="PHONE" comment="" />
+<DATE id="P14" start="706" end="719" text="last Thursday" TYPE="DATE" comment="" />
+<DATE id="P15" start="797" end="810" text="Christmas Eve" TYPE="DATE" comment="" />
+<DATE id="P16" start="839" end="852" text="Christmas Eve" TYPE="DATE" comment="" />
+<DATE id="P17" start="857" end="867" text="12/24/2070" TYPE="DATE" comment="" />
+<NAME id="P18" start="890" end="900" text="Mr. Pawlak" TYPE="PATIENT" comment="" />
+<CONTACT id="P19" start="907" end="919" text="608.555.0166" TYPE="PHONE" comment="" />
+<LOCATION id="P20" start="955" end="961" text="Sweden" TYPE="COUNTRY" comment="" />
+<NAME id="P21" start="999" end="1003" text="Ilse" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1045" end="1059" text="Lindahl-Moreau" TYPE="PATIENT" comment="" />
+<ID id="P23" start="1092" end="1105" text="3XA7-KE4-RP19" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P24" start="1118" end="1140" text="K. Bhattacharya-Reilly" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1142" end="1157" text="Olumide Fashola" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="1184" end="1195" text="G. Aberdeen" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1199" end="1209" text="01/22/2071" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

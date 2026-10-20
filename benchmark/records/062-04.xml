@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX -- GREEN MOUNTAIN CHILDREN'S CLINIC  FAX (802) 555-0177
+TO: FERNHILL REGIONAL HIGH SCHOOL -- NURSE'S OFFICE, ATTN MS VALDIVIA     FAX (802) 555-0120
+DATE: 09/05/2088      FROM: DESTINY OKAFOR (MA)
+
+RE: STUDENT AUBREY SPARROW-NAKAMURA  (SCHOOL ID FRHS-26-0412, DOB 2/3/2071)
+
+HI MS VALDIVIA!!
+STUDENT WAS SEEN AT ALLERGY TODAY (SEPT 5) FOR A SCREENING TEST. PLEASE UPDATE HER ANAPHYLAXIS PLAN ON FILE: EPINEPHRINE AUTO-INJECTOR (EPIPEN) AT SCHOOL AND IN HER BACKPACK. HER PARENTS ARE WILLOW SPARROW AND TAKESHI NAKAMURA, EITHER CAN BE CALLED AT (802) 555-0152. IF NO ANSWER, GRANDMOTHER MRS. AIKO NAKAMURA, 91 YEARS OLD (NINETY-ONE), LIVES NEXT DOOR AT 11 THISTLEDOWN CLOSE.
+NO RESTRICTIONS FOR GYM CLASS (MR OKORO TO BE TOLD). LOCKER ROOM: NO SHARING OF FOOD.
+A SPARROW (THE BIRD) GOT INTO THE CLASSROOM LAST WEEK, NOT RELEVANT, THE PT'S SURNAME IS NOT A SPARROW.
+
+PAGES: 2 (INCL COVER)   CONFIDENTIAL.  IF NOT THE INTENDED RECIPIENT CALL (802) 555-0100.
+SENT 09/05/2088 14:02 BY dokafor FROM 10.88.31.52
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="7" end="39" text="GREEN MOUNTAIN CHILDREN'S CLINIC" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P1" start="45" end="59" text="(802) 555-0177" TYPE="FAX" comment="" />
+<LOCATION id="P2" start="64" end="93" text="FERNHILL REGIONAL HIGH SCHOOL" TYPE="ORGANIZATION" comment="" />
+<NAME id="P3" start="121" end="129" text="VALDIVIA" TYPE="DOCTOR" comment="" />
+<CONTACT id="P4" start="138" end="152" text="(802) 555-0120" TYPE="FAX" comment="" />
+<DATE id="P5" start="159" end="169" text="09/05/2088" TYPE="DATE" comment="" />
+<NAME id="P6" start="181" end="195" text="DESTINY OKAFOR" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="214" end="237" text="AUBREY SPARROW-NAKAMURA" TYPE="PATIENT" comment="" />
+<ID id="P8" start="250" end="262" text="FRHS-26-0412" TYPE="IDNUM" comment="" />
+<DATE id="P9" start="268" end="276" text="2/3/2071" TYPE="DATE" comment="" />
+<NAME id="P10" start="285" end="293" text="VALDIVIA" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="331" end="337" text="SEPT 5" TYPE="DATE" comment="" />
+<NAME id="P12" start="487" end="501" text="WILLOW SPARROW" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="506" end="522" text="TAKESHI NAKAMURA" TYPE="PATIENT" comment="" />
+<CONTACT id="P14" start="548" end="562" text="(802) 555-0152" TYPE="PHONE" comment="" />
+<NAME id="P15" start="590" end="608" text="MRS. AIKO NAKAMURA" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="610" end="612" text="91" TYPE="AGE" comment="" />
+<AGE id="P17" start="624" end="634" text="NINETY-ONE" TYPE="AGE" comment="" />
+<LOCATION id="P18" start="656" end="676" text="11 THISTLEDOWN CLOSE" TYPE="STREET" comment="" />
+<NAME id="P19" start="712" end="717" text="OKORO" TYPE="PATIENT" comment="" />
+<CONTACT id="P20" start="943" end="957" text="(802) 555-0100" TYPE="PHONE" comment="" />
+<DATE id="P21" start="964" end="974" text="09/05/2088" TYPE="DATE" comment="" />
+<NAME id="P22" start="984" end="991" text="dokafor" TYPE="USERNAME" comment="" />
+<CONTACT id="P23" start="997" end="1008" text="10.88.31.52" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

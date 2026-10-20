@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ST ALDRIC MEDICAL CENTER  -  PHARMACY / ED MEDICATION RECONCILIATION LIST
+PATIENT: RICH, WILLA MARIE    DOB: 03/22/2030    RW-2203-441    AGE: 43
+DATE: 09/27/2073    SOURCE: PT INTERVIEW, PHARMACY FILL HISTORY (CEDARLINE PHARMACY RX RX 7740192-03), BOTTLES BROUGHT FROM HOME
+COMPLETED BY: TOMASZ WROBEL RN   VERIFIED BY: S ACHTERBERG MD   WORKSTATION LOGIN: twrobel
+
+MED                                  DOSE / ROUTE           STATUS
+1. HYDROCORTISONE 10 MG/ML CREAM     TOPICAL PRN RASH       CONTINUE (PT SAYS RASH GONE SINCE 02/2067 - STALE, ASK)
+2. LORATADINE 10 MG TAB              ORAL DAILY             CONTINUE
+3. EPINEPHRINE 0.3 MG AUTOINJECTOR   IM PRN ANAPHYLAXIS      CONTINUE, DEVICE LOT SN EA-3391-77Q, EXPIRES 11/2073 - REPLACE
+4. ETHINYL ESTRADIOL / ETONOGESTREL VAGINAL RING (NUVARING)  21 DAYS IN, 7 OUT   CONTINUE, LAST CHANGE 09/20/2073 ACCORDING TO PT
+5. MEDROXYPROGESTERONE 150 MG IM     Q3 MONTHS              DISCONTINUED 09/09/2068 - STILL SHOWING ON LIST (STALE)
+6. NORETHINDRONE (CAMILA) 0.35 MG    DAILY                  DISCONTINUED 01/13/2073 - PT CONFIRMS NOT TAKING
+7. METFORMIN ER 500 MG               NEVER STARTED PER PT, ORDER SHOWS 09/10/2070  &lt;- CLARIFY WITH PCP
+OTC: IBUPROFEN PRN, MULTIVITAMIN. NO HERBALS. 
+ALLERGIES: TREE NUTS (ANAPHYLAXIS PER PT), SHELLFISH UNCLEAR. LATEX UNKNOWN.
+
+NOTES FROM RN: PT WAS VERY POLITE, HAD EVERYTHING IN A ZIPLOCK BAG LABELLED "BILLIE'S MEDS". DAUGHTER JUNIE (3) WAITED W GRANDMA DOROTHEA IN THE LOBBY. PT SAYS SHE NOW LIVES AT 2410 LONDON RD APT 3 DULUTH NOT TAMARACK ANY MORE, REG SYSTEM STILL HAS OLD ADDRESS. NEW PHONE 218-555-0189. 
+GLUCOMETER READING SERIAL GM-5521-TX90 FASTING 118 THIS AM. 
+ROUTE TO: DR ACHTERBERG, PHARMACY. NOTE ROUTED TO L HAAS BY MISTAKE.
+PRINTED 09/27/2073 15:02 BY twrobel FROM 10.44.2.188   PAGE 2 OF 2  RICH W  RW-2203-4141
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="24" text="ST ALDRIC MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="83" end="100" text="RICH, WILLA MARIE" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="109" end="119" text="03/22/2030" TYPE="DATE" comment="" />
+<ID id="P3" start="123" end="134" text="RW-2203-441" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P4" start="143" end="145" text="43" TYPE="AGE" comment="" />
+<DATE id="P5" start="152" end="162" text="09/27/2073" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="211" end="229" text="CEDARLINE PHARMACY" TYPE="ORGANIZATION" comment="" />
+<ID id="P7" start="233" end="246" text="RX 7740192-03" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="289" end="302" text="TOMASZ WROBEL" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="321" end="333" text="S ACHTERBERG" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="358" end="365" text="twrobel" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="528" end="535" text="02/2067" TYPE="DATE" comment="" />
+<ID id="P12" start="701" end="715" text="SN EA-3391-77Q" TYPE="DEVICE" comment="" />
+<DATE id="P13" start="725" end="732" text="11/2073" TYPE="DATE" comment="" />
+<DATE id="P14" start="846" end="856" text="09/20/2073" TYPE="DATE" comment="" />
+<DATE id="P15" start="946" end="956" text="09/09/2068" TYPE="DATE" comment="" />
+<DATE id="P16" start="1062" end="1072" text="01/13/2073" TYPE="DATE" comment="" />
+<DATE id="P17" start="1169" end="1179" text="09/10/2070" TYPE="DATE" comment="" />
+<NAME id="P18" start="1403" end="1409" text="BILLIE" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1428" end="1433" text="JUNIE" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="1435" end="1436" text="3" TYPE="AGE" comment="" />
+<NAME id="P21" start="1455" end="1463" text="DOROTHEA" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="1503" end="1517" text="2410 LONDON RD" TYPE="STREET" comment="" />
+<LOCATION id="P23" start="1524" end="1530" text="DULUTH" TYPE="CITY" comment="" />
+<CONTACT id="P24" start="1598" end="1610" text="218-555-0189" TYPE="PHONE" comment="" />
+<ID id="P25" start="1632" end="1651" text="SERIAL GM-5521-TX90" TYPE="DEVICE" comment="" />
+<NAME id="P26" start="1687" end="1697" text="ACHTERBERG" TYPE="DOCTOR" comment="" />
+<LOCATION id="P27" start="1699" end="1707" text="PHARMACY" TYPE="DEPARTMENT" comment="" />
+<NAME id="P28" start="1724" end="1730" text="L HAAS" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1751" end="1761" text="09/27/2073" TYPE="DATE" comment="" />
+<NAME id="P30" start="1771" end="1778" text="twrobel" TYPE="USERNAME" comment="" />
+<CONTACT id="P31" start="1784" end="1795" text="10.44.2.188" TYPE="IPADDR" comment="" />
+<NAME id="P32" start="1811" end="1817" text="RICH W" TYPE="PATIENT" comment="" />
+<ID id="P33" start="1819" end="1831" text="RW-2203-4141" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

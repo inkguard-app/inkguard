@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE            Saint Cuthbert Children's Hospital
+Date of service 10/01/2066      Arrival 1612      Dictated using voice recognition, errors possible
+
+Patient name Sir Shuh Kill Cullen new line the patient is a six year old female comma brought in by her mother Finnoola Kilcullen period MRN KC-0066-2150 date of birth 03/02/2060 period
+
+Chief complaint ankle pain period
+
+History of present illness new paragraph this is a six year old with a past medical history of food allergy and mild seasonal allergies on fexofenadine who was playing at recess at Ashgrove Elementary this afternoon when she rolled her left ankle on the wood chips period she was unable to wait bear after wards period the school nurse called her mother and she was driven here period no head injury no loss of conscience no other complaints period mother gave nothing for pain prior to arrival period she has an epinephrine auto injector at school which was not used period
+
+Past surgical history none period Allergies tree nuts comma anaphylaxis period medications fexofenadine thirty milligrams daily period
+
+Physical exam new paragraph temperature ninety eight point four comma pulse one oh two comma respirations twenty comma sats ninety nine percent on room air period she is alert comma tearful comma in no distress period left ankle there is mild swelling over the lateral malleolus with tenderness over the anterior talofibular ligament period no bony tenderness at the base of the fifth metatarsal or the navicular period she is able to bare four steps with a limp period neurovascularly intact period Ottawa ankle rules are negative so x-ray was not obtained per Dr. Ozone Mensa period
+
+Assessment and plan new paragraph one comma left ankle sprain period two comma rice therapy comma elevate comma ice comma compress period three comma acetaminophen chewable one sixty milligrams every six hours as needed period four comma ace wrap and crutches not needed for her size period five comma follow up with pediatrician Dr. Oconco Reyes in one week period return for increasing pain or numbness period
+
+Mother verbalized understanding period scratch that comma the mother's name is spelled Fionnuala period
+
+Pulse ox probe serial PX-88421-C used at triage period
+Dictated by Osei Mensah MD       Electronically signed 10/01/2066 18:47
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="37" end="71" text="Saint Cuthbert Children's Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="88" end="98" text="10/01/2066" TYPE="DATE" comment="" />
+<NAME id="P2" start="186" end="206" text="Sir Shuh Kill Cullen" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="233" end="236" text="six" TYPE="AGE" comment="" />
+<NAME id="P4" start="284" end="292" text="Finnoola" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="293" end="302" text="Kilcullen" TYPE="PATIENT" comment="" />
+<ID id="P6" start="314" end="326" text="KC-0066-2150" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P7" start="341" end="351" text="03/02/2060" TYPE="DATE" comment="" />
+<AGE id="P8" start="446" end="449" text="six" TYPE="AGE" comment="" />
+<LOCATION id="P9" start="576" end="595" text="Ashgrove Elementary" TYPE="ORGANIZATION" comment="" />
+<NAME id="P10" start="1673" end="1684" text="Ozone Mensa" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2027" end="2039" text="Oconco Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2193" end="2202" text="Fionnuala" TYPE="PATIENT" comment="" />
+<ID id="P13" start="2233" end="2243" text="PX-88421-C" TYPE="DEVICE" comment="" />
+<NAME id="P14" start="2278" end="2289" text="Osei Mensah" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="2321" end="2331" text="10/01/2066" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

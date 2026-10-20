@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE            Mount Alder University Hospital
+Name: Luana Cavalcanti Ferreira   MRN: E-0073-91162   DOB: 01/17/2041
+Arrival: 10/14 02:15  Doctor: Fatima Zahra El-Idrissi  Triage RN: Sunita Rao
+
+CHIEF COMPLAINT: Fever and shaking since 2 days, feeling very weak.
+
+HPI: This is 32 years old lady with past history of migrane chronic intractable, drug dependence from 2055, who is coming by ambulance brought by her roommate Tamsin Orr. She is telling that the fever is started last Thursday (the 12th) and is getting worse, no cough, some burning when passing urine on Thursday only. Roommate says she was not eating since mid-October. Patient speak Portuguese mostly, we used the phone interpreter, operator name Teresa, ID LL-44721. Patient said "eu estou muito fraca, chame a minha irmã Beatriz" = "I am very weak, call my sister Beatriz" (sister Beatris Cavalcanti in Lisbon, number +351 21 555 0192).
+
+EXAM: T 39.4, HR 128, BP 78/42 not responding to fluid 30 ml/kg, RR 28, SpO2 94% RA. She look unwell, dry mouth, cold peripheries. Lungs clear. Abdomen soft, mild suprapubic tenderness. No rash. No meningism.
+
+ED COURSE: Sepsis alert called at 10/14 02:40. Lactate high. Blood and urine culture taken before antibiotics. Piperacillin-tazobactam and vancomycin given. Because BP still low after the fluids, norepinephrine started via central line, MICU team called, Dr. Yamagata accept patient.
+
+IMPRESSION: Sepsis with septic shock, source not clear (urinary versus other).
+DISPOSITION: Admit to MICU, bed 4W-11.
+
+Passport/ID presented: CPF 301.557.842-60 (Brazil). Insurance 9904-6612-307.
+Signed by Dr F Z El Idrissi, 10/14/2073   Page 1 of 1
+</TEXT>
+<TAGS>
+<NAME id="P0" start="75" end="100" text="Luana Cavalcanti Ferreira" TYPE="PATIENT" comment="" />
+<ID id="P1" start="108" end="120" text="E-0073-91162" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="128" end="138" text="01/17/2041" TYPE="DATE" comment="" />
+<DATE id="P3" start="148" end="153" text="10/14" TYPE="DATE" comment="" />
+<NAME id="P4" start="169" end="192" text="Fatima Zahra El-Idrissi" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="205" end="215" text="Sunita Rao" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="299" end="301" text="32" TYPE="AGE" comment="" />
+<DATE id="P7" start="388" end="392" text="2055" TYPE="DATE" comment="" />
+<NAME id="P8" start="445" end="455" text="Tamsin Orr" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="503" end="511" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P10" start="517" end="521" text="12th" TYPE="DATE" comment="" />
+<DATE id="P11" start="590" end="598" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P12" start="644" end="655" text="mid-October" TYPE="DATE" comment="" />
+<NAME id="P13" start="735" end="741" text="Teresa" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="746" end="754" text="LL-44721" TYPE="IDNUM" comment="" />
+<NAME id="P15" start="871" end="889" text="Beatris Cavalcanti" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="908" end="924" text="+351 21 555 0192" TYPE="PHONE" comment="" />
+<DATE id="P17" start="1172" end="1177" text="10/14" TYPE="DATE" comment="" />
+<NAME id="P18" start="1397" end="1405" text="Yamagata" TYPE="DOCTOR" comment="" />
+<LOCATION id="P19" start="1524" end="1528" text="MICU" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P20" start="1534" end="1539" text="4W-11" TYPE="ROOM" comment="" />
+<ID id="P21" start="1569" end="1583" text="301.557.842-60" TYPE="IDNUM" comment="" />
+<ID id="P22" start="1604" end="1617" text="9904-6612-307" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P23" start="1629" end="1646" text="Dr F Z El Idrissi" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1648" end="1658" text="10/14/2073" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>note_id,mrn,pt_name,dob,enc_date,author,dept,note_type,text
+"OP-7735","3305-9172","PIKE, JASPER","02/11/2049","09/18/2064","Paul Fenwick DMD","Oral Surgery","Operative note","PREOP DX: gingival disease. POSTOP DX same. PROC: gingivectomy/gingivoplasty per tooth, scaling subgingival+supragingival, bitewing xray, desens. medicament. ANES: local lidocaine w/ epi. Pt 15yo M at Lakemont Children's Hospital Dental Clinic, Op Rm 2. Consent signed by mother Delphine Pike + assent by pt. No complications, EBL min. Tol well. POC reviewed. Post-op: soft diet, chlorhex rinse, tylenol prn. F/u 2 wks. [pasted: PIKE, JUNIPER 5/13/2060 Pt 11yo F strep f/u -- old header from prior note, ignore] Patient not allergic ('sulfa' per dad, not in chart). Referring Marisol Whitcombe, fax (802) 555-0188 of Green Mountain Family Dental Surgery also cc'd. Mom's car 7KRL482 in garage lvl 2. Last edit pfenwick 09/18/64 16:10."
+</TEXT>
+<TAGS>
+<ID id="P0" start="71" end="80" text="3305-9172" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="83" end="95" text="PIKE, JASPER" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="98" end="108" text="02/11/2049" TYPE="DATE" comment="" />
+<DATE id="P3" start="111" end="121" text="09/18/2064" TYPE="DATE" comment="" />
+<NAME id="P4" start="124" end="136" text="Paul Fenwick" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="143" end="155" text="Oral Surgery" TYPE="DEPARTMENT" comment="" />
+<AGE id="P6" start="366" end="368" text="15" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="376" end="404" text="Lakemont Children's Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P8" start="405" end="418" text="Dental Clinic" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P9" start="420" end="427" text="Op Rm 2" TYPE="ROOM" comment="" />
+<NAME id="P10" start="454" end="467" text="Delphine Pike" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="751" end="768" text="Marisol Whitcombe" TYPE="DOCTOR" comment="" />
+<CONTACT id="P12" start="774" end="788" text="(802) 555-0188" TYPE="FAX" comment="" />
+<LOCATION id="P13" start="792" end="828" text="Green Mountain Family Dental Surgery" TYPE="ORGANIZATION" comment="" />
+<ID id="P14" start="850" end="857" text="7KRL482" TYPE="VEHICLE" comment="" />
+<NAME id="P15" start="885" end="893" text="pfenwick" TYPE="USERNAME" comment="" />
+<DATE id="P16" start="894" end="902" text="09/18/64" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

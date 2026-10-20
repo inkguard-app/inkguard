@@ -1,0 +1,70 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inkguard"
+dynamic = ["version"]
+description = "Offline redaction of patient identifiers from typed clinical documents."
+readme = "README.md"
+requires-python = ">=3.11,<3.15"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE", "THIRD_PARTY_NOTICES.md", "TRADEMARKS.md"]
+authors = [{ name = "Alize Wajahat" }]
+keywords = ["de-identification", "PHI", "HIPAA Safe Harbor", "clinical notes", "privacy"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Healthcare Industry",
+    "Intended Audience :: Science/Research",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+    "Topic :: Text Processing",
+]
+# The same versions as requirements.txt, which pins them exactly for a
+# reproducible install. The language model is a direct download from the
+# spaCy project.
+dependencies = [
+    "presidio-analyzer==2.2.364",
+    "presidio-anonymizer==2.2.364",
+    "spacy==3.8.16",
+    "en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl",
+    "cryptography==48.0.1",
+    "keyring==25.7.0",
+    "wordfreq==3.1.1",
+    "python-docx==1.2.0",
+    "reportlab==4.4.10",
+    "openpyxl==3.1.5",
+    "pdfplumber==0.11.9",
+    "pypdfium2==5.7.1",
+    "pypdf==3.17.4",
+    "Pillow==12.2.0",
+    "pytesseract==0.3.13",
+]
+
+[project.optional-dependencies]
+test = ["pytest==9.1.1", "pytest-timeout==2.4.0", "playwright==1.56.0"]
+
+[project.scripts]
+inkguard = "inkguard.cli:main"
+inkguard-review = "inkguard.chert:main"
+
+[project.gui-scripts]
+inkguard-window = "inkguard.window:main"
+
+[project.urls]
+Source = "https://github.com/inkguard-app/inkguard"
+Results = "https://github.com/inkguard-app/inkguard/blob/main/benchmark/RESULTS.md"
+
+[tool.setuptools]
+packages = ["inkguard"]
+
+[tool.setuptools.dynamic]
+version = { attr = "inkguard.__version__" }
+
+[tool.setuptools.package-data]
+inkguard = ["data/*.json.gz", "chert_page.html", "logo.png"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

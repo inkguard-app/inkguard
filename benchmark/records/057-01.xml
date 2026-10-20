@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|note_type|author|facility|text
+20231|FAX COVER|L. Vasquez RN|Genesee Valley Primary Care Group|
+TO: Monroe Dental Associates  ATTN: scheduling   FAX (585) 555-0140  PH (585) 555-0111 x2217
+FROM: care coord, (585) 555-0100   pager 5550-4413
+DATE 02/23/2090   PGS 3 incl cover
+RE: WEISS, WENDY K  DOB 03/09/1946  MR 3300418
+MSG: dental referral per PCP Dr Obuya. 43yo F, gingivits, no cleaning in yrs. pls call pt DIRECT, no vm w details. Pt lives alone, hx sleep apnea (CPAP), hip OA on naproxen. Vaccine given here today. Do NOT leave msg w sister Gail Weiss-Marsh - not on release.
+Ins: HLP-77-30915-02  (Harborline). Sig on release signed by pt as "W. Weiss"
+Allergies: RS-44-90217-B  HZK-4471  &lt;-- (field mismatch, i see it, will fix)
+pt phone (585) 555-0172 -- or try emerg contact June Alder (585)-555-0198
+Transport: pt wil ask Mr. Pike (neighbor) to drive.
+-- Not 1946. pt DOB is 2046, typo by me. sorry.
+LV
+CONFIDENTIAL: if recd in error pls call (585) 555-0100 and destroy.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="54" end="64" text="L. Vasquez" TYPE="DOCTOR" comment="" />
+<LOCATION id="P1" start="68" end="101" text="Genesee Valley Primary Care Group" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="107" end="131" text="Monroe Dental Associates" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P3" start="156" end="170" text="(585) 555-0140" TYPE="FAX" comment="" />
+<CONTACT id="P4" start="175" end="189" text="(585) 555-0111" TYPE="PHONE" comment="" />
+<CONTACT id="P5" start="190" end="195" text="x2217" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="214" end="228" text="(585) 555-0100" TYPE="PHONE" comment="" />
+<CONTACT id="P7" start="237" end="246" text="5550-4413" TYPE="PHONE" comment="" />
+<DATE id="P8" start="252" end="262" text="02/23/2090" TYPE="DATE" comment="" />
+<NAME id="P9" start="286" end="300" text="WEISS, WENDY K" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="306" end="316" text="03/09/1946" TYPE="DATE" comment="" />
+<ID id="P11" start="321" end="328" text="3300418" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P12" start="361" end="366" text="Obuya" TYPE="DOCTOR" comment="" />
+<AGE id="P13" start="368" end="370" text="43" TYPE="AGE" comment="" />
+<NAME id="P14" start="555" end="571" text="Gail Weiss-Marsh" TYPE="PATIENT" comment="" />
+<ID id="P15" start="595" end="610" text="HLP-77-30915-02" TYPE="HEALTHPLAN" comment="" />
+<LOCATION id="P16" start="613" end="623" text="Harborline" TYPE="ORGANIZATION" comment="" />
+<NAME id="P17" start="658" end="666" text="W. Weiss" TYPE="PATIENT" comment="" />
+<ID id="P18" start="679" end="692" text="RS-44-90217-B" TYPE="DEVICE" comment="" />
+<ID id="P19" start="694" end="702" text="HZK-4471" TYPE="VEHICLE" comment="" />
+<CONTACT id="P20" start="754" end="768" text="(585) 555-0172" TYPE="PHONE" comment="" />
+<NAME id="P21" start="793" end="803" text="June Alder" TYPE="PATIENT" comment="" />
+<CONTACT id="P22" start="804" end="818" text="(585)-555-0198" TYPE="PHONE" comment="" />
+<NAME id="P23" start="841" end="849" text="Mr. Pike" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="878" end="882" text="1946" TYPE="DATE" comment="" />
+<DATE id="P25" start="894" end="898" text="2046" TYPE="DATE" comment="" />
+<NAME id="P26" start="919" end="921" text="LV" TYPE="DOCTOR" comment="" />
+<CONTACT id="P27" start="962" end="976" text="(585) 555-0100" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAX COVER SHEET
+Swan River Children's Health Service  -  General Paediatrics
+Date: 15/11/2094    Time sent: 09:12    Pages (including this one): 3
+TO: Ms Rosalind Achebe, School Counsellor / Nurse, Glendalough College      FAX: +61 8 5550 0231
+FROM: Dr Callum Strathairn      PHONE: +61 8 5550 0188      FAX: +61 8 5550 0199
+RE: Jakub Wisniewski-Hart (DOB 09/14/78)    &lt;&lt;PATIENT_NAME&gt;&gt; UR JW 1409-78
+
+URGENT [ ]   PLEASE COMMENT [x]   FOR YOUR INFORMATION [ ]   PLEASE REPLY [ ]
+
+Cover message (dictated): 
+Dear Rosalind, as discussed on the telephone last Thursday, I enclose a brief summary confirming that Jakub's rib fracture, which was diagnosed on 22/07/2094, has now healed and that as of Monday the 15th he is cleared to return to full sport, including the school's summer camp that begins on Boxing Day. In the second page you will find the radiologist's report, accession RAD/94/118307, from the follow up film of 4/11 at 02:15 [sic, the time stamp is a system error, the film was taken in the afternoon]. I would also ask that the school nurse keep a copy of his plan for asthma-like symptoms, although he does not have asthma, I think the template put that in. He had a sore throat with a viral illness around 21 October and has recovered completely.
+
+Please note the earlier correspondence, filed in the school record under 2093, said "Jakub Whisniewski" which is wrong, the spelling is as above. I would be grateful if you could correct it. His father Marek is home in Perth for Christmas Eve and will collect him from camp on 31/12. His grandmother's address in Krakow for any overseas travel forms is ul. Szeroka 14/3, 31-053 Krakow, Poland.
+
+CONFIDENTIALITY NOTICE: This fax is intended only for Ms Achebe ... if you have received it in error please telephone us immediately. 
+Dictated but not read. Sent by Priyanka Rao from 10.88.12.31; transmission report TX-0098841.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="16" end="52" text="Swan River Children's Health Service" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="57" end="76" text="General Paediatrics" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="83" end="93" text="15/11/2094" TYPE="DATE" comment="" />
+<NAME id="P3" start="154" end="169" text="Rosalind Achebe" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="198" end="217" text="Glendalough College" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P5" start="228" end="243" text="+61 8 5550 0231" TYPE="FAX" comment="" />
+<NAME id="P6" start="253" end="270" text="Callum Strathairn" TYPE="DOCTOR" comment="" />
+<CONTACT id="P7" start="283" end="298" text="+61 8 5550 0188" TYPE="PHONE" comment="" />
+<CONTACT id="P8" start="309" end="324" text="+61 8 5550 0199" TYPE="FAX" comment="" />
+<NAME id="P9" start="329" end="350" text="Jakub Wisniewski-Hart" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="356" end="364" text="09/14/78" TYPE="DATE" comment="" />
+<ID id="P11" start="389" end="399" text="JW 1409-78" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P12" start="512" end="520" text="Rosalind" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="557" end="565" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P14" start="609" end="614" text="Jakub" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="654" end="664" text="22/07/2094" TYPE="DATE" comment="" />
+<DATE id="P16" start="696" end="702" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P17" start="707" end="711" text="15th" TYPE="DATE" comment="" />
+<DATE id="P18" start="801" end="811" text="Boxing Day" TYPE="DATE" comment="" />
+<ID id="P19" start="882" end="895" text="RAD/94/118307" TYPE="IDNUM" comment="" />
+<DATE id="P20" start="924" end="928" text="4/11" TYPE="DATE" comment="" />
+<DATE id="P21" start="1222" end="1232" text="21 October" TYPE="DATE" comment="" />
+<DATE id="P22" start="1337" end="1341" text="2093" TYPE="DATE" comment="" />
+<NAME id="P23" start="1349" end="1354" text="Jakub" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1355" end="1366" text="Whisniewski" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1466" end="1471" text="Marek" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="1483" end="1488" text="Perth" TYPE="CITY" comment="" />
+<DATE id="P27" start="1493" end="1506" text="Christmas Eve" TYPE="DATE" comment="" />
+<DATE id="P28" start="1541" end="1546" text="31/12" TYPE="DATE" comment="" />
+<LOCATION id="P29" start="1577" end="1583" text="Krakow" TYPE="CITY" comment="" />
+<LOCATION id="P30" start="1617" end="1633" text="ul. Szeroka 14/3" TYPE="STREET" comment="" />
+<LOCATION id="P31" start="1635" end="1641" text="31-053" TYPE="ZIP" comment="" />
+<LOCATION id="P32" start="1642" end="1648" text="Krakow" TYPE="CITY" comment="" />
+<LOCATION id="P33" start="1650" end="1656" text="Poland" TYPE="COUNTRY" comment="" />
+<NAME id="P34" start="1713" end="1722" text="Ms Achebe" TYPE="PATIENT" comment="" />
+<NAME id="P35" start="1825" end="1837" text="Priyanka Rao" TYPE="DOCTOR" comment="" />
+<CONTACT id="P36" start="1843" end="1854" text="10.88.12.31" TYPE="IPADDR" comment="" />
+<ID id="P37" start="1876" end="1886" text="TX-0098841" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

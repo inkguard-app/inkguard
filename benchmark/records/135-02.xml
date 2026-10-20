@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id|doc_type|enc_date|dept|author|body
+4511930|PROGRESS NOTE (SOAP)|11/13/2087|Pediatrics - Sunnyfork Clinic|afrost|
+PROGRESS NOTE - WELL CHILD
+Patient: PRUITT, LEGEND   MRN SF-0047781   DOB 06/04/2087   5 mo old male
+Seen by Dr. April Frost   Scribe: Mi4 Delgado   Room 6
+Accompanied by: mother Ny'Asia Pruitt  (father Kxng Pruitt on speaker)
+
+S:
+5 mo old boy here for 5 month check. Mom reports feeding well, breast milk + started rice cereal once a day since last week. Sleeping 6 hr stretch at night, naps at daycare. No fever, no vomiting, no rash. Stools soft yellow. No cough or congestion.
+Copy fwd from 09/11/2087: "Keep breastfeeding on demand, vitamin D drops once daily, tummy time." Still applies.
+Daycare: Little Acorns Daycare, teacher Ms. Blue (room Ladybugs) texted mom about a cough on Tuesday that has resolved.
+Family: lives with mom, dad, and maternal grandmother Miss Bless; family dog "Pruitt" (yes, the dog has the family surname) and a cat, Biscuit.
+
+O:
+Wt 7.7 kg, BP 109/85, pain 2/10 on FLACC at injection only. Hgb 14.4, WBC 9.2 (from birth labs, carried forward)
+Alert, social smile, tracks. AF soft flat. Heart RRR no murmur. Lungs clear. Hips stable. Skin clear.
+Development: rolls both ways, reaches, laughs, babbles.
+
+A:
+1. Healthy infant, growth along curve
+2. Immunizations due, given
+3. Medication reconciliation done: no meds. Note says "Medications: Tylenol 80 mg" - not on the list, deleted
+
+P:
+- Vaccines today per schedule, VIS given
+- Start purees one new food every 3 days, no honey
+- Safe sleep, car seat rear-facing. Seat serial CS-8841-0092-XT, recall checked - none
+- Return at 9 month check in February 2088. Daycare forms signed and faxed
+
+Mom's phone updated: 918 555 0173. Mom's email nyasia.pruitt@mailbox.example
+Parked: plate 7KXN-421 (mom asked us to move it, blocking the ambulance bay, lol)
+
+Electronically signed by April Frost, MD 11/13/2087 16:05
+Last edited by afrost 11/13/2087 16:20 from 10.8.31.116
+</TEXT>
+<TAGS>
+<DATE id="P0" start="71" end="81" text="11/13/2087" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="82" end="111" text="Pediatrics - Sunnyfork Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="112" end="118" text="afrost" TYPE="USERNAME" comment="" />
+<NAME id="P3" start="156" end="170" text="PRUITT, LEGEND" TYPE="PATIENT" comment="" />
+<ID id="P4" start="177" end="187" text="SF-0047781" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="194" end="204" text="06/04/2087" TYPE="DATE" comment="" />
+<AGE id="P6" start="207" end="211" text="5 mo" TYPE="AGE" comment="" />
+<NAME id="P7" start="233" end="244" text="April Frost" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="255" end="266" text="Mi4 Delgado" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="274" end="275" text="6" TYPE="ROOM" comment="" />
+<NAME id="P10" start="299" end="313" text="Ny'Asia Pruitt" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="323" end="334" text="Kxng Pruitt" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="351" end="355" text="5 mo" TYPE="AGE" comment="" />
+<DATE id="P13" start="615" end="625" text="09/11/2087" TYPE="DATE" comment="" />
+<LOCATION id="P14" start="723" end="744" text="Little Acorns Daycare" TYPE="ORGANIZATION" comment="" />
+<NAME id="P15" start="758" end="762" text="Blue" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="807" end="814" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P17" start="888" end="898" text="Miss Bless" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="912" end="918" text="Pruitt" TYPE="PATIENT" comment="" />
+<ID id="P19" start="1577" end="1592" text="CS-8841-0092-XT" TYPE="DEVICE" comment="" />
+<DATE id="P20" start="1645" end="1658" text="February 2088" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1713" end="1725" text="918 555 0173" TYPE="PHONE" comment="" />
+<CONTACT id="P22" start="1739" end="1768" text="nyasia.pruitt@mailbox.example" TYPE="EMAIL" comment="" />
+<ID id="P23" start="1783" end="1791" text="7KXN-421" TYPE="VEHICLE" comment="" />
+<NAME id="P24" start="1877" end="1888" text="April Frost" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="1893" end="1903" text="11/13/2087" TYPE="DATE" comment="" />
+<NAME id="P26" start="1925" end="1931" text="afrost" TYPE="USERNAME" comment="" />
+<DATE id="P27" start="1932" end="1942" text="11/13/2087" TYPE="DATE" comment="" />
+<CONTACT id="P28" start="1954" end="1965" text="10.8.31.116" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

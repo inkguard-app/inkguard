@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "The screens may call the secure core and open a native file or folder picker. Nothing else: no shell, no file system, no network.",
+  "windows": ["main"],
+  "permissions": ["core:default", "dialog:allow-open"]
+}

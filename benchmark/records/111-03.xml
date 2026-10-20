@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 6410 | SOURCE=EHR | NOTE=OPERATIVE | AUTHOR=wng
+SUMMIT RIDGE CANCER AND WOMEN'S CENTER - Procedure suite PS-2
+OPERATIVE NOTE
+Patient: Harmoney Story   MRN: SR-3340712   DOB: 2/6/2036   Age 27
+Date of procedure: 02/15/2063
+Surgeon: Wednesday Ng, MD     Assistant: K. Bell     Anesthesia: local + oral sedation
+Pre-op diagnosis: intrauterine pregnancy, patient requests termination
+Post-op diagnosis: same
+Procedure: induced termination of pregnancy (aspiration)
+
+- consent signed, pt voluntarily chose, no coercion. Support person x183474 in waiting area; pt asked that her mom Mercy NOT be told.
+- time out done, pt confirmed name Harmony Story and DOB Feb 6 2036
+- uneventful, EBL minimal, tissue sent to pathology
+- pt tolerated well, recovery 45 min, discharged w/ friend Blue driving (plate WA BLU-3382)
+- ibuprofen, f/u 2 wks, return precautions given
+
+Note: Patient asked to be called "Harmony" only, not "Ms. Story" in the hallway.
+Dear [PATIENT], &lt;&lt;PATIENT_NAME&gt;&gt; will be contacted... (template text left in)
+Signed Wednesday Ng MD 02/15/2063 13:20, device HM-2290-AF7 (ultrasound probe)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="52" end="90" text="SUMMIT RIDGE CANCER AND WOMEN'S CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="109" end="113" text="PS-2" TYPE="ROOM" comment="" />
+<NAME id="P2" start="138" end="152" text="Harmoney Story" TYPE="PATIENT" comment="" />
+<ID id="P3" start="160" end="170" text="SR-3340712" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="178" end="186" text="2/6/2036" TYPE="DATE" comment="" />
+<AGE id="P5" start="193" end="195" text="27" TYPE="AGE" comment="" />
+<DATE id="P6" start="215" end="225" text="02/15/2063" TYPE="DATE" comment="" />
+<NAME id="P7" start="235" end="247" text="Wednesday Ng" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="267" end="274" text="K. Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="534" end="541" text="x183474" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="581" end="586" text="Mercy" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="635" end="648" text="Harmony Story" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="657" end="667" text="Feb 6 2036" TYPE="DATE" comment="" />
+<NAME id="P13" start="779" end="783" text="Blue" TYPE="PATIENT" comment="" />
+<ID id="P14" start="799" end="810" text="WA BLU-3382" TYPE="VEHICLE" comment="" />
+<NAME id="P15" start="896" end="903" text="Harmony" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="920" end="925" text="Story" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1028" end="1040" text="Wednesday Ng" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1044" end="1054" text="02/15/2063" TYPE="DATE" comment="" />
+<ID id="P19" start="1069" end="1080" text="HM-2290-AF7" TYPE="DEVICE" comment="" />
+</TAGS>
+</deIdi2b2>

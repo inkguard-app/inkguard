@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>REFERRAL LETTER
+Cedarcrest Family Medicine                                5/24/2091
+To: Prairie Wind Dental Group, attn: Marcus Oyelaran, DDS
+Fax: (605) 555-0166
+Re: Odessa Rae Whitlock, DOB 11/30/2023, 67 y.o. F, plan member KPM 9X4-2T7-BN18
+
+Dear Dr. Oyelaran,
+Thank you for seeing Mrs. Whitlock. Hx of gingivitis (treated 06/2090) and a new caries found at our visit 05/23/2091. She takes simvastatin, naproxen 220 mg (hand OA) and iron. No anticoagulants so no bleeding concerns.
+Pt says she has "no teeth problems" but husband Leonard says she winces when eating. Pls clean and fill. Transport is by husband, car plate SD 6KB 482 (for the lot permit).
+
+Sincerely
+Gareth Lindahl, MD   Ext x214
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="16" end="42" text="Cedarcrest Family Medicine" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="74" end="83" text="5/24/2091" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="88" end="113" text="Prairie Wind Dental Group" TYPE="ORGANIZATION" comment="" />
+<NAME id="P3" start="121" end="136" text="Marcus Oyelaran" TYPE="DOCTOR" comment="" />
+<CONTACT id="P4" start="147" end="161" text="(605) 555-0166" TYPE="FAX" comment="" />
+<NAME id="P5" start="166" end="185" text="Odessa Rae Whitlock" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="191" end="201" text="11/30/2023" TYPE="DATE" comment="" />
+<AGE id="P7" start="203" end="205" text="67" TYPE="AGE" comment="" />
+<ID id="P8" start="226" end="242" text="KPM 9X4-2T7-BN18" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P9" start="289" end="297" text="Whitlock" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="325" end="332" text="06/2090" TYPE="DATE" comment="" />
+<DATE id="P11" start="370" end="380" text="05/23/2091" TYPE="DATE" comment="" />
+<NAME id="P12" start="532" end="539" text="Leonard" TYPE="PATIENT" comment="" />
+<ID id="P13" start="624" end="634" text="SD 6KB 482" TYPE="VEHICLE" comment="" />
+<NAME id="P14" start="668" end="682" text="Gareth Lindahl" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="693" end="697" text="x214" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>RESULT COMMENT TO PARENT - CBC
+Pt: Tomasz Adeyemi Zielinski  DOB 02/19/2065  MRN CH-0458213
+RAMQ ZIET 6502 1913
+Ord: Dr Callum Rafferty, Gen Peds / St. Aldric Children's Hospital
+Coll 2/5 0930, resulted 2/6/70 1614, acc# L70-004482
+
+&lt;&lt;PARENT_NAME&gt;&gt;   [template line - not removed]
+Dear Ms Zielinksa (cc Mr Adeyemi),
+
+CBC from Wed back. WBC 4.1 - low normal for age, Hb 14.0 nl. No anaemia. Neutrophils not diffd, will not repeat unless fevers recur. This was drawn bc of 4yo's recurrent cough after the bronchitis in Jan (seen 1/27) + pain 4/10 at check up on 2/5.
+
+Pls cont fluids, rest. If temp &gt;38.5 x 3d or pt is lethargic go to ER. Seizure plan unchanged - Dr Vasseur (neuro) f/u due mid-March. Pls bring seizure diary (the one Tomek brings to Garderie Les Petits Lutins too - teacher's pages are helpful).
+
+If questions call peds clinic (819) 555-0188 or reply via portal. I tried you at (819) 555-0137 on Fri am, no ans, msg left (nb: number on file may be wrong, 0173 vs 0137?? pls confirm, chart says (819) 555-0173).
+
+Weight 18.0 kg, BP 92/72. Gum disease no. Dental ref still outstanding per Dr Rafferty.
+
+Tx - no changes. Next well visit 12/24 prob (Christmas Eve slot ok'd by mum? clerk to confirm).
+
+Sincerly,
+C. Rafferty MD
+Electronically signed 02/07/2070 08:41 by crafferty
+Routed to: Odile Marchetti RN; cc fax (819) 555-0102 Outaouais Pediatric Associates
+</TEXT>
+<TAGS>
+<NAME id="P0" start="35" end="59" text="Tomasz Adeyemi Zielinski" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="65" end="75" text="02/19/2065" TYPE="DATE" comment="" />
+<ID id="P2" start="81" end="91" text="CH-0458213" TYPE="MEDICALRECORD" comment="" />
+<ID id="P3" start="97" end="111" text="ZIET 6502 1913" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P4" start="120" end="135" text="Callum Rafferty" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="137" end="145" text="Gen Peds" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P6" start="148" end="178" text="St. Aldric Children's Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P7" start="184" end="187" text="2/5" TYPE="DATE" comment="" />
+<DATE id="P8" start="203" end="209" text="2/6/70" TYPE="DATE" comment="" />
+<ID id="P9" start="221" end="231" text="L70-004482" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="289" end="298" text="Zielinksa" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="306" end="313" text="Adeyemi" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="326" end="329" text="Wed" TYPE="DATE" comment="" />
+<AGE id="P13" start="471" end="472" text="4" TYPE="AGE" comment="" />
+<DATE id="P14" start="517" end="520" text="Jan" TYPE="DATE" comment="" />
+<DATE id="P15" start="527" end="531" text="1/27" TYPE="DATE" comment="" />
+<DATE id="P16" start="560" end="563" text="2/5" TYPE="DATE" comment="" />
+<NAME id="P17" start="665" end="672" text="Vasseur" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="693" end="698" text="March" TYPE="DATE" comment="" />
+<NAME id="P19" start="733" end="738" text="Tomek" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="749" end="775" text="Garderie Les Petits Lutins" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P21" start="831" end="842" text="peds clinic" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P22" start="843" end="857" text="(819) 555-0188" TYPE="PHONE" comment="" />
+<CONTACT id="P23" start="894" end="908" text="(819) 555-0137" TYPE="PHONE" comment="" />
+<DATE id="P24" start="912" end="915" text="Fri" TYPE="DATE" comment="" />
+<CONTACT id="P25" start="1010" end="1024" text="(819) 555-0173" TYPE="PHONE" comment="" />
+<NAME id="P26" start="1106" end="1114" text="Rafferty" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1150" end="1155" text="12/24" TYPE="DATE" comment="" />
+<NAME id="P28" start="1224" end="1235" text="C. Rafferty" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1261" end="1271" text="02/07/2070" TYPE="DATE" comment="" />
+<NAME id="P30" start="1281" end="1290" text="crafferty" TYPE="USERNAME" comment="" />
+<NAME id="P31" start="1302" end="1317" text="Odile Marchetti" TYPE="DOCTOR" comment="" />
+<CONTACT id="P32" start="1329" end="1343" text="(819) 555-0102" TYPE="FAX" comment="" />
+<LOCATION id="P33" start="1344" end="1374" text="Outaouais Pediatric Associates" TYPE="ORGANIZATION" comment="" />
+</TAGS>
+</deIdi2b2>

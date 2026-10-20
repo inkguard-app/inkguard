@@ -1,0 +1,179 @@
+/* Shared visual foundation for the desktop screens: colour, type and
+   spacing tokens and the base components. app.css adds the layout on top
+   and does not redefine these tokens. */
+
+:root {
+  /* Type — system fonts only (offline app). Generous base size for tired eyes. */
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --fs-xs: 13px; --fs-s: 15px; --fs-m: 17px; --fs-l: 21px; --fs-xl: 28px; --fs-xxl: 36px;
+  --lh: 1.55;
+
+  /* Colour — warm neutral paper, calm deep blue for action. All text pairs ≥ 4.5:1. */
+  --bg: #F7F6F3;            /* page */
+  --surface: #FFFFFF;       /* cards, panels */
+  --surface-2: #F0EEE9;     /* subtle wells */
+  --ink: #1F2328;           /* body text */
+  --ink-2: #4E555D;         /* secondary text (≥ 7:1 on --bg) */
+  --line: #DEDBD4;
+  --line-2: #C9C5BC;
+
+  /* Clinical-software gravity: sober blues and slate chrome, the familiar
+     feel of the systems clinicians work in all day (not copied from any one system). */
+  --primary: #1B5E9E;       /* one primary action per screen (≥ 6:1 on white) */
+  --primary-hover: #154C82;
+  --primary-ink: #FFFFFF;
+  --primary-soft: #E6EEF7;
+  --chrome: #1E3550;        /* app bar */
+  --chrome-2: #2B4A6E;      /* app bar accents */
+  --chrome-ink: #FFFFFF;
+  --banner: #E9EEF4;        /* context banner (the batch's "patient banner") */
+  --banner-line: #C7D2DF;
+
+  --ok: #2B7A4B;      --ok-soft: #E3F3E9;
+  --warn: #8A5300;    --warn-soft: #FFF1D6;
+  --danger: #B3261E;  --danger-soft: #FCE8E6;
+  --info: #2F5BB7;    --info-soft: #E6EDFB;
+
+  /* Marks — ALWAYS paired with a text badge, never colour alone. */
+  --mark-tool: #FFE7A8;       /* T  — the tool's mark */
+  --mark-r1: #D6E4FF;         /* R1 — Reviewer 1 */
+  --mark-r2: #E9DBFF;         /* R2 — Reviewer 2 */
+  --mark-added: #D2F0DD;      /* a value made less exact (an age or ZIP code) */
+  --mark-kept: #EEEEEE;       /* a mark undone: the word stays */
+  --mark-unsure-border: #8A5300; /* dashed outline for "not sure" */
+
+  /* Space, shape, depth */
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px; --s6: 32px; --s7: 48px;
+  --r1: 4px; --r2: 6px; --r3: 8px;   /* crisp, not bubbly */
+  --shadow: 0 1px 2px rgba(31,35,40,.06), 0 4px 16px rgba(31,35,40,.06);
+  --shadow-lift: 0 2px 6px rgba(31,35,40,.08), 0 12px 32px rgba(31,35,40,.10);
+  --focus: 0 0 0 3px var(--surface), 0 0 0 6px #1B5FD1;
+  --target: 44px;           /* minimum touch/click target */
+  --ease: cubic-bezier(.2,.7,.2,1);
+}
+
+* { box-sizing: border-box; }
+html { font-size: var(--fs-m); }
+body {
+  margin: 0; font-family: var(--font); font-size: var(--fs-m); line-height: var(--lh);
+  color: var(--ink); background: var(--bg); -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3 { line-height: 1.25; margin: 0 0 var(--s3); font-weight: 650; letter-spacing: -0.01em; }
+h1 { font-size: var(--fs-xl); } h2 { font-size: var(--fs-l); } h3 { font-size: var(--fs-m); }
+p { margin: 0 0 var(--s3); }
+.muted { color: var(--ink-2); }
+.small { font-size: var(--fs-s); }
+
+/* Focus: always visible for keyboard users */
+:focus-visible { outline: none; box-shadow: var(--focus); border-radius: var(--r1); }
+
+/* Buttons — exactly ONE .btn-primary visible per screen */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--s2);
+  min-height: var(--target); min-width: var(--target); padding: 0 var(--s5);
+  font: inherit; font-weight: 600; border-radius: var(--r2); border: 1px solid var(--line-2);
+  background: var(--surface); color: var(--ink); cursor: pointer;
+  transition: background .15s var(--ease), border-color .15s var(--ease), transform .1s var(--ease);
+}
+.btn:hover { border-color: var(--ink-2); }
+.btn:active { transform: translateY(1px); }
+.btn-primary { background: var(--primary); color: var(--primary-ink); border-color: var(--primary); }
+.btn-primary:hover { background: var(--primary-hover); border-color: var(--primary-hover); }
+.btn-quiet { background: transparent; border-color: transparent; color: var(--primary); }
+.btn-quiet:hover { background: var(--primary-soft); }
+.btn-danger { color: var(--danger); }
+.btn[disabled] { opacity: .45; cursor: not-allowed; }
+
+/* App bar — the serious frame every screen sits in */
+.appbar {
+  display: flex; align-items: center; gap: var(--s4); min-height: 52px; padding: 0 var(--s5);
+  background: var(--chrome); color: var(--chrome-ink); font-size: var(--fs-s);
+}
+.appbar .appname { font-weight: 700; letter-spacing: .01em; }
+.appbar .appname small { font-weight: 500; opacity: .75; margin-left: 6px; }
+.appbar .spacer { flex: 1; }
+.appbar .btn-quiet { color: #CFE0F5; }
+.appbar .btn-quiet:hover { background: var(--chrome-2); }
+
+/* Context banner — like a chart's patient banner, but for the work in hand:
+   batch · stage · counts · reviewers. Always visible. */
+.context-banner {
+  display: flex; flex-wrap: wrap; align-items: center; gap: var(--s2) var(--s5);
+  padding: var(--s3) var(--s5); background: var(--banner); border-bottom: 1px solid var(--banner-line);
+  font-size: var(--fs-s);
+}
+.context-banner .title { font-weight: 700; font-size: var(--fs-m); }
+.context-banner .kv { color: var(--ink-2); }
+.context-banner .kv b { color: var(--ink); font-weight: 600; }
+
+/* Cards & panels */
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r3); box-shadow: var(--shadow); padding: var(--s5); }
+
+/* Badges / tags (the text half of every coloured mark) */
+.badge {
+  display: inline-flex; align-items: center; gap: 4px; padding: 1px 8px; border-radius: 999px;
+  font-size: var(--fs-xs); font-weight: 650; line-height: 1.6; border: 1px solid transparent; white-space: nowrap;
+}
+.badge-tool  { background: var(--mark-tool);  border-color: #E2C46A; }
+.badge-r1    { background: var(--mark-r1);    border-color: #9DB8EE; }
+.badge-r2    { background: var(--mark-r2);    border-color: #BFA2EC; }
+.badge-added { background: var(--mark-added); border-color: #8FCDA6; }
+.badge-ok    { background: var(--ok-soft); color: var(--ok); }
+.badge-warn  { background: var(--warn-soft); color: var(--warn); }
+.badge-danger{ background: var(--danger-soft); color: var(--danger); }
+
+/* Marked words in a note */
+.mark { border-radius: 4px; padding: 0 2px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.mark-tool  { background: var(--mark-tool); }
+.mark-added { background: var(--mark-added); }
+.mark-kept  { background: var(--mark-kept); text-decoration: line-through; text-decoration-color: var(--ink-2); }
+.mark-unsure { outline: 2px dashed var(--mark-unsure-border); outline-offset: 1px; }
+
+/* Progress bar */
+.progress { height: 10px; background: var(--surface-2); border-radius: 999px; overflow: hidden; }
+.progress > span { display: block; height: 100%; background: var(--primary); border-radius: 999px; transition: width .3s var(--ease); }
+
+/* Save status line */
+.save-status { font-size: var(--fs-s); color: var(--ink-2); display: inline-flex; align-items: center; gap: 6px; }
+.save-status::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--ok); }
+.save-status.unsaved::before { background: var(--warn); }
+
+/* Toast (a short message) */
+.toast {
+  position: fixed; left: 50%; bottom: var(--s5); transform: translateX(-50%);
+  background: var(--ink); color: #fff; border-radius: var(--r2); padding: var(--s3) var(--s4);
+  display: flex; gap: var(--s4); align-items: center; box-shadow: var(--shadow-lift); z-index: 50;
+}
+.toast .btn-quiet { color: #9FE3DC; min-height: 36px; }
+
+/* Switch (opt-in toggles) */
+.switch { display: inline-flex; align-items: center; gap: var(--s3); cursor: pointer; min-height: var(--target); }
+.switch input { appearance: none; width: 48px; height: 28px; border-radius: 999px; background: var(--line-2); position: relative; margin: 0; cursor: pointer; transition: background .2s var(--ease); }
+.switch input::after { content: ""; position: absolute; top: 3px; left: 3px; width: 22px; height: 22px; border-radius: 50%; background: #fff; transition: transform .2s var(--ease); box-shadow: 0 1px 2px rgba(0,0,0,.2); }
+.switch input:checked { background: var(--primary); }
+.switch input:checked::after { transform: translateX(20px); }
+
+/* Form fields */
+.field { display: grid; gap: var(--s1); margin-bottom: var(--s4); }
+.field label { font-weight: 600; }
+.input { min-height: var(--target); padding: 0 var(--s3); font: inherit; border: 1px solid var(--line-2); border-radius: var(--r1); background: var(--surface); color: var(--ink); }
+
+/* Lock overlay — must cover everything; nothing behind it is readable */
+.lock-overlay {
+  position: fixed; inset: 0; z-index: 100; background: var(--bg);
+  display: grid; place-items: center; padding: var(--s5);
+}
+
+/* Callouts */
+.callout { border-radius: var(--r2); padding: var(--s4); border: 1px solid var(--line); background: var(--surface-2); }
+.callout-warn { background: var(--warn-soft); border-color: #E8C98F; }
+.callout-danger { background: var(--danger-soft); border-color: #EFB4AE; }
+.callout-ok { background: var(--ok-soft); border-color: #A8D8B9; }
+
+/* Visually hidden (for screen-reader-only text) */
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
+}

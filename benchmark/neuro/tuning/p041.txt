@@ -1,0 +1,18 @@
+OTOLARYNGOLOGY — RHINOLOGY/SKULL BASE CLINIC
+{{FACILITY|Seacombe University ENT Associates}}
+{{NAME|Marjorie Abernathy-Coyle}}, 52 F, MRN {{MRN|SUE-1180934}}, {{DATE|03/21/2067}}
+History by {{NAME|Tobias Rennick}}, PA-C; attending Dr. {{NAME|Yasmin Haddad-Pruett}}
+
+6 months of clear, salty, unilateral right [[rhinorrhoea]], worse on leaning forward ([[reservoir sign]]), one episode of [[bacterial meningitis]] ({{DATE|12/02/2066}}, pneumococcal, treated at an outside hospital). BMI 41, [[obstructive sleep apnoea]] on CPAP, chronic headaches.
+Fluid collected: [[beta-2 transferrin]] POSITIVE; [[beta-trace protein]] elevated. Glucose not used (unreliable).
+[[CT sinus (fine-cut, 0.6 mm)]]: bony defect 4 mm in the right [[lateral recess of the sphenoid sinus]] ([[Sternberg canal]] region), air-fluid level in the sphenoid. [[MRI with heavily T2-weighted CISS]]: herniating CSF and small [[meningoencephalocele]] through the defect. [[Empty sella]], [[transverse sinus stenosis]], [[optic nerve sheath distension]] — imaging signs of [[idiopathic intracranial hypertension]].
+[[Intrathecal fluorescein]] to be used intraoperatively (off-label, consent obtained, 0.1 mL of 10% diluted in 10 mL CSF).
+Plan: [[endoscopic endonasal repair of spontaneous CSF leak]] via [[transpterygoid approach]] with [[multilayer reconstruction]] and [[nasoseptal flap]] (Hadad-Bassagasteguy) if defect large; [[lumbar drain]] not routinely; post-op [[acetazolamide 500 mg BID]] and neurosurgery/neuro-ophthalmology referral for IIH. [[Pneumococcal vaccination]] given.
+=====NOTE=====
+OPERATIVE NOTE — {{DATE|04/09/2067}} — {{NAME|ABERNATHY-COYLE, M.}} — {{MRN|SUE-1180934}}
+ENT surgeon Dr. {{NAME|Y. Haddad-Pruett}}; neurosurgery co-surgeon Dr. {{NAME|Leander Okafor-Wynn}}; [[Medtronic]] [[Fusion ENT navigation]] specialist {{NAME|Graham Pitcairn}} present.
+[[Intrathecal fluorescein]] via lumbar puncture at induction. [[0-degree and 45-degree endoscopes]]. Right [[maxillary antrostomy]], [[sphenopalatine artery]] ligation, removal of the [[posterior wall of the maxillary sinus]], [[vidian nerve]] preserved, [[pterygopalatine fossa]] contents lateralised. Green fluorescein-stained CSF seen from the lateral recess defect. Encephalocele reduced with [[bipolar cautery]] at its neck. Defect 6 x 5 mm. Reconstruction: [[inlay fascia lata graft]], [[onlay mucosal graft]], [[DuraSeal]], then a right [[pedicled nasoseptal flap]] on the [[posterior septal artery]]; [[Merocel]] packing and a [[silastic septal splint]]. [[Valsalva]] at 40 cmH2O — no leak.
+[[CPT 31291]] (endoscopic repair of CSF leak, sphenoid region), [[ICD-10 G96.01]].
+=====NOTE=====
+POST-OP DAY 1 — {{DATE|04/10/2067}} — {{NAME|M. Abernathy-Coyle}}
+No rhinorrhoea. [[Sinus precautions]]: no nose blowing, no straws, sneeze with mouth open, no [[CPAP]] for 2 weeks (high-flow risk of [[pneumocephalus]]). [[CT head]]: minimal pneumocephalus. Started [[acetazolamide 500 mg BID]]. [[Cefazolin]] while packed. No [[CSF rhinorrhoea]] on [[head-down provocation]]. [[Nasoseptal flap]] viable and pink on [[nasal endoscopy]]. [[Saline nasal irrigation]] from week 1. [[Stool softener]] to avoid straining. [[Lumbar drain]] not placed. Neuro-ophthalmology at {{FACILITY|Seacombe Eye Institute}} for [[fundoscopy]] and [[visual fields]]; if [[opening pressure]] high post-op consider [[VP shunt]] or [[venous sinus stenting]] to protect the repair. Discharge POD2. Note by {{NAME|T. Rennick}}, PA-C.

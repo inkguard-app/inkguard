@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Harbor Street Family Practice
+REFERRAL LETTER                                              February 8, 2060
+
+To: Dr. Saeed Al-Rashidi, Gastroenterology, Merrimack Endoscopy Center
+From: Mateus Figueiredo, MD (primary care)
+Re: Ngozi Halvorsen   DOB 05/03/2010   MRN 2290-6718
+Patient name in the system: HALVORSEN, NGOZI. She ask us to use Eze from now, her maiden name, divorce is not finish. Please use both until the papers.
+
+Dear Dr Al-Rashidi,
+
+Thank you to see Mrs Halvorsen, a 49 years old woman for screening colonoscopy. She is first time for this. No bleeding, no change in the bowel, only some times constipation. The weight is stable since 2 years, BMI 30.6, and glycemic control borderline, HbA1c 6.0 today, glucose 80.
+
+Family history: this is not clear. Father Chukwuemeka Eze, who is 91 years old now, had polyps, "maybe cancer" patient say. Her mother Adaeze is dead. When I asked again today she tell me the father is ninety and never had colonoscopy; in the last visit she said he have colon cancer at 61. I am not sure what is true, please ask the sister Ifeoma Eze (978) 555-0171 if she is agree. Grandmother "Mama Nkechi" is 93.
+
+PMH: prediabetes, obesity, anemia (historical), miscarriage 2049, pre-eclampsia in the pregnancy 2058 (daughter Ada, 19 months), chronic pain since 2051, stress. Patient deny any surgery, but she has a C-section scar?? - delivery 07/28/2058 at emergency department, I think it was the vaginal. I did not examin. Meds: none now, IUD in place since 09/19/2058.
+
+Allergies: patient say "no", &lt;&lt;allergy list&gt;&gt; not filled.
+
+Social: she works at Corvid Analytics no more, home with the baby. Lives at 7 Wickersham Close, Lowell, MA 01852, but she mention maybe stay with sister. Insurance BCM 6618-402-17.
+
+Please do colonoscopy and send report to me. Kind regard,
+
+Mateus Figueiredo, MD
+Electronically signed 02/08/2060 17:11
+cc: Hannah Prewitt RN; patient
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="29" text="Harbor Street Family Practice" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="91" end="107" text="February 8, 2060" TYPE="DATE" comment="" />
+<NAME id="P2" start="117" end="133" text="Saeed Al-Rashidi" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="153" end="179" text="Merrimack Endoscopy Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P4" start="186" end="203" text="Mateus Figueiredo" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="227" end="242" text="Ngozi Halvorsen" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="249" end="259" text="05/03/2010" TYPE="DATE" comment="" />
+<ID id="P7" start="266" end="275" text="2290-6718" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P8" start="304" end="320" text="HALVORSEN, NGOZI" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="340" end="343" text="Eze" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="437" end="447" text="Al-Rashidi" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="471" end="480" text="Halvorsen" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="484" end="486" text="49" TYPE="AGE" comment="" />
+<NAME id="P13" start="776" end="791" text="Chukwuemeka Eze" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="800" end="802" text="91" TYPE="AGE" comment="" />
+<NAME id="P15" start="869" end="875" text="Adaeze" TYPE="PATIENT" comment="" />
+<AGE id="P16" start="936" end="942" text="ninety" TYPE="AGE" comment="" />
+<AGE id="P17" start="1021" end="1023" text="61" TYPE="AGE" comment="" />
+<NAME id="P18" start="1075" end="1085" text="Ifeoma Eze" TYPE="PATIENT" comment="" />
+<CONTACT id="P19" start="1086" end="1100" text="(978) 555-0171" TYPE="PHONE" comment="" />
+<NAME id="P20" start="1131" end="1142" text="Mama Nkechi" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="1147" end="1149" text="93" TYPE="AGE" comment="" />
+<DATE id="P22" start="1212" end="1216" text="2049" TYPE="DATE" comment="" />
+<DATE id="P23" start="1249" end="1253" text="2058" TYPE="DATE" comment="" />
+<NAME id="P24" start="1264" end="1267" text="Ada" TYPE="PATIENT" comment="" />
+<AGE id="P25" start="1269" end="1278" text="19 months" TYPE="AGE" comment="" />
+<DATE id="P26" start="1300" end="1304" text="2051" TYPE="DATE" comment="" />
+<DATE id="P27" start="1382" end="1392" text="07/28/2058" TYPE="DATE" comment="" />
+<DATE id="P28" start="1499" end="1509" text="09/19/2058" TYPE="DATE" comment="" />
+<LOCATION id="P29" start="1592" end="1608" text="Corvid Analytics" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P30" start="1647" end="1665" text="7 Wickersham Close" TYPE="STREET" comment="" />
+<LOCATION id="P31" start="1667" end="1673" text="Lowell" TYPE="CITY" comment="" />
+<LOCATION id="P32" start="1675" end="1677" text="MA" TYPE="STATE" comment="" />
+<LOCATION id="P33" start="1678" end="1683" text="01852" TYPE="ZIP" comment="" />
+<ID id="P34" start="1735" end="1750" text="BCM 6618-402-17" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P35" start="1812" end="1829" text="Mateus Figueiredo" TYPE="DOCTOR" comment="" />
+<DATE id="P36" start="1856" end="1866" text="02/08/2060" TYPE="DATE" comment="" />
+<NAME id="P37" start="1877" end="1891" text="Hannah Prewitt" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

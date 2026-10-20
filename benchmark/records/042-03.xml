@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NURSING NOTE (SOAP) - Crisis Stabilization Unit, Ridgemont Behavioral Health Center
+[label sticker]  PIKE, ORRIN   MRN E-0093871   DOB 01/12/2019   &lt;- wrong sticker, pt is not him, ignore. Correct pt below.
+Date 09/02/2079   Shift 0700-1900   Bed CSU-4   Pt: EARLY, HUNTER
+
+S: Pt states "I slept some, maybe 4 hrs. I woke up early and heard it again, the shouting." Says he feels "safer here than at home". Denies SI/HI, denies AVH. Asked if he can call his wife. Pt says "dont put the neighbor's name in the chart, he'll know" - explained chart is private.
+
+O: A&amp;O x4. Calm, cooperative, appropriate. VS 0730: BP 138/90, P 78, RR 16, T 36.7, SpO2 98% RA. Glucose fingerstick 121 fasting. Ate 100% breakfast. Attended group at 1000, sat at back, did not speak. Visitor: wife Margie 1400-1500, appropriate, pt tearful at end. No behaviors, no PRN given. On q15 checks.
+
+A: Anxious but improving, mood congruent w stressors (violence near home per pt). Low risk, no safety concerns this shift.
+
+P: Cont q15 obs, encourage groups, SW Okonkwo to see Mon for discharge planning. Notify Dr. Karimi re: sleep. Dc planning for Sun/Mon.
+
+Pasted from intake note 9/1 19:40 by Marcus Bell RN:
+Pt: Hunter Erly 57yo M, arrived w wife from Northfield Family Medicine after annual visit (Dr. Lindqvist), voluntary. Reports gunshots outside his bldg Thursday night, cant sleep since. States "I keep thinking they'll come up the stairs". Denies plan. Belongings searched, wallet, keys, phone to locker. Allergies: NKDA. Pt's neighbor Orin Pike called 911 per pt. Contact: Margie Early (570) 555-0129
+Signed mbell 09/01/2079 20:15
+
+J. Alcott RN  June Alcott, RN  e-signed 09/02/2079 19:22  Last edited jalcott 19:30 from 10.12.88.4
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="22" end="47" text="Crisis Stabilization Unit" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P1" start="49" end="83" text="Ridgemont Behavioral Health Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="101" end="112" text="PIKE, ORRIN" TYPE="PATIENT" comment="" />
+<ID id="P3" start="119" end="128" text="E-0093871" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="135" end="145" text="01/12/2019" TYPE="DATE" comment="" />
+<DATE id="P5" start="212" end="222" text="09/02/2079" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="247" end="252" text="CSU-4" TYPE="ROOM" comment="" />
+<NAME id="P7" start="259" end="272" text="EARLY, HUNTER" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="775" end="781" text="Margie" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="1031" end="1038" text="Okonkwo" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="1046" end="1049" text="Mon" TYPE="DATE" comment="" />
+<NAME id="P11" start="1085" end="1091" text="Karimi" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="1119" end="1122" text="Sun" TYPE="DATE" comment="" />
+<DATE id="P13" start="1123" end="1126" text="Mon" TYPE="DATE" comment="" />
+<DATE id="P14" start="1153" end="1156" text="9/1" TYPE="DATE" comment="" />
+<NAME id="P15" start="1166" end="1177" text="Marcus Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1186" end="1197" text="Hunter Erly" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="1198" end="1200" text="57" TYPE="AGE" comment="" />
+<LOCATION id="P18" start="1226" end="1252" text="Northfield Family Medicine" TYPE="HOSPITAL" comment="" />
+<NAME id="P19" start="1277" end="1286" text="Lindqvist" TYPE="DOCTOR" comment="" />
+<DATE id="P20" start="1334" end="1342" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P21" start="1517" end="1526" text="Orin Pike" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1555" end="1567" text="Margie Early" TYPE="PATIENT" comment="" />
+<CONTACT id="P23" start="1568" end="1582" text="(570) 555-0129" TYPE="PHONE" comment="" />
+<NAME id="P24" start="1590" end="1595" text="mbell" TYPE="USERNAME" comment="" />
+<DATE id="P25" start="1596" end="1606" text="09/01/2079" TYPE="DATE" comment="" />
+<NAME id="P26" start="1614" end="1623" text="J. Alcott" TYPE="DOCTOR" comment="" />
+<NAME id="P27" start="1628" end="1639" text="June Alcott" TYPE="DOCTOR" comment="" />
+<DATE id="P28" start="1654" end="1664" text="09/02/2079" TYPE="DATE" comment="" />
+<NAME id="P29" start="1684" end="1691" text="jalcott" TYPE="USERNAME" comment="" />
+<CONTACT id="P30" start="1703" end="1713" text="10.12.88.4" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

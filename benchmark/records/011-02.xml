@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY - St Odhran's Regional Hospital, Maternity Unit
+Patient: Aoife Kowalczyk-Brennan       MRN STO-5520-8841       DOB 17/02/2024
+Admitted: 03/11/2072   Discharged: 07/11/2072   Consultant: Dr Declan Fahy
+
+Diagnoses
+- Pre-eclampsia with severe features, delivered by emergency caesarean
+- Postpartum anaemia (Hb 9.8)
+Medication reconciliation (pharmacist Hazel Rowan MPSI, 06/11/2072)
+- Labetalol 100 mg BD - NEW, continue until GP review
+- Paracetamol 1 g qds prn
+- Ferrous fumarate - NEW
+- Etonogestrel implant (Implanon) - removed in 2068, not current
+- Not to take: NSAIDs (naproxen) due to BP, renal function
+Follow up
+- GP Dr Will Case, Dundalk Medical Centre in 1 week, BP check
+- Postnatal visit 15/12/2072, contraception counselling 22/12/2072
+- Public health nurse Faith Rose to visit home (14 Lios na Ri Close, Dundalk, Co. Louth, A91 X2K7)
+Social
+- Lives w/ husband Cathal, baby Saoirse; mother in law Halina Kowalczyk coming from Gdansk, Poland for 6 weeks
+- Employed at Boyne Valley Pharmaceuticals Ltd, maternity leave
+- Contact: 086 555 0148, e-mail aoife.brennan.dkk@mailbox.example
+Wt at discharge 83.0 kg. BP 128/82.
+Dictated by D. Fahy; typed by smccabe 07/11/2072
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="49" text="St Odhran's Regional Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="51" end="65" text="Maternity Unit" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="75" end="98" text="Aoife Kowalczyk-Brennan" TYPE="PATIENT" comment="" />
+<ID id="P3" start="109" end="122" text="STO-5520-8841" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="133" end="143" text="17/02/2024" TYPE="DATE" comment="" />
+<DATE id="P5" start="154" end="164" text="03/11/2072" TYPE="DATE" comment="" />
+<DATE id="P6" start="179" end="189" text="07/11/2072" TYPE="DATE" comment="" />
+<NAME id="P7" start="204" end="218" text="Dr Declan Fahy" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="369" end="380" text="Hazel Rowan" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="387" end="397" text="06/11/2072" TYPE="DATE" comment="" />
+<DATE id="P10" start="551" end="555" text="2068" TYPE="DATE" comment="" />
+<NAME id="P11" start="643" end="655" text="Dr Will Case" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="657" end="679" text="Dundalk Medical Centre" TYPE="ORGANIZATION" comment="" />
+<DATE id="P13" start="718" end="728" text="15/12/2072" TYPE="DATE" comment="" />
+<DATE id="P14" start="756" end="766" text="22/12/2072" TYPE="DATE" comment="" />
+<NAME id="P15" start="789" end="799" text="Faith Rose" TYPE="DOCTOR" comment="" />
+<LOCATION id="P16" start="815" end="834" text="14 Lios na Ri Close" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="836" end="843" text="Dundalk" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="845" end="854" text="Co. Louth" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="856" end="864" text="A91 X2K7" TYPE="ZIP" comment="" />
+<NAME id="P20" start="892" end="898" text="Cathal" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="905" end="912" text="Saoirse" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="928" end="944" text="Halina Kowalczyk" TYPE="PATIENT" comment="" />
+<LOCATION id="P23" start="957" end="963" text="Gdansk" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="965" end="971" text="Poland" TYPE="COUNTRY" comment="" />
+<LOCATION id="P25" start="998" end="1030" text="Boyne Valley Pharmaceuticals Ltd" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P26" start="1059" end="1071" text="086 555 0148" TYPE="PHONE" comment="" />
+<CONTACT id="P27" start="1080" end="1113" text="aoife.brennan.dkk@mailbox.example" TYPE="EMAIL" comment="" />
+<NAME id="P28" start="1162" end="1169" text="D. Fahy" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1180" end="1187" text="smccabe" TYPE="USERNAME" comment="" />
+<DATE id="P30" start="1188" end="1198" text="07/11/2072" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

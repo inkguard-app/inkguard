@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Patient Portal - message from patient (typed for her by volunteer at bedside, see note)
+From: Marisol Teixeira-Brandt &lt;marisol.tbrandt@mailbox.example.org&gt;
+To: Oncology Clinic - Dr. Varga
+Date: 02/02/2070  21:15
+Subject: re my blood test on Jan 31
+
+Dr Varga,
+i got the lab result on the app and the white count number is 0.9?? the nurse said it was low and not to worry but i am worry. Im so tierd i can barely get up the stairs at 47 Alder Wharf Rd. My sister Beatrice in Toronto says i should go to the ER and my friend Rose Frost says the same, she brought soup and a thermometer, 38.1 last night. Mum Conceicao calls from Porto every day at 3am my time, in Portugal they dont understand why we wait.
+
+Also can u put the NuvaRing thing out of my chart, i have not used that for years its all in the old Yaz and Mirena notes, and the pharmacy keeps ringing my 218-555-0143.
+
+Pain still 7. appetite no. thanks. Marisol
+p.s. my other number is +351 22 555 0198 (mums house)
+
+[Comment by volunteer Aiden Prewitt: she was crying a bit but was very polite, the pt is a strong person, the vibes in the room were heavy]
+[Routed to RN pool by jkowalczyk 02/03/2070 07:02]
+</TEXT>
+<TAGS>
+<NAME id="P0" start="94" end="117" text="Marisol Teixeira-Brandt" TYPE="PATIENT" comment="" />
+<CONTACT id="P1" start="119" end="154" text="marisol.tbrandt@mailbox.example.org" TYPE="EMAIL" comment="" />
+<NAME id="P2" start="182" end="187" text="Varga" TYPE="DOCTOR" comment="" />
+<DATE id="P3" start="194" end="204" text="02/02/2070" TYPE="DATE" comment="" />
+<DATE id="P4" start="241" end="247" text="Jan 31" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="432" end="449" text="47 Alder Wharf Rd" TYPE="STREET" comment="" />
+<NAME id="P6" start="461" end="469" text="Beatrice" TYPE="PATIENT" comment="" />
+<LOCATION id="P7" start="473" end="480" text="Toronto" TYPE="CITY" comment="" />
+<NAME id="P8" start="522" end="532" text="Rose Frost" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="605" end="614" text="Conceicao" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="626" end="631" text="Porto" TYPE="CITY" comment="" />
+<LOCATION id="P11" start="661" end="669" text="Portugal" TYPE="COUNTRY" comment="" />
+<CONTACT id="P12" start="862" end="874" text="218-555-0143" TYPE="PHONE" comment="" />
+<CONTACT id="P13" start="944" end="960" text="+351 22 555 0198" TYPE="PHONE" comment="" />
+<NAME id="P14" start="997" end="1010" text="Aiden Prewitt" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="1148" end="1158" text="02/03/2070" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

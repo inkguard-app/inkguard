@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROGRESS NOTE (SOAP)    12/12/2085   HD#2    Dr Ferrante / Dale Hutchins RN
+Pt: Frost, Juniper  MRN FB-0092817
+
+S: Slept ok. HA 2/10 now. No vomit overnight. Says "i dont remember falling at all" -- but yesterday she gave the story of the ice. Wants to go home for "Christmas Eve at my brothers".
+O: afebrile, BP 116/72. Neuro checks nl x3. Scalp hematoma smaller. Gait steady.
+A: Concussion, improving. 
+P: d/c home today. Return precautions reviewed (worse HA, vomit, confusion, weakness). F/u PCP Dr. Okoro within 1wk; neuro in mid-January.
+
+copy fwd from H&amp;P: Pt: BELL, FAITH ... fell on ice at her stoop, struck R side of head, nausea x1 vomit x2 in ED, UDS neg, HA 5/10. Neighbor Orrin Pickett found her. Rm 5W-14, Adm 12/11/2085.
+Meds: ibuprofen 400 [Ibu] (stale - stopped yrs ago, ignore) 
+!! Pt called "Juniper" by RN, "Faith" by Dr ?? -- she asked for Juniper only. Wristband says Faith. Fix. 
+Wellness check planned for 4/16 02:15 am?? (template junk)
+Electronically signed Lucia Ferrante, MD 12/12/2085 09:12
+</TEXT>
+<TAGS>
+<DATE id="P0" start="24" end="34" text="12/12/2085" TYPE="DATE" comment="" />
+<NAME id="P1" start="45" end="56" text="Dr Ferrante" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="59" end="72" text="Dale Hutchins" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="80" end="94" text="Frost, Juniper" TYPE="PATIENT" comment="" />
+<ID id="P4" start="100" end="110" text="FB-0092817" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="266" end="279" text="Christmas Eve" TYPE="DATE" comment="" />
+<NAME id="P6" start="500" end="509" text="Dr. Okoro" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="531" end="542" text="mid-January" TYPE="DATE" comment="" />
+<NAME id="P8" start="568" end="579" text="BELL, FAITH" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="686" end="699" text="Orrin Pickett" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="714" end="719" text="5W-14" TYPE="ROOM" comment="" />
+<DATE id="P11" start="725" end="735" text="12/11/2085" TYPE="DATE" comment="" />
+<NAME id="P12" start="862" end="869" text="Juniper" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="891" end="896" text="Faith" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="931" end="935" text="4/16" TYPE="DATE" comment="" />
+<NAME id="P15" start="985" end="1003" text="Lucia Ferrante, MD" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1004" end="1014" text="12/12/2085" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

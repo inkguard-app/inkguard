@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARE COORDINATION NOTE
+Oncology / Hereditary Risk Clinic     Author: Dr. Ngaire Tamihana, Consultant     Date: 12 December 2089
+
+Dictated at length because there are several threads to tie together. Mrs. Hartley-Nwosu, whom we all call Daisey, thirty three years old, is a patient of this clinic for hereditary cancer risk assessment on the grounds of her mother's breast cancer, and has no cancer herself. She is now pregnant, early in the pregnancy, dated by the scan of 11/11/2089, and was seen with her obstetric team on 12/9/2089 for the anatomy screening and fundal height. She is married, and her husband Emeka came to the appointment with her and parked in the garage (the validation slip with plate KFR-4821 is stapled to the chart and I do not know why).
+
+Issues. 1. The genetic panel result is awaited. 2. Mammography is deferred until after delivery, the plan agreed with Dr. Abernathy. 3. Her employer, Riverbend Municipal Credit Union, requires a letter for the time off. 4. The prenatal records need to reach us, request has gone by fax to the OB office. 5. Insurance: her plan ID is ESH 889-004-217-03 and there is a note that she was previously covered under her maiden name Marguerite Hartley, so please search both.
+
+Contact details: portal https://mychart.hudsoncrossing.example/p/Hartley-Nwosu_M, phone (518) 555-0176. Nigel, no, I mean Ngaire Tamihana, will review at the next team huddle on Thursday.
+
+Please do not double book the 14th. No new cancer related treatment is planned. A bunch of daisies were on her bedside table last time, so do not confuse the flowers with the patient.
+
+Dictated but not read.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="73" end="88" text="Ngaire Tamihana" TYPE="DOCTOR" comment="" />
+<DATE id="P1" start="111" end="127" text="12 December 2089" TYPE="DATE" comment="" />
+<NAME id="P2" start="204" end="217" text="Hartley-Nwosu" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="236" end="242" text="Daisey" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="473" end="483" text="11/11/2089" TYPE="DATE" comment="" />
+<DATE id="P5" start="525" end="534" text="12/9/2089" TYPE="DATE" comment="" />
+<NAME id="P6" start="612" end="617" text="Emeka" TYPE="PATIENT" comment="" />
+<ID id="P7" start="708" end="716" text="KFR-4821" TYPE="VEHICLE" comment="" />
+<NAME id="P8" start="888" end="897" text="Abernathy" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="916" end="948" text="Riverbend Municipal Credit Union" TYPE="ORGANIZATION" comment="" />
+<ID id="P10" start="1099" end="1117" text="ESH 889-004-217-03" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P11" start="1192" end="1210" text="Marguerite Hartley" TYPE="PATIENT" comment="" />
+<CONTACT id="P12" start="1260" end="1316" text="https://mychart.hudsoncrossing.example/p/Hartley-Nwosu_M" TYPE="URL" comment="" />
+<CONTACT id="P13" start="1324" end="1338" text="(518) 555-0176" TYPE="PHONE" comment="" />
+<NAME id="P14" start="1340" end="1345" text="Nigel" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1358" end="1373" text="Ngaire Tamihana" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1414" end="1422" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P17" start="1455" end="1459" text="14th" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

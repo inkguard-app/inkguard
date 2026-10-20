@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST
+Patient: EARLY, JUNIPER K    DOB: 02/19/2023    MRN: CR-771204
+Date: 06/06/2088    Clinic: Primary Care, Cobalt Ridge Cancer Center
+Reconciled by: Rhaegal Brooks, PharmD    Source: pt, daughter Nova, pharmacy fill history (Mill Creek Drug, ph (864) 555-0166)
+Age: 65   Wt 82.8 kg   Pain 3/10   Morse fall scale done, anxiety/depression/alcohol screens done, abuse screen negative
+
+ACTIVE
+- clopidogrel 75 mg daily
+- metoprolol succinate ER 100 mg daily
+- nitroglycerin 0.4 mg SL spray prn
+- ferrous sulfate 325 mg daily (separate from any antacid)
+- simvastatin 20 mg nightly  &lt;-- see below
+
+DISCONTINUED / DISCREPANCY
+- simvastatin 10 mg - stopped 05/30/2088. BUT simvastatin 20 mg from 2073 still on list. Duplicate statin, clarify with Dr. Vasquez. For now only the 20 mg bottle in the pillbox
+- acetaminophen prn, dextromethorphan syrup: old (2084, 2085), removed
+
+Copy forward from 03/14/2088 consult: "simvastatin 20 (and also 10 - two bottles)". Resolved.
+
+Pt = SMITHERS, ROY DOB 11/02/2019 MRN CR-771240 allergic to sulfa  &lt;- WRONG PATIENT line dragged in from a template; please disregard
+
+Social/support (updated): lives alone in rental; daughter Nova Early-Pike on weekdays; son Twelve visits monthly; neighbour Mr. Page brings mail. Landlord Mr. Tolliver agreed to move her to the ground floor.
+Spelling check: patient's name has been entered in the pharmacy system as "Juniper Erly" - asked to correct.
+
+Allergies: ***     Pharmacy phone: (000) 000-0000 [default]
+Next review: 06/20/2088 at dental visit; wait for onc re: statin, then Thursday call.
+Electronically signed Rhaegal Brooks, PharmD 06/06/2088 11:48 from 10.31.2.9
+</TEXT>
+<TAGS>
+<NAME id="P0" start="40" end="56" text="EARLY, JUNIPER K" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="65" end="75" text="02/19/2023" TYPE="DATE" comment="" />
+<ID id="P2" start="84" end="93" text="CR-771204" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="100" end="110" text="06/06/2088" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="122" end="134" text="Primary Care" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P5" start="136" end="162" text="Cobalt Ridge Cancer Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P6" start="178" end="192" text="Rhaegal Brooks" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="225" end="229" text="Nova" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="254" end="269" text="Mill Creek Drug" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P9" start="274" end="288" text="(864) 555-0166" TYPE="PHONE" comment="" />
+<AGE id="P10" start="295" end="297" text="65" TYPE="AGE" comment="" />
+<DATE id="P11" start="680" end="690" text="05/30/2088" TYPE="DATE" comment="" />
+<DATE id="P12" start="719" end="723" text="2073" TYPE="DATE" comment="" />
+<NAME id="P13" start="774" end="781" text="Vasquez" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="878" end="882" text="2084" TYPE="DATE" comment="" />
+<DATE id="P15" start="884" end="888" text="2085" TYPE="DATE" comment="" />
+<DATE id="P16" start="918" end="928" text="03/14/2088" TYPE="DATE" comment="" />
+<NAME id="P17" start="1000" end="1013" text="SMITHERS, ROY" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="1018" end="1028" text="11/02/2019" TYPE="DATE" comment="" />
+<ID id="P19" start="1033" end="1042" text="CR-771240" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P20" start="1188" end="1203" text="Nova Early-Pike" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="1221" end="1227" text="Twelve" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1254" end="1262" text="Mr. Page" TYPE="PATIENT" comment="" />
+<NAME id="P23" start="1285" end="1297" text="Mr. Tolliver" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1413" end="1425" text="Juniper Erly" TYPE="PATIENT" comment="" />
+<CONTACT id="P25" start="1483" end="1497" text="(000) 000-0000" TYPE="PHONE" comment="" />
+<DATE id="P26" start="1521" end="1531" text="06/20/2088" TYPE="DATE" comment="" />
+<DATE id="P27" start="1579" end="1587" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P28" start="1616" end="1630" text="Rhaegal Brooks" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1639" end="1649" text="06/06/2088" TYPE="DATE" comment="" />
+<CONTACT id="P30" start="1661" end="1670" text="10.31.2.9" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

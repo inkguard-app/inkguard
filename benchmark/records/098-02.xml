@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>BRIGHTWATER ENDOCRINE ASSOCIATES                              Page 1 of 2
+PROGRESS NOTE (SOAP)   Pt: BRIGHT, WINIFRED   MRN 5530-4217   DOB 08/22/2001
+Visit date: 01/27/2062   Provider: Anselm Okonkwo-Reyes, MD   Rooming: Destiny Holloway MA   Room 4
+
+S: 60 yo F, referred by Dr. Hollis Marden (PCP) for hyperlipidemia. Lipids 01/06/2062: TC 304.1, LDL 180.5. Pt states "I eat fine" but admits fast food most days since she stopped working at Northgate Fabrication. Denies hx of heart attack, no chest pain. She says she has no surgeries, but chart shows appy (appendectomy) in 2043. Pain: chronic low back, hydrocodone/APAP still on list from 2051. HTN dx 12/24/2038 - not on a med currently (amlodipine stopped 03/27/2054).
+FHx: sister Corinne Hatch statin myalgias. Husband Lyle Bright accompanies.
+Soc: lives w/ husband. neighbor Mrs. Pruitt drives her sometimes.
+
+O: Wt 80.7 kg, BMI 30.8, BP 122/78 (taken by MA Holloway), pain 2/10. GAD-7 1. NAD, pleasant. Neck no bruit. RRR. Abd soft, well healed RLQ scar. Ext no edema.
+Labs: glucose 91.9, eGFR 67.1.
+
+A: 1. Hyperlipidemia, LDL 180.5, untreated.  2. Obesity (BMI 30+).  3. Essential HTN, diet controlled today.  4. Chronic LBP.
+P: Start simvastatin 10 mg PO nightly, sent to pharmacy, Corner Mill Pharmacy (740) 555-0144, Rx 7782104. Counselled on myalgias (esp given sister), call if aching. Diet handout. Repeat lipids + CK? in 12 weeks -- hmm ordered 1 year recheck per template (see note). RTC 3 mo.
+
+Page 2 of 2  BRIGHT, WINIFRED  MRN 5530-4217
+Signed Anselm Okonkwo-Reyes, MD 01/27/2062 11:48. Last edited by aokonkwo 01/28/2062 07:31 from 10.20.4.55
+Note routed to: Hollis Marden, MD (fax (740) 555-0118)
+[Deleted by aokonkwo: LDL goal &lt;70] [Inserted: LDL goal &lt;100]
+</TEXT>
+<TAGS>
+<ID id="P0" start="124" end="133" text="5530-4217" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P1" start="140" end="150" text="08/22/2001" TYPE="DATE" comment="" />
+<DATE id="P2" start="163" end="173" text="01/27/2062" TYPE="DATE" comment="" />
+<NAME id="P3" start="186" end="206" text="Anselm Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="222" end="238" text="Destiny Holloway" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="249" end="250" text="4" TYPE="ROOM" comment="" />
+<AGE id="P6" start="255" end="257" text="60" TYPE="AGE" comment="" />
+<NAME id="P7" start="280" end="293" text="Hollis Marden" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="327" end="337" text="01/06/2062" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="443" end="464" text="Northgate Fabrication" TYPE="ORGANIZATION" comment="" />
+<DATE id="P10" start="578" end="582" text="2043" TYPE="DATE" comment="" />
+<DATE id="P11" start="644" end="648" text="2051" TYPE="DATE" comment="" />
+<DATE id="P12" start="657" end="667" text="12/24/2038" TYPE="DATE" comment="" />
+<DATE id="P13" start="713" end="723" text="03/27/2054" TYPE="DATE" comment="" />
+<NAME id="P14" start="738" end="751" text="Corinne Hatch" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="777" end="788" text="Lyle Bright" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="839" end="845" text="Pruitt" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="917" end="925" text="Holloway" TYPE="DOCTOR" comment="" />
+<LOCATION id="P18" start="1244" end="1264" text="Corner Mill Pharmacy" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P19" start="1265" end="1279" text="(740) 555-0144" TYPE="PHONE" comment="" />
+<ID id="P20" start="1499" end="1508" text="5530-4217" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P21" start="1516" end="1536" text="Anselm Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1541" end="1551" text="01/27/2062" TYPE="DATE" comment="" />
+<NAME id="P23" start="1574" end="1582" text="aokonkwo" TYPE="USERNAME" comment="" />
+<DATE id="P24" start="1583" end="1593" text="01/28/2062" TYPE="DATE" comment="" />
+<CONTACT id="P25" start="1605" end="1615" text="10.20.4.55" TYPE="IPADDR" comment="" />
+<NAME id="P26" start="1632" end="1645" text="Hollis Marden" TYPE="DOCTOR" comment="" />
+<CONTACT id="P27" start="1655" end="1669" text="(740) 555-0118" TYPE="FAX" comment="" />
+<NAME id="P28" start="1683" end="1691" text="aokonkwo" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

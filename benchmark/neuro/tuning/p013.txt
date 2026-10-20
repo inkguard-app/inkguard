@@ -1,0 +1,17 @@
+NEUROVASCULAR CONFERENCE SUMMARY
+{{FACILITY|Fairhollow Neurovascular Institute}}, meeting of {{DATE|01/15/2074}}
+Case: {{NAME|Seraphina Ilunga-Marsh}}, 52 F, MRN {{MRN|FNI-0193344}}
+
+Incidental, unruptured [[left paraophthalmic ICA aneurysm]], 11 mm, wide neck 6 mm, [[fusiform component]]. [[PHASES score]] 6 (5-year rupture risk 1.7%). [[ELAPSS]] growth score moderate. [[Visual fields]] normal. Smoker.
+
+Consensus: treat with [[flow diversion]] — [[Pipeline Flex Embolization Device with Shield Technology]] (single device, 4.25 x 20 mm planned). Alternative: [[clip reconstruction]] via [[orbitozygomatic craniotomy]] with [[anterior clinoidectomy]], rejected because of [[optic nerve]] risk.
+
+Antiplatelet loading: [[aspirin 325 mg]] and [[clopidogrel 75 mg daily]] x7 days; [[VerifyNow P2Y12]] reaction units target 60-200 (if hyporesponder → switch to [[ticagrelor 90 mg BID]] or [[prasugrel 10 mg]]).
+
+Presenting attending: Dr. {{NAME|Lorcan Pettigrew}}; recorder Dr. {{NAME|Yusra Kamaludin}}.
+=====NOTE=====
+PROCEDURE: FLOW DIVERSION — {{DATE|02/03/2074}}
+Pt {{NAME|S. Ilunga-Marsh}} MRN {{MRN|FNI-0193344}}
+[[VerifyNow]] PRU 142. GA, full heparinisation (ACT 250-300 s). [[Triaxial system]]: [[Benchmark 071]] guide, [[Sofia 5F intermediate catheter]] in the cavernous ICA, [[Phenom 27 microcatheter]] to the M1. [[Pipeline Flex with Shield]] 4.25 x 20 mm deployed across the neck from the [[ophthalmic segment]] to the [[communicating segment]], with good wall apposition confirmed on [[VasoCT (cone-beam CT)]]. Device lot recorded in implant log; device serial number for this patient {{ID|PED-SN-4471-90218-C}}. [[Contrast stasis]] in the aneurysm sac ([[O'Kelly-Marotta grade B2]]). [[Ophthalmic artery]] patent. No thromboembolic events.
+Post: [[dual antiplatelet therapy]] 6 months then aspirin indefinitely. [[MRA]] at 6 months; [[DSA]] at 12 months.
+Operator {{NAME|L. Pettigrew}}.

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>From: dwayne kessler &lt;dkessler.dayton@mailbox.example&gt;
+To: Millbrook Primary Care Patient Portal
+Date: Sat, Jul 26, 2075 7:03 AM
+Subject: still coughing + question about my kidney numbers
+
+hi, this is dwayne kessler DOB 11/8/2025, i was in the ER on the 10th and then the urgent care on the 17th and again the 24th (i think?). the cough is a little better but my chest still feels tight at nite. also the portal showed my creatinine was 1.7 then 1.5 and my eGFR was like 105 and 114?? i googled it and it says thats not normal for CKD or whatever. are my kidneys ok or no. also do i keep taking the cough syrup, it makes me sleep like 10 hours.
+
+my sister gwen (Gwendolyn Kessler-Hart) said to write you because she cant call, shes at work till 5. Her number is 937-555-0192 if you need to reach her. my grandma ottilie is 94 next month so i dont want to give her this cough, can i still visit her? thanks!!
+
+Dwayne
+Sent from my phone  |  dk_dayton_1125  |  Loyalty # CarWash CW-5520-1187
+
+---- Portal staff routing ----
+Msg received 07/26/2075 07:03; assigned to Bernadette Cho NP; MA Jenna Okonkwo-Reyes to call. Pt id verified w/ DOB 11/08/2025. Reply drafted: kidney tests are stabel, see you Tuesday.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="6" end="20" text="dwayne kessler" TYPE="PATIENT" comment="" />
+<CONTACT id="P1" start="22" end="53" text="dkessler.dayton@mailbox.example" TYPE="EMAIL" comment="" />
+<LOCATION id="P2" start="59" end="81" text="Millbrook Primary Care" TYPE="ORGANIZATION" comment="" />
+<DATE id="P3" start="103" end="120" text="Sat, Jul 26, 2075" TYPE="DATE" comment="" />
+<DATE id="P4" start="220" end="229" text="11/8/2025" TYPE="DATE" comment="" />
+<DATE id="P5" start="250" end="258" text="the 10th" TYPE="DATE" comment="" />
+<DATE id="P6" start="287" end="295" text="the 17th" TYPE="DATE" comment="" />
+<DATE id="P7" start="306" end="314" text="the 24th" TYPE="DATE" comment="" />
+<CONTACT id="P8" start="762" end="774" text="937-555-0192" TYPE="PHONE" comment="" />
+<AGE id="P9" start="823" end="825" text="94" TYPE="AGE" comment="" />
+<NAME id="P10" start="939" end="953" text="dk_dayton_1125" TYPE="USERNAME" comment="" />
+<ID id="P11" start="976" end="988" text="CW-5520-1187" TYPE="IDNUM" comment="" />
+<DATE id="P12" start="1034" end="1044" text="07/26/2075" TYPE="DATE" comment="" />
+<NAME id="P13" start="1064" end="1078" text="Bernadette Cho" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1086" end="1105" text="Jenna Okonkwo-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="1137" end="1147" text="11/08/2025" TYPE="DATE" comment="" />
+<DATE id="P16" start="1197" end="1204" text="Tuesday" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

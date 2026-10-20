@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>AFTER-VISIT SUMMARY
+Kern Valley Community Health
+Patient: Page, Marisol      DOB: 08/14/2016      MRN: 0053-7716
+Visit date: Apr 8, 2061 (wellness visit)      Provider: Dr. Anneliese Okafor
+Phone on file: (661) 555-0194      Address on file: 77 Larkspur Court Unit 4, Bakersfield CA 9307
+
+Dear Marisol,
+
+Thank you for come today. Here is what we talked about.
+
+Your numbers: weight 74.6 kg, blood pressure top number 145 (high), HbA1c 5.9 % (better than before, was 6.3 in April 2059), glucose 78.5. Anxiety score GAD-7 = 2, low. Depression screen done. Substance use screen done.
+
+What to do:
+1. Blood pressure is high again. Check at home, write numbers. Come back in 4 weeks. Do not use Advil or Aleve for pain.
+2. Prediabetes: walking 30 minutes, 5 days a week.
+3. Medication reconciliation was done. You are taking only Tylenol when need.
+4. Dental: we sent new referral for dental care. Tooth infection, dentist visit Apr 22. Fluoride gel.
+5. Social: you tell us you live with husband Gideon Page and you feel isolated. A social worker, Beatriz Almeida, will call you.
+
+You tell us (again) that you had no miscarriage, but your chart says one in 2042; that is OK, we do not need to talk about it.
+
+Page 2 of 2 - PAGE, MARISOL - 0053-7716
+Next visit: &lt;&lt;NEXT_VISIT_DATE&gt;&gt;      Interpreter needed: ____
+Electronically signed by Anneliese Okafor, MD on 04/08/2061 13:20
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="48" text="Kern Valley Community Health" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="58" end="71" text="Page, Marisol" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="82" end="92" text="08/14/2016" TYPE="DATE" comment="" />
+<ID id="P3" start="103" end="112" text="0053-7716" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="125" end="136" text="Apr 8, 2061" TYPE="DATE" comment="" />
+<NAME id="P5" start="173" end="189" text="Anneliese Okafor" TYPE="DOCTOR" comment="" />
+<CONTACT id="P6" start="205" end="219" text="(661) 555-0194" TYPE="PHONE" comment="" />
+<LOCATION id="P7" start="242" end="266" text="77 Larkspur Court Unit 4" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="268" end="279" text="Bakersfield" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="280" end="282" text="CA" TYPE="STATE" comment="" />
+<LOCATION id="P10" start="283" end="287" text="9307" TYPE="ZIP" comment="" />
+<NAME id="P11" start="294" end="301" text="Marisol" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="473" end="483" text="April 2059" TYPE="DATE" comment="" />
+<DATE id="P13" start="924" end="930" text="Apr 22" TYPE="DATE" comment="" />
+<NAME id="P14" start="991" end="1002" text="Gideon Page" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1043" end="1058" text="Beatriz Almeida" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1152" end="1156" text="2042" TYPE="DATE" comment="" />
+<ID id="P17" start="1234" end="1243" text="0053-7716" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P18" start="1331" end="1347" text="Anneliese Okafor" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1355" end="1365" text="04/08/2061" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

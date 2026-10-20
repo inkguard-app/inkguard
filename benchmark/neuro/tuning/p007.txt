@@ -1,0 +1,27 @@
+CEREBROVASCULAR CLINIC NOTE
+{{FACILITY|Northfold Neuroscience Center}}
+Patient: {{NAME|Dana Spetzler}}  MRN {{MRN|NNC-6618230}}  Visit {{DATE|07/12/2075}}
+
+Ms. {{NAME|Spetzler}} (31) presents after a [[generalised tonic-clonic seizure]] in the setting of an unruptured [[left parietal arteriovenous malformation]]. And yes, she has heard many jokes about her surname and the [[Spetzler-Martin grading scale]].
+
+[[DSA]] ({{DATE|06/29/2075}}): nidus 3.4 cm (size 2 points), located in the [[eloquent sensory cortex]] near the postcentral gyrus (eloquence 1 point), with superficial drainage only into the [[superior sagittal sinus]] via a cortical vein (0 points) = [[Spetzler-Martin grade III]] ([[Lawton-Young supplementary grade]] 3: age 20-40 = 1, unruptured = 1, diffuse nidus = 1; [[Lawton-Young combined grade 6]]). Feeding arteries from [[left MCA angular and posterior parietal branches]]. No [[intranidal aneurysm]]; one [[flow-related aneurysm]] on a proximal feeder, 3 mm.
+
+[[fMRI]] shows the primary sensory hand area 8 mm from the nidus; [[DTI tractography]] demonstrates the [[corticospinal tract]] deep to the lesion.
+
+Neuro: [[cortical sensory loss]] in the right hand ([[agraphaesthesia]], impaired [[two-point discrimination]]), strength full.
+
+Medication: [[lamotrigine 100 mg BID]].
+
+Discussion: options of observation (ARUBA data), [[staged Onyx embolization]] followed by microsurgical resection, or [[stereotactic radiosurgery]]. Recommend presurgical [[transarterial embolization]] then [[left parietal craniotomy]] for resection.
+
+Dr. {{NAME|Wilhelmina Oduya}}, Cerebrovascular Neurosurgery
+Contact: {{EMAIL|w.oduya@northfold-nsc.example.org}}
+=====NOTE=====
+EMBOLIZATION NOTE — {{DATE|08/01/2075}} — pt {{NAME|D. Spetzler}} {{MRN|NNC-6618230}}
+
+Under GA. [[Bilateral femoral access]], [[6F guide catheter]] in the left ICA, [[biplane DSA]] roadmap. [[Apollo detachable-tip microcatheter]] (1.5 cm tip) navigated into the [[angular artery feeder]]. [[Superselective Wada test]] not performed (patient under GA); [[provocative testing with amobarbital]] deferred. [[Onyx 18]] injected using [[plug-and-push technique]], 1.4 mL, approximately 40% nidal obliteration. Second pedicle ([[posterior parietal artery]]) embolised with [[n-BCA glue 33%]]. The [[flow-related aneurysm]] was left untreated as it is expected to regress after resection.
+[[Neuromonitoring SSEP]] stable. No reflux beyond the detachable zone. Post-procedure [[CT head]]: no haemorrhage. Neuro check: unchanged, no [[aphasia]], no [[hemianopia]], no new [[sensory deficit]].
+Plan resection in 48 h by Dr. {{NAME|W. Oduya}}. Strict BP control: SBP under 120 ([[normal perfusion pressure breakthrough]] risk).
+=====NOTE=====
+Text message from patient's mother ({{PHONE|555-713-0294}}): "Hi Dr {{NAME|Oduya}} this is {{NAME|Ruth}}, {{NAME|Dana}}'s mom. Is it normal that she still can't feel which fingers I'm touching on her right hand after the surgery yesterday? She's walking and talking fine."
+Response (charted): Expected — [[astereognosis]] and [[finger agnosia]]-like difficulty from a [[transient cortical sensory deficit]] from retraction near the [[postcentral gyrus]]. Post-op [[DSA]] confirmed [[complete AVM obliteration]], no residual early draining vein; [[Spetzler-Martin III]] lesion fully resected. Post-op [[CT head]] shows no [[intracerebral haemorrhage]] and expected [[pneumocephalus]]. Continue [[lamotrigine 100 mg BID]], [[occupational therapy]] for [[sensory re-education]], [[dexamethasone 4 mg]] taper, BP goal SBP under 140 to limit [[hyperperfusion]]. No [[seizure]] since surgery. Expect improvement over weeks. Mother {{NAME|Ruth Spetzler}} reassured.

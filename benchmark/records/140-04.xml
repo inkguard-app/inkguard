@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>From: chidi.okonkwo.hale@mailnorth.example
+Sent: Wednesday, December 2, 2065 9:12 PM
+To: Orthopaedic Centre patient portal
+Subject: naproxen and my teeth + travel
+
+Dear Dr Veselinovic's office
+
+this is Chidi Okonkwo-Hale. 2 things. first the naproxen is helping my hands alot, thank you. but my gums bled much last Thursday and a filling came off on the 28th when i was at the dentist (they did the filling again, its ok now). Should i be worried about the naproxen and bleeding??
+
+second I am travelling to Nigeria for my mother, Ngozi Okonkwo, 78th birthday. Leaving the 14th back early January. Address there is c/o my brother Obinna Okonkwo, 14 Adeola Odeku Close, Victoria Island, Lagos, Nigeria. I will have no cell service, call my wife Folasade on +1 905 555 0152 if you need me. Fax of my work if you must 905-555-0180.
+
+Also please correct: i am not "Chitty", it was spelt wrong again on the last letter, and my health card number is 4471-902-338-KT not the other one. my son Kelechi (not Kelechy) will help me with the portal.
+
+Regards
+Chidi
+sent from my phone
+</TEXT>
+<TAGS>
+<CONTACT id="P0" start="6" end="42" text="chidi.okonkwo.hale@mailnorth.example" TYPE="EMAIL" comment="" />
+<DATE id="P1" start="49" end="76" text="Wednesday, December 2, 2065" TYPE="DATE" comment="" />
+<NAME id="P2" start="172" end="183" text="Veselinovic" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="202" end="220" text="Chidi Okonkwo-Hale" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="315" end="323" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P5" start="354" end="358" text="28th" TYPE="DATE" comment="" />
+<NAME id="P6" start="531" end="544" text="Ngozi Okonkwo" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="546" end="550" text="78th" TYPE="AGE" comment="" />
+<DATE id="P8" start="573" end="577" text="14th" TYPE="DATE" comment="" />
+<DATE id="P9" start="583" end="596" text="early January" TYPE="DATE" comment="" />
+<NAME id="P10" start="630" end="644" text="Obinna Okonkwo" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="646" end="667" text="14 Adeola Odeku Close" TYPE="STREET" comment="" />
+<LOCATION id="P12" start="669" end="684" text="Victoria Island" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P13" start="686" end="691" text="Lagos" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="693" end="700" text="Nigeria" TYPE="COUNTRY" comment="" />
+<NAME id="P15" start="744" end="752" text="Folasade" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="756" end="771" text="+1 905 555 0152" TYPE="PHONE" comment="" />
+<CONTACT id="P17" start="815" end="827" text="905-555-0180" TYPE="FAX" comment="" />
+<NAME id="P18" start="861" end="867" text="Chitty" TYPE="PATIENT" comment="" />
+<ID id="P19" start="944" end="959" text="4471-902-338-KT" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P20" start="986" end="993" text="Kelechi" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="999" end="1006" text="Kelechy" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1047" end="1052" text="Chidi" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

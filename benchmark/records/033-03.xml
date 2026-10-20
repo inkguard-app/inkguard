@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>"ENC_ID","UNIT","MRN","PAT_NAME","NOTE_TYPE","NOTE_DT","AUTHOR","NOTE_TEXT"
+"HAR-77104492","4 WEST ONC","408213","EARLY, CONSTANCE R","DISCHARGE SUMMARY","05/02/2071 15:30","GPAINE","DC SUMMARY
+Adm: 04/30/2071  DC: 05/02/2071  LOS 2d
+Dx: Overdose (opioid), dependent drug abuse, postpartum
+Dept: ONCOLOGY (bed placement only; no onc dx, no chemo, no onc consult)
+
+Hospital course -- see below, pasted from nursing + consult, (my own summary is at the bottom)
+
+Pasted from 2140 note:
+Pt 33 yo F, 10 wks PP (del 02/19/71), arrvied from ED ~1800 on stretcher. OD, found unresponsve on bthrm floor by husb. EMS gave narcan x2, resp'd. Admitted to onc overflow bed 12. Denise SI/HI when asked x2. 1:1 sitter. Whiteboard: 4W-12 EARLY - NO VISITORS EXCEPT HUSBAND. -PL RN
+Electronically signed by Priya Lindqvist RN on 04/30/2071 23:12
+
+CONSULT NOTE. Requested by Dr. Paine for OD eval. 33F, ~10 wk postpartum. Dx: Opioid use disorder, OD yesterday - offer MOUD, pt interested in bup. Naloxone kit at d/c + teach husband Tobias Earley. Will resee tmrw.
+Dictated by Dr. Anselm Takahashi 05/01/2071 10:40
+
+&gt;&gt;&gt; HOSPITAL MEDICINE PROGRESS NOTE 05/01/2071 07:00 Paine, G
+Pt in Bed 14 now, moved overnight. Stable. 
+
+MARLOWE, DENNIS J  MRN 55-91207  DOB 11/30/1999
+Pt Dennis Marlowe 22 yo male w/ lymphoma, cycle 3 day 8, neutropenic precautions, ANC 0.4. Hold chemo. -- (!) WRONG PT pasted by mistake, delete
+
+Course: bup started 5/1 pm, tolerated. EPDS 9, SW saw, no SI. Husband present for naloxone teaching. Baby Juniper brought in by MIL 5/1, bonded well.
+DC meds: buprenorphine/naloxone SL (see AVS), B12 inj monthly (cont), naloxone nasal spray. Rx #5518204 sent to Penny's Corner Drug.
+F/U: PCP Dr. Aldous within 1wk, addiction clinic 05/07/2071 (Tues), wellness 05/14/2071. Ret precautions given.
+Cord blood kit CBK-559-0231-A still in pt's bag from 2/2071 delivery -- pt asks if still usable. Not a hospital issue, told her to call the bank 800-555-0166.
+Condition at DC: good. Dispo: home w/ husband.
+Dr. Gregor Paine, Hospital Medicine
+Electronically signed 05/02/2071 16:48"
+</TEXT>
+<TAGS>
+<ID id="P0" start="77" end="89" text="HAR-77104492" TYPE="ACCOUNT" comment="" />
+<LOCATION id="P1" start="92" end="102" text="4 WEST ONC" TYPE="DEPARTMENT" comment="" />
+<ID id="P2" start="105" end="111" text="408213" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="114" end="132" text="EARLY, CONSTANCE R" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="155" end="165" text="05/02/2071" TYPE="DATE" comment="" />
+<NAME id="P5" start="174" end="180" text="GPAINE" TYPE="USERNAME" comment="" />
+<DATE id="P6" start="199" end="209" text="04/30/2071" TYPE="DATE" comment="" />
+<DATE id="P7" start="215" end="225" text="05/02/2071" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="296" end="304" text="ONCOLOGY" TYPE="DEPARTMENT" comment="" />
+<AGE id="P9" start="486" end="488" text="33" TYPE="AGE" comment="" />
+<DATE id="P10" start="510" end="518" text="02/19/71" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="660" end="662" text="12" TYPE="ROOM" comment="" />
+<LOCATION id="P12" start="716" end="721" text="4W-12" TYPE="ROOM" comment="" />
+<NAME id="P13" start="722" end="727" text="EARLY" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="759" end="761" text="PL" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="790" end="805" text="Priya Lindqvist" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="812" end="822" text="04/30/2071" TYPE="DATE" comment="" />
+<NAME id="P17" start="861" end="866" text="Paine" TYPE="DOCTOR" comment="" />
+<AGE id="P18" start="880" end="882" text="33" TYPE="AGE" comment="" />
+<NAME id="P19" start="1014" end="1027" text="Tobias Earley" TYPE="PATIENT" comment="" />
+<NAME id="P20" start="1062" end="1078" text="Anselm Takahashi" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1079" end="1089" text="05/01/2071" TYPE="DATE" comment="" />
+<DATE id="P22" start="1133" end="1143" text="05/01/2071" TYPE="DATE" comment="" />
+<NAME id="P23" start="1150" end="1158" text="Paine, G" TYPE="DOCTOR" comment="" />
+<LOCATION id="P24" start="1165" end="1171" text="Bed 14" TYPE="ROOM" comment="" />
+<ID id="P25" start="1227" end="1235" text="55-91207" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P26" start="1241" end="1251" text="11/30/1999" TYPE="DATE" comment="" />
+<NAME id="P27" start="1255" end="1269" text="Dennis Marlowe" TYPE="PATIENT" comment="" />
+<AGE id="P28" start="1270" end="1272" text="22" TYPE="AGE" comment="" />
+<DATE id="P29" start="1418" end="1421" text="5/1" TYPE="DATE" comment="" />
+<NAME id="P30" start="1504" end="1511" text="Juniper" TYPE="PATIENT" comment="" />
+<DATE id="P31" start="1530" end="1533" text="5/1" TYPE="DATE" comment="" />
+<ID id="P32" start="1644" end="1651" text="5518204" TYPE="IDNUM" comment="" />
+<LOCATION id="P33" start="1660" end="1679" text="Penny's Corner Drug" TYPE="ORGANIZATION" comment="" />
+<NAME id="P34" start="1694" end="1700" text="Aldous" TYPE="DOCTOR" comment="" />
+<DATE id="P35" start="1730" end="1740" text="05/07/2071" TYPE="DATE" comment="" />
+<DATE id="P36" start="1742" end="1746" text="Tues" TYPE="DATE" comment="" />
+<DATE id="P37" start="1758" end="1768" text="05/14/2071" TYPE="DATE" comment="" />
+<ID id="P38" start="1808" end="1822" text="CBK-559-0231-A" TYPE="IDNUM" comment="" />
+<DATE id="P39" start="1846" end="1852" text="2/2071" TYPE="DATE" comment="" />
+<CONTACT id="P40" start="1938" end="1950" text="800-555-0166" TYPE="PHONE" comment="" />
+<NAME id="P41" start="2003" end="2015" text="Gregor Paine" TYPE="DOCTOR" comment="" />
+<LOCATION id="P42" start="2017" end="2034" text="Hospital Medicine" TYPE="DEPARTMENT" comment="" />
+<DATE id="P43" start="2057" end="2067" text="05/02/2071" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>*** AFTER VISIT SUMMARY ***                             TOLEDO DENTAL COLLABORATIVE
+PATIENT: TAVIAN JEROME WHITLOCK     DOB 08/02/2072     DATE OF VISIT: 04/13/2092
+PROVIDER: DR MARK TEAGUE, DDS     PCP: DR RASHID ALBRIGHT     CASE MGR: Y. ETHERIDGE-MOON
+
+TODAY'S VISIT: DENTAL EXAM, CLEANING (PLAQUE AND CALCULUS REMOVED ABOVE AND BELOW THE GUM LINE), EXAM OF GUMS, ORAL HEALTH TEACHING. NO CAVITIES SEEN TODAY. PT 19 YEARS.
+
+PLEASE REMEMBER:
+1. BRUSH 2X DAILY. 2. FLOSS. 3. NEXT CLEANING IN 6 MONTHS (ABOUT OCTOBER).
+2. SOCIAL WORK F/U: MS ETHERIDGE-MOON WILL CALL YOU ON THURSDAY ABOUT HOUSING VOUCHER AND ABOUT 4/22 COURT DATE. IF YOU FEEL UNSAFE CALL 911. HOTLINE: 1-800-555-0199.
+
+COPY OF LAST AVS (PASTED): "03/30/2092 PT T.J. SEEN FOR WELLNESS. BP 145/82 HIGH, RECHECK. REFER DENTAL. DOB 01/01/1900"  &lt;-- WRONG DOB IN COPY, DEFAULT.
+SEND COPY TO: DELMAR TIRE &amp; LUBE ?? NO. PT DECLINED. 
+CC: PCP FAX (419) 555-0111.
+PRINTED 04/13/2092 11:50 BY RVALCARCEL FROM 10.88.2.14
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="56" end="83" text="TOLEDO DENTAL COLLABORATIVE" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="93" end="115" text="TAVIAN JEROME WHITLOCK" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="124" end="134" text="08/02/2072" TYPE="DATE" comment="" />
+<DATE id="P3" start="154" end="164" text="04/13/2092" TYPE="DATE" comment="" />
+<NAME id="P4" start="178" end="189" text="MARK TEAGUE" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="207" end="222" text="RASHID ALBRIGHT" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="237" end="254" text="Y. ETHERIDGE-MOON" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="416" end="418" text="19" TYPE="AGE" comment="" />
+<DATE id="P8" start="509" end="516" text="OCTOBER" TYPE="DATE" comment="" />
+<NAME id="P9" start="542" end="556" text="ETHERIDGE-MOON" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="574" end="582" text="THURSDAY" TYPE="DATE" comment="" />
+<DATE id="P11" start="615" end="619" text="4/22" TYPE="DATE" comment="" />
+<CONTACT id="P12" start="670" end="684" text="1-800-555-0199" TYPE="PHONE" comment="" />
+<DATE id="P13" start="715" end="725" text="03/30/2092" TYPE="DATE" comment="" />
+<NAME id="P14" start="729" end="733" text="T.J." TYPE="PATIENT" comment="" />
+<DATE id="P15" start="796" end="806" text="01/01/1900" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="855" end="873" text="DELMAR TIRE &amp; LUBE" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P17" start="907" end="921" text="(419) 555-0111" TYPE="FAX" comment="" />
+<DATE id="P18" start="931" end="941" text="04/13/2092" TYPE="DATE" comment="" />
+<NAME id="P19" start="951" end="961" text="RVALCARCEL" TYPE="USERNAME" comment="" />
+<CONTACT id="P20" start="967" end="977" text="10.88.2.14" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

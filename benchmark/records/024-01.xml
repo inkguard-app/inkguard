@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE -- CARDIOLOGY                         Willamette Crest Medical Center
+CASE, DOLORES A          MRN WC-4409-217          DOB 01/17/2018
+Date of consultation: 03/17/2073      Requested by: Dr. Hye-jin Park      Consultant: Marcus Strong, MD
+
+[Dictation begins] This is Dr. Strong dictating a consult, job numbre 774201, my pin is four four zero eight, audio file dict_Case_D_20730317_0942.wav. The patient is Dolores Case, no, scratch that, her chart says Dolores Ann Case, but she goes by Dee.
+
+The patient is a fifty five year old woman rwferred for abnormal findings on diagnostiic imaging of the heart and coronary circulation after the study done on March 4th. In this case the problem began as exertional chest tightness over the past several months, relieved by rest, with no rest pain, no syncope, no palpitations and no orthopnea. She has a history of obesity with a body mass index above thirty, prediabetes and anemia, a miscarriage a long time ago, and osteoarthritis of the knee treated for years with naproxen until October 2071 when she had a hand laceration. She has no history of smoking. Her husband Warren describes that the symptoms increased when walking uphill.
+
+Examination shows a heart rate of sixty eight and blood pressure of one twenty over seventy. The cardiac exam is regular without murmur. Lungs are clear. There is no edema. The imaging that was reviewed demonstrates signifiant multivessel coronary disease and, on the bassis of that, the heart team including Dr. Alina Bishop recommended bypass grafting.
+
+Assessment is ischemic heart disease with multivessel obstruction. Since 03/11/2073 she has been on clopidogrel seventy five milligrams, simvastatin twenty milligrams, metoprolol succinate one hundred milligrams, and nitroglycerin spray as needed. Plan is coronary artery bypass grafting on March 22nd, with cefazolin prophlaxis and the usual anesthetic. Risks and benefits were discussed in detail with the patient and her husband and they agree. She will be admitted the day before.
+
+Thank you very much for this interesting consultation. [Dictation ends]
+
+DD: 03/17/73   DT: 03/18/73   JOB# 774201   Typist: mjr
+Dictated but not read. Dictated by Marcus Strong, MD.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="51" end="82" text="Willamette Crest Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="83" end="98" text="CASE, DOLORES A" TYPE="PATIENT" comment="" />
+<ID id="P2" start="112" end="123" text="WC-4409-217" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="137" end="147" text="01/17/2018" TYPE="DATE" comment="" />
+<DATE id="P4" start="170" end="180" text="03/17/2073" TYPE="DATE" comment="" />
+<NAME id="P5" start="204" end="216" text="Hye-jin Park" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="234" end="247" text="Marcus Strong" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="284" end="290" text="Strong" TYPE="DOCTOR" comment="" />
+<ID id="P8" start="323" end="329" text="774201" TYPE="IDNUM" comment="" />
+<ID id="P9" start="341" end="361" text="four four zero eight" TYPE="IDNUM" comment="" />
+<ID id="P10" start="374" end="403" text="dict_Case_D_20730317_0942.wav" TYPE="IDNUM" comment="" />
+<NAME id="P11" start="420" end="432" text="Dolores Case" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="467" end="483" text="Dolores Ann Case" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="501" end="504" text="Dee" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="524" end="534" text="fifty five" TYPE="AGE" comment="" />
+<DATE id="P15" start="666" end="675" text="March 4th" TYPE="DATE" comment="" />
+<DATE id="P16" start="1041" end="1053" text="October 2071" TYPE="DATE" comment="" />
+<NAME id="P17" start="1129" end="1135" text="Warren" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1509" end="1521" text="Alina Bishop" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1625" end="1635" text="03/11/2073" TYPE="DATE" comment="" />
+<DATE id="P20" start="1843" end="1853" text="March 22nd" TYPE="DATE" comment="" />
+<DATE id="P21" start="2115" end="2123" text="03/17/73" TYPE="DATE" comment="" />
+<DATE id="P22" start="2130" end="2138" text="03/18/73" TYPE="DATE" comment="" />
+<ID id="P23" start="2146" end="2152" text="774201" TYPE="IDNUM" comment="" />
+<NAME id="P24" start="2163" end="2166" text="mjr" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="2202" end="2215" text="Marcus Strong" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

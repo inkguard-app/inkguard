@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO PATIENT
+Released to portal: 06/20/2078 09:12 (Monday)       Ordering provider: Dr. Will Graves
+To: Ms. Peace Kuol   MRN RP-338120   DOB 03/09/2021
+
+Dear &lt;&lt;PATIENT_FIRST&gt;&gt;... Dear Ms. Kule,      [template error, first greeting never filled in]
+
+Your blood tests from Friday 6/17 are back.
+- Total cholesterol: 154.6 mg/dL - normal
+- LDL ("bad") cholesterol: 76.6 mg/dL - good
+- Glucose, blood count: no concerns
+These numbers are good. No medicine is needed for cholesterol. Keep going with walking, which helps with fibromyalgia too.
+
+Copy forward from last year (06/11/2077): "Please come in to talk about your mood." &lt;- not applicable this year, mood screen fine.
+
+What to do: no change. Next check at your yearly visit in mid-June 2079. Dental appointment is July 1st.
+If you did not request this message or it was meant for Peace Kuol-Deng (a different Kuol, DOB 1/1/1900), call us.
+
+Questions? Portal reply or call (701) 555-0118, nurse Sky Brightwater, RN. Text line (reply STOP): 701-555-0150.
+Signed Dr. Will Graves (not related to any disease), through user wgraves_md, from 10.60.12.3
+</TEXT>
+<TAGS>
+<DATE id="P0" start="50" end="60" text="06/20/2078" TYPE="DATE" comment="" />
+<DATE id="P1" start="68" end="74" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P2" start="105" end="116" text="Will Graves" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="121" end="135" text="Ms. Peace Kuol" TYPE="PATIENT" comment="" />
+<ID id="P4" start="142" end="151" text="RP-338120" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="158" end="168" text="03/09/2021" TYPE="DATE" comment="" />
+<NAME id="P6" start="205" end="209" text="Kule" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="288" end="294" text="Friday" TYPE="DATE" comment="" />
+<DATE id="P8" start="295" end="299" text="6/17" TYPE="DATE" comment="" />
+<DATE id="P9" start="586" end="596" text="06/11/2077" TYPE="DATE" comment="" />
+<DATE id="P10" start="747" end="760" text="mid-June 2079" TYPE="DATE" comment="" />
+<DATE id="P11" start="784" end="792" text="July 1st" TYPE="DATE" comment="" />
+<NAME id="P12" start="850" end="865" text="Peace Kuol-Deng" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="879" end="883" text="Kuol" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="889" end="897" text="1/1/1900" TYPE="DATE" comment="" />
+<CONTACT id="P15" start="942" end="956" text="(701) 555-0118" TYPE="PHONE" comment="" />
+<NAME id="P16" start="964" end="979" text="Sky Brightwater" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="1009" end="1021" text="701-555-0150" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1034" end="1045" text="Will Graves" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1089" end="1099" text="wgraves_md" TYPE="USERNAME" comment="" />
+<CONTACT id="P20" start="1106" end="1116" text="10.60.12.3" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

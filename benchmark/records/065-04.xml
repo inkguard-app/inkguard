@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE
+Harbourview Hospice, Halifax, Nova Scotia, Canada
+Pt: Yannis Pappas  (a.k.a. Ioannis Papadopoulos)   DOB 05/17/2037   MRN HLX-0065-4410   Rm 6
+Date/time of death: 11/18/2092 03:45. Age 55.
+Admitted to hospice 10/28/2092, hospice care since 10/30. Dx chronic CHF (dx Jan 2092). Comfort measures only, DNR. Final days: Cheyne-Stokes resp x 2 d, mottled legs, no response to voice. Morphine + lorazepam (Ativan) prn per pall care, furosemide stopped 11/10.
+Pronounced by Linh Tran MD at 03:45; verified by RN Aisha Bangura. No autopsy. Coroner not needed.
+Family notified: partner Sunita Rao present at bedside. Sister Eleftheria Papadopoulou, Egnatia 112, 546 35 Thessaloniki, Greece, ph +30 2310 555 014 - by phone 04:30 (it was 10:30 there). Son Nikolas Pappas, 7 Mill Lane, Ballincollig, Cork T12 AB34, Ireland, +353 21 555 0166 - flying in. 
+Body to Tidewater Funeral Chapel. Death cert to be completed by Dr McAllister. Records on aliases: pls merge John Pappas chart.
+Signed L. Tran, MD  11/18/2092 05:20
+ADDENDUM 11/25/2092: auto wellness-visit reminder call placed to pt's mobile +1 (902) 555-0127 today - left msg for "Mr. Pappas" in error. Sunita Rao answered, was upset. Reminder cancelled. Pls fix recall list. -Ewan Gillis
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="11" end="30" text="Harbourview Hospice" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="32" end="39" text="Halifax" TYPE="CITY" comment="" />
+<LOCATION id="P2" start="41" end="52" text="Nova Scotia" TYPE="STATE" comment="" />
+<LOCATION id="P3" start="54" end="60" text="Canada" TYPE="COUNTRY" comment="" />
+<NAME id="P4" start="65" end="78" text="Yannis Pappas" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="88" end="108" text="Ioannis Papadopoulos" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="116" end="126" text="05/17/2037" TYPE="DATE" comment="" />
+<ID id="P7" start="133" end="146" text="HLX-0065-4410" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P8" start="149" end="153" text="Rm 6" TYPE="ROOM" comment="" />
+<DATE id="P9" start="174" end="184" text="11/18/2092" TYPE="DATE" comment="" />
+<AGE id="P10" start="196" end="198" text="55" TYPE="AGE" comment="" />
+<DATE id="P11" start="220" end="230" text="10/28/2092" TYPE="DATE" comment="" />
+<DATE id="P12" start="251" end="256" text="10/30" TYPE="DATE" comment="" />
+<DATE id="P13" start="277" end="285" text="Jan 2092" TYPE="DATE" comment="" />
+<DATE id="P14" start="458" end="463" text="11/10" TYPE="DATE" comment="" />
+<NAME id="P15" start="479" end="488" text="Linh Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="517" end="530" text="Aisha Bangura" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="589" end="599" text="Sunita Rao" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="627" end="650" text="Eleftheria Papadopoulou" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="652" end="663" text="Egnatia 112" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="665" end="671" text="546 35" TYPE="ZIP" comment="" />
+<LOCATION id="P21" start="672" end="684" text="Thessaloniki" TYPE="CITY" comment="" />
+<LOCATION id="P22" start="686" end="692" text="Greece" TYPE="COUNTRY" comment="" />
+<CONTACT id="P23" start="697" end="713" text="+30 2310 555 014" TYPE="PHONE" comment="" />
+<NAME id="P24" start="757" end="771" text="Nikolas Pappas" TYPE="PATIENT" comment="" />
+<LOCATION id="P25" start="773" end="784" text="7 Mill Lane" TYPE="STREET" comment="" />
+<LOCATION id="P26" start="786" end="798" text="Ballincollig" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="800" end="804" text="Cork" TYPE="CITY" comment="" />
+<LOCATION id="P28" start="805" end="813" text="T12 AB34" TYPE="ZIP" comment="" />
+<LOCATION id="P29" start="815" end="822" text="Ireland" TYPE="COUNTRY" comment="" />
+<CONTACT id="P30" start="824" end="840" text="+353 21 555 0166" TYPE="PHONE" comment="" />
+<LOCATION id="P31" start="863" end="887" text="Tidewater Funeral Chapel" TYPE="ORGANIZATION" comment="" />
+<NAME id="P32" start="922" end="932" text="McAllister" TYPE="DOCTOR" comment="" />
+<NAME id="P33" start="964" end="975" text="John Pappas" TYPE="PATIENT" comment="" />
+<NAME id="P34" start="990" end="997" text="L. Tran" TYPE="DOCTOR" comment="" />
+<DATE id="P35" start="1003" end="1013" text="11/18/2092" TYPE="DATE" comment="" />
+<DATE id="P36" start="1029" end="1039" text="11/25/2092" TYPE="DATE" comment="" />
+<CONTACT id="P37" start="1097" end="1114" text="+1 (902) 555-0127" TYPE="PHONE" comment="" />
+<NAME id="P38" start="1137" end="1147" text="Mr. Pappas" TYPE="PATIENT" comment="" />
+<NAME id="P39" start="1233" end="1244" text="Ewan Gillis" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

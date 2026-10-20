@@ -1,0 +1,35 @@
+presidio-analyzer==2.2.364
+presidio-anonymizer==2.2.364
+spacy==3.8.16
+# en_core_web_lg, not sm. Presidio's packaged default configuration names
+# lg, and lg finds rare and non-Western person names better than the small
+# model; the small model also does not match Presidio's configuration. The
+# download is about 590 MB.
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl
+cryptography==48.0.1
+# The tamper counter lives in the OS protected store (Windows Credential
+# Manager / macOS Keychain) through keyring (MIT).
+keyring==25.7.0
+# REQUIRED. Word-frequency knowledge used by the candidate-name layer and
+# garnet's evidence scoring ("Cement" is a word, "Haddad" is not). Without
+# it every frequency signal reads zero and precision drops sharply; warmup()
+# reports it.
+wordfreq==3.1.1
+# OPTIONAL (recommended). A multilingual name model, run only when the note
+# contains non-Latin script. Absence is reported by warmup(), not fatal.
+#   python -m spacy download xx_ent_wiki_sm
+# BENCHMARK ONLY (tools/, benchmark/): the synthetic corpus and its
+# precision sets. Not imported by Inkguard at runtime.
+#   faker==40.39.0  pandas==3.0.2
+# Documents (inkguard/calcite.py): Word, Excel, typed PDF. The PDF page check
+# also needs the Tesseract OCR program installed on the computer
+# (apt: tesseract-ocr). Without it every PDF is not processed (folder 3).
+python-docx==1.2.0
+openpyxl==3.1.5
+pdfplumber==0.11.9
+pypdfium2==5.7.1
+pypdf==3.17.4
+Pillow==12.2.0
+pytesseract==0.3.13
+# Writes the audit trail (PDF).
+reportlab==4.4.10

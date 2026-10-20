@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CARDIOLOGY OUTPATIENT CONSULTATION - POSTNATAL
+Liffeyside General Hospital, Cardio-Obstetric Clinic                   Page 1 of 3
+Patient: Oksana Havrylenko (Оксана Гавриленко in her passport)    DOB: 19/05/2061    MRN: LGH 20-448193    PPSN: 4416823WA
+Date seen: 03/08/2082 (Monday)       Clinician: Dr Esteban Villaverde Mora       Referred by: Prof Niamh Brannigan
+Dear Dr [REFERRER], Dear Mrs Havrilenko,   &lt;- letter template, both lines not removed
+
+Reason for consultation: Follow up six weeks after delivery in woman with severe pre-eclampsia, cardiovascular risk assessment.
+
+History: This is a 21-year-old woman, who delivered a healthy boy Bohdan (Bohdan Keane) on 22/06/2082 after medical induction of labour at term, 37 weeks + 3 days, a normal vaginal delivery, birth weight 3.1 kg. The pregnancy was complicated by severe pre-eclampsia, coded as eclampsia in the system from 31/05/2082, resolved 21/06/2082 in the register but the BP stay high until the second week. She received magnesium sulphate for 24 hours. Echo on 02/06/2082 showed normal LV function (EF about 60%), no peripartum cardiomyopathy. The chest film of 01/06/2082 with pulmonary oedema have resolved on the control.
+Now she feel well, no dispnea, no chest pain, no palpitations, no headache. She is breastfeeding. Sleeps badly because the baby, mood okay, the EPDS depression screening was done at postnatal visit today and is negative. Weight 78 kg (before pregnancy 81 kg), BMI about 28.
+Past: fracture of clavicle 2074, gingivitis, bronchitis, viral sinusitis 10/2080. Previous contraception: Levora, Seasonique, Natazia and Trinessa (all combined with estrogen), these are now contraindicated.
+Medication: labetalol 100 mg bd (reducing), paracetamol prn. She received anti-D? No, Rh positive - the passive immunization noted in the postnatal list was for Tdap dose booster given in pregnancy 06/04/2082.
+
+Social: lives with partner Ruairí Keane and baby at Flat 4, 23 Thomond Road, Inchicore, Dublin 8, D08 K2F7. Partner is electrician at Keane Electrical (family company of his father). Her mother Halyna Havrylenko lives at vul. Zelena 112, kv. 7, 79035 Lviv, Ukraine and wants to come for visit in October; sister Daryna is at 14 Elmhurst Crescent, Mississauga, ON L5B 2C9, Canada, patient wish to fly there with baby on 07.09.2082 and asks letter for the airline. Phone +353 87 555 0142, email oksana.havrylenko@brookemail.example.
+
+Examination: BP 132/84 right arm sitting, 130/82 left, pulse 72 regular. Height 167 cm. JVP not raised. Heart sounds I and II normal, no murmurs. Chest clear. No oedema. Weight as above.
+ECG: sinus rhythm 70/min, normal axis, no abnormal.
+
+Assessment and plan:
+1. Hypertensive disorder of pregnancy, resolving. History of pre-eclampsia is a risk factor for later hypertension and cardiovascular disease - explained, advice to annual BP and lipids check with GP Dr Fionnuala Hearn.
+2. Continue labetalol and reduce to stop in two weeks if home BP less than 135/85, she has a home cuff.
+3. No cardiomyopathy. No need for further echo, unless symptoms.
+4. Contraception: progestin only or coil, not estrogen. Letter to GP.
+5. Flight: no cardiac contraindication, the letter is given. She should check BP before the flight.
+6. Review in cardiology clinic after 12 months.
+
+Pasted from ED note 22/06/2082 (Dr Kowalski): Triage 06:12, BP 172/112, headache, partner Ruairi with her. Impression severe pre-eclampsia at term. Transferred to labour ward LW 3.
+
+cc: GP Hearn (fax +353 1 555 0144); patient. Typed 03/08/2082 - voice recognition not used, I type myself so excuse mistakes. Dr Villaverde
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="47" end="74" text="Liffeyside General Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="76" end="99" text="Cardio-Obstetric Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="139" end="156" text="Oksana Havrylenko" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="158" end="175" text="Оксана Гавриленко" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="201" end="211" text="19/05/2061" TYPE="DATE" comment="" />
+<ID id="P5" start="220" end="233" text="LGH 20-448193" TYPE="MEDICALRECORD" comment="" />
+<ID id="P6" start="243" end="252" text="4416823WA" TYPE="SSN" comment="" />
+<DATE id="P7" start="264" end="274" text="03/08/2082" TYPE="DATE" comment="" />
+<DATE id="P8" start="276" end="282" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P9" start="304" end="327" text="Esteban Villaverde Mora" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="352" end="367" text="Niamh Brannigan" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="397" end="407" text="Havrilenko" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="603" end="614" text="21-year-old" TYPE="AGE" comment="" />
+<NAME id="P13" start="650" end="656" text="Bohdan" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="658" end="670" text="Bohdan Keane" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="675" end="685" text="22/06/2082" TYPE="DATE" comment="" />
+<DATE id="P16" start="889" end="899" text="31/05/2082" TYPE="DATE" comment="" />
+<DATE id="P17" start="910" end="920" text="21/06/2082" TYPE="DATE" comment="" />
+<DATE id="P18" start="1035" end="1045" text="02/06/2082" TYPE="DATE" comment="" />
+<DATE id="P19" start="1136" end="1146" text="01/06/2082" TYPE="DATE" comment="" />
+<DATE id="P20" start="1500" end="1504" text="2074" TYPE="DATE" comment="" />
+<DATE id="P21" start="1546" end="1553" text="10/2080" TYPE="DATE" comment="" />
+<DATE id="P22" start="1879" end="1889" text="06/04/2082" TYPE="DATE" comment="" />
+<NAME id="P23" start="1919" end="1931" text="Ruairí Keane" TYPE="PATIENT" comment="" />
+<LOCATION id="P24" start="1944" end="1967" text="Flat 4, 23 Thomond Road" TYPE="STREET" comment="" />
+<LOCATION id="P25" start="1969" end="1978" text="Inchicore" TYPE="LOCATION-OTHER" comment="" />
+<LOCATION id="P26" start="1980" end="1986" text="Dublin" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="1990" end="1998" text="D08 K2F7" TYPE="ZIP" comment="" />
+<PROFESSION id="P28" start="2011" end="2022" text="electrician" TYPE="PROFESSION" comment="" />
+<LOCATION id="P29" start="2026" end="2042" text="Keane Electrical" TYPE="ORGANIZATION" comment="" />
+<NAME id="P30" start="2086" end="2103" text="Halyna Havrylenko" TYPE="PATIENT" comment="" />
+<LOCATION id="P31" start="2113" end="2135" text="vul. Zelena 112, kv. 7" TYPE="STREET" comment="" />
+<LOCATION id="P32" start="2137" end="2142" text="79035" TYPE="ZIP" comment="" />
+<LOCATION id="P33" start="2143" end="2147" text="Lviv" TYPE="CITY" comment="" />
+<LOCATION id="P34" start="2149" end="2156" text="Ukraine" TYPE="COUNTRY" comment="" />
+<DATE id="P35" start="2188" end="2195" text="October" TYPE="DATE" comment="" />
+<NAME id="P36" start="2204" end="2210" text="Daryna" TYPE="PATIENT" comment="" />
+<LOCATION id="P37" start="2217" end="2237" text="14 Elmhurst Crescent" TYPE="STREET" comment="" />
+<LOCATION id="P38" start="2239" end="2250" text="Mississauga" TYPE="CITY" comment="" />
+<LOCATION id="P39" start="2252" end="2254" text="ON" TYPE="STATE" comment="" />
+<LOCATION id="P40" start="2255" end="2262" text="L5B 2C9" TYPE="ZIP" comment="" />
+<LOCATION id="P41" start="2264" end="2270" text="Canada" TYPE="COUNTRY" comment="" />
+<DATE id="P42" start="2311" end="2321" text="07.09.2082" TYPE="DATE" comment="" />
+<CONTACT id="P43" start="2361" end="2377" text="+353 87 555 0142" TYPE="PHONE" comment="" />
+<CONTACT id="P44" start="2385" end="2421" text="oksana.havrylenko@brookemail.example" TYPE="EMAIL" comment="" />
+<NAME id="P45" start="2888" end="2903" text="Fionnuala Hearn" TYPE="DOCTOR" comment="" />
+<DATE id="P46" start="3313" end="3323" text="22/06/2082" TYPE="DATE" comment="" />
+<NAME id="P47" start="3328" end="3336" text="Kowalski" TYPE="DOCTOR" comment="" />
+<NAME id="P48" start="3383" end="3389" text="Ruairi" TYPE="PATIENT" comment="" />
+<LOCATION id="P49" start="3468" end="3472" text="LW 3" TYPE="ROOM" comment="" />
+<NAME id="P50" start="3482" end="3487" text="Hearn" TYPE="DOCTOR" comment="" />
+<CONTACT id="P51" start="3493" end="3508" text="+353 1 555 0144" TYPE="FAX" comment="" />
+<DATE id="P52" start="3526" end="3536" text="03/08/2082" TYPE="DATE" comment="" />
+<NAME id="P53" start="3604" end="3614" text="Villaverde" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

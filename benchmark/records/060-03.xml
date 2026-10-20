@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>*** FAX ***
+To: Szeto Family Dentistry   Attn: Dr. Gordon Szeto
+Fax: (608) 555-0177
+From: Lakeshore Children's Clinic  (fax (608) 555-0120)
+Date: 09/30/2084    Pages: 3 including cover
+
+-&gt; "Cover message"
+Hi Dr Szeto and team!! This is Priti the MA. Sending over the referral for our patient **Bram** (the little guy with the tooth infection, he is 9 (almost 10!!) and super chill). Sorry the first page got cut off, the fax machine is old.
+
+- Patient name: ____________
+- DOB: 8/14/2075
+- Parent: Delfine Frost, phone 608-555-0142
+- Insurance member ID WPS-4410-8826-02
+- Reason: tooth infection, simple extraction of baby molar, gingivitis in 2083, needs fluoride
+
+In conclusion, the patient's journey to this referral was long, we hope this helps.
+
+CONFIDENTIALITY: this fax is intended for the above only. If you got it by mistake call us. 
+Kid's last name is Frost, like the weather, not Frosts' (there is only one Frost kid at home besides his little sister Tilly).
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="16" end="38" text="Szeto Family Dentistry" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="51" end="63" text="Gordon Szeto" TYPE="DOCTOR" comment="" />
+<CONTACT id="P2" start="69" end="83" text="(608) 555-0177" TYPE="FAX" comment="" />
+<LOCATION id="P3" start="90" end="117" text="Lakeshore Children's Clinic" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P4" start="124" end="138" text="(608) 555-0120" TYPE="FAX" comment="" />
+<DATE id="P5" start="146" end="156" text="09/30/2084" TYPE="DATE" comment="" />
+<NAME id="P6" start="236" end="241" text="Priti" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="294" end="298" text="Bram" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="349" end="350" text="9" TYPE="AGE" comment="" />
+<DATE id="P9" start="478" end="487" text="8/14/2075" TYPE="DATE" comment="" />
+<NAME id="P10" start="498" end="511" text="Delfine Frost" TYPE="PATIENT" comment="" />
+<CONTACT id="P11" start="519" end="531" text="608-555-0142" TYPE="PHONE" comment="" />
+<ID id="P12" start="554" end="570" text="WPS-4410-8826-02" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P13" start="645" end="649" text="2083" TYPE="DATE" comment="" />
+<NAME id="P14" start="864" end="869" text="Frost" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="893" end="899" text="Frosts" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="964" end="969" text="Tilly" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

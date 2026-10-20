@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER                                   11/21/2062   09:42
+Caller: Marisol Tangen (pt), call back (417) 555-0172.  Taken by: Hartley Bonsu RN
+Regarding: coff for a week, brown stuff, wheezy.
+
+Pt called to say she has had a cough for about a week, producing yellow green sputum. No fever, no short of breath, no chest pain. She also said her chest is heavy "like the elephants sitting". Past medical: obesity and prediabetes (A1c 6.2 on 11/17). Gingivitis. Patient did not want a message left at home because husband Bert answers the house line and "does not need to know". Okay to talk to daughter Calla Tangen-Moyer at 417-555-0185. Pt asked us not to mention anything to neighbor Mrs. Ngata who works at the pharmacy.
+
+Advice per protocol: fluids, rest, sees provider Friday 11/24 at 10:30 for sputum test and exam. Goes to urgent care if worse. Call back if she gets a temp over 101.
+
+Copied from last note: Patient is a 56 y/o woman, stress, GAD-7 20, medications reconciled 11/10, last seen by Dr. Sorrento. GAD-7 score is 4 not 20.
+
+Dr. Aldermarsh said ok to book. Message to: Dr. Aldermarsh, cc Dalia Whitcombe, email d.whitcombe@cedarhollow.example.
+Documented by hbonsu 11/21/2062 09:58.
+</TEXT>
+<TAGS>
+<DATE id="P0" start="54" end="64" text="11/21/2062" TYPE="DATE" comment="" />
+<NAME id="P1" start="81" end="95" text="Marisol Tangen" TYPE="PATIENT" comment="" />
+<CONTACT id="P2" start="112" end="126" text="(417) 555-0172" TYPE="PHONE" comment="" />
+<NAME id="P3" start="139" end="152" text="Hartley Bonsu" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="450" end="455" text="11/17" TYPE="DATE" comment="" />
+<NAME id="P6" start="530" end="534" text="Bert" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="612" end="630" text="Calla Tangen-Moyer" TYPE="PATIENT" comment="" />
+<CONTACT id="P8" start="634" end="646" text="417-555-0185" TYPE="PHONE" comment="" />
+<NAME id="P9" start="696" end="706" text="Mrs. Ngata" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="784" end="790" text="Friday" TYPE="DATE" comment="" />
+<DATE id="P11" start="791" end="796" text="11/24" TYPE="DATE" comment="" />
+<AGE id="P12" start="938" end="940" text="56" TYPE="AGE" comment="" />
+<DATE id="P13" start="993" end="998" text="11/10" TYPE="DATE" comment="" />
+<NAME id="P14" start="1017" end="1025" text="Sorrento" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1057" end="1067" text="Aldermarsh" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1101" end="1111" text="Aldermarsh" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1116" end="1131" text="Dalia Whitcombe" TYPE="DOCTOR" comment="" />
+<CONTACT id="P18" start="1139" end="1170" text="d.whitcombe@cedarhollow.example" TYPE="EMAIL" comment="" />
+<NAME id="P19" start="1186" end="1192" text="hbonsu" TYPE="USERNAME" comment="" />
+<DATE id="P20" start="1193" end="1203" text="11/21/2062" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

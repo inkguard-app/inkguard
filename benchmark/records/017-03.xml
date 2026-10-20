@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HOSPITAL MEDICINE PROGRESS NOTE (SOAP)          Harrowgate Memorial Hospital
+CRANE, NOREEN F   MRN 0417-3306   DOB 02/09/2019   Page 1 of 3
+Date of svc: 06/05/2081   Unit: MICU Rm 6   HD#4
+Attending: Dr Ifeoma Adeyemi-Park
+
+.HPI  @NAME@ is a 62 y.o. female w/ opioid use d/o, prev OD, p/w OD 6/1 found by neighbor Mrs. Okafor-Lindqvist (called 911). ED 6/2 02:15 intubated, narcan x3. Admitted ICU.
+
+S: Intubated/sedated. No hx obtainable. Sister Delia Whitcomb at bedside, states pt was "diong so good" til Mother's Day. [pt's mtoher d. yrs ago] Sister requests no info to ex Lyle Ostrander. pt "Percy" to family.
+O: T 37.9 HR 104 BP 112/70 (sys 114 at last PCP visit) SpO2 94% on vent FiO2 40%. Wt 74.5 kg BMI 27.1 (stale, carrid from 10/08/2080 clniic). GCS 3T. Pupils 3mm sluggish. Lungs coarse R base. Abd soft. Skin: tattoo L forearm reads "Posy 04.17.2071" (niece, per sis). Old track marks neg.
+Labs: glucoose 74, WBC 7.7 [old], Hgb 16.3 [old], tot chol 314, LDL 234 (from 10/08/2080, never repeated). Tox + opioids. CK elevated, trending. CXR RLL infiltrate ?aspiration.
+A/P: 1. OD w/ resp failure - cont vent, wean sedation as tol'd. EEG ordered; neuro c/s. 2. ?asp PNA - amox-clav IV (hx amox-clav 09/26/2076 no rxn). 3. Opioid use d/o - addiction med c/s Dr Samir Vashisht; no MAT while intubated. 4. Hyperlipidemia - simvastatin 10 mg daily (listed, but stopped 08/31/2080 per phrmacy; HOLD anyway). 5. Osteoporosis, cont Ca/vit D. 6. Chronic migraine - hold. 7. DVT ppx hep SQ. 8. Code: FULL. Sister is surrogate per hospital policy, no HCPOA on file.
+
+Pasted from 6/4 note by Dr. Adeyemi-Park:
+HD3. Rm 412-B 4W (transferred to MICU 6/3 night, ignore). Pt seen. Intubated. Mrs Crane remains critical. Sister updated. Tox send-out pending. [TEMPLATE DEFAULT: Allergies: NKDA]  Electronically signed by Ifeoma Adeyemi-Park MD 06/04/2081 17:48
+
+Pasted from 6/2 ED note (Dr Marcus Eld):
+62F BIBA from 2218 Tallow Mill Rd, Apt 3B Zanesville. Found unresponsive. RR 4. Narcan intranasal by EMS x1, IV x2 in ED. Pt hx per EMR. Wrong pt line: "Hx of CABG 3/2073 - Alma Dreyfuss MRN 0388-2145" [removed, other pt, sorry]
+
+Electronically signed by Ifeoma Adeyemi-Park MD   06/05/2081 11:20
+Last edited by iadeyemipark on 6/5/2081 11:44 from 10.20.4.55
+Note ruted to: Tobias Renkel MD, Samir Vashisht MD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="48" end="76" text="Harrowgate Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="77" end="92" text="CRANE, NOREEN F" TYPE="PATIENT" comment="" />
+<ID id="P2" start="99" end="108" text="0417-3306" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="115" end="125" text="02/09/2019" TYPE="DATE" comment="" />
+<DATE id="P4" start="153" end="163" text="06/05/2081" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="172" end="176" text="MICU" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P6" start="180" end="181" text="6" TYPE="ROOM" comment="" />
+<NAME id="P7" start="203" end="222" text="Ifeoma Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="242" end="244" text="62" TYPE="AGE" comment="" />
+<DATE id="P9" start="292" end="295" text="6/1" TYPE="DATE" comment="" />
+<NAME id="P10" start="314" end="335" text="Mrs. Okafor-Lindqvist" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="353" end="356" text="6/2" TYPE="DATE" comment="" />
+<NAME id="P12" start="447" end="461" text="Delia Whitcomb" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="508" end="520" text="Mother's Day" TYPE="DATE" comment="" />
+<NAME id="P14" start="577" end="591" text="Lyle Ostrander" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="597" end="602" text="Percy" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="737" end="747" text="10/08/2080" TYPE="DATE" comment="" />
+<NAME id="P17" start="847" end="851" text="Posy" TYPE="PATIENT" comment="" />
+<DATE id="P18" start="852" end="862" text="04.17.2071" TYPE="DATE" comment="" />
+<DATE id="P19" start="981" end="991" text="10/08/2080" TYPE="DATE" comment="" />
+<DATE id="P20" start="1209" end="1219" text="09/26/2076" TYPE="DATE" comment="" />
+<NAME id="P21" start="1270" end="1284" text="Samir Vashisht" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="1375" end="1385" text="08/31/2080" TYPE="DATE" comment="" />
+<DATE id="P23" start="1579" end="1582" text="6/4" TYPE="DATE" comment="" />
+<NAME id="P24" start="1591" end="1607" text="Dr. Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<LOCATION id="P25" start="1617" end="1622" text="412-B" TYPE="ROOM" comment="" />
+<DATE id="P26" start="1647" end="1650" text="6/3" TYPE="DATE" comment="" />
+<NAME id="P27" start="1691" end="1696" text="Crane" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="1815" end="1834" text="Ifeoma Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1838" end="1848" text="06/04/2081" TYPE="DATE" comment="" />
+<DATE id="P30" start="1868" end="1871" text="6/2" TYPE="DATE" comment="" />
+<NAME id="P31" start="1884" end="1894" text="Marcus Eld" TYPE="DOCTOR" comment="" />
+<AGE id="P32" start="1897" end="1899" text="62" TYPE="AGE" comment="" />
+<LOCATION id="P33" start="1911" end="1938" text="2218 Tallow Mill Rd, Apt 3B" TYPE="STREET" comment="" />
+<LOCATION id="P34" start="1939" end="1949" text="Zanesville" TYPE="CITY" comment="" />
+<DATE id="P35" start="2061" end="2067" text="3/2073" TYPE="DATE" comment="" />
+<NAME id="P36" start="2070" end="2083" text="Alma Dreyfuss" TYPE="PATIENT" comment="" />
+<ID id="P37" start="2088" end="2097" text="0388-2145" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P38" start="2152" end="2171" text="Ifeoma Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<DATE id="P39" start="2177" end="2187" text="06/05/2081" TYPE="DATE" comment="" />
+<NAME id="P40" start="2209" end="2221" text="iadeyemipark" TYPE="USERNAME" comment="" />
+<DATE id="P41" start="2225" end="2233" text="6/5/2081" TYPE="DATE" comment="" />
+<CONTACT id="P42" start="2245" end="2255" text="10.20.4.55" TYPE="IPADDR" comment="" />
+<NAME id="P43" start="2271" end="2284" text="Tobias Renkel" TYPE="DOCTOR" comment="" />
+<NAME id="P44" start="2289" end="2303" text="Samir Vashisht" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

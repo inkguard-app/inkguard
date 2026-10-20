@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>NORTHGATE DAY SURGERY UNIT -- OPERATIVE NOTE
+ADEBAYO-MARSH, NGOZI   MRN RLE-0508831   DOB 03/09/2008   Page 1 of 2
+
+Pre-op intake (done by volunteer, Bryony checked it)
+- Pt Ngozi came in at 0640 on Monday the 16th of August 2060 -&gt;  she was **super chill** but a bit nervous about the scope
+- Name on wristband: Ngozi Adebayo Marsh  (wristband matches chart, checked x2)
+- Address on file: 214 Birchmount Crescent, Unit 6, Scarborough, Ontario M1K 3L9, Canada
+- Ride home: friend Orla Pennington, cell (416) 555-0193
+In conclusion, the patient's journey today began with fasting and ended, we hope, with a clean bowel.
+
+[x] Consent signed  [x] Allergies reviewed  [ ] Dentures removed (name of nurse: Dilnoza Rakhimova)
+
+PROCEDURE: Colonoscopy with snare polypectomy, rectum.
+SURGEON: Dr. Lorcan O'Briain   ANAESTHESIA: Dr. Wendell Hobbs, MAC
+INDICATION: recurrent rectal polyp, prior colon polyp removed Feb 2058; pt is 52 y.o. woman w/ prediabetes, anemia and asthma (well controled, no inhalers needed today).
+
+DESCRIPTION: Prep was good. Scope passed to cecum without difficulty, ileum entered. One 9 mm sessile polyp at 6 cm from the anal verge, lifted w/ saline and removed en bloc by hot snare. Base looked clean. No bleeding. Specimen to path, jar labelled NAM080309-P2, sent to the lab at Rosedale. Pt tolerated well, to recovery in stable condition.
+
+pt's DOB on the specimen req reads 09/03/2008 -- day and month are flipped vs the chart, will fix.
+
+PLAN: Resume diet. Repeat colonoscopy in 3 yrs unless path says otherwise. Results to Dr. Samuel Achterberg (family physician) and endocrinology (Dr. Priyanka Venkatraman). Pt's mother Chinwe Adebayo in Lagos, Nigeria wants updates by phone -- pt declined, said no.
+
+Electronically signed by Lorcan O'Briain, MD on 08/16/2060 11:42
+Last edited by bteague on 8/16/2060 12:05 from 10.20.4.55
+ADEBAYO-MARSH, NGOZI   MRN RLE-0508831   Page 2 of 2
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="26" text="NORTHGATE DAY SURGERY UNIT" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="45" end="58" text="ADEBAYO-MARSH" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="60" end="65" text="NGOZI" TYPE="PATIENT" comment="" />
+<ID id="P3" start="72" end="83" text="RLE-0508831" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="90" end="100" text="03/09/2008" TYPE="DATE" comment="" />
+<NAME id="P5" start="150" end="156" text="Bryony" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="174" end="179" text="Ngozi" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="199" end="205" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P8" start="210" end="214" text="16th" TYPE="DATE" comment="" />
+<DATE id="P9" start="218" end="224" text="August" TYPE="DATE" comment="" />
+<DATE id="P10" start="225" end="229" text="2060" TYPE="DATE" comment="" />
+<NAME id="P11" start="313" end="332" text="Ngozi Adebayo Marsh" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="391" end="422" text="214 Birchmount Crescent, Unit 6" TYPE="STREET" comment="" />
+<LOCATION id="P13" start="424" end="435" text="Scarborough" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="437" end="444" text="Ontario" TYPE="STATE" comment="" />
+<LOCATION id="P15" start="445" end="452" text="M1K 3L9" TYPE="ZIP" comment="" />
+<LOCATION id="P16" start="454" end="460" text="Canada" TYPE="COUNTRY" comment="" />
+<NAME id="P17" start="481" end="496" text="Orla Pennington" TYPE="PATIENT" comment="" />
+<CONTACT id="P18" start="503" end="517" text="(416) 555-0193" TYPE="PHONE" comment="" />
+<NAME id="P19" start="702" end="719" text="Dilnoza Rakhimova" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="790" end="805" text="Lorcan O'Briain" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="825" end="838" text="Wendell Hobbs" TYPE="DOCTOR" comment="" />
+<DATE id="P22" start="906" end="914" text="Feb 2058" TYPE="DATE" comment="" />
+<AGE id="P23" start="922" end="924" text="52" TYPE="AGE" comment="" />
+<ID id="P24" start="1266" end="1278" text="NAM080309-P2" TYPE="DEVICE" comment="" />
+<LOCATION id="P25" start="1299" end="1307" text="Rosedale" TYPE="ORGANIZATION" comment="" />
+<DATE id="P26" start="1397" end="1407" text="09/03/2008" TYPE="DATE" comment="" />
+<NAME id="P27" start="1552" end="1569" text="Samuel Achterberg" TYPE="DOCTOR" comment="" />
+<NAME id="P28" start="1612" end="1632" text="Priyanka Venkatraman" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="1647" end="1661" text="Chinwe Adebayo" TYPE="PATIENT" comment="" />
+<LOCATION id="P30" start="1665" end="1670" text="Lagos" TYPE="CITY" comment="" />
+<LOCATION id="P31" start="1672" end="1679" text="Nigeria" TYPE="COUNTRY" comment="" />
+<NAME id="P32" start="1754" end="1769" text="Lorcan O'Briain" TYPE="DOCTOR" comment="" />
+<DATE id="P33" start="1777" end="1787" text="08/16/2060" TYPE="DATE" comment="" />
+<NAME id="P34" start="1809" end="1816" text="bteague" TYPE="USERNAME" comment="" />
+<DATE id="P35" start="1820" end="1829" text="8/16/2060" TYPE="DATE" comment="" />
+<CONTACT id="P36" start="1841" end="1851" text="10.20.4.55" TYPE="IPADDR" comment="" />
+<NAME id="P37" start="1852" end="1865" text="ADEBAYO-MARSH" TYPE="PATIENT" comment="" />
+<NAME id="P38" start="1867" end="1872" text="NGOZI" TYPE="PATIENT" comment="" />
+<ID id="P39" start="1879" end="1890" text="RLE-0508831" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

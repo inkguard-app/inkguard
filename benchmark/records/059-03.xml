@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EASTBANK PAEDIATRIC ASSOCIATES                          Referral REF-2068-0419-77
+Date: 19 April 2068
+
+To: Pia Holt, MD (ENT) and Saga Berg, AuD
+    Lakeshore ENT and Audiology
+From: Autumn Lowe, MD
+
+Re: LINDQVIST, RIVER N   DOB 2 Nov 2065   2 yrs 5 months
+Parents: Amaka and Sven Lindquist   Tel (612) 555-0119
+
+Dear Dr Holt,
+
+Reason for referral:
+- Right acute otitis media July 2067, treated with cefuroxime, effusion documented as cleared at the 27 Oct 2067 visit
+- Since then: bronchitis April 2068 (resolved), no more ear infections.
+- Mother worries about hearing, River "doesnt respond when called from other rooms" but speech is good, 2-word to short sentences, bilingual (English, Igbo with Ifeoma and some Swedish with father's mother)
+- Please do formal audiology and tympanometry. ENT review if effusion present.
+
+Findings today (Thursday): wt 13.6 kg, BMI 17.2, BP 113/77, pain 2/10. Both TMs normal on otoscopy. Medication reconciliation done: no regular meds.
+
+Family history of early hearing loss: none known. Paternal grandmother Birgitta Lindqvist (Gothenburg, Sweden, Storgatan 14, 411 38 Göteborg) wears hearing aids from age 70.
+The family may be travelling to Manchester, UK in the summer to see Chidinma Okafor (14 Albion Road, Chorlton, M21 8XY) so if possible before mid-June.
+
+Insurance: MN-8840-2217-3
+
+Kind regards,
+Autumn Lowes, MD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="30" text="EASTBANK PAEDIATRIC ASSOCIATES" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="65" end="81" text="REF-2068-0419-77" TYPE="IDNUM" comment="" />
+<DATE id="P2" start="88" end="101" text="19 April 2068" TYPE="DATE" comment="" />
+<NAME id="P3" start="107" end="115" text="Pia Holt" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="130" end="139" text="Saga Berg" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="149" end="176" text="Lakeshore ENT and Audiology" TYPE="ORGANIZATION" comment="" />
+<NAME id="P6" start="183" end="194" text="Autumn Lowe" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="204" end="222" text="LINDQVIST, RIVER N" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="229" end="239" text="2 Nov 2065" TYPE="DATE" comment="" />
+<AGE id="P9" start="242" end="243" text="2" TYPE="AGE" comment="" />
+<AGE id="P10" start="248" end="256" text="5 months" TYPE="AGE" comment="" />
+<NAME id="P11" start="266" end="271" text="Amaka" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="276" end="290" text="Sven Lindquist" TYPE="PATIENT" comment="" />
+<CONTACT id="P13" start="297" end="311" text="(612) 555-0119" TYPE="PHONE" comment="" />
+<NAME id="P14" start="321" end="325" text="Holt" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="376" end="385" text="July 2067" TYPE="DATE" comment="" />
+<DATE id="P16" start="450" end="461" text="27 Oct 2067" TYPE="DATE" comment="" />
+<DATE id="P17" start="493" end="503" text="April 2068" TYPE="DATE" comment="" />
+<NAME id="P18" start="701" end="707" text="Ifeoma" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="843" end="851" text="Thursday" TYPE="DATE" comment="" />
+<NAME id="P20" start="1048" end="1066" text="Birgitta Lindqvist" TYPE="PATIENT" comment="" />
+<LOCATION id="P21" start="1080" end="1086" text="Sweden" TYPE="COUNTRY" comment="" />
+<LOCATION id="P22" start="1088" end="1100" text="Storgatan 14" TYPE="STREET" comment="" />
+<LOCATION id="P23" start="1102" end="1108" text="411 38" TYPE="ZIP" comment="" />
+<LOCATION id="P24" start="1109" end="1117" text="Göteborg" TYPE="CITY" comment="" />
+<AGE id="P25" start="1147" end="1149" text="70" TYPE="AGE" comment="" />
+<LOCATION id="P26" start="1183" end="1193" text="Manchester" TYPE="CITY" comment="" />
+<LOCATION id="P27" start="1195" end="1197" text="UK" TYPE="COUNTRY" comment="" />
+<NAME id="P28" start="1219" end="1234" text="Chidinma Okafor" TYPE="PATIENT" comment="" />
+<LOCATION id="P29" start="1236" end="1250" text="14 Albion Road" TYPE="STREET" comment="" />
+<LOCATION id="P30" start="1262" end="1269" text="M21 8XY" TYPE="ZIP" comment="" />
+<DATE id="P31" start="1293" end="1301" text="mid-June" TYPE="DATE" comment="" />
+<ID id="P32" start="1315" end="1329" text="MN-8840-2217-3" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P33" start="1345" end="1357" text="Autumn Lowes" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

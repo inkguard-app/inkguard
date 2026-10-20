@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE NOTE (template: procedures - dental / oral)
+Gentle Hands Family Dentistry   Chart #GH-55120
+Patient name: Marcus Elias Wren     DOB: 11/02/2050     Procedure date: 03/19/2076
+Surgeon: Dr. Hamish Grieve, DDS     Assistant: Ruth Ellery RDH
+Preoperative diagnosis: Gingivitis, generalised, with calculus
+Postoperative diagnosis: Same
+Procedure: Oral exam, bitewing radiographs, supragingival and subgingival scaling all quadrants, oral hygiene instruction.
+Anesthesia: Topical only. Pt tolerated well.
+Findings: Heavy calculus lower anteriors, bleeding on probing throughout, probing depths 3-4 mm, no mobility, no abscess. Two small areas of early decay noted to be watched.
+Description: after verbal consent the patient was seated and the area was prep and draped.... The ultrasonic scaler was used for the supragingival deposits then hand instruments for subgingival, all four quadrants. Irrigated with chlorhexidine. Hemostasis ok. Pt was given a new brush and floss and shown technique, his wife Tamsin was present for the teaching because she "does the flossing for both of us".
+Complications: none. Estimated blood loss: minimal.
+Disposition: home. Recall 6 mos. Letter to ED coordinator Linda Szabo - done.
+Note: Pt reports hes doing better, drinking "almost nothing", job interview went ok.  Update the med list: no meds.
+
+Dictated by Hamish Grieve DDS 03/19/2076  Transcribed by Ruth Ellery - not proofed
+Referred by: Priyanka Venkataraghavan / ED Care Coordination
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="54" end="83" text="Gentle Hands Family Dentistry" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="93" end="101" text="GH-55120" TYPE="ACCOUNT" comment="" />
+<NAME id="P2" start="116" end="133" text="Marcus Elias Wren" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="143" end="153" text="11/02/2050" TYPE="DATE" comment="" />
+<DATE id="P4" start="174" end="184" text="03/19/2076" TYPE="DATE" comment="" />
+<NAME id="P5" start="198" end="211" text="Hamish Grieve" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="232" end="243" text="Ruth Ellery" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="1008" end="1014" text="Tamsin" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="1202" end="1213" text="Linda Szabo" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1351" end="1364" text="Hamish Grieve" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="1369" end="1379" text="03/19/2076" TYPE="DATE" comment="" />
+<NAME id="P11" start="1396" end="1407" text="Ruth Ellery" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1435" end="1459" text="Priyanka Venkataraghavan" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="1462" end="1482" text="ED Care Coordination" TYPE="DEPARTMENT" comment="" />
+</TAGS>
+</deIdi2b2>

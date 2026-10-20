@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL - HOSPICE ADMISSION
+Willowmere Hospice House                 Page 1 of 2
+TEIXEIRA-BRANDT, MARISOL   MRN 5530-2271   DOB 03/19/2028
+
+Date of admission: 11/04/2071
+Attending: Rahul Menon-Doyle, MD       Nurse: Sunita Achterberg, RN
+Room: Rm 6, Garden Wing
+HPI: @NAME@ is a 43 y.o. female with metastatic colon cancer since September 2069, treated with FOLFOX-type chemo and then progressed. Admitted from home, 47 Alder Wharf Road, Duluth, because she can no longer manage, per her friend Rose Frost who has been staying over since Oct 2071.
+
+S: Pain 6-7/10 abdomen, nausea, no bowel movement 4 days. Sleeps most of day. "I just want mum to know." Sister Beatriz Teixeira-Brandt flew in from Toronto and is at bedside; mother Conceicao Teixeira on video from Portugal.
+Meds on admission: Jolivette (norethindrone) since 11/02/2071, Mirena IUD removed same day [stale?? still listed in the copy-forward below], morphine, ondansetron.
+ 
+&gt;&gt;&gt; pasted from clinic note
+Contraception care visit 11/02/2070. Mirena placed. Pt single, no children. Patient: Glenda Marsh, DOB 07/09/2031, MRN 4418-0092 - tolerating well. (wrong chart?)
+Pt lives with partner Dagfinn Brandt &lt;- OLD, they separated.
+
+O: T 36.8 BP 92/58 HR 104. Cachectic, jaundice mild, abdomen distended and tender RUQ, liver edge palpable. Alert but drowsy.
+A: End stage metastatic colorectal cancer, hospice appropriate.
+P: Comfort care. DNR confirmed with pt. Chaplain. Family meeting Friday.
+
+Page 2 of 2   TEIXEIRA-BRANDT, MARISOL
+Electronicaly signed by Rahul Menon-Doyle 11/04/2071 19:40
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="41" end="65" text="Willowmere Hospice House" TYPE="HOSPITAL" comment="" />
+<ID id="P1" start="125" end="134" text="5530-2271" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="141" end="151" text="03/19/2028" TYPE="DATE" comment="" />
+<DATE id="P3" start="172" end="182" text="11/04/2071" TYPE="DATE" comment="" />
+<NAME id="P4" start="194" end="211" text="Rahul Menon-Doyle" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="229" end="246" text="Sunita Achterberg" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="257" end="274" text="Rm 6, Garden Wing" TYPE="ROOM" comment="" />
+<AGE id="P7" start="292" end="294" text="43" TYPE="AGE" comment="" />
+<DATE id="P8" start="342" end="356" text="September 2069" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="430" end="449" text="47 Alder Wharf Road" TYPE="STREET" comment="" />
+<LOCATION id="P10" start="451" end="457" text="Duluth" TYPE="CITY" comment="" />
+<NAME id="P11" start="508" end="518" text="Rose Frost" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="551" end="559" text="Oct 2071" TYPE="DATE" comment="" />
+<NAME id="P13" start="674" end="697" text="Beatriz Teixeira-Brandt" TYPE="PATIENT" comment="" />
+<LOCATION id="P14" start="711" end="718" text="Toronto" TYPE="CITY" comment="" />
+<NAME id="P15" start="745" end="763" text="Conceicao Teixeira" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="839" end="849" text="11/02/2071" TYPE="DATE" comment="" />
+<DATE id="P17" start="1007" end="1017" text="11/02/2070" TYPE="DATE" comment="" />
+<NAME id="P18" start="1067" end="1079" text="Glenda Marsh" TYPE="PATIENT" comment="" />
+<DATE id="P19" start="1085" end="1095" text="07/09/2031" TYPE="DATE" comment="" />
+<ID id="P20" start="1101" end="1110" text="4418-0092" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P21" start="1167" end="1181" text="Dagfinn Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="1462" end="1468" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P23" start="1534" end="1551" text="Rahul Menon-Doyle" TYPE="DOCTOR" comment="" />
+<DATE id="P24" start="1552" end="1562" text="11/04/2071" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

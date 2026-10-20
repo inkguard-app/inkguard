@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>EMERGENCY DEPARTMENT NOTE
+Harlan County General Hospital        05/24/2089 (Tuesday)
+CHANCE, SILAS H     MRN 7720-3146     DOB 02/19/1995
+
+CHIEF COMPLAINT: Found confused by a neighbor, sent in by ambulance, possible fall.
+
+HISTORY OF PRESENT ILLNESS: This is a 94 year old gentleman, a retired veteran, known to us as "Lucky" to everyone on the unit, with Alzheimer's disease diagnosed three years ago, chronic kidney disease stage 4 now on dialysis, essential hypertension, prostate neoplasm, metabolic syndrome, asthma, chronic back and neck pain and a remote history of alcohol dependence. He lives alone in a first floor apartment and is not married. A neighbor found him on the stairs this morning, sitting, agitated, saying he was "looking for the bus", and called 911. He cannot give a history. There is no witnessed fall. His niece, who is his emergency contact, was reached by phone and says he was normal on Sunday and had his dialysis last week. There was no headache complaint, no vomiting, and no loss of bowel or bladder control reported. Mere chance that he was found at all, the paramedic said.
+
+PAST MEDICAL HISTORY AND MEDICATIONS: As above. Current medications on arrival, reconciled from the pharmacy bag: galantamine, and an erythropoiesis injection given at dialysis. The pharmacy list also still carried insulin, amlodipine, a steroid inhaler and albuterol from 10 years ago, which I have not continued. Allergies none known. 
+
+PHYSICAL EXAMINATION: Blood pressure 156/107, pain 2 out of 10, weight 91.2 kg, BMI 28.3. Elderly man, disoriented to place and time but not to person, cooperative, in no distress. Head atraumatic. Pupils equal. Chest clear. Heart regular. Abdomen soft. Extremities with no edema. No focal weakness. Morse fall scale high risk. GAD-7 11 as answered with help.
+
+DATA: Creatinine 2.3, eGFR 26.6, glucose 87.6. Hemoglobin A1c reported as 3.2 percent which is not believable with his anemia and kidney disease and I would not act on it. CT head without contrast shows no acute bleed.
+
+ASSESSMENT AND PLAN: Acute on chronic confusion, most likely delirium on dementia, no obvious trigger, no infection found. Elevated pressure. Observation overnight, fall precautions, sitter, social work for placement discussion, outpatient dental referral since he has broken teeth and poor oral hygiene. Niece is aware.
+
+Dictated but not read.
+Edmund Prewitt, MD    Emergency Medicine    Dictated 05/24/2089    Transcribed 05/24 by SR    Signed electronically
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="26" end="56" text="Harlan County General Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="64" end="74" text="05/24/2089" TYPE="DATE" comment="" />
+<DATE id="P2" start="76" end="83" text="Tuesday" TYPE="DATE" comment="" />
+<NAME id="P3" start="85" end="100" text="CHANCE, SILAS H" TYPE="PATIENT" comment="" />
+<ID id="P4" start="109" end="118" text="7720-3146" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="127" end="137" text="02/19/1995" TYPE="DATE" comment="" />
+<AGE id="P6" start="262" end="264" text="94" TYPE="AGE" comment="" />
+<NAME id="P7" start="320" end="325" text="Lucky" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="919" end="925" text="Sunday" TYPE="DATE" comment="" />
+<NAME id="P9" start="2378" end="2392" text="Edmund Prewitt" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="2431" end="2441" text="05/24/2089" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

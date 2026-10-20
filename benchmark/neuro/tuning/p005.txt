@@ -1,0 +1,39 @@
+NEUROSURGERY ADMISSION NOTE — SUBARACHNOID HEMORRHAGE
+{{FACILITY|Quillon Bay General Hospital}} NeuroICU
+Pt: {{NAME|Bernadette Hunt}}   MRN {{MRN|QBG-00981237}}   Adm {{DATE|05/27/2070}} 02:40
+
+59 F, sudden [[thunderclap headache]] while gardening, brief LOC, vomiting. Arrived via EMS. On arrival [[GCS 13 (E3V4M6)]], [[meningismus]], no focal motor deficit, [[right pupil 4 mm sluggish]] with [[partial third nerve palsy]] (ptosis, eye down and out).
+
+Grading: [[Hunt-Hess grade 3]], [[WFNS grade 2]]. [[Modified Fisher grade 3]] (thick cisternal SAH, no IVH). Note: Mrs. {{NAME|Hunt}} is not related to the [[Hunt]] of [[Hunt-Hess]] (she asked).
+
+[[CTA head]]: 7 mm [[right posterior communicating artery aneurysm]], dome directed posterolaterally, neck 3.5 mm, [[dome-to-neck ratio]] 2.0. Mild [[ventriculomegaly]], [[Evans index]] 0.31.
+
+Plan:
+- [[Nimodipine 60 mg PO q4h]] x21 days
+- SBP goal under 140 until secured ([[nicardipine infusion]])
+- [[Levetiracetam 500 mg BID]] x7 days
+- [[DSA]] this AM with [[3D rotational angiography]]; endovascular vs [[pterional craniotomy and clipping]] after neurovascular conference
+- Low threshold for [[external ventricular drain]] if GCS declines
+- [[Transcranial Doppler]] daily from day 3
+
+Husband {{NAME|Leopold Hunt}} {{PHONE|555-901-3348}}.
+Dr. {{NAME|Esperanza Villalobos}}, Neurosurgery
+=====NOTE=====
+OPERATIVE NOTE
+Patient {{NAME|Bernadette Hunt}}   MRN {{MRN|QBG-00981237}}   DOS {{DATE|05/27/2070}}
+Surgeon {{NAME|E. Villalobos}}
+
+Procedure: [[Right pterional craniotomy]] for clipping of [[ruptured right PComm aneurysm]]; [[lumbar drain]] placement.
+Positioning: supine, head rotated 30 degrees left, extended, in [[Mayfield clamp]]. [[MEP]] and [[SSEP]] baseline obtained.
+[[Sylvian fissure]] split widely under the microscope. [[Optico-carotid cistern]] opened, CSF released. Proximal control on the [[supraclinoid ICA]]. Aneurysm neck dissected; [[anterior choroidal artery]] identified and preserved, [[PComm]] patent. A 7 mm straight [[Yasargil titanium clip]] placed across the neck. [[ICG videoangiography]] confirmed complete occlusion of the sac and patency of the parent artery, PComm and AChA. [[Micro-Doppler]] concordant. Dome punctured — no refilling.
+Dura closed watertight. Bone replaced with [[low-profile titanium plates]].
+MEPs unchanged throughout.
+EBL 300 mL. Lumbar drain left at 10 mL/h.
+=====NOTE=====
+NICU PROGRESS — POST-BLEED DAY 6
+{{NAME|HUNT, B.}}  {{MRN|QBG-00981237}}  {{DATE|06/02/2070}}
+
+S: new word-finding difficulty since 0400, R hand clumsy.
+O: [[GCS 14]], new [[right pronator drift]], [[NIHSS 4]]. [[TCD]] L MCA mean flow velocity 168 cm/s, [[Lindegaard ratio]] 4.1 → moderate [[vasospasm]]. Na 131.
+[[CTP]]: prolonged [[Tmax]] in left MCA territory, CBV preserved. [[CTA]]: moderate left M1 narrowing.
+A/P: symptomatic [[delayed cerebral ischaemia]]. Induced hypertension (MAP goal 100-110 with [[norepinephrine]]), euvolaemia, continue [[nimodipine]]. To angio suite for [[intra-arterial verapamil 10 mg]] ± [[balloon angioplasty]]. [[Fludrocortisone 0.1 mg BID]] for [[cerebral salt wasting]]. Family updated by Dr. {{NAME|Moira Castellanos}} (NICU fellow).

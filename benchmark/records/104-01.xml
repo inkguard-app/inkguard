@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>*** FAX ***
+Berkshire Imaging Associates  -  Department of Radiology
+FROM: (413) 555-0116     06/04/86 16:52     PAGE 1 of 4
+
+TO:  Dr. Meera Vasudevan, Pittsfield Oncology Group
+FAX: (413) 555-0155        PHONE: (413) 555-0150
+FROM: Tyler Marsh, volunteer / MA, Radiology Records
+RE: WOJCIECHOWSKI, TADEUSZ M  DOB 03/09/1997  MRN 0093-6615   Accession BIA-86-0044913
+
+[x] URGENT   [ ] For review   [x] Please comment   [ ] Please recycle
+
+COVER MESSAGE: 
+Hi Dr. Vasudevan!!  "Mr. W." (Tadeusz) had his scans done on the third of June, so here is the final read, Dr. Solheim-Baptiste signed it a little while ago. Pt was super chill in the scanner room even tho he is almost 90 (he is 89, turning ninety in March!) and he told us about his time in the army. Vibes were good.
+In conclusion, the patient's journey today was a smooth one. Pls call me or Dr. S-B at ext. 4417 if the fax is hard to read, its a bit light on page 3.  Thankyou!!
+
+CONFIDENTIALITY NOTICE: This fax is intended only for the named recipent. If you have received it in error, please phone (413) 555-0116 and destroy it.
+
+------------------------------------------------------------
+FINAL REPORT - CT CHEST ABDOMEN PELVIS WITH CONTRAST AND BONE SCINTIGRAPHY
+Name: Wojciechowski, Tadeusz      Exam date: 6/3/2086      Referring: Dr. Vasudeven
+Dictated by: Ingrid Solheim-Baptiste, MD.  Dictated but not read.  Transcribed 06/04/2086.
+
+CLINICAL HISTORY: Eighty-nine year old gentleman with known prostate carcinoma, diagnosed March of this year, restaging.  Prior CABG, ischemic heart disease, CKD, diabetis.
+
+TECHNIQUE: Axial images were obtained from the thoracic inlet through the symphysis pubis following the administration of intravenous contrast, adjusted for the patients reduced eGFR. Whole body planar and SPECT images were obtained three hours following injection of technetium.
+
+FINDINGS: The prostate gland is enlarged and heterogenous with extension into the left seminal vesicle. There are multiple pelvic lymph nodes the largest measuring 1.4 cm in short axis in the left obterator chain. In the skeleton there are several foci of increased uptake, within the lumbar spine at L3 and L4, the right ileum and the left proximal femur, in keeping with osseous metastatic disease. The lungs are clear apart from some linear scaring at the bases which is old. Status post sternotomy with intact wires and coronary bypass graft clips.
+
+IMPRESSION: 1. Locally advanced prostate carcinoma with pelvic nodal and multifocal osseous metastasis.  2. No visceral metastasis. Recomend correlation with PSA and tissue sampling per Oncology.
+
+[DELETED by isolheim: "ileum"]  [INSERTED: "ilium"]
+[Comment by Gabriela Ostrowska, 4 June 2086: please confirm side, left vs right femur? query from tech]
+
+Electronically signed Ingrid Solheim-Baptiste MD  06/04/2086 16:31
+Faxed via Hillview Diagnostic Laboratory line (413) 555-0172 (wrong header, cover sheet should read Berkshire Imaging)
+WOJCIECHOWSKI, TADEUSZ M  MRN 0093-6615  Page 4 of 4
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="12" end="40" text="Berkshire Imaging Associates" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="45" end="68" text="Department of Radiology" TYPE="DEPARTMENT" comment="" />
+<CONTACT id="P2" start="75" end="89" text="(413) 555-0116" TYPE="PHONE" comment="" />
+<DATE id="P3" start="94" end="102" text="06/04/86" TYPE="DATE" comment="" />
+<NAME id="P4" start="135" end="150" text="Meera Vasudevan" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="152" end="177" text="Pittsfield Oncology Group" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P6" start="183" end="197" text="(413) 555-0155" TYPE="FAX" comment="" />
+<CONTACT id="P7" start="212" end="226" text="(413) 555-0150" TYPE="PHONE" comment="" />
+<NAME id="P8" start="233" end="244" text="Tyler Marsh" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="284" end="308" text="WOJCIECHOWSKI, TADEUSZ M" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="314" end="324" text="03/09/1997" TYPE="DATE" comment="" />
+<ID id="P11" start="330" end="339" text="0093-6615" TYPE="MEDICALRECORD" comment="" />
+<ID id="P12" start="352" end="366" text="BIA-86-0044913" TYPE="IDNUM" comment="" />
+<NAME id="P13" start="462" end="471" text="Vasudevan" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="480" end="482" text="W." TYPE="PATIENT" comment="" />
+<NAME id="P15" start="485" end="492" text="Tadeusz" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="516" end="533" text="the third of June" TYPE="DATE" comment="" />
+<NAME id="P17" start="566" end="582" text="Solheim-Baptiste" TYPE="DOCTOR" comment="" />
+<AGE id="P18" start="667" end="676" text="almost 90" TYPE="AGE" comment="" />
+<AGE id="P19" start="684" end="686" text="89" TYPE="AGE" comment="" />
+<AGE id="P20" start="696" end="702" text="ninety" TYPE="AGE" comment="" />
+<DATE id="P21" start="706" end="711" text="March" TYPE="DATE" comment="" />
+<NAME id="P22" start="854" end="857" text="S-B" TYPE="DOCTOR" comment="" />
+<CONTACT id="P23" start="861" end="870" text="ext. 4417" TYPE="PHONE" comment="" />
+<CONTACT id="P24" start="1060" end="1074" text="(413) 555-0116" TYPE="PHONE" comment="" />
+<NAME id="P25" start="1234" end="1256" text="Wojciechowski, Tadeusz" TYPE="PATIENT" comment="" />
+<DATE id="P26" start="1273" end="1281" text="6/3/2086" TYPE="DATE" comment="" />
+<NAME id="P27" start="1302" end="1311" text="Vasudeven" TYPE="DOCTOR" comment="" />
+<NAME id="P28" start="1325" end="1348" text="Ingrid Solheim-Baptiste" TYPE="DOCTOR" comment="" />
+<DATE id="P29" start="1391" end="1401" text="06/04/2086" TYPE="DATE" comment="" />
+<DATE id="P30" start="1494" end="1512" text="March of this year" TYPE="DATE" comment="" />
+<NAME id="P31" start="2622" end="2630" text="isolheim" TYPE="USERNAME" comment="" />
+<NAME id="P32" start="2674" end="2692" text="Gabriela Ostrowska" TYPE="DOCTOR" comment="" />
+<DATE id="P33" start="2694" end="2705" text="4 June 2086" TYPE="DATE" comment="" />
+<NAME id="P34" start="2789" end="2812" text="Ingrid Solheim-Baptiste" TYPE="DOCTOR" comment="" />
+<DATE id="P35" start="2817" end="2827" text="06/04/2086" TYPE="DATE" comment="" />
+<LOCATION id="P36" start="2844" end="2874" text="Hillview Diagnostic Laboratory" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P37" start="2880" end="2894" text="(413) 555-0172" TYPE="FAX" comment="" />
+<ID id="P38" start="2983" end="2992" text="0093-6615" TYPE="MEDICALRECORD" comment="" />
+</TAGS>
+</deIdi2b2>

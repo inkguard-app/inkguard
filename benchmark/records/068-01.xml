@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>FAIRHAVEN HEART AND VASCULAR INSTITUTE -- Radiology
+RADIOLOGY REPORT
+Name: OSTROWSKY, KALINDA M        MRN: 20-663108        DOB: 22.07.2057
+Exam: Chest radiograph PA and lateral        Accession: CXR-76-1220-0581
+Exam date/time: 12/20/2076 02:15        Ordering: Dr. Maeve Callaghan
+Reporting radiologist: Dr. Anneliese Vogt-Hartmann
+
+CLINICAL DETAILS: 19 yr old female, cough and fever, recent acute bronchitis. R/O pneumonia. Chronic pain syndrome on ibuprofen.
+
+COMPARISON: None available. Patient states a film was done at an outside hospital "in 2074" around the time of delivery.
+
+FINDINGS: The lungs are well expanded. There is mild perihilar peribronchial thickening, bilaterally, in keeping with bronchitis. No focal consolidation, effusion or pneumothorax. The heart is not enlarged, cardiothoracic ratio 0.44. Mediastinal contours normal. Osseous structures intact, mild straightening of the cervical lordosis noted on the lateral which fits her neck pain. Hila are unremarkable, the pulmonary vasculature is normal.
+
+IMPRESSION:
+1. Bronchitic change. No pneumonia.
+2. Normal heart size.
+
+Dictated with speech recognition (patient name heard as "oh strobe ski"). Please contact radiology if the report seems incomplete. Mid-December study, reported at night.
+
+Report prepared 12/20/2076, finalised Dec 21, 2076 by A. Vogt-Hartmann
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="38" text="FAIRHAVEN HEART AND VASCULAR INSTITUTE" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="42" end="51" text="Radiology" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="75" end="95" text="OSTROWSKY, KALINDA M" TYPE="PATIENT" comment="" />
+<ID id="P3" start="108" end="117" text="20-663108" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="130" end="140" text="22.07.2057" TYPE="DATE" comment="" />
+<ID id="P5" start="197" end="213" text="CXR-76-1220-0581" TYPE="IDNUM" comment="" />
+<DATE id="P6" start="230" end="240" text="12/20/2076" TYPE="DATE" comment="" />
+<NAME id="P7" start="268" end="283" text="Maeve Callaghan" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="311" end="334" text="Anneliese Vogt-Hartmann" TYPE="DOCTOR" comment="" />
+<AGE id="P9" start="354" end="356" text="19" TYPE="AGE" comment="" />
+<DATE id="P10" start="552" end="556" text="2074" TYPE="DATE" comment="" />
+<DATE id="P11" start="1232" end="1244" text="Mid-December" TYPE="DATE" comment="" />
+<DATE id="P12" start="1288" end="1298" text="12/20/2076" TYPE="DATE" comment="" />
+<DATE id="P13" start="1310" end="1322" text="Dec 21, 2076" TYPE="DATE" comment="" />
+<NAME id="P14" start="1326" end="1342" text="A. Vogt-Hartmann" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

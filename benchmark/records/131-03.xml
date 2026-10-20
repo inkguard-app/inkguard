@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Drumcondra Family Practice
+2 Rathmore Row, Dublin 9   Tel 01 555 0188   Fax 01 555 0189
+
+5th July 2085
+
+To: The Manager, Halvorsen Marine Supplies, Unit 6, Alexandra Quay Business Park, Dublin
+
+Re: Mr. River Demir, date of birth 14.09.2040, employee no. HM-0227
+
+Dear &lt;NAME&gt; Manager,   [template salutation, left in]
+Dear Mr. Halvorsen,
+
+I am writing at the request of my patient, Mr. Demir, regarding his working hours.
+
+- He has been under review since June 2085 for anaemia (low blood count). Investigations are ongoing and include an endoscopy on 16th July.
+- He should be certified unfit for work on 16th and 17th July 2085 for the procedure and recovery.
+- Until further notice, I advise a reduced schedule of no more than 20 hours per week, avoiding heavy lifting.
+- He was previously in full time work with you and would like to return to full hours when well.
+- No other medical detail is disclosed here, with his consent.
+
+His wife, Story Demir, has been informed of the date for transport only.
+
+Please contact my secretary, Wednesday Ní Bhriain, on the above number if you need to discuss. Yours sincerely,
+
+Dr. Justice Adeyemi-Ross
+General Practitioner, Drumcondra Family Practice
+MCRN 481227
+
+cc: patient; Bless Okoro, pharmacy; Celtic Mutual Health, claims, claims@celticmutual.example
+Sent by email Thursday 5/7 from drj.adeyemi@drumcondrafp.example
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="26" text="Drumcondra Family Practice" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="27" end="41" text="2 Rathmore Row" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="43" end="51" text="Dublin 9" TYPE="CITY" comment="" />
+<CONTACT id="P3" start="58" end="69" text="01 555 0188" TYPE="PHONE" comment="" />
+<CONTACT id="P4" start="76" end="87" text="01 555 0189" TYPE="FAX" comment="" />
+<DATE id="P5" start="89" end="102" text="5th July 2085" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="121" end="146" text="Halvorsen Marine Supplies" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P7" start="148" end="184" text="Unit 6, Alexandra Quay Business Park" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="186" end="192" text="Dublin" TYPE="CITY" comment="" />
+<NAME id="P9" start="202" end="213" text="River Demir" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="229" end="239" text="14.09.2040" TYPE="DATE" comment="" />
+<ID id="P11" start="254" end="261" text="HM-0227" TYPE="IDNUM" comment="" />
+<NAME id="P12" start="326" end="335" text="Halvorsen" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="385" end="390" text="Demir" TYPE="PATIENT" comment="" />
+<DATE id="P14" start="455" end="464" text="June 2085" TYPE="DATE" comment="" />
+<DATE id="P15" start="551" end="560" text="16th July" TYPE="DATE" comment="" />
+<DATE id="P16" start="605" end="628" text="16th and 17th July 2085" TYPE="DATE" comment="" />
+<NAME id="P17" start="943" end="954" text="Story Demir" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1036" end="1056" text="Wednesday Ní Bhriain" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1124" end="1144" text="Justice Adeyemi-Ross" TYPE="DOCTOR" comment="" />
+<LOCATION id="P20" start="1167" end="1193" text="Drumcondra Family Practice" TYPE="ORGANIZATION" comment="" />
+<ID id="P21" start="1199" end="1205" text="481227" TYPE="LICENSE" comment="" />
+<NAME id="P22" start="1220" end="1231" text="Bless Okoro" TYPE="DOCTOR" comment="" />
+<LOCATION id="P23" start="1243" end="1263" text="Celtic Mutual Health" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P24" start="1273" end="1300" text="claims@celticmutual.example" TYPE="EMAIL" comment="" />
+<DATE id="P25" start="1315" end="1323" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P26" start="1324" end="1327" text="5/7" TYPE="DATE" comment="" />
+<CONTACT id="P27" start="1333" end="1365" text="drj.adeyemi@drumcondrafp.example" TYPE="EMAIL" comment="" />
+</TAGS>
+</deIdi2b2>

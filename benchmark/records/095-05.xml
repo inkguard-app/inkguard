@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE                                          Harbor Light Hospice, inpatient unit
+Patient: MENSAH, JUSTICE KOFI     DOB 09/22/1972     Age 89     MRN GR-0477123     Room Rm 6
+Date and time of death: 4/19 02:15 (04/19/2062), pronounced by Faith Quarshie, MD
+Hospice admission 3/22/2062; hospice care day 29.
+Attending hospice RN: Gift Lamptey
+Cause of death: end-stage renal disease due to diabetic kidney disease, failed renal transplant (2057). Contributing: CAD, hx MI.
+Circumstances: died peacefully, family at bedside - wife Mercy Mensah, son Prince Mensah, daughter Gifty, grandson Skye Boateng. Brother Nana Kwesi joined by video from Accra (Ghana). No resuscitation attempted (DNR since mid-March? no, 3/22).
+Exam: no pulse, no heart sounds x 2 min, pupils fixed.
+Next of kin notified: Mercy was present. Family asked to wait until his birthday month? He was born the 22nd of September. Funeral to be held Friday (Kofi's day) at Evergreen Memorial Funeral Home.
+Memorial: https page https://remember.evergreenmemorial.example/justice-mensah; donations in lieu to the Justice Mensah Scholarship Fund, c/o Mensah Cargo &amp; Freight.
+Organ/tissue donation: declined (age). Autopsy: declined.
+Medical examiner: not required.
+Remains released 04/19/2062 09:40 to funeral home. Belongings: ring, rosary, glasses given to wife. Death cert: pending, to be signed by Faith Quarshie.
+&gt;&gt;&gt; pasted from prior hospice note 4/12/2062: "pt comfortable, family at bedside, Pastor Lucky visited" &lt;&lt;&lt;
+Electronically signed Faith Quarshie, MD   04/19/2062 03:30
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="52" end="72" text="Harbor Light Hospice" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="98" end="118" text="MENSAH, JUSTICE KOFI" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="127" end="137" text="09/22/1972" TYPE="DATE" comment="" />
+<AGE id="P3" start="146" end="148" text="89" TYPE="AGE" comment="" />
+<ID id="P4" start="157" end="167" text="GR-0477123" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P5" start="177" end="181" text="Rm 6" TYPE="ROOM" comment="" />
+<DATE id="P6" start="206" end="210" text="4/19" TYPE="DATE" comment="" />
+<DATE id="P7" start="218" end="228" text="04/19/2062" TYPE="DATE" comment="" />
+<NAME id="P8" start="245" end="259" text="Faith Quarshie" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="282" end="291" text="3/22/2062" TYPE="DATE" comment="" />
+<NAME id="P10" start="336" end="348" text="Gift Lamptey" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="446" end="450" text="2057" TYPE="DATE" comment="" />
+<NAME id="P12" start="536" end="548" text="Mercy Mensah" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="554" end="567" text="Prince Mensah" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="578" end="583" text="Gifty" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="594" end="606" text="Skye Boateng" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="616" end="626" text="Nana Kwesi" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="648" end="653" text="Accra" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="655" end="660" text="Ghana" TYPE="COUNTRY" comment="" />
+<DATE id="P19" start="701" end="710" text="mid-March" TYPE="DATE" comment="" />
+<DATE id="P20" start="716" end="720" text="3/22" TYPE="DATE" comment="" />
+<NAME id="P21" start="800" end="805" text="Mercy" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="878" end="899" text="the 22nd of September" TYPE="DATE" comment="" />
+<DATE id="P23" start="920" end="926" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P24" start="928" end="932" text="Kofi" TYPE="PATIENT" comment="" />
+<LOCATION id="P25" start="943" end="974" text="Evergreen Memorial Funeral Home" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P26" start="997" end="1054" text="https://remember.evergreenmemorial.example/justice-mensah" TYPE="URL" comment="" />
+<LOCATION id="P27" start="1081" end="1112" text="Justice Mensah Scholarship Fund" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P28" start="1118" end="1140" text="Mensah Cargo &amp; Freight" TYPE="ORGANIZATION" comment="" />
+<DATE id="P29" start="1249" end="1259" text="04/19/2062" TYPE="DATE" comment="" />
+<NAME id="P30" start="1369" end="1383" text="Faith Quarshie" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="1420" end="1429" text="4/12/2062" TYPE="DATE" comment="" />
+<NAME id="P32" start="1474" end="1479" text="Lucky" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="1515" end="1529" text="Faith Quarshie" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="1536" end="1546" text="04/19/2062" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

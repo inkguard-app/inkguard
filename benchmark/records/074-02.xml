@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Saltmarsh Regional Medical Center
+Oncology Clinic, 2nd Floor
+ 
+October 14, 2069
+
+Northline Health Plan - Utilization Review
+Attn: Claims dept
+Member: Marisol Texeira-Brandt     Member ID NHP-88213407-02
+Claim ref: CLM-2069-0098831
+
+Dear [INSURER_CONTACT],
+
+RE: Prior authorisation for chemotherapy (oxaliplatin and leucovorin regimen), pt Marisol Teixeira-Brandt, date of birth 03/19/2028.
+
+I am writing on behalf of Dr. Tomasz Varga to request urgent approval of the above. Ms. Teixeira-Brandt is a 41-year-old woman who presented in August 2069 with rectal bleeding, and on 09/24/2069 was found to have metastatic cancer of the colon with liver involvement. The first infusion was given on 10/06/2069 (we did not wait for auth, pt was in pain 7/10).
+
+[Deleted by jkowalczyk: Dear Mrs. Dagfinn Brandt]  &lt;- left in by mistake, ignore, that is an old template from another file
+
+Her employment ended in 2066 and she now freelances as a translator, so she has no employer coverage and the plan is her only coverage. Please do not delay. her kidneys (eGFR 25) mean the dose may need adjusting, which I will discuss with the pharacist.
+
+Please fax decision to (218) 555-0177 or call (218) 555-0120 ext 4. Patient lives at 47 Alder Wharf Road, Duluth, MN 55802.
+
+Sincerely,
+
+Jenna Kowalczyk, medical assistant
+for Tomasz Varga, MD (dictated, not read)
+cc: Marisol Teixeira-Brandt; chart; Eastgate Women's Health Associates
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="33" text="Saltmarsh Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="34" end="49" text="Oncology Clinic" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="63" end="79" text="October 14, 2069" TYPE="DATE" comment="" />
+<NAME id="P3" start="150" end="172" text="Marisol Texeira-Brandt" TYPE="PATIENT" comment="" />
+<ID id="P4" start="187" end="202" text="NHP-88213407-02" TYPE="HEALTHPLAN" comment="" />
+<ID id="P5" start="214" end="230" text="CLM-2069-0098831" TYPE="IDNUM" comment="" />
+<NAME id="P6" start="339" end="362" text="Marisol Teixeira-Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="378" end="388" text="03/19/2028" TYPE="DATE" comment="" />
+<NAME id="P8" start="421" end="433" text="Tomasz Varga" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="479" end="494" text="Teixeira-Brandt" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="500" end="502" text="41" TYPE="AGE" comment="" />
+<DATE id="P11" start="535" end="546" text="August 2069" TYPE="DATE" comment="" />
+<DATE id="P12" start="576" end="586" text="09/24/2069" TYPE="DATE" comment="" />
+<DATE id="P13" start="692" end="702" text="10/06/2069" TYPE="DATE" comment="" />
+<NAME id="P14" start="787" end="801" text="Dagfinn Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="902" end="906" text="2066" TYPE="DATE" comment="" />
+<PROFESSION id="P16" start="935" end="945" text="translator" TYPE="PROFESSION" comment="" />
+<CONTACT id="P17" start="1156" end="1170" text="(218) 555-0177" TYPE="FAX" comment="" />
+<CONTACT id="P18" start="1179" end="1193" text="(218) 555-0120" TYPE="PHONE" comment="" />
+<LOCATION id="P19" start="1218" end="1237" text="47 Alder Wharf Road" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="1239" end="1245" text="Duluth" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="1247" end="1249" text="MN" TYPE="STATE" comment="" />
+<LOCATION id="P22" start="1250" end="1255" text="55802" TYPE="ZIP" comment="" />
+<NAME id="P23" start="1270" end="1285" text="Jenna Kowalczyk" TYPE="DOCTOR" comment="" />
+<NAME id="P24" start="1309" end="1321" text="Tomasz Varga" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1351" end="1374" text="Marisol Teixeira-Brandt" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="1383" end="1417" text="Eastgate Women's Health Associates" TYPE="ORGANIZATION" comment="" />
+</TAGS>
+</deIdi2b2>

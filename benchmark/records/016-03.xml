@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE -- OTOLARYNGOLOGY                           Teche Valley General Hospital, ENT Clinic
+Re: FONTENOT, Leonard Asa  MRN LGH-6043-2217  DOB 01/19/2027     Date: 01/30/2062
+Requested by: Dr. Eberhardt (ED)      Consultant: Percival Sundqvist, MD
+
+Okay this is the consult dictation for Mr. Fontenot comma thirty-five years old. Reason for consultation is recurrent acute bacterial sinusitis, now the second episode in about ten weeks, with a diagnosis of chronic sinusitis made by his primary doctor on the twenty-ninth yesterday. He presented to the ED again this morning on January thirtieth, with facial pain, fever and a bad taste. History reviewed. He had a course of Augmentin that began October nineteenth and finished Oct 29, symptoms came back within a week.
+
+Social: I will say that Mr. Fontenot is married to Delphine, has the two children, Remy and Odile, and works for a sheet metal shop where the dust is a problem. His father Armand who is ninety-two now, hmm, ninety-one, I will check, lives next door. He smokes none. He told me that he has been using some pills a friend gave him for his pain, I will leave that for the social worker.
+
+Hold on honey, I'll pick up Maya at four, no I can't do five, I'm dictating. Okay, sorry. Where was I. [dictating physician's phone rang]
+
+Exam: Nasal endoscopy shows purulent drainage from the middle meatus bilaterally, edematous mucosa, a deviated septum to the right, no polyps. Temperature 38.1. CT sinuses obtained, mucosal thickening in both maxillary and ethmoid sinuses with an air fluid level on the left.
+Impression: chronic rhinosinusitis with acute exacerbation. Recommend a culture-directed antibiotic, nasal steroid spray, irrigation, and discussion of functional endoscopic sinus surgery if refractory in three months. Will send the CT report to Dr. Eberhardt and to the PCP by fax (337) 555-0114.
+
+Percival Sundqvist, MD. Dictated 1/30/62, not read, not signed.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="57" end="86" text="Teche Valley General Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="88" end="98" text="ENT Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="103" end="124" text="FONTENOT, Leonard Asa" TYPE="PATIENT" comment="" />
+<ID id="P3" start="130" end="143" text="LGH-6043-2217" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="149" end="159" text="01/19/2027" TYPE="DATE" comment="" />
+<DATE id="P5" start="170" end="180" text="01/30/2062" TYPE="DATE" comment="" />
+<NAME id="P6" start="195" end="208" text="Dr. Eberhardt" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="231" end="249" text="Percival Sundqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="298" end="306" text="Fontenot" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="313" end="324" text="thirty-five" TYPE="AGE" comment="" />
+<DATE id="P10" start="511" end="527" text="the twenty-ninth" TYPE="DATE" comment="" />
+<DATE id="P11" start="584" end="601" text="January thirtieth" TYPE="DATE" comment="" />
+<DATE id="P12" start="702" end="720" text="October nineteenth" TYPE="DATE" comment="" />
+<DATE id="P13" start="734" end="740" text="Oct 29" TYPE="DATE" comment="" />
+<NAME id="P14" start="805" end="813" text="Fontenot" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="828" end="836" text="Delphine" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="860" end="864" text="Remy" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="869" end="874" text="Odile" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="949" end="955" text="Armand" TYPE="PATIENT" comment="" />
+<AGE id="P19" start="963" end="973" text="ninety-two" TYPE="AGE" comment="" />
+<AGE id="P20" start="984" end="994" text="ninety-one" TYPE="AGE" comment="" />
+<NAME id="P21" start="1190" end="1194" text="Maya" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1827" end="1836" text="Eberhardt" TYPE="DOCTOR" comment="" />
+<CONTACT id="P23" start="1859" end="1873" text="(337) 555-0114" TYPE="FAX" comment="" />
+<NAME id="P24" start="1876" end="1894" text="Percival Sundqvist" TYPE="DOCTOR" comment="" />
+<DATE id="P25" start="1909" end="1916" text="1/30/62" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

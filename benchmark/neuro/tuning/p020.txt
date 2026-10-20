@@ -1,0 +1,24 @@
+SPINE SURGERY CLINIC LETTER — {{DATE|10/30/2069}}
+
+{{FACILITY|Caraway Hills Orthopaedic and Spine Centre}}
+{{ADDRESS|5600 Sable Crest Drive, Suite 210, Mendlow Junction}}, AZ {{ZIP|85391}}
+
+Dear Dr. {{NAME|Abiodun Hartsfield}},
+
+Re: Mrs. {{NAME|Glenys Pontefract}}, MRN {{MRN|CHO-11920478}}
+
+Mrs. {{NAME|Pontefract}}, 74, has 2 years of [[neurogenic claudication]]: bilateral buttock and leg pain, heaviness and tingling after walking 50 metres, relieved by sitting and leaning forward ([[shopping cart sign]]). [[Oswestry Disability Index 52%]]. [[VAS leg 8/10]], back 4/10. No [[saddle anaesthesia]] or [[bladder dysfunction]].
+
+On examination, [[straight leg raise]] negative bilaterally, [[femoral stretch test]] negative, power full, [[ankle reflexes]] reduced bilaterally, [[peripheral pulses]] present (vascular claudication unlikely; [[ABI]] 1.04).
+
+MRI lumbar spine shows severe [[central canal stenosis]] at [[L3-4 and L4-5]] ([[Schizas grade C]] at L4-5) due to [[ligamentum flavum hypertrophy]], [[facet arthropathy]] and a diffuse disc bulge, with [[lateral recess stenosis]] at L4-5. Flexion-extension X-rays show no [[instability]]; [[degenerative spondylolisthesis]] absent.
+
+She has failed [[epidural steroid injection]] x2 and physiotherapy. I have recommended [[L3-5 decompressive laminectomy]] with [[bilateral partial medial facetectomy]] and [[foraminotomy]], without fusion. Alternative: [[unilateral laminotomy for bilateral decompression (ULBD)]].
+
+Yours sincerely,
+Mr. {{NAME|Leopold Vandersloot}}, Spine Surgeon
+=====NOTE=====
+OP NOTE — {{DATE|11/22/2069}} — {{NAME|PONTEFRACT, G.}} — {{MRN|CHO-11920478}}
+Prone on [[Jackson table]] (Wilson frame not used). Midline incision L3-5. [[Subperiosteal dissection]], [[Cobb elevator]]. Level confirmed fluoroscopically. [[Laminectomy L3 and L4]] (L4-5 central decompression) with [[high-speed burr]] and [[Kerrison rongeurs 3 mm and 4 mm]]; [[ligamentum flavum]] resected; [[undercutting medial facetectomy]] bilaterally preserving over 50% of the facet joints and the [[pars interarticularis]]; [[foraminotomy L4 and L5 nerve roots]]. Roots mobile with a [[Woodson elevator]] and [[ball-tipped probe]]. Small [[incidental durotomy]] at L4 repaired with [[6-0 Prolene]] and [[Tisseel fibrin sealant]], [[Valsalva]] to 40 cmH2O watertight. [[Vancomycin powder 1 g]] in wound.
+Post-op: [[flat bed rest 24 h]] for durotomy, then mobilise. EBL 150 mL.
+Surgeon {{NAME|L. Vandersloot}}.

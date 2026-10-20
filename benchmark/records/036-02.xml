@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY
+Patient: KILCULLEN, SAORISE M     MRN KC-0066-2150
+Admit/ED visit: 10/01/2066     Discharge: 10/01/2066 19:30      Disposition: home with mother
+
+Diagnosis: sprain of left ankle, grade one.
+
+Brief sumary: 6 y/o girl seen in the ED after a fall at school playground on 10/01. Exam consistent with lateral ligament sprang. No fracture suspected per Ottawa rules. Advised rice and acetaminophen chewable 160 mg q6h prn x about 2 weeks. Gave school note for PE exemption through mid-October.
+
+Condition at discharge: stable and ambulatory.
+Follow up: pediatrician in 1 wk.
+
+Instructions given to mother Fionnuala and verbal teach bag done. Mother asks if she can take the sprain pictures to the Narragansett Tile &amp; Stone HR dept for her time off note -- ok given.
+Patient lives with mother and her father Barnaby every other week (father Barnaby Teasdale picks up Fridays, not on the ED form).
+
+Insurance: Member ID read to registrar as W K P dash four four one eight dash seven seven two oh dash oh three period
+
+Disposition signed 10/1/2066. Mensah.
+</TEXT>
+<TAGS>
+<NAME id="P0" start="27" end="47" text="KILCULLEN, SAORISE M" TYPE="PATIENT" comment="" />
+<ID id="P1" start="56" end="68" text="KC-0066-2150" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="85" end="95" text="10/01/2066" TYPE="DATE" comment="" />
+<DATE id="P3" start="111" end="121" text="10/01/2066" TYPE="DATE" comment="" />
+<AGE id="P4" start="223" end="224" text="6" TYPE="AGE" comment="" />
+<DATE id="P5" start="286" end="291" text="10/01" TYPE="DATE" comment="" />
+<DATE id="P6" start="493" end="504" text="mid-October" TYPE="DATE" comment="" />
+<NAME id="P7" start="617" end="626" text="Fionnuala" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="709" end="734" text="Narragansett Tile &amp; Stone" TYPE="ORGANIZATION" comment="" />
+<NAME id="P9" start="819" end="826" text="Barnaby" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="852" end="868" text="Barnaby Teasdale" TYPE="PATIENT" comment="" />
+<DATE id="P11" start="878" end="885" text="Fridays" TYPE="DATE" comment="" />
+<ID id="P12" start="951" end="1019" text="W K P dash four four one eight dash seven seven two oh dash oh three" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P13" start="1047" end="1056" text="10/1/2066" TYPE="DATE" comment="" />
+<NAME id="P14" start="1058" end="1064" text="Mensah" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

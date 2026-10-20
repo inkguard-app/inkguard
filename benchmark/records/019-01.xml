@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST   --  Bellwether Valley Medical Center, Ambulatory
+- Pt: Priscilla A. Varga | MRN QH-0066-5142 | DOB 08/14/2010 | 63 yo F
+- Date of rec: 03/31/2074 (wellness visit)  Done by: Odile Fontaine, PharmD
+- Pharmacy: Harbor Row Pharmacy, ph (360) 555-0177
+
+CURRENT (verified w/ pt + bottles):
+- Vitamin B12 5 mg/mL injection, monthly, started 03/12/2039, self inj per pt -- last inj "some time in Feburary"
+- No other rx meds. No inhalers.
+- OTC: none reported (pt dennies ibuprofen)
+
+STOPPED / COMPLETED (do not contineu):
+- Acetaminophen 325 mg: 06/21/2069 to 07/13/2069 for foot laceration, done
+- Sodium fluoride gel x1 dose 03/10/2068 dental, done
+
+DEVICES:
+- CPAP, serial RS-5520-884731, issued after sleep study 01/28/2062 dx OSA; pt uses ~4 nights/wk
+
+ALLERGIES: NKDA   (template field shows "Allergies: Priscilla Varga" -- field mislabeled, ignore)
+- Wt 106.7 kg, BMI 36.5, BP 134/73, pain 1/10
+- Screen: deprression neg, pt says she's "donig okay, mom's the one thats sick"
+- Mother Ilona (age 92) is a pt at Quarry Hill Cancer Center; pt is her caregiver
+- Referred to dental 04/14/2074 -- pt agreed
+- Recon discrepancy: NONE. List given to pt. Copy to PCP Dr. Clarice Mbeki
+
+Rec by O. Fontaine PharmD  e-signed 03/31/2074 16:20   Page 1 of 1
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="37" end="69" text="Bellwether Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="88" end="106" text="Priscilla A. Varga" TYPE="PATIENT" comment="" />
+<ID id="P2" start="113" end="125" text="QH-0066-5142" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="132" end="142" text="08/14/2010" TYPE="DATE" comment="" />
+<AGE id="P4" start="145" end="147" text="63" TYPE="AGE" comment="" />
+<DATE id="P5" start="168" end="178" text="03/31/2074" TYPE="DATE" comment="" />
+<NAME id="P6" start="206" end="220" text="Odile Fontaine" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="241" end="260" text="Harbor Row Pharmacy" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P8" start="265" end="279" text="(360) 555-0177" TYPE="PHONE" comment="" />
+<DATE id="P9" start="367" end="377" text="03/12/2039" TYPE="DATE" comment="" />
+<DATE id="P10" start="421" end="429" text="Feburary" TYPE="DATE" comment="" />
+<DATE id="P11" start="572" end="582" text="06/21/2069" TYPE="DATE" comment="" />
+<DATE id="P12" start="586" end="596" text="07/13/2069" TYPE="DATE" comment="" />
+<DATE id="P13" start="653" end="663" text="03/10/2068" TYPE="DATE" comment="" />
+<ID id="P14" start="702" end="716" text="RS-5520-884731" TYPE="DEVICE" comment="" />
+<DATE id="P15" start="743" end="753" text="01/28/2062" TYPE="DATE" comment="" />
+<NAME id="P16" start="836" end="851" text="Priscilla Varga" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1017" end="1022" text="Ilona" TYPE="PATIENT" comment="" />
+<AGE id="P18" start="1028" end="1030" text="92" TYPE="AGE" comment="" />
+<LOCATION id="P19" start="1043" end="1068" text="Quarry Hill Cancer Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P20" start="1111" end="1121" text="04/14/2074" TYPE="DATE" comment="" />
+<NAME id="P21" start="1196" end="1209" text="Clarice Mbeki" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="1218" end="1229" text="O. Fontaine" TYPE="DOCTOR" comment="" />
+<DATE id="P23" start="1247" end="1257" text="03/31/2074" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

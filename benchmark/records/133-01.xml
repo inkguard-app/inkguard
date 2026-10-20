@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE NOTE   Birchwood Memorial Hospital -&gt; Birchwood Memorial Hospital
+Date of operation: 04/17/2079
+Patient: OLIVEIRA-BRANDT, MATEUS   MRN 6128-0354   DOB 08/29/2056  Age 22  Male
+Surgeon: Dr. Rashid Al-Khatib   Anesthesia: Dr. Hye-jin Baek   Room: OR 3
+
+PREOP DIAGNOSIS: Acute appendicitis.   POSTOP DIAGNOSIS: Acute appendicitis, no perforation.
+PROCEDURE: Laparoscopic appendectomy.
+ANESTHESIA: General, endotracheal.
+
+INDICATION: 22 years old man came to emergency with pain in right lower quadrant since yesterday, nausea, white count elevated, CT show dilated appendix. He is mechanic helper? no - he work as roofer at Superior Ridge Roofing. His wife Camila Brandt was present and sign the consent because patient was sedated by pain medicine, patient sign later also.
+DESCRIPTION: Patient was positioned supine, foley not placed. Three ports used, umbilical open Hasson technic. The appendix was inflammed, base was healthy. Divided with stapler. Mesoappendix with energy device. Specimen in bag and removed. Irrigation done. Fascia closed 0 vicryl, skin with monocryl. Counts correct x2.
+EBL minimal. Complications none. Patient go to recovery stable.
+Note: wife tell me, her husband is called "Matheus" at home but name on insurance card is Mateus, I use the card.
+
+Dictated by Dr Al-Khatib on 4/17/79. Electronically signed 04/18/2079 08:12.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="48" end="75" text="Birchwood Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="95" end="105" text="04/17/2079" TYPE="DATE" comment="" />
+<NAME id="P2" start="115" end="138" text="OLIVEIRA-BRANDT, MATEUS" TYPE="PATIENT" comment="" />
+<ID id="P3" start="145" end="154" text="6128-0354" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="161" end="171" text="08/29/2056" TYPE="DATE" comment="" />
+<AGE id="P5" start="177" end="179" text="22" TYPE="AGE" comment="" />
+<NAME id="P6" start="199" end="215" text="Rashid Al-Khatib" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="234" end="246" text="Hye-jin Baek" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="255" end="259" text="OR 3" TYPE="ROOM" comment="" />
+<LOCATION id="P9" start="631" end="653" text="Superior Ridge Roofing" TYPE="ORGANIZATION" comment="" />
+<NAME id="P10" start="664" end="677" text="Camila Brandt" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="1257" end="1263" text="Mateus" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="1297" end="1306" text="Al-Khatib" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="1310" end="1317" text="4/17/79" TYPE="DATE" comment="" />
+<DATE id="P14" start="1341" end="1351" text="04/18/2079" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

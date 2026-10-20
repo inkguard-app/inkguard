@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>CONSULT NOTE - DENTAL
+Hospital: Winooski Dental Care        Date of service: 03/24/2081
+Referring: Dr. Chidinma Eze (Green Mountain Primary Care), referral 3/10/2081
+Patient: Theo Marlowe   (prev. Tamsin Marlowe-Ruiz in some old records)   DOB 07/30/2043   37 yo man
+
+I am seeing this patient for the consultation and report. He come with severe anxiety ("panic", diagnosed 03/09/2081, GAD-7 was 18 at the PCP) and he is afraid of the dentist, so I keep it short.
+Exam: gingivitis, generalised, calculus subgingival and supragingival. Examination of gingivae done. Scaling both done today, fluoride application. Oral health education.
+He say he never had cavity, but the PCP letter say dental caries in 2075. He report he brush 3 times, flossing no.
+Dr. Bogdan Petrescu was the original dentist on the schedule but patient was moved to Dr. Anwar Haddad (me) by scheduling system error, so the template say Petrescu in the top. Please ignore.
+Patient's grandmother Consuelo Ruiz, ninety-one, accompanied; she asked to stay and was calling him "Tamsin" all time. He did not correct her. I called him Theo as is in the chart.
+Recommendations: recall 6 months, sedation not needed, relaxation. Payment: ins VTH-5520-1188.
+Dr. A. Haddad, DDS    Page 1 of 1
+Last edited by ahaddad on 3/24/2081 16:12 from 192.168.12.40
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="32" end="52" text="Winooski Dental Care" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="77" end="87" text="03/24/2081" TYPE="DATE" comment="" />
+<NAME id="P2" start="103" end="115" text="Chidinma Eze" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="117" end="144" text="Green Mountain Primary Care" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="156" end="165" text="3/10/2081" TYPE="DATE" comment="" />
+<NAME id="P5" start="175" end="187" text="Theo Marlowe" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="197" end="216" text="Tamsin Marlowe-Ruiz" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="244" end="254" text="07/30/2043" TYPE="DATE" comment="" />
+<AGE id="P8" start="257" end="259" text="37" TYPE="AGE" comment="" />
+<DATE id="P9" start="374" end="384" text="03/09/2081" TYPE="DATE" comment="" />
+<DATE id="P10" start="703" end="707" text="2075" TYPE="DATE" comment="" />
+<NAME id="P11" start="754" end="769" text="Bogdan Petrescu" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="840" end="852" text="Anwar Haddad" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="906" end="914" text="Petrescu" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="964" end="977" text="Consuelo Ruiz" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="979" end="989" text="ninety-one" TYPE="AGE" comment="" />
+<NAME id="P16" start="1043" end="1049" text="Tamsin" TYPE="PATIENT" comment="" />
+<ID id="P17" start="1203" end="1216" text="VTH-5520-1188" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P18" start="1222" end="1231" text="A. Haddad" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1267" end="1274" text="ahaddad" TYPE="USERNAME" comment="" />
+<DATE id="P20" start="1278" end="1287" text="3/24/2081" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1299" end="1312" text="192.168.12.40" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

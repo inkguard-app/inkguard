@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE
+Pt: saint page      MRN: MV-7721940      DOB: 08/11/1967      Age: 106
+Date/time of death: 01/16/2074 03:40
+Location: 5 West 512-B, Mercer Valley Medical Center (under Quietwater Hospice)
+Pronounced by: dr_rainfall7 (resident) for Dr. Kash Venkataraman
+
+Pasted from 0700 note 01/15/2074:
+  "Mr. Page comfortable on morphine gtt, wife Wednsday at bedside overnight, resp 8, mottled. Hospice RN Tre Gallagher aware.  Son Kxng en route from Ohio"
+
+Pronouncement: no response to voice or touch, no heart or breath sounds x 2 min, pupils fixed.  Time called 03:40.
+Cause: pneumonia, in the setting of advanced dementia and diabetes.  Manner: natural.
+
+Family notified: wife Wednesday Page and daughter Nova Page present; son Twelve Page called at (717) 555-0219 by Mercy Banda RN.  Son Kxng not yet arrived.
+Autopsy: declined.  Organ/tissue donation: declined (age).
+Funeral home: Riverside Memorial contacted.  Body released 01/16/2074 06:10.
+
+Hospice RN Tre Gallagher transcribed from the patient's home voicemail, per family request: "You've reached Saint Page, leave it at the beep, or call my wife on 717-555-0236"
+
+Belongings bag label: PAGE SAINT  RX RX-5530982  GREENLEAF - WILL CALL (returned to wife)
+PCP Dr. Sky Adebayo notified by secure message.  Page the on-call doc if there are questions, pager 2209.
+Electronically signed by dr_rainfall7 on 01/16/2074 04:51   Last edited from 10.31.2.118
+</TEXT>
+<TAGS>
+<NAME id="P0" start="15" end="25" text="saint page" TYPE="PATIENT" comment="" />
+<ID id="P1" start="36" end="46" text="MV-7721940" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="57" end="67" text="08/11/1967" TYPE="DATE" comment="" />
+<AGE id="P3" start="78" end="81" text="106" TYPE="AGE" comment="" />
+<DATE id="P4" start="102" end="112" text="01/16/2074" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="129" end="141" text="5 West 512-B" TYPE="ROOM" comment="" />
+<LOCATION id="P6" start="143" end="171" text="Mercer Valley Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="179" end="197" text="Quietwater Hospice" TYPE="ORGANIZATION" comment="" />
+<NAME id="P8" start="214" end="226" text="dr_rainfall7" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="246" end="263" text="Kash Venkataraman" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="287" end="297" text="01/15/2074" TYPE="DATE" comment="" />
+<NAME id="P11" start="306" end="310" text="Page" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="345" end="353" text="Wednsday" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="404" end="417" text="Tre Gallagher" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="430" end="434" text="Kxng" TYPE="PATIENT" comment="" />
+<LOCATION id="P15" start="449" end="453" text="Ohio" TYPE="STATE" comment="" />
+<NAME id="P16" start="680" end="694" text="Wednesday Page" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="708" end="717" text="Nova Page" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="731" end="742" text="Twelve Page" TYPE="PATIENT" comment="" />
+<CONTACT id="P19" start="753" end="767" text="(717) 555-0219" TYPE="PHONE" comment="" />
+<NAME id="P20" start="771" end="782" text="Mercy Banda" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="792" end="796" text="Kxng" TYPE="PATIENT" comment="" />
+<LOCATION id="P22" start="887" end="905" text="Riverside Memorial" TYPE="ORGANIZATION" comment="" />
+<DATE id="P23" start="932" end="942" text="01/16/2074" TYPE="DATE" comment="" />
+<NAME id="P24" start="962" end="975" text="Tre Gallagher" TYPE="DOCTOR" comment="" />
+<NAME id="P25" start="1059" end="1069" text="Saint Page" TYPE="PATIENT" comment="" />
+<CONTACT id="P26" start="1112" end="1124" text="717-555-0236" TYPE="PHONE" comment="" />
+<NAME id="P27" start="1149" end="1159" text="PAGE SAINT" TYPE="PATIENT" comment="" />
+<ID id="P28" start="1164" end="1174" text="RX-5530982" TYPE="IDNUM" comment="" />
+<NAME id="P29" start="1225" end="1236" text="Sky Adebayo" TYPE="DOCTOR" comment="" />
+<CONTACT id="P30" start="1317" end="1321" text="2209" TYPE="PHONE" comment="" />
+<NAME id="P31" start="1348" end="1360" text="dr_rainfall7" TYPE="DOCTOR" comment="" />
+<DATE id="P32" start="1364" end="1374" text="01/16/2074" TYPE="DATE" comment="" />
+<CONTACT id="P33" start="1400" end="1411" text="10.31.2.118" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

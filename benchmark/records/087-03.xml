@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>row_id=401 | encounter=letter | note_text=
+Riverbend Heart Institute  |  Cardiology
+February 20, 2084
+
+Southern Mutual Health
+Attn: Utilization Review - Rich Hall
+Fax (901) 555-0190
+
+RE: Prior authorization PA-84-2201 - transthoracic echocardiogram
+Member: Kash Fields   Member ID W228841907   DOB 11/05/2033
+
+To whom it may concern:
+I am writing in support of an echocardiogram for my patient. He is a 50-year-old man with orthostatic lightheadedness at work, BMI 30.3, and prediabetes. Blood pressure at his visit on 02/12/2084 was 93/87. No structural cause was found on examination. Echo will exclude cardiac contribution before we attribute symptoms to volume depletion.
+In conclusion, we ask that the study be approved. He will pay no cash, the plan covers it.
+
+Sincerely,
+Sage Brandt, MD
+Prior auth coordinator: Penny Cash, tel (901) 555-0112
+cc: patient file
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="43" end="68" text="Riverbend Heart Institute" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="73" end="83" text="Cardiology" TYPE="DEPARTMENT" comment="" />
+<DATE id="P2" start="84" end="101" text="February 20, 2084" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="103" end="125" text="Southern Mutual Health" TYPE="ORGANIZATION" comment="" />
+<NAME id="P4" start="153" end="162" text="Rich Hall" TYPE="DOCTOR" comment="" />
+<CONTACT id="P5" start="167" end="181" text="(901) 555-0190" TYPE="FAX" comment="" />
+<ID id="P6" start="207" end="217" text="PA-84-2201" TYPE="IDNUM" comment="" />
+<NAME id="P7" start="257" end="268" text="Kash Fields" TYPE="PATIENT" comment="" />
+<ID id="P8" start="281" end="291" text="W228841907" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P9" start="298" end="308" text="11/05/2033" TYPE="DATE" comment="" />
+<AGE id="P10" start="403" end="405" text="50" TYPE="AGE" comment="" />
+<DATE id="P11" start="519" end="529" text="02/12/2084" TYPE="DATE" comment="" />
+<NAME id="P12" start="779" end="790" text="Sage Brandt" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="819" end="829" text="Penny Cash" TYPE="DOCTOR" comment="" />
+<CONTACT id="P14" start="835" end="849" text="(901) 555-0112" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

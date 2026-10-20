@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO PATIENT  (portal + letter copy)
+To: Ms. Page      Re: your tests from 9/16/67      Sent 09/27/2067
+
+Hi Cassidy,
+
+Your routine prenatel blood tests came back and your blood sugar was ok - in normal range at 4pm last Thursday. Your iron count is on the low side so please keep taking the ferrous sulfate. The urine screen showed what we talked about. We hope you will keep working with us, Dr. Mukherjee wants to see you next Friday to talk about medicines to help, which are safe in pregnancy. Please do not stop anything suddenly on your own.
+
+Nothing in the results points to Bell's palsy or any nerve problem, your headaches are your usual migraine. Good news is your baby's tests were normal as well. No signs of Down syndrome on the screening. 
+
+Page me, i mean page the office, if you have trouble. The doctor is out on Christmas Eve but the line is open. Call 319-555-0140.
+
+Lindsey (PharmD) and Sanjay Mukherjee, MD
+Dictated by the voice program, edit: "bells pause" corrected to Bell's palsy
+PAGE, CASSIDY  MRN 5530-9127  DOB 01/15/2041  Page 1 of 1
+</TEXT>
+<TAGS>
+<NAME id="P0" start="62" end="66" text="Page" TYPE="PATIENT" comment="" />
+<DATE id="P1" start="92" end="99" text="9/16/67" TYPE="DATE" comment="" />
+<DATE id="P2" start="110" end="120" text="09/27/2067" TYPE="DATE" comment="" />
+<NAME id="P3" start="125" end="132" text="Cassidy" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="232" end="245" text="last Thursday" TYPE="DATE" comment="" />
+<NAME id="P5" start="414" end="423" text="Mukherjee" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="441" end="452" text="next Friday" TYPE="DATE" comment="" />
+<DATE id="P7" start="847" end="860" text="Christmas Eve" TYPE="DATE" comment="" />
+<CONTACT id="P8" start="888" end="900" text="319-555-0140" TYPE="PHONE" comment="" />
+<NAME id="P9" start="903" end="910" text="Lindsey" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="924" end="940" text="Sanjay Mukherjee" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="1022" end="1035" text="PAGE, CASSIDY" TYPE="PATIENT" comment="" />
+<ID id="P12" start="1041" end="1050" text="5530-9127" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P13" start="1056" end="1066" text="01/15/2041" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

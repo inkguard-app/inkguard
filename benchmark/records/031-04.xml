@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Patient Portal Message (from patient / proxy)
+From: Tamsin Holloway (proxy for River A. Holloway, DOB 03/03/2089)   Username: tholloway_mom82
+To: Dr. Amara Nwosu-Bell / Blue Ridge Pediatric Associates
+Sent: Sat 09/19/2093 21:14
+Subject: River cough again!!
+
+Hi Dr Nwosu Bell,
+
+its Tamsin, River's mom (MRN 5530-1127 i think? it might be 5530-1172). River has been coughing at night for 5 days and he wheezes after running at Hollow Creek Elementary pre-K recess, wait he started pre-k in August, his teacher Mr. Bellamy Crowe sent a note home. We ran out of the inhaler a long time ago, the pharmacy said no refills left. He is 4 now. Also the bus driver Miss Loretta says route Bus 22 is too bumpy 😅 not relevant lol
+
+Can we get a appointment? Monday works. Dez can't do it he is on a job in Greenville, SC. Our phone number changed, its 828.555.0149 now but the old one 828-555-0134 still rings.  Also the address on file is wrong, we moved to 88 Birchwood Lane, Asheville 28806 because of the landlord thing (Mr Quist finally lost the building).
+
+Thanks so much!!
+Tamsin
+Sent from my iPhone
+
+--- Auto reply (portal) ---
+Dear [PATIENT_FIRST] @LASTNAME@, your message was received. Appointment booked 09/21/2093 (Monday) 10:40 with Dr. Nwosu-Bell.
+Forwarded by jcole3 from 192.168.14.61
+</TEXT>
+<TAGS>
+<NAME id="P0" start="52" end="67" text="Tamsin Holloway" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="79" end="96" text="River A. Holloway" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="102" end="112" text="03/03/2089" TYPE="DATE" comment="" />
+<NAME id="P3" start="126" end="141" text="tholloway_mom82" TYPE="USERNAME" comment="" />
+<NAME id="P4" start="150" end="166" text="Amara Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="207" end="221" text="Sat 09/19/2093" TYPE="DATE" comment="" />
+<NAME id="P6" start="237" end="242" text="River" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="281" end="287" text="Tamsin" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="289" end="294" text="River" TYPE="PATIENT" comment="" />
+<ID id="P9" start="306" end="315" text="5530-1127" TYPE="MEDICALRECORD" comment="" />
+<ID id="P10" start="337" end="346" text="5530-1172" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P11" start="349" end="354" text="River" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="425" end="448" text="Hollow Creek Elementary" TYPE="ORGANIZATION" comment="" />
+<DATE id="P13" start="488" end="494" text="August" TYPE="DATE" comment="" />
+<NAME id="P14" start="512" end="525" text="Bellamy Crowe" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="628" end="629" text="4" TYPE="AGE" comment="" />
+<NAME id="P16" start="660" end="667" text="Loretta" TYPE="PATIENT" comment="" />
+<ID id="P17" start="679" end="685" text="Bus 22" TYPE="IDNUM" comment="" />
+<NAME id="P18" start="759" end="762" text="Dez" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="793" end="803" text="Greenville" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="805" end="807" text="SC" TYPE="STATE" comment="" />
+<CONTACT id="P21" start="839" end="851" text="828.555.0149" TYPE="PHONE" comment="" />
+<CONTACT id="P22" start="872" end="884" text="828-555-0134" TYPE="PHONE" comment="" />
+<LOCATION id="P23" start="946" end="963" text="88 Birchwood Lane" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="965" end="974" text="Asheville" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="975" end="980" text="28806" TYPE="ZIP" comment="" />
+<NAME id="P26" start="1015" end="1020" text="Quist" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="1067" end="1073" text="Tamsin" TYPE="PATIENT" comment="" />
+<DATE id="P28" start="1202" end="1212" text="09/21/2093" TYPE="DATE" comment="" />
+<DATE id="P29" start="1214" end="1220" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P30" start="1237" end="1247" text="Nwosu-Bell" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="1262" end="1268" text="jcole3" TYPE="USERNAME" comment="" />
+<CONTACT id="P32" start="1274" end="1287" text="192.168.14.61" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

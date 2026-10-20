@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE / PRONOUNCEMENT                      Harrowgate Memorial Hospital
+Pt: &lt;&lt;insert name&gt;&gt;   Alias: "Percy"   MRN 0417-3306   DOB 2/9/2019   Age 62
+Date/time of death: 06/10/2081 21:40    Unit MICU  Rm 6
+Attending: Dr I. Adeyemi-Park   Pronounced by: Priya Nandakumar MD (nighht resident)
+
+62 yo F w/ OUD, adm 6/2 after OD, anoxic brain inj, asp PNA, vent dep. Neuro: no brainstem reflexes x 2 exams (6/9, 6/10). Fam meeting 6/9 w/ sister Delia Crane-Whitcomb + bro-in-law Gordon Whitcomb + SW Joelle Tran. Fam elected comfort care / terminal extubation. Extubated 20:55. Pt expired 21:40 w/ sister at bedside. No pulse, no resp, no heart sounds x 3 min, ppils fixed. 
+
+Notified: atttending (called (740) 555-0111), PCP Dr Renkel, Muskingum Co. Coroner -- case accepted (OD, medical examiner). Autopsy: ME. Organ donation: declined/not eligible per LifeBridge Donor Network, ref # LB-81-0610-7.
+
+Belongings inventoried w/ sis (signed): wallet, 1 phone (cracked), keys on fob KF-2207-81, ZTA bus pass ZTA-004419872, public lbrary card # 21009 0045 7731, rx btl label "Rx 4410927 CRANE NOREEN" (empty), $14 cash. Released to sis.
+Body to Hollis &amp; Dane Funeral Home 6/11 per fam, after ME release.
+
+Death cert: Dr Adeyemi-Park to complete; cause pending ME. Sis asks that cert NOT list former partner Ostrander as informant.
+Social: lived alone, printer formerly, no kids.
+
+Electronically signed by Priya Nandakumar MD on 06/10/2081 22:31
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="48" end="76" text="Harrowgate Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="107" end="112" text="Percy" TYPE="PATIENT" comment="" />
+<ID id="P2" start="120" end="129" text="0417-3306" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="136" end="144" text="2/9/2019" TYPE="DATE" comment="" />
+<AGE id="P4" start="151" end="153" text="62" TYPE="AGE" comment="" />
+<DATE id="P5" start="174" end="184" text="06/10/2081" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="199" end="203" text="MICU" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P7" start="208" end="209" text="6" TYPE="ROOM" comment="" />
+<NAME id="P8" start="224" end="239" text="I. Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="257" end="273" text="Priya Nandakumar" TYPE="DOCTOR" comment="" />
+<AGE id="P10" start="296" end="298" text="62" TYPE="AGE" comment="" />
+<DATE id="P11" start="316" end="319" text="6/2" TYPE="DATE" comment="" />
+<DATE id="P12" start="407" end="410" text="6/9" TYPE="DATE" comment="" />
+<DATE id="P13" start="412" end="416" text="6/10" TYPE="DATE" comment="" />
+<DATE id="P14" start="431" end="434" text="6/9" TYPE="DATE" comment="" />
+<NAME id="P15" start="445" end="465" text="Delia Crane-Whitcomb" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="479" end="494" text="Gordon Whitcomb" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="500" end="511" text="Joelle Tran" TYPE="DOCTOR" comment="" />
+<CONTACT id="P18" start="705" end="719" text="(740) 555-0111" TYPE="PHONE" comment="" />
+<NAME id="P19" start="729" end="735" text="Renkel" TYPE="DOCTOR" comment="" />
+<LOCATION id="P20" start="737" end="758" text="Muskingum Co. Coroner" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P21" start="855" end="879" text="LifeBridge Donor Network" TYPE="ORGANIZATION" comment="" />
+<ID id="P22" start="887" end="899" text="LB-81-0610-7" TYPE="IDNUM" comment="" />
+<ID id="P23" start="981" end="991" text="KF-2207-81" TYPE="DEVICE" comment="" />
+<ID id="P24" start="1006" end="1019" text="ZTA-004419872" TYPE="IDNUM" comment="" />
+<ID id="P25" start="1042" end="1057" text="21009 0045 7731" TYPE="IDNUM" comment="" />
+<ID id="P26" start="1076" end="1083" text="4410927" TYPE="IDNUM" comment="" />
+<NAME id="P27" start="1084" end="1096" text="CRANE NOREEN" TYPE="PATIENT" comment="" />
+<LOCATION id="P28" start="1142" end="1168" text="Hollis &amp; Dane Funeral Home" TYPE="ORGANIZATION" comment="" />
+<DATE id="P29" start="1169" end="1173" text="6/11" TYPE="DATE" comment="" />
+<NAME id="P30" start="1217" end="1229" text="Adeyemi-Park" TYPE="DOCTOR" comment="" />
+<NAME id="P31" start="1304" end="1313" text="Ostrander" TYPE="PATIENT" comment="" />
+<PROFESSION id="P32" start="1349" end="1356" text="printer" TYPE="PROFESSION" comment="" />
+<NAME id="P33" start="1402" end="1418" text="Priya Nandakumar" TYPE="DOCTOR" comment="" />
+<DATE id="P34" start="1425" end="1435" text="06/10/2081" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

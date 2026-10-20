@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>note_id,mrn,pt_name,enc_date,author,dept,note_type,text
+"N-71302","2290-6518","Page, Rhys","06/01/2063","Thuy Linh Bui RN","Care Coordination","Progress note SOAP","S: Pt here for yearly visit, new name on file (legal change done 2062, he asks to use Rhys). Says no seizures since long time but still take clonazepam sometime. Says he is 50 (he is 47). Lost job last month. Lives alone, no car. O: BP 147/103, wt 78.4, pain 1/10. Drug screen done, result in chart. A: HTN not controled, seizure disorder stable, unemployed, transport problem. P: Referal to case manager Gloria Esquivel, bus voucher, recheck BP 2 wk. Old section copied: 'Rebecca is a 44 y/o woman seen in ED, she has no history of seizure' - this is old, not now, pls ignore. Per pt, marriage ended (ex Marcus Dell), pt says still married on form. Page 1 of 1. No pager number given."
+</TEXT>
+<TAGS>
+<ID id="P0" start="67" end="76" text="2290-6518" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P1" start="79" end="89" text="Page, Rhys" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="92" end="102" text="06/01/2063" TYPE="DATE" comment="" />
+<NAME id="P3" start="105" end="118" text="Thuy Linh Bui" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="124" end="141" text="Care Coordination" TYPE="DEPARTMENT" comment="" />
+<DATE id="P5" start="230" end="234" text="2062" TYPE="DATE" comment="" />
+<NAME id="P6" start="251" end="255" text="Rhys" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="338" end="340" text="50" TYPE="AGE" comment="" />
+<AGE id="P8" start="348" end="350" text="47" TYPE="AGE" comment="" />
+<NAME id="P9" start="570" end="585" text="Gloria Esquivel" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="638" end="645" text="Rebecca" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="770" end="781" text="Marcus Dell" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

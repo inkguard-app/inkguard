@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>ROW 6671 | ENC E-99120 | PT_NAME: FROST, SKY W | NOTE_TYPE: OPERATIVE NOTE
+
+OPERATIVE NOTE - Bellmont Dental Surgery Center
+Date of procedure: 05/26/2073  (Friday)
+Pt: Sky Wren Frost   Age: 10   DOB: 03/09/2063   MRN 051-77204
+Surgeon: Faith Orchard, DDS     Assistant: Kash Beaumont
+Case # DS-2073-0526-4
+
+PREOP DX: gingival disease / hyperplastic gingiva, upper and lower anterior segments
+POSTOP DX: same
+PROCEDURE:
+- Gingivectomy / gingivoplasty, per tooth, anterior sextants
+- Scaling: supragingival and subgingival, all teeth
+- Dental application of desensitising medicament
+- Oral health education (pt and mom)
+
+ANESTHESIA: local, topical + infiltration. Pt cooperative, no sedation.
+
+FINDINGS:
+- Marginal gingiva edematous and enlarged, bleeding on probing. Plaque ++ . Seen at refferal from Dr. Page following the well child visit 05/19/2073
+- Restoration done last May on the lower molar intact (hx: composite placed 05/20/2072)
+- Teh soft tissue otherwise normal
+
+TECHNIQUE: Pt placed supine, consent verified with mother Hope Frost at bedside. Time out done. Scalpel gingivectomy performed with ...[dictation ended]. Hemostasis with pressure, periodontal dressing not required. EBL minimal. No complications.
+
+POSTOP: Tylenol for pain, soft cool foods. Sky asked if she could keep "her sky blue toothbrush" and mom said yes. Review 1 wk.
+
+Dictated by F. Orchard  not yet signed
+</TEXT>
+<TAGS>
+<ID id="P0" start="15" end="22" text="E-99120" TYPE="IDNUM" comment="" />
+<NAME id="P1" start="34" end="46" text="FROST, SKY W" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="93" end="123" text="Bellmont Dental Surgery Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P3" start="143" end="153" text="05/26/2073" TYPE="DATE" comment="" />
+<DATE id="P4" start="156" end="162" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P5" start="168" end="182" text="Sky Wren Frost" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="190" end="192" text="10" TYPE="AGE" comment="" />
+<DATE id="P7" start="200" end="210" text="03/09/2063" TYPE="DATE" comment="" />
+<ID id="P8" start="217" end="226" text="051-77204" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="236" end="249" text="Faith Orchard" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="270" end="283" text="Kash Beaumont" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="291" end="305" text="DS-2073-0526-4" TYPE="IDNUM" comment="" />
+<NAME id="P12" start="804" end="808" text="Page" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="840" end="850" text="05/19/2073" TYPE="DATE" comment="" />
+<DATE id="P14" start="875" end="878" text="May" TYPE="DATE" comment="" />
+<DATE id="P15" start="927" end="937" text="05/20/2072" TYPE="DATE" comment="" />
+<NAME id="P16" start="1033" end="1043" text="Hope Frost" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1363" end="1373" text="F. Orchard" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

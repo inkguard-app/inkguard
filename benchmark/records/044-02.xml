@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Patient Portal Message
+From: Desmond Marsh (dmarsh1989)        To: Cardiology Clinic - Dr. Lane
+Sent: 07/29/2062 21:36      Subject: Question about surgery and my pills
+
+Hello Dr Lane and staff,
+
+I am using the voice typing on my phone so excuse mistakes. Nurse Dana called me thursday and told me you will go over my angiogram on monday but I cant stop thinking about it. My wife Corinne says I should write it down so here goes.
+
+1. Is it true I might need a cabbage? I know its CABG, bypass, my brother in law Ray had one at Westbrook Regional Heart Hospital in 2058 and he said the recovery was rough. Ray Cutter says ask for Dr. Page she did his.
+
+2. My pills. I get confused. The bottle label says (I took a photo and typed it): "Harwick Street Pharmacy, MARSH DESMOND, 903 Harwick Ct Apt 12 Dayton OH 45420, Rx 2290-4417, clopidogrel 75 mg, take 1 tab daily, filled 07/24/2062, discard after 07/24/2063, pharmacist T. Sharp". Is that the same as Plavix. The other bottle says Zocor and it has my old address on it, 1180 Eastmont Ave.
+
+3. I have been getting a tightness when I climb to the apartment, about 12 stairs. It goes away if I rest. I used the spray 1 time last night. Its not as bad as the heart attack in June 2061 but I dont want to wait.
+
+4. Also my neighbor Mr. Bell said that Bell's palsy comes from stress and I have been stressed and my face felt funny on the left side Fri. Should I be worried? He is on blood thinners also. My dad has Parkinson's and my uncle Lou had Hodgkin lymphoma so I worry about everything.
+
+My phone is 937-555-0118 or Corinne's 937-555-0127. Email des.marsh89@mailbox.example. If you cant reach us we are at 903 Harwick Court, Apt 12.
+
+Thank you
+Dez
+(Desmond Marsh dob 2/11/89)
+
+--- Staff review ---
+Msg read by ctran 07/30/2062 08:02 - flagged URGENT for facial droop question, RN to call pt today
+Reply sent 07/30/2062 10:15: "Mr. Marsch, please come to the ED if face numbness persists. Otherwise keep monday visit." Signed D. Tran RN
+</TEXT>
+<TAGS>
+<NAME id="P0" start="29" end="42" text="Desmond Marsh" TYPE="PATIENT" comment="" />
+<NAME id="P1" start="44" end="54" text="dmarsh1989" TYPE="USERNAME" comment="" />
+<LOCATION id="P2" start="67" end="84" text="Cardiology Clinic" TYPE="DEPARTMENT" comment="" />
+<NAME id="P3" start="91" end="95" text="Lane" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="102" end="112" text="07/29/2062" TYPE="DATE" comment="" />
+<NAME id="P5" start="179" end="183" text="Lane" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="262" end="266" text="Dana" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="277" end="285" text="thursday" TYPE="DATE" comment="" />
+<DATE id="P8" start="331" end="337" text="monday" TYPE="DATE" comment="" />
+<NAME id="P9" start="381" end="388" text="Corinne" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="513" end="516" text="Ray" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="528" end="561" text="Westbrook Regional Heart Hospital" TYPE="ORGANIZATION" comment="" />
+<DATE id="P12" start="565" end="569" text="2058" TYPE="DATE" comment="" />
+<NAME id="P13" start="606" end="616" text="Ray Cutter" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="634" end="638" text="Page" TYPE="DOCTOR" comment="" />
+<LOCATION id="P15" start="736" end="759" text="Harwick Street Pharmacy" TYPE="ORGANIZATION" comment="" />
+<NAME id="P16" start="761" end="774" text="MARSH DESMOND" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="776" end="797" text="903 Harwick Ct Apt 12" TYPE="STREET" comment="" />
+<LOCATION id="P18" start="798" end="804" text="Dayton" TYPE="CITY" comment="" />
+<LOCATION id="P19" start="805" end="807" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P20" start="808" end="813" text="45420" TYPE="ZIP" comment="" />
+<ID id="P21" start="818" end="827" text="2290-4417" TYPE="IDNUM" comment="" />
+<DATE id="P22" start="873" end="883" text="07/24/2062" TYPE="DATE" comment="" />
+<DATE id="P23" start="899" end="909" text="07/24/2063" TYPE="DATE" comment="" />
+<NAME id="P24" start="922" end="930" text="T. Sharp" TYPE="DOCTOR" comment="" />
+<LOCATION id="P25" start="1022" end="1039" text="1180 Eastmont Ave" TYPE="STREET" comment="" />
+<DATE id="P27" start="1223" end="1232" text="June 2061" TYPE="DATE" comment="" />
+<NAME id="P28" start="1279" end="1287" text="Mr. Bell" TYPE="PATIENT" comment="" />
+<DATE id="P29" start="1394" end="1397" text="Fri" TYPE="DATE" comment="" />
+<NAME id="P30" start="1486" end="1489" text="Lou" TYPE="PATIENT" comment="" />
+<CONTACT id="P31" start="1553" end="1565" text="937-555-0118" TYPE="PHONE" comment="" />
+<NAME id="P32" start="1569" end="1576" text="Corinne" TYPE="PATIENT" comment="" />
+<CONTACT id="P33" start="1579" end="1591" text="937-555-0127" TYPE="PHONE" comment="" />
+<CONTACT id="P34" start="1599" end="1626" text="des.marsh89@mailbox.example" TYPE="EMAIL" comment="" />
+<LOCATION id="P35" start="1659" end="1684" text="903 Harwick Court, Apt 12" TYPE="STREET" comment="" />
+<NAME id="P36" start="1697" end="1700" text="Dez" TYPE="PATIENT" comment="" />
+<NAME id="P37" start="1702" end="1715" text="Desmond Marsh" TYPE="PATIENT" comment="" />
+<DATE id="P38" start="1720" end="1727" text="2/11/89" TYPE="DATE" comment="" />
+<NAME id="P39" start="1763" end="1768" text="ctran" TYPE="USERNAME" comment="" />
+<DATE id="P40" start="1769" end="1779" text="07/30/2062" TYPE="DATE" comment="" />
+<DATE id="P41" start="1861" end="1871" text="07/30/2062" TYPE="DATE" comment="" />
+<NAME id="P42" start="1884" end="1890" text="Marsch" TYPE="PATIENT" comment="" />
+<DATE id="P43" start="1956" end="1962" text="monday" TYPE="DATE" comment="" />
+<NAME id="P44" start="1978" end="1985" text="D. Tran" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

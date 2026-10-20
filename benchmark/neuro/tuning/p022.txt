@@ -1,0 +1,24 @@
+PEDIATRIC SPINE CLINIC
+{{FACILITY|Juniper Grove Children's Hospital}}
+Patient: {{NAME|Aurora Valdivieso}}   DOB {{DATE|04/11/2063}}   MRN {{MRN|JGC-500182}}
+Visit: {{DATE|03/15/2076}}   Mother: {{NAME|Rosalind Valdivieso}}
+
+12-year-old girl, [[Risser 1]], premenarchal, referred after school screening found a rib hump. [[Adam forward bend test]]: right thoracic prominence, [[scoliometer]] 14 degrees. Shoulders uneven. Neuro exam normal: [[abdominal reflexes]] symmetric (important to exclude [[syringomyelia]]), no [[clonus]], no [[cavus foot]], no [[café-au-lait macules]], no midline [[hairy patch]] or [[sacral dimple]].
+
+Standing PA and lateral [[full-spine radiographs]] (EOS): right thoracic curve T5-T12, [[Cobb angle 48 degrees]], apex T8; compensatory left lumbar curve [[Cobb 30 degrees]], flexible on bending films. [[Lenke type 1A-N]]. [[Thoracic kyphosis T5-T12]] 18 degrees. [[Sagittal vertical axis]] neutral.
+
+[[MRI whole spine]]: no [[Chiari malformation]], no [[syrinx]], no [[tethered cord]].
+
+Diagnosis: [[adolescent idiopathic scoliosis]], curve over 45 degrees in a skeletally immature patient — high risk of progression. Bracing ([[Boston brace]]) not appropriate at this magnitude.
+
+Plan: [[posterior spinal fusion T4-L1]] with [[pedicle screw instrumentation]], [[Ponte osteotomies]] at apical levels, and [[direct vertebral rotation]]. Alternatively [[anterior vertebral body tethering]] discussed. [[Tranexamic acid]] and [[cell saver]]. Neuromonitoring with [[Stagnara wake-up test]] as backup.
+
+Dr. {{NAME|Fintan O'Rourke-Salas}}, Pediatric Orthopaedic Spine
+=====NOTE=====
+POST-OP DAY 1 — {{DATE|06/02/2076}} — {{NAME|VALDIVIESO, AURORA}} — {{MRN|JGC-500182}}
+s/p [[PSF T4-L1]] with [[pedicle screws]] bilaterally ([[5.5 mm cobalt-chrome rods]]), [[Ponte osteotomies T7-T9]]. Intra-op [[MEP]] drop to 40% of baseline during rod rotation → MAP raised to 85, rods relaxed, recovered within 6 min. [[Wake-up test]] not needed.
+Neuro: moving all 4 limbs, [[toe flexion and extension]] intact, sensation intact. [[EHL]] 5/5 bilat.
+Pain: [[hydromorphone PCA]], [[ketorolac]], [[gabapentin]]. [[Methadone 0.1 mg/kg]] intra-op.
+Hb 9.1. Drain 210 mL.
+XR: [[main thoracic Cobb corrected to 12 degrees]] (75% correction), [[coronal balance]] restored, [[thoracic kyphosis]] 24 degrees.
+Mother {{NAME|R. Valdivieso}} at bedside. Discharge planning: home POD4, school letter, follow-up 6 weeks with standing films.

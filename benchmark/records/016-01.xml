@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>COULEE DENTAL SURGERY SUITE
+2250 Johnston Street, Lafayette, Louisiana
+
+OPERATIVE REPORT
+
+Patient name: FONTENOT, LEONARD A      Medical record number: LGH-6043-2217      Date of birth: 01/19/2027
+Date of procedure: August 22, 2061      Surgeon: Marisol Quintanilla-Reyes, DDS      Anesthesia: local with nitrous oxide
+
+This is a dictation for the operative note on Mr. Fontenot comma a 34-year-old gentleman who came to us on referal from his primary care office after he lost a filling on the lower right first molar about two weeks ago and has had cold sensitivity ever since. He works as a sheet metal fabricator at Bayou Teche Sheet Metal Works and he told me he chews ice at the shop all day to deal with the heat, which, I told him, did not help. His wife Delphine brought him and waited in the lobby with the two children, Remy and Odile, who I believe were both there because school was out.
+
+The preoperative diagnosis was a loose and fractured restoration with decay beneath it on tooth number thirty. The postoperative diagnosis was the same. The procedure was a full coverage crown preparation with temporization, along with a supragingival and subgingival scaling of all quadrants, bitewing radiographs and a fluoride application. He tolerated everything very well; there was no bleeding beyond what was expected. The tooth was prepped with a diamond bur, impression taken, shade A3, temporary crown cemented with temp bond and the occlusion checked. Patient was given instructions to avoid sticky food and chewing ice, ha, and to call if the temp comes off. He is also on a diphenhydramine and carries an epi pen for an old wasp allergy and I confirmed it was in his truck. Follow up in three weeks with Dr. Quintanilla for cementation.
+
+Dictated by Marisol Quintanilla-Reyes, DDS, on 08/22/2061 at 16:12. Dictated but not read.
+Transcribed by jlandry 08/23/2061 from 10.8.2.41
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="COULEE DENTAL SURGERY SUITE" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P1" start="28" end="48" text="2250 Johnston Street" TYPE="STREET" comment="" />
+<LOCATION id="P2" start="50" end="59" text="Lafayette" TYPE="CITY" comment="" />
+<LOCATION id="P3" start="61" end="70" text="Louisiana" TYPE="STATE" comment="" />
+<NAME id="P4" start="104" end="123" text="FONTENOT, LEONARD A" TYPE="PATIENT" comment="" />
+<ID id="P5" start="152" end="165" text="LGH-6043-2217" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="186" end="196" text="01/19/2027" TYPE="DATE" comment="" />
+<DATE id="P7" start="216" end="231" text="August 22, 2061" TYPE="DATE" comment="" />
+<NAME id="P8" start="246" end="271" text="Marisol Quintanilla-Reyes" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="370" end="378" text="Fontenot" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="387" end="389" text="34" TYPE="AGE" comment="" />
+<PROFESSION id="P11" start="594" end="616" text="sheet metal fabricator" TYPE="PROFESSION" comment="" />
+<LOCATION id="P12" start="620" end="649" text="Bayou Teche Sheet Metal Works" TYPE="ORGANIZATION" comment="" />
+<NAME id="P13" start="763" end="771" text="Delphine" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="831" end="835" text="Remy" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="840" end="845" text="Odile" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1719" end="1734" text="Dr. Quintanilla" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1765" end="1790" text="Marisol Quintanilla-Reyes" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="1800" end="1810" text="08/22/2061" TYPE="DATE" comment="" />
+<NAME id="P19" start="1859" end="1866" text="jlandry" TYPE="USERNAME" comment="" />
+<DATE id="P20" start="1867" end="1877" text="08/23/2061" TYPE="DATE" comment="" />
+<CONTACT id="P21" start="1883" end="1892" text="10.8.2.41" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>HISTORY AND PHYSICAL - annual wellness + medication reconciliation
+Date: 03/23/2090     Lakeview Primary Care     Provider: Lark Hedlund, MD
+PATIENT: SJOBERG, MARIGOLD     DOB: 08/30/2020     AGE: 69     MRN: LP-0558021
+Plan: NorthStar Choice, member id NSC-88-20418
+- CC: yearly exam; "my pills for the new year"
+- HPI: 69F with Hashimoto thyroiditis on levothyroxine 0.075 mg (Synthroid), anemia hx, hyperlipidemia on simvastatin 10 mg since April 2088. Dentures fitted 04/07/2089. Walks 3x/wk.
+- Reconciliation w/ Justice Baker, PharmD and Mi4:
+  - levothyroxine 75 mcg qAM - taking
+  - simvastatin 10 mg qhs - taking; plan to stop? (04/01/2090 review)
+  - ibuprofen (Advil) OTC, says occasional
+  - St John's wort bought at Linden Apotek in Göteborg - counselled
+- Screens: Morse Fall Scale low risk. GAD-7 1. Depression neg. Substance use neg. Domestic abuse screen neg today, pt alone w/ MA Bless Adjei, husband Arlow Sjoberg in waiting room.
+- Vitals: BP 119/79, wt 68.7 kg, BMI 27.7, pain 3/10 (knees)
+- FAMILY: sister Rosalind in Pune sends turmeric. Dtr Joy visiting June. Son Kasper asked for a copy of the mother's list -&gt; consent form not yet signed, DO NOT SEND
+- PE: nl. No Chvostek sign. Thyroid not enlarged.
+- A/P: well. Continue meds. Labs 04/01/2090. RTC 1 yr.
+  Template: Name: {SJOBERG_FIRST} / Allergies: sulfa (listed as Marigold in error field, fix)
+Signed Lark Hedlund, MD 03/23/2090 12:34 from 192.168.14.20
+</TEXT>
+<TAGS>
+<DATE id="P0" start="73" end="83" text="03/23/2090" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="88" end="109" text="Lakeview Primary Care" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="124" end="136" text="Lark Hedlund" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="150" end="167" text="SJOBERG, MARIGOLD" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="177" end="187" text="08/30/2020" TYPE="DATE" comment="" />
+<AGE id="P5" start="197" end="199" text="69" TYPE="AGE" comment="" />
+<ID id="P6" start="209" end="219" text="LP-0558021" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P7" start="226" end="242" text="NorthStar Choice" TYPE="ORGANIZATION" comment="" />
+<ID id="P8" start="254" end="266" text="NSC-88-20418" TYPE="HEALTHPLAN" comment="" />
+<AGE id="P9" start="321" end="323" text="69" TYPE="AGE" comment="" />
+<DATE id="P10" start="444" end="454" text="April 2088" TYPE="DATE" comment="" />
+<DATE id="P11" start="472" end="482" text="04/07/2089" TYPE="DATE" comment="" />
+<NAME id="P12" start="517" end="530" text="Justice Baker" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="543" end="546" text="Mi4" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="637" end="647" text="04/01/2090" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="728" end="741" text="Linden Apotek" TYPE="ORGANIZATION" comment="" />
+<LOCATION id="P16" start="745" end="753" text="Göteborg" TYPE="CITY" comment="" />
+<NAME id="P17" start="897" end="908" text="Bless Adjei" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="918" end="931" text="Arlow Sjoberg" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1027" end="1035" text="Rosalind" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="1039" end="1043" text="Pune" TYPE="CITY" comment="" />
+<NAME id="P21" start="1064" end="1067" text="Joy" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="1077" end="1081" text="June" TYPE="DATE" comment="" />
+<NAME id="P23" start="1087" end="1093" text="Kasper" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="1259" end="1269" text="04/01/2090" TYPE="DATE" comment="" />
+<NAME id="P25" start="1345" end="1353" text="Marigold" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="1382" end="1394" text="Lark Hedlund" TYPE="DOCTOR" comment="" />
+<DATE id="P27" start="1399" end="1409" text="03/23/2090" TYPE="DATE" comment="" />
+<CONTACT id="P28" start="1421" end="1434" text="192.168.14.20" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

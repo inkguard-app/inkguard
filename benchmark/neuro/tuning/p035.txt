@@ -1,0 +1,21 @@
+NEUROLOGY CLINIC — MULTIPLE SCLEROSIS
+{{FACILITY|Clearwater Basin MS Center}}
+{{NAME|Saffron Okeke-Delaney}}, 29 F, MRN {{MRN|CBM-6611047}}, {{DATE|07/25/2064}}
+Intake history by {{NAME|Hollis Dupré}}, PA-C; attending Dr. {{NAME|Vivienne Achterberg-Pole}}
+
+Episode 1 (14 months ago): painful vision loss left eye over 4 days, colour desaturation — [[optic neuritis]], recovered over 6 weeks. Episode 2 (now): 10 days of numbness ascending from both feet to the umbilicus with [[Lhermitte sign]] and urinary urgency.
+Exam: left [[relative afferent pupillary defect]], [[red desaturation]] left, [[temporal pallor]] of the left disc. [[Sensory level T10]] to pinprick, [[vibration loss]] at the toes, [[brisk reflexes]], bilateral [[Babinski]]. [[Internuclear ophthalmoplegia]] not seen. [[Romberg positive]]. Gait mildly ataxic. [[EDSS 3.0]].
+MRI brain: multiple [[periventricular]] ([[Dawson fingers]]), [[juxtacortical]], and [[infratentorial]] (right middle cerebellar peduncle) T2/FLAIR lesions; one [[gadolinium-enhancing lesion]] in the left centrum semiovale with [[open-ring enhancement]]; [[central vein sign]] in most lesions. MRI C/T-spine: short-segment enhancing lesion at T6 ([[less than 2 vertebral segments]], dorsolateral). LP: [[CSF-specific oligoclonal bands]] (6 bands), [[IgG index]] 0.9. [[AQP4-IgG]] and [[MOG-IgG]] negative.
+Impression: [[relapsing-remitting multiple sclerosis]] — fulfils [[revised McDonald criteria]] ([[dissemination in space]] in 3 regions; [[dissemination in time]] by simultaneous enhancing and non-enhancing lesions plus oligoclonal bands).
+Plan: [[IV methylprednisolone 1 g daily x3 days]]; start [[high-efficacy DMT]] — [[ocrelizumab 600 mg IV every 6 months]] (after [[hepatitis B serology]], [[VZV IgG]], [[immunoglobulins]]); [[vitamin D3 4000 IU]]. Pregnancy planning discussed (ocrelizumab washout).
+=====NOTE=====
+RADIOLOGY REPORT — MRI BRAIN WITH AND WITHOUT CONTRAST — MS PROTOCOL
+{{FACILITY|Clearwater Basin Imaging}}   Accession {{ID|CBI-64-2290417}}
+Patient {{NAME|OKEKE-DELANEY, SAFFRON}}   MRN {{MRN|CBM-6611047}}   Exam {{DATE|01/28/2065}}
+Comparison: {{DATE|07/18/2064}}; also outside MRI from {{FACILITY|Tidewater Open MRI}} received on CD and uploaded to PACS.
+TECHNIQUE: 3T. [[Sagittal 3D FLAIR]], [[axial T2]], [[axial DWI/ADC]], [[3D T1 MPRAGE pre and post gadobutrol 0.1 mmol/kg]], [[SWI]] for [[central vein sign]]. The initial post-contrast sequence was degraded by patient motion and was repeated with the same parameters (no additional contrast).
+FINDINGS: Approximately 18 [[T2/FLAIR hyperintense lesions]] in [[periventricular]], [[juxtacortical]] and [[infratentorial]] locations, unchanged in number and size compared with prior. No new T2 lesions. No [[enhancing lesions]]; the previously enhancing left centrum semiovale lesion no longer enhances and has developed a [[T1 hypointense]] core ("[[black hole]]"). [[Paramagnetic rim lesions]]: 1. No [[brain atrophy]] beyond age. [[DWI]] negative.
+IMPRESSION: Stable MS lesion burden, no new or enhancing lesions — consistent with [[no evidence of disease activity (NEDA-3)]] on imaging, pending clinical correlation.
+Radiologist: Dr. {{NAME|Wolfram Esterhuizen}}
+=====NOTE=====
+MS clinic 6 mo — {{DATE|01/30/2065}} — {{NAME|S. Okeke-Delaney}}: no relapses; [[EDSS 1.5]]; [[Timed 25-foot walk]] 4.8 s, [[9-hole peg test]] 19 s R / 20 s L, [[SDMT]] 61. Second [[ocrelizumab 600 mg]] infusion tolerated after [[methylprednisolone 100 mg]] and [[cetirizine]] premedication (mild [[infusion reaction]], pruritus). [[IgG]] normal. MRI: [[NEDA-3]]. Residual left [[optic atrophy]] on [[OCT]] (RNFL 72 µm). No [[Uhthoff phenomenon]], no [[bladder urgency]]. Continue. Seen by {{NAME|H. Dupré}}, PA-C.

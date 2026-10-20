@@ -1,0 +1,16 @@
+NEURO-OPHTHALMOLOGY CONSULTATION
+{{FACILITY|Halloway Eye and Neuro-Ophthalmology Institute}}
+{{NAME|Kiersten Frisby-Ngata}}, 26 F, MRN {{MRN|HEN-2271904}}, seen {{DATE|06/06/2060}}
+Referred by her primary care physician Dr. {{NAME|Alma Ruiz-Tennant}} after optometry noted swollen discs
+
+3 months of daily [[holocephalic headache]] worse lying down, [[pulsatile tinnitus]] (whooshing, synchronous with the pulse), [[transient visual obscurations]] on bending. BMI 39; recent 12 kg weight gain. Not on [[tetracyclines]], [[isotretinoin]] or [[vitamin A]]. Not pregnant.
+Exam: VA 20/20 OU. [[Bilateral optic disc oedema]], [[modified Frisén grade 3]] OD, [[Frisén grade 2]] OS, with obscuration of major vessels at the disc margin OD, [[peripapillary haemorrhages]]. No [[RAPD]]. [[Abducens nerve palsy]] absent. [[Humphrey 24-2 SITA]]: enlarged blind spots, [[mean deviation]] -3.1 dB OD and -2.2 dB OS. [[OCT RNFL]] 186 µm OD, 152 µm OS.
+[[MRI brain with MRV]]: [[empty sella]], [[flattening of the posterior globes]], [[distension of the optic nerve sheaths]], [[tortuous optic nerves]], bilateral [[transverse sinus stenosis]]; no mass, no [[venous sinus thrombosis]].
+[[LP]] (lateral decubitus, legs extended): [[opening pressure 38 cmH2O]], normal CSF constituents.
+Diagnosis: [[idiopathic intracranial hypertension]] (modified [[Dandy criteria]] fulfilled).
+Plan: [[acetazolamide 500 mg BID]], titrate to 1 g BID; weight loss (~10%), consider [[GLP-1 receptor agonist]]; repeat fields 4-6 weeks. If visual decline: [[optic nerve sheath fenestration]], [[venous sinus stenting]], or [[VP shunt]].
+=====NOTE=====
+Follow-up {{DATE|08/01/2060}} — {{NAME|K. Frisby-Ngata}} {{MRN|HEN-2271904}}
+Headache better. Paraesthesia of fingers and taste change ([[acetazolamide side effects]]). [[Frisén grade 1]] OD, grade 1 OS; [[OCT RNFL]] 121 µm OD. [[Humphrey MD]] -1.4 dB OD. Weight -6 kg. Continue [[acetazolamide 1 g BID]]; add [[topiramate 25 mg]] for headache. Check [[serum bicarbonate]] and [[potassium]] ([[metabolic acidosis]] and [[nephrolithiasis]] risk). [[Pulsatile tinnitus]] resolved; no [[transient visual obscurations]]. [[Peripapillary haemorrhages]] resolving. [[Optic disc oedema]] improving on [[fundus photography]]. Patient email {{EMAIL|kfn.eyes@example.org}}.
+=====NOTE=====
+Message {{DATE|10/14/2060}}: patient reports a positive home pregnancy test. Plan per Dr. {{NAME|E. Narváez}}: stop [[topiramate]] (teratogenic, [[oral clefts]]); [[headache]] management with [[acetaminophen]] and [[nerve blocks]] ([[greater occipital nerve block]]) rather than [[NSAIDs]] in the third trimester; [[acetazolamide]] — discuss risks vs benefits after the first trimester with OB; weight gain counselling; [[fundoscopy]] and [[visual fields]] each trimester; IIH is not an indication for [[caesarean section]]; [[neuraxial anaesthesia]] is not contraindicated. OB at {{FACILITY|Halloway Women's Clinic}}.

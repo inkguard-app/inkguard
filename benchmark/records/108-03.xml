@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Prairie Light Hospice
+July 21, 2075
+
+To: Medical Director, Blue Cross plan, Utilization Review
+Re: Member Leanord Frost   Member ID BCX-4471-882-09   DOB 2/17/97
+Hospice referral dated 07/19/2075
+
+Dear reviewer,
+
+I am writing to request authorisation for hospice care for my patient Leonard Frost, a 78 yo gentleman with non small cell lung cancer diagnosed in April 2072, now with progressive decline despite chemotherapy (cisplatin and paclitaxel) and a prognosis of less than 6 months. He has a home oxygen concentrator, serial SN-OC-5590-1142, which we ask be kept covered under the plan.
+
+He has coronary disease with prior bypass. He is no longer able to go to the clinic. His wife, Dolores Frost, is his caregiver. Please call me with any problems on (918) 555-0160 ext 3302.
+
+Sincerely,
+
+Dr. Imran Qureshi, Hospice Medical Director
+Dictated but not read, signature stamp applied by clerk.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="21" text="Prairie Light Hospice" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="22" end="35" text="July 21, 2075" TYPE="DATE" comment="" />
+<NAME id="P2" start="106" end="119" text="Leanord Frost" TYPE="PATIENT" comment="" />
+<ID id="P3" start="132" end="147" text="BCX-4471-882-09" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P4" start="154" end="161" text="2/17/97" TYPE="DATE" comment="" />
+<DATE id="P5" start="185" end="195" text="07/19/2075" TYPE="DATE" comment="" />
+<NAME id="P6" start="283" end="296" text="Leonard Frost" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="361" end="371" text="April 2072" TYPE="DATE" comment="" />
+<ID id="P8" start="531" end="546" text="SN-OC-5590-1142" TYPE="DEVICE" comment="" />
+<NAME id="P9" start="689" end="702" text="Dolores Frost" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="758" end="772" text="(918) 555-0160" TYPE="PHONE" comment="" />
+<CONTACT id="P11" start="777" end="781" text="3302" TYPE="PHONE" comment="" />
+<NAME id="P12" start="800" end="813" text="Imran Qureshi" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

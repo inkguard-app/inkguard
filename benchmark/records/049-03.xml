@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>TELEPHONE ENCOUNTER   01/24/2080  09:15
+Caller: Daniel Volk (pt) -- also asked for as "Dima" by receptionist when she looked him up, he said ok that's him
+DOB confirmed: 11/02/2050   MRN 4471-290   &lt;-- WRONG? this is the MRN of Kevin Ostrander DOB 06/19/2048, fixed, correct is 4471-209
+Callback #: (218) 555-0163 ok to lv msg. alt: neighbor Walt Hargrove (218) 555-0129 (pt's phone dies alot)
+Reason: gums sore after dental surgery 01/18/2080, taking tylenol. no fever. no swelling, eating ok. "nothing like the seisure thing when I was kid" - volunteered, he now says he had 1 seizure at "age 5 mo" lol.
+A/P: normal post-op per Dr. Baek. keep rinsing. call if pus/fever. Seen again PRN.
+Lives: Pargeter Lane, landlord Sunil Patel says heat is out - not our issue.
+Spoke to: J. Tran MA   Routed to: Dr. Abara, Priya Raman RN
+Name: &lt;&lt;PATIENT_NAME&gt;&gt;   Phone: (000) 000-0000   Age: 0
+</TEXT>
+<TAGS>
+<DATE id="P0" start="22" end="32" text="01/24/2080" TYPE="DATE" comment="" />
+<NAME id="P1" start="48" end="59" text="Daniel Volk" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="87" end="91" text="Dima" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="170" end="180" text="11/02/2050" TYPE="DATE" comment="" />
+<ID id="P4" start="187" end="195" text="4471-290" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P5" start="228" end="243" text="Kevin Ostrander" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="248" end="258" text="06/19/2048" TYPE="DATE" comment="" />
+<ID id="P7" start="278" end="286" text="4471-209" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P8" start="299" end="313" text="(218) 555-0163" TYPE="PHONE" comment="" />
+<NAME id="P9" start="342" end="355" text="Walt Hargrove" TYPE="PATIENT" comment="" />
+<CONTACT id="P10" start="356" end="370" text="(218) 555-0129" TYPE="PHONE" comment="" />
+<DATE id="P11" start="433" end="443" text="01/18/2080" TYPE="DATE" comment="" />
+<AGE id="P12" start="595" end="599" text="5 mo" TYPE="AGE" comment="" />
+<NAME id="P13" start="634" end="638" text="Baek" TYPE="DOCTOR" comment="" />
+<LOCATION id="P14" start="696" end="709" text="Pargeter Lane" TYPE="LOCATION-OTHER" comment="" />
+<NAME id="P15" start="720" end="731" text="Sunil Patel" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="776" end="783" text="J. Tran" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="800" end="809" text="Dr. Abara" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="811" end="822" text="Priya Raman" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

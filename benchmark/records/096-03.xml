@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION LIST
+Date: 07/05/2089      Prepared by: Tyler Okpara (medical assistant) with a volunteer, Hannah, from the high school
+CHANCE, SILAS H.       Age: ninety-four       MRN 7720-3146
+Seen at the primary care checkup. Mr. Chance came with his niece who does the pills. He is known to all of us as "Lucky" but he was not very lucky today - confused about the day. Pt super chill though!
+
+ACTIVE:
+-&gt; Galantamine tablet, dose per niece's list (4 mg), twice a day
+-&gt; Epoetin injection, given at the dialysis unit, last given in March
+
+STALE (still on the printout, REMOVE):
+- Insulin 70/30 mix, stopped August 2079
+- Amlodipine 2.5 mg, stopped Aug 2079
+- Fluticasone inhaler and albuterol nebulizer, stopped Aug 2079
+- Oxycodone with acetaminophen (after the shoulder fracture), done in October 2084
+- Amoxicillin with clavulanate, done 12/2085
+- Cough syrup, done early 2087
+
+Vitals today: BP 146/108 (high - recheck), weight 91.2 kg, BMI 28.3, pain 2/10. Labs: creatinine 2.4, eGFR 27.8, glucose 68.9. A1c reported as 3.3 which looks wrong - ask the doctor, do not trust.
+
+Nobody lives with him. "Chance of falling" is high, by the way, haha, not his name. He asked "who is lucky?" and we said you are.
+"No guardian named." Pharmacy and plan: the printout has none, ask niece.
+Dental referral given again.
+
+-- TO
+Reviewed by Dr. L. Bakshi  signed 7/5/89
+</TEXT>
+<TAGS>
+<DATE id="P0" start="37" end="47" text="07/05/2089" TYPE="DATE" comment="" />
+<NAME id="P1" start="66" end="78" text="Tyler Okpara" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="117" end="123" text="Hannah" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="146" end="162" text="CHANCE, SILAS H." TYPE="PATIENT" comment="" />
+<AGE id="P4" start="174" end="185" text="ninety-four" TYPE="AGE" comment="" />
+<ID id="P5" start="196" end="205" text="7720-3146" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="244" end="250" text="Chance" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="320" end="325" text="Lucky" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="546" end="551" text="March" TYPE="DATE" comment="" />
+<DATE id="P9" start="621" end="632" text="August 2079" TYPE="DATE" comment="" />
+<DATE id="P10" start="662" end="670" text="Aug 2079" TYPE="DATE" comment="" />
+<DATE id="P11" start="726" end="734" text="Aug 2079" TYPE="DATE" comment="" />
+<DATE id="P12" start="805" end="817" text="October 2084" TYPE="DATE" comment="" />
+<DATE id="P13" start="855" end="862" text="12/2085" TYPE="DATE" comment="" />
+<DATE id="P14" start="889" end="893" text="2087" TYPE="DATE" comment="" />
+<NAME id="P15" start="1330" end="1332" text="TO" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1349" end="1358" text="L. Bakshi" TYPE="DOCTOR" comment="" />
+<DATE id="P17" start="1367" end="1373" text="7/5/89" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

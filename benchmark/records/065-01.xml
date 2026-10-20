@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>REFERRAL - CARDIOLOGY
+Citadel Family Practice, Halifax NS     Jan 30, 2092
+To: Dr Rohan Mistry, Maritime Heart Centre   fax (902) 555-0149
+Re: PAPPAS, YIANNIS  DOB 17/05/1937  [sic: 2037 - UK format, 17 May] HC# NS 7316 904 228  MRN HLX-0065-4410
+
+54M new CHF dx 1/29/92. SOB on exertion x wks, ankle edema, orthopnea 2 pillows. Hx: adol scoliosis, obesity BMI 30+, knee OA on naproxen (will stop, NSAID + CHF = no), social isolation, IPV hx (resolved Dec 2089).
+Aliases in chart: Ioannis Papadopoulos, John Pappas (anglicised on arrival to Canada, pt says "just call me Yannis"). Insurance + old UK records under Papadopoulos. Origin Thessaloniki, Greece; sister Eleftheria Papadopoulou still there.
+Started furosemide 40mg po daily (Lasix) Feb 16 after echo. Pls assess EF, advise GDMT. No ACEi yet, BP low-ish 90s.
+Lives alone 22 Kempt Road Apt 5, Halifax NS B3K 4X3. ph +1 (902) 555-0127. Works warehouse clerk at Atlantic Marine Supply Ltd part time.
+Pt says he "never smoked", chart says 20 pack-yr hx. Tx of daughter?? -- (no daughter; son Nikolas).
+Thx, F. McAllister MD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="22" end="45" text="Citadel Family Practice" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="47" end="54" text="Halifax" TYPE="CITY" comment="" />
+<LOCATION id="P2" start="55" end="57" text="NS" TYPE="STATE" comment="" />
+<DATE id="P3" start="62" end="74" text="Jan 30, 2092" TYPE="DATE" comment="" />
+<NAME id="P4" start="82" end="94" text="Rohan Mistry" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="96" end="117" text="Maritime Heart Centre" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P6" start="124" end="138" text="(902) 555-0149" TYPE="FAX" comment="" />
+<NAME id="P7" start="143" end="158" text="PAPPAS, YIANNIS" TYPE="PATIENT" comment="" />
+<DATE id="P8" start="164" end="174" text="17/05/1937" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="189" end="191" text="UK" TYPE="COUNTRY" comment="" />
+<ID id="P10" start="212" end="227" text="NS 7316 904 228" TYPE="HEALTHPLAN" comment="" />
+<ID id="P11" start="233" end="246" text="HLX-0065-4410" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P12" start="248" end="250" text="54" TYPE="AGE" comment="" />
+<DATE id="P13" start="263" end="270" text="1/29/92" TYPE="DATE" comment="" />
+<DATE id="P14" start="452" end="460" text="Dec 2089" TYPE="DATE" comment="" />
+<NAME id="P15" start="481" end="501" text="Ioannis Papadopoulos" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="503" end="514" text="John Pappas" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="541" end="547" text="Canada" TYPE="COUNTRY" comment="" />
+<LOCATION id="P18" start="597" end="599" text="UK" TYPE="COUNTRY" comment="" />
+<LOCATION id="P19" start="635" end="647" text="Thessaloniki" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="649" end="655" text="Greece" TYPE="COUNTRY" comment="" />
+<NAME id="P21" start="664" end="687" text="Eleftheria Papadopoulou" TYPE="PATIENT" comment="" />
+<DATE id="P22" start="742" end="748" text="Feb 16" TYPE="DATE" comment="" />
+<LOCATION id="P23" start="830" end="849" text="22 Kempt Road Apt 5" TYPE="STREET" comment="" />
+<LOCATION id="P24" start="851" end="858" text="Halifax" TYPE="CITY" comment="" />
+<LOCATION id="P25" start="859" end="861" text="NS" TYPE="STATE" comment="" />
+<LOCATION id="P26" start="862" end="869" text="B3K 4X3" TYPE="ZIP" comment="" />
+<CONTACT id="P27" start="874" end="891" text="+1 (902) 555-0127" TYPE="PHONE" comment="" />
+<PROFESSION id="P28" start="899" end="914" text="warehouse clerk" TYPE="PROFESSION" comment="" />
+<LOCATION id="P29" start="918" end="944" text="Atlantic Marine Supply Ltd" TYPE="ORGANIZATION" comment="" />
+<NAME id="P30" start="1047" end="1054" text="Nikolas" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="1062" end="1075" text="F. McAllister" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

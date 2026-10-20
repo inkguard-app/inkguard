@@ -1,0 +1,331 @@
+/* The desktop app's own layout, on top of foundation.css (the shared tokens
+   and components). No inline styles anywhere: the content security policy
+   forbids them, so every look is a class here. */
+
+html, body { height: 100%; }
+body { display: flex; flex-direction: column; }
+[hidden] { display: none !important; }
+
+/* ---- the frame ------------------------------------------------------------ */
+.appbar .org { opacity: .85; }
+.appbar .appname { display: inline-flex; align-items: center; gap: var(--s2); }
+.appbar .appmark { width: 22px; height: 22px; flex: none; display: block; }
+.appbar nav { display: flex; gap: var(--s1); margin-left: var(--s5); }
+.appbar nav button {
+  font: inherit; color: #CFE0F5; background: transparent; border: 0; border-radius: var(--r1);
+  padding: 6px 12px; cursor: pointer; min-height: 36px;
+}
+.appbar nav button:hover { background: var(--chrome-2); }
+.appbar nav button[aria-current="page"] { background: var(--chrome-2); color: #fff; font-weight: 650; }
+.appbar .who { opacity: .9; }
+.pill {
+  display: inline-flex; align-items: center; gap: 6px; padding: 2px 10px; border-radius: 999px;
+  font-size: var(--fs-xs); font-weight: 650; background: rgba(255,255,255,.12); color: #E6F0FA;
+}
+.pill::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: #6FD39A; }
+
+main { flex: 1; overflow: auto; }
+.page { max-width: 1040px; margin: 0 auto; padding: var(--s6) var(--s5) var(--s7); }
+.page-narrow { max-width: 560px; }
+.stack > * + * { margin-top: var(--s4); }
+.grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: var(--s4); }
+.row { display: flex; gap: var(--s3); align-items: center; flex-wrap: wrap; }
+.row-end { justify-content: flex-end; }
+.spread { display: flex; justify-content: space-between; align-items: center; gap: var(--s3); flex-wrap: wrap; }
+.mt { margin-top: var(--s4); }
+.mt-l { margin-top: var(--s5); }
+
+/* ---- banners under the app bar ---------------------------------------------- */
+.banners > .callout { border-radius: 0; border-left: 0; border-right: 0; border-top: 0; padding: var(--s3) var(--s5); }
+.banners .row { justify-content: space-between; }
+
+/* ---- the one-step-at-a-time screens (setup, restore, sign-in) --------------- */
+.center-screen { min-height: 100%; display: grid; place-items: center; padding: var(--s6) var(--s4); }
+.panel { width: 100%; max-width: 560px; }
+.panel h1 { margin-bottom: var(--s2); }
+.brand { display: flex; align-items: center; gap: var(--s3); margin-bottom: var(--s5); color: var(--chrome); }
+.brand .mark-logo { width: 44px; height: 44px; flex: none; display: block; }
+.brand b { font-size: var(--fs-l); }
+.brand .verify-notice { margin-top: var(--s2); }
+
+.steps { display: flex; gap: var(--s2); margin: 0 0 var(--s5); padding: 0; list-style: none; flex-wrap: wrap; }
+.steps li {
+  font-size: var(--fs-xs); font-weight: 650; color: var(--ink-2); padding: 4px 10px;
+  border-radius: 999px; background: var(--surface-2); border: 1px solid var(--line);
+}
+.steps li.done { color: var(--ok); background: var(--ok-soft); border-color: #A8D8B9; }
+.steps li.now { color: var(--primary-ink); background: var(--primary); border-color: var(--primary); }
+
+.input { width: 100%; }
+textarea.input { min-height: 96px; padding: var(--s2) var(--s3); font-family: var(--font-mono); font-size: var(--fs-s); }
+.hint { font-size: var(--fs-s); color: var(--ink-2); }
+.check { display: flex; gap: var(--s3); align-items: flex-start; margin: var(--s3) 0; }
+.check input { width: 20px; height: 20px; margin-top: 3px; flex: none; }
+
+.error {
+  margin: var(--s3) 0; padding: var(--s3) var(--s4); border-radius: var(--r2);
+  background: var(--danger-soft); border: 1px solid #EFB4AE; color: var(--ink);
+}
+.error .code { display: block; margin-top: 2px; font-size: var(--fs-xs); color: var(--ink-2); font-family: var(--font-mono); }
+.notice { margin: var(--s3) 0; padding: var(--s3) var(--s4); border-radius: var(--r2); background: var(--ok-soft); border: 1px solid #A8D8B9; }
+
+.meter { height: 6px; background: var(--surface-2); border-radius: 999px; overflow: hidden; margin-top: 4px; }
+.meter > span { display: block; height: 100%; width: 0; background: var(--warn); transition: width .2s var(--ease); }
+.meter.ok > span { background: var(--ok); }
+.w0 { width: 0 } .w10 { width: 10% } .w20 { width: 20% } .w30 { width: 30% } .w40 { width: 40% }
+.w50 { width: 50% } .w60 { width: 60% } .w70 { width: 70% } .w80 { width: 80% } .w90 { width: 90% } .w100 { width: 100% }
+
+/* A code to read out or keep: big, spaced, monospaced */
+.bigcode {
+  font-family: var(--font-mono); font-size: var(--fs-xl); letter-spacing: .06em; font-weight: 700;
+  padding: var(--s4); text-align: center; background: var(--surface-2); border: 1px dashed var(--line-2);
+  border-radius: var(--r3); user-select: all; word-break: break-all;
+}
+.kit {
+  border: 2px solid var(--chrome); border-radius: var(--r3); padding: var(--s5); background: var(--surface);
+}
+.kit dl { display: grid; grid-template-columns: max-content 1fr; gap: var(--s2) var(--s4); margin: var(--s3) 0; }
+.kit dt { color: var(--ink-2); }
+.kit dd { margin: 0; font-family: var(--font-mono); font-weight: 700; }
+.qr { display: block; margin: var(--s3) auto; width: 200px; height: 200px; background: #fff; }
+
+/* ---- lists and tables ------------------------------------------------------- */
+table.list { width: 100%; border-collapse: collapse; font-size: var(--fs-s); }
+table.list th { text-align: left; color: var(--ink-2); font-weight: 650; border-bottom: 1px solid var(--line-2); padding: var(--s2); }
+table.list td { border-bottom: 1px solid var(--line); padding: var(--s2); vertical-align: middle; }
+table.list tr.dim td { color: var(--ink-2); }
+.tabs { display: flex; gap: var(--s1); border-bottom: 1px solid var(--line-2); margin-bottom: var(--s5); flex-wrap: wrap; }
+.tabs button {
+  font: inherit; background: transparent; border: 0; border-bottom: 3px solid transparent;
+  padding: var(--s2) var(--s4); cursor: pointer; color: var(--ink-2); min-height: var(--target);
+}
+.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--primary); font-weight: 650; }
+.stat { font-size: var(--fs-xl); font-weight: 700; }
+.kv-list { display: grid; grid-template-columns: max-content 1fr; gap: var(--s2) var(--s4); margin: 0; }
+.kv-list dt { color: var(--ink-2); }
+.kv-list dd { margin: 0; }
+.danger-zone { border-color: #EFB4AE; }
+
+/* ---- dialogs ----------------------------------------------------------------- */
+/* A dialog is a barrier, not a panel: the screen behind it dims and cannot
+   be reached (the app is made inert while one is open), and the bubble sits
+   in the middle of the window with the one decision to make. */
+.scrim {
+  position: fixed; inset: 0; z-index: 80; padding: var(--s4);
+  display: grid; place-items: center;
+  background: rgba(16, 24, 38, .58);
+  backdrop-filter: blur(2px); -webkit-backdrop-filter: blur(2px);
+  animation: scrim-in .12s var(--ease);
+}
+@keyframes scrim-in { from { opacity: 0 } to { opacity: 1 } }
+@keyframes bubble-in { from { opacity: 0; transform: translateY(8px) scale(.98) } to { opacity: 1; transform: none } }
+@media (prefers-reduced-motion: reduce) {
+  .scrim, .dialog { animation: none; }
+}
+/* The bubble itself never grows past the window: its buttons stay reachable. */
+.dialog {
+  width: 100%; max-width: 540px; background: var(--surface);
+  border: 1px solid var(--line); border-radius: 14px;
+  box-shadow: 0 10px 20px rgba(16, 24, 38, .14), 0 30px 60px rgba(16, 24, 38, .22);
+  padding: var(--s5) var(--s5) var(--s4);
+  max-height: calc(100vh - 2 * var(--s4)); overflow-y: auto; overscroll-behavior: contain;
+  animation: bubble-in .16s var(--ease);
+}
+.dialog h2 { margin-bottom: var(--s3); }
+/* The row of choices stays in view while the bubble's content scrolls. */
+.dialog > div > .row-end:last-child {
+  position: sticky; bottom: calc(var(--s4) * -1); margin: 0 calc(var(--s5) * -1) calc(var(--s4) * -1);
+  padding: var(--s3) var(--s5); background: var(--surface);
+  border-top: 1px solid var(--line); border-radius: 0 0 14px 14px;
+}
+.toast { z-index: 120; }
+
+/* ---- the lock screen ----------------------------------------------------------- */
+.lock-overlay .panel { text-align: left; }
+.lock-overlay .lock-title { display: flex; gap: var(--s3); align-items: center; }
+
+/* min-height: 0 (not 100%) so this flex child may shrink — without it the
+   app box grows past the window and <main> never scrolls, putting the
+   bottom of a long screen out of reach. */
+#app { flex: 1; display: flex; flex-direction: column; min-height: 0; }
+.bigcode.long { font-size: var(--fs-l); letter-spacing: .03em; word-break: normal; white-space: nowrap; overflow-x: auto; }
+.linkbtn { font: inherit; background: none; border: 0; padding: 0; color: var(--primary); font-weight: 600; text-decoration: underline; cursor: pointer; }
+
+/* Read by screen readers only: announces each new screen's title once. */
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+fieldset.field { border: 0; padding: 0; margin: 0 0 var(--s4); }
+fieldset.field legend { font-weight: 600; margin-bottom: var(--s2); padding: 0; }
+
+/* The pool panel: counts a person can read at a glance. */
+.kv-list.pool dd { font-variant-numeric: tabular-nums; }
+
+/* The points a doctor confirms before a batch starts: a bubble in the middle
+   of the screen that stands in the way until each line is read and ticked. */
+.scrim-barrier { background: rgba(20, 30, 45, .62); }
+.dialog-barrier { max-width: 560px; border-top: 4px solid var(--primary); text-align: left; }
+.care { margin: var(--s4) 0; }
+.care .care-point { display: flex; gap: var(--s3); align-items: flex-start; padding: var(--s3);
+                    border: 1px solid var(--line); border-radius: var(--r2); margin-bottom: var(--s2);
+                    background: var(--surface-2); cursor: pointer; }
+.care .care-point:hover { border-color: var(--line-2); }
+.care .care-point input { margin-top: 3px; flex: none; width: 18px; height: 18px; }
+.care .care-point span { font-size: var(--fs-s); }
+.care .care-point:has(input:checked) { background: var(--primary-soft); border-color: var(--primary); }
+
+/* A message never sits over the choices in a bubble. */
+body:has(.scrim) .toast { bottom: auto; top: var(--s5); }
+
+/* ---- the review screen: the window holds the note and nothing else -------------- */
+.page-bare { flex: 1; display: flex; min-height: 100%; }
+.review { flex: 1; display: flex; flex-direction: column; min-height: 100vh; background: var(--bg); }
+.review-bar {
+  display: flex; align-items: center; gap: var(--s4); padding: var(--s3) var(--s5);
+  background: var(--chrome); color: var(--chrome-ink); font-size: var(--fs-s);
+}
+.review-bar .where { font-weight: 650; }
+.review-bar .spacer { flex: 1; }
+.review-bar .pill { background: rgba(255,255,255,.14); color: var(--chrome-ink); }
+.review-bar .btn-quiet { color: #CFE0F5; }
+.review-bar .btn-quiet:hover { background: var(--chrome-2); }
+.review-main { flex: 1; display: grid; grid-template-columns: minmax(0, 1fr) 420px; gap: 0; min-height: 0; }
+.review-main.one { display: grid; place-items: center; padding: var(--s6); }
+.note-pane { overflow-y: auto; padding: var(--s6) var(--s7); background: var(--surface); }
+.note-text { max-width: 70ch; font-size: var(--fs-m); line-height: 1.8; white-space: pre-wrap; }
+.ask-pane { overflow-y: auto; padding: var(--s5); border-left: 1px solid var(--line); background: var(--bg); }
+.ask-pane h2 { font-size: var(--fs-m); }
+.questions { list-style: none; margin: 0 0 var(--s4); padding: 0; }
+.question { border: 1px solid var(--line); border-radius: var(--r3); padding: var(--s3); margin-bottom: var(--s3); background: var(--surface); }
+.question.answered { border-color: var(--ok); background: var(--ok-soft); }
+.question .qword { margin-bottom: var(--s2); }
+.question .qword .linkbtn { font-weight: 650; }
+.question .row { gap: var(--s2); flex-wrap: wrap; }
+.btn.pick { min-height: 36px; padding: 0 var(--s3); font-size: var(--fs-s); }
+.btn.pick.on { background: var(--primary); color: var(--primary-ink); border-color: var(--primary); }
+.mark.flash { outline: 3px solid var(--primary); outline-offset: 2px; }
+.check.attest { align-items: flex-start; gap: var(--s3); margin: var(--s4) 0; }
+.check.attest input { margin-top: 5px; flex: none; }
+@media (max-width: 1100px) {
+  .review-main { grid-template-columns: 1fr; }
+  .ask-pane { border-left: 0; border-top: 1px solid var(--line); }
+}
+
+/* Working: a quiet turn and a bar, no commentary. */
+.working { display: flex; align-items: center; gap: var(--s4); }
+.working .progress { flex: 1; }
+/* The working sign is the Inkguard mark itself: the bar breathes, slowly,
+   while the app works, and is still everywhere else. A simplified
+   version of the logo file; its proportions differ slightly. */
+.inkmark {
+  --size: 24px;
+  width: var(--size); height: calc(var(--size) * 0.8667); flex: none;
+  border-radius: 50%; background: #A91636;
+  display: grid; place-items: center;
+}
+.inkmark .inkbar {
+  width: 53.3%; height: 37.5%; border-radius: 999px; background: #000;
+  animation: breathe 1.8s ease-in-out infinite;
+}
+.inkmark.big { --size: 56px; margin: 0 auto var(--s3); }
+@keyframes breathe {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.22, 1.32); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .inkmark .inkbar { animation: none; }
+}
+
+/* The clinician's settle screen reuses the review layout; these are the
+   only pieces it adds. */
+.panel.card.center { text-align: center; }
+.review-main.one .field legend { font-weight: 600; margin-bottom: var(--s1); }
+
+/* The practice batch: the reviewer's own marks, and text they can select
+   to make them. */
+.note-text .mark-mine { background: var(--mark-mine, #ffd9a8); cursor: pointer;
+                        box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .25); }
+.note-text.selectable .plain { cursor: text; }
+.card.needs { border-left: 3px solid var(--warn, #b26a00); }
+
+/* The free tidy-up screen before setup: one card, a little wider than a
+   sign-in panel, because it holds two folder pickers. */
+.center-screen.wide .panel { max-width: 46rem; }
+
+/* ===== The reading room ==========================================
+   The one screen a reviewer spends two hours inside, so it gets a palette of
+   its own: cool mist paper instead of the app's warm neutral, a deep
+   teal-navy bar, and the note on true white like a page on a desk. Tokens
+   are overridden INSIDE .room only — the rest of the app is unchanged.
+   The note itself is set in a serif: it is read for an hour at a stretch,
+   and that is what serifs are for. */
+.review.room {
+  --bg: #EDF3F6;
+  --surface: #FFFFFF;
+  --line: #CBDDE5;
+  --line-2: #AFC9D4;
+  --ink-2: #3F5A66;
+  --primary: #17697F;
+  --primary-hover: #115A6D;
+  --primary-soft: #E2EFF3;
+  --chrome: #143A4C;
+  --chrome-2: #1D5165;
+  --note-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Charter, Georgia, serif;
+}
+
+/* The bar: where they are, how far through, and the two ways to step away. */
+.review.room .review-bar { box-shadow: inset 0 -1px 0 rgba(255, 255, 255, .08); }
+.review.room .rail {
+  display: block; width: 8rem; height: 3px; margin-left: var(--s3);
+  background: rgba(255, 255, 255, .18); border-radius: 2px; overflow: hidden;
+}
+.review.room .rail-fill {
+  display: block; height: 100%; background: #7FC6DC;
+  transition: width 240ms ease;
+}
+@media (prefers-reduced-motion: reduce) { .review.room .rail-fill { transition: none; } }
+
+/* The note: a page, not a panel. Wide margins, a long measure, serif. */
+.review.room .note-pane {
+  background: var(--surface);
+  box-shadow: 0 1px 0 var(--line), 1px 0 0 var(--line);
+}
+.review.room .note-body { padding: var(--s6) var(--s5); }
+.review.room .note-text {
+  font-family: var(--note-serif);
+  font-size: 18px; line-height: 1.85; max-width: 66ch; margin: 0 auto;
+  color: #16242B;
+}
+.review.room .ask-pane { background: var(--bg); }
+.review.room .ask-pane h2 { color: var(--ink-2); font-size: var(--fs-s); font-weight: 650; }
+
+/* Patient words are not selectable or draggable in the room: copying is
+   refused and recorded, so it should not look available either. */
+.review.room .note-text { user-select: none; -webkit-user-select: none; }
+.review.room .note-text.selectable { user-select: text; -webkit-user-select: text; }
+
+/* Veiled: the window lost focus, or a break has started. The words go soft
+   behind the same blue the room is built from — enough that nobody reads
+   them over a shoulder, calm enough that it is not an alarm. */
+.review.room .review-main.veiled { filter: blur(10px) saturate(.6); pointer-events: none; }
+.veil {
+  position: fixed; inset: 0; z-index: 40;
+  background: radial-gradient(120% 80% at 50% 0%, rgba(237, 243, 246, .72), rgba(20, 58, 76, .58));
+  backdrop-filter: blur(2px);
+}
+
+/* The break, and the way out. One card, centred, nothing else on screen. */
+.pause-screen {
+  position: fixed; inset: 0; z-index: 50;
+  display: grid; place-items: center; padding: var(--s5);
+  background: linear-gradient(180deg, #16455A 0%, #0E2F3E 100%);
+}
+.pause-card {
+  width: min(32rem, 100%); background: #FBFDFE; color: #16242B;
+  border-radius: 14px; padding: var(--s6) var(--s5);
+  box-shadow: 0 24px 60px rgba(8, 32, 43, .45);
+}
+.pause-card h1 { font-size: var(--fs-xl); margin: 0 0 var(--s3); letter-spacing: -0.01em; }
+.pause-card .pause-why { margin: 0 0 var(--s2); color: #3F5A66; font-size: var(--fs-s); }
+.pause-card p { max-width: 46ch; color: #2B4049; }
+.pause-card .label { display: block; margin-top: var(--s4); font-weight: 600; }
+.pause-card .input { margin-top: var(--s1); }
+.pause-card .row-end { margin-top: var(--s4); }

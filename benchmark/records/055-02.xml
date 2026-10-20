@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Harbor Point Medical Center - Obstetrics
+04/24/2060
+
+To: Saint Okoro, MD, Cardiology, Northcrest Heart Clinic
+Fax: (509) 555-0144
+From: Mercy Aguilar, MD
+
+RE: Nova Brandt   DOB 06/02/2038   MRN 055-31877
+Dear Dr. Okoro,
+
+Thank you for seeing Ms. Brandt, a 21-year-old G2P1 who is pregnant, early in the pregnancy, referred for new palpitations and shortness of breath on stairs over the last 3 weeks.
+
+Pertinent:
+- Hemoglobin today 11.6 g/dL (was 16.9 on 11/29/2059), WBC 6.1. Dx anemia 04/24/2060. iron started, plz do not hold cardiac workup for this
+- No chest pain, no syncope. Family hx: maternal grandmother Odalys is 92 with a-fib
+- Prior covid 12/2055, recovered. Chest film at the time normal
+- Meds: prenatal vitamins only. (Yaz and the depo are old, stopped 2057 / 2058 -- ignore if the template pulled them)
+- Social: lives with partner Kash Rivers in Spokane. Employed full-time at Pinnacle Print &amp; Pack (she says the rivers of paper never end)
+
+Questions: (1) echo and ECG? (2) is the palpatation from anemia alone? (3) safe to continue exercise.
+
+Please call the patient on (509) 555-0178, she prefers voice mail only. Ask for Nova.
+
+Sincerely,
+Mercy Aguilar, MD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="0" end="27" text="Harbor Point Medical Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="41" end="51" text="04/24/2060" TYPE="DATE" comment="" />
+<NAME id="P2" start="57" end="68" text="Saint Okoro" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="86" end="109" text="Northcrest Heart Clinic" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P4" start="115" end="129" text="(509) 555-0144" TYPE="FAX" comment="" />
+<NAME id="P5" start="136" end="149" text="Mercy Aguilar" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="159" end="170" text="Nova Brandt" TYPE="PATIENT" comment="" />
+<DATE id="P7" start="177" end="187" text="06/02/2038" TYPE="DATE" comment="" />
+<ID id="P8" start="194" end="203" text="055-31877" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="213" end="218" text="Okoro" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="242" end="252" text="Ms. Brandt" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="256" end="258" text="21" TYPE="AGE" comment="" />
+<DATE id="P12" start="455" end="465" text="11/29/2059" TYPE="DATE" comment="" />
+<DATE id="P13" start="487" end="497" text="04/24/2060" TYPE="DATE" comment="" />
+<NAME id="P14" start="614" end="620" text="Odalys" TYPE="PATIENT" comment="" />
+<AGE id="P15" start="624" end="626" text="92" TYPE="AGE" comment="" />
+<DATE id="P16" start="652" end="659" text="12/2055" TYPE="DATE" comment="" />
+<DATE id="P17" start="769" end="773" text="2057" TYPE="DATE" comment="" />
+<DATE id="P18" start="776" end="780" text="2058" TYPE="DATE" comment="" />
+<NAME id="P19" start="849" end="860" text="Kash Rivers" TYPE="PATIENT" comment="" />
+<LOCATION id="P20" start="864" end="871" text="Spokane" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="895" end="916" text="Pinnacle Print &amp; Pack" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P22" start="1089" end="1103" text="(509) 555-0178" TYPE="PHONE" comment="" />
+<NAME id="P23" start="1142" end="1146" text="Nova" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="1160" end="1173" text="Mercy Aguilar" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PROCEDURE (OPERATIVE) REPORT - Merrimack Endoscopy Center
+Date of procedure: 02/15/2060                      Page 1 of 2
+Patient: EZE, NGOZI (previously HALVORSON, NGOZI)   MRN 2290-6178   DOB 5/3/2010   Age 49
+Endoscopist: Tomasz Wieliczko, MD     Nurse: Hannah Prewitt     Anesthesia: MAC, Dr. Lindqvist
+Referring: Dr. Figueiredo / Dr. Al-Rashidi
+
+Indication: Screening for colon cancer, average risk, first time. Family history unclear (see referral).
+Pre-procedure diagnosis: screening. Post-procedure diagnosis: one small polyp, otherwise normal colon.
+Procedure: total colonoscopy to cecum with polypectomy.
+
+Description: Patient identified with two identifiers, name and the date of birth. She gave her name as "Ngozi Eze", the wristband say Halvorsen, we call the registration, corrected. Bowel prep was good (Boston 8). Digital exam normal. Colonoscope introduced to the cecum, appendiceal orifice and ileocecal valve seen, and the terminal ileum entered (ilium?? - ileum). Withdrawal time 9 minutes. In sigmoid colon was one sessile polyp 4 mm, removed with cold snare, retrieved. Mild diverticula not seen. Hemorrhoids small internal. No bleeding. Patient tolerated well, no complications.
+
+Specimen: sigmoid polyp, jar 1, label barcode SP-60-0215-0447 printed with HALVORSEN N - relabel.
+Recommendation: wait pathology; if adenoma repeat in 5-10 years. Resume normal diet. Patient told to bring her mother-in-law's... [sentence cut off]
+Patient's daughter Ada was in waiting room with the aunt, Ifeoma, who drove her.
+
+Dictated by T. Wieliczko MD 02/15/2060 11:48     Transcribed by mrn_scribe04
+Electronically signed 02/16/2060 08:02
+Page 2 of 2   EZE, NGOZI   MRN 2290-6718   DOB 05/03/2010
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="31" end="57" text="Merrimack Endoscopy Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="77" end="87" text="02/15/2060" TYPE="DATE" comment="" />
+<NAME id="P2" start="130" end="140" text="EZE, NGOZI" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="153" end="169" text="HALVORSON, NGOZI" TYPE="PATIENT" comment="" />
+<ID id="P4" start="177" end="186" text="2290-6178" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="193" end="201" text="5/3/2010" TYPE="DATE" comment="" />
+<AGE id="P6" start="208" end="210" text="49" TYPE="AGE" comment="" />
+<NAME id="P7" start="224" end="240" text="Tomasz Wieliczko" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="256" end="270" text="Hannah Prewitt" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="292" end="305" text="Dr. Lindqvist" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="317" end="331" text="Dr. Figueiredo" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="334" end="348" text="Dr. Al-Rashidi" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="719" end="728" text="Ngozi Eze" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="749" end="758" text="Halvorsen" TYPE="PATIENT" comment="" />
+<ID id="P14" start="1248" end="1263" text="SP-60-0215-0447" TYPE="IDNUM" comment="" />
+<NAME id="P15" start="1277" end="1288" text="HALVORSEN N" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1468" end="1471" text="Ada" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1507" end="1513" text="Ifeoma" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="1543" end="1555" text="T. Wieliczko" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="1559" end="1569" text="02/15/2060" TYPE="DATE" comment="" />
+<NAME id="P20" start="1595" end="1607" text="mrn_scribe04" TYPE="USERNAME" comment="" />
+<DATE id="P21" start="1630" end="1640" text="02/16/2060" TYPE="DATE" comment="" />
+<ID id="P22" start="1678" end="1687" text="2290-6718" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P23" start="1694" end="1704" text="05/03/2010" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

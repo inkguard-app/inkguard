@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY
+Admitted: 05/23/2067     Discharged: 05/26/2067
+Patient: Amaris Frost (39 yo F)    Attending: Pilar Okonjo
+Care coordinator: Joy Bancroft, RN
+
+HOSPITAL COURSE
+Frost's admission for term labor ended in a primary cesarean on the day of admission, for failure to progress. Baby boy, 3.4 kg. Post-op course was smooth. Pain controlled with scheduled acetaminophen and ibuprofen, no opioids needed beyond POD 1. Walked POD 1, voided after catheter out, tolerating diet. Breastfeeding established with lactation. Edinburgh screen negative. Hgb stable, iron continued for hx of anemia.
+
+In summary, the patient's story is one of resilience and a happy ending. The new family left in good spirits.
+
+DISCHARGE CONDITION: good.
+MEDS: ibuprofen 600 mg q6h prn, acetaminophen 650 mg q6h prn, iron daily. (Penicillin V from long ago still shows on the old list -- NOT current.)
+FOLLOW UP: incision check in 1 wk with nursing; postnatal visit in about 6 weeks. Warning signs reviewed: fever, wound redness, heavy bleeding, low mood.
+Contraception: she wants to wait, to discuss at 6 wk.
+
+Copy-forward from admission: "single, supportive partner at bedside" (still true).
+Signed Joy Bancroft RN for Okonjo 05/26/2067
+</TEXT>
+<TAGS>
+<DATE id="P0" start="28" end="38" text="05/23/2067" TYPE="DATE" comment="" />
+<DATE id="P1" start="55" end="65" text="05/26/2067" TYPE="DATE" comment="" />
+<NAME id="P2" start="75" end="87" text="Amaris Frost" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="89" end="91" text="39" TYPE="AGE" comment="" />
+<NAME id="P4" start="112" end="124" text="Pilar Okonjo" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="143" end="155" text="Joy Bancroft" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="177" end="182" text="Frost" TYPE="PATIENT" comment="" />
+<NAME id="P7" start="1182" end="1194" text="Joy Bancroft" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1202" end="1208" text="Okonjo" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="1209" end="1219" text="05/26/2067" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

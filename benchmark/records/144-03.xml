@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>October 2nd, 2072
+
+Dr Amit Chaudhry-Lund
+Orthopaedics
+
+Re: Mr Sorensen, 48
+
+Dear Dr Chaudhry-Lund,
+
+I would be grateful if you would see this forty-eight-year-old man with a three month history of right knee pain, worse on stairs and after sitting, with some morning stiffness lasting under half an hour. Examination today showed crepitus and a small effusion, and I have diagnosed osteoarthritis of the knee. Radiographs were obtained. He has known coronary disease on clopidogrel, simvastatin and metoprolol, with emphysema and sleep apnea, and I have started naproxen 220 mg, which I will review in view of the clopidogrel. This is dictated and has not been read.
+
+Kind regards,
+Hyun-woo Baek, MD
+</TEXT>
+<TAGS>
+<DATE id="P0" start="0" end="17" text="October 2nd, 2072" TYPE="DATE" comment="" />
+<NAME id="P1" start="22" end="40" text="Amit Chaudhry-Lund" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="62" end="70" text="Sorensen" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="72" end="74" text="48" TYPE="AGE" comment="" />
+<AGE id="P4" start="142" end="153" text="forty-eight" TYPE="AGE" comment="" />
+<NAME id="P5" start="682" end="695" text="Hyun-woo Baek" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO PATIENT                                      Prairie Endocrine &amp; Diabetes Associates
+Date released: 11/01/2073 (Wed)          Collected: 10/30/2073 09:40 (fasting)
+To: Mahlet Gebremariam via portal https://myhealth.prairieendo.example/pt/E0498127    Dear [PATIENT],  Dear Ms. Tesfaye,
+MRN E-0498127    DOB 07/02/2018    Language: Tigrinya (interpreter needed)    Result reviewed by: Dr. Lowell Frost
+
+S: You came in for your yearly check on Monday 10/30 and told us you have been tired but your sugars at home are ok, mostly 90s to low 100s on the meter. No new chest pains since the September 4th ER visit. Your sleep is a little better. You and husband Dawit asked if the numbers mean you are low.
+
+O: Fasting glucose 97.5 mg/dL (normal). HbA1c 2.9 % - this is the 4th time in a row it is reported below the normal range (3.2, 2.8, 3.0, 2.9). BP 105/72, weight 86.8 kg, BMI 29.0, pain score 2/10. Your kidney transplant labs were sent seperately by the transplant team and Dr. Anneliese Bishop will write to you about those.
+
+A: Your fasting sugar is normal and you are NOT having dangerous low sugars. The HbA1c number is not trustworthy for you - after a kidney transplant the red blood cells are renewed faster and the test reads falsely low. It does not mean that you have a problem with your thyroid (no Graves, no Hashimoto) either. This is why we added a different blood test, fructosamine, to your next draw.
+
+P: 1. Keep checking your sugar at home, write down any number below 70 or above 250. 2. Do not stop or change your tacrolimus or any other medicine. 3. Wear the new glucose sensor (serial 3MH0042917K) on the back of your arm, scan with the phone app, it connects to your home wifi named Haile-Family-5G. 4. Dental visit is booked for the 13th November, with Dr. Wen Cho at Southside Smile Dental, 2 pm, your case worker Marguerite can drive. If you miss it call (612) 555-0126 ext 204. 5. Please book the next visit before Christmas Eve, we are closed 12/24 through 12/26.
+
+If you have questions call Beth Cook, RN at (612) 555-0126, and ask for an interpreter - you do not need to use your daughter Selam.
+
+[Comment by B. Cook: reading level ok? pls dont use "Graves" in portal version, pt may think its something else]
+[Deleted: Your 55 year old body is changing.]  [Inserted: Your body is still adjusting to the transplant, two years later.]
+Electronically signed by Lowell Frost, MD on 11/01/2073 13:05
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="67" end="106" text="Prairie Endocrine &amp; Diabetes Associates" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="122" end="132" text="11/01/2073" TYPE="DATE" comment="" />
+<DATE id="P2" start="134" end="137" text="Wed" TYPE="DATE" comment="" />
+<DATE id="P3" start="159" end="169" text="10/30/2073" TYPE="DATE" comment="" />
+<NAME id="P4" start="190" end="208" text="Mahlet Gebremariam" TYPE="PATIENT" comment="" />
+<CONTACT id="P5" start="220" end="268" text="https://myhealth.prairieendo.example/pt/E0498127" TYPE="URL" comment="" />
+<NAME id="P6" start="298" end="305" text="Tesfaye" TYPE="PATIENT" comment="" />
+<ID id="P7" start="311" end="320" text="E-0498127" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P8" start="328" end="338" text="07/02/2018" TYPE="DATE" comment="" />
+<NAME id="P9" start="409" end="421" text="Lowell Frost" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="463" end="475" text="Monday 10/30" TYPE="DATE" comment="" />
+<DATE id="P11" start="606" end="619" text="September 4th" TYPE="DATE" comment="" />
+<NAME id="P12" start="677" end="682" text="Dawit" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1001" end="1017" text="Anneliese Bishop" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="1630" end="1641" text="3MH0042917K" TYPE="DEVICE" comment="" />
+<NAME id="P15" start="1729" end="1744" text="Haile-Family-5G" TYPE="USERNAME" comment="" />
+<DATE id="P16" start="1780" end="1784" text="13th" TYPE="DATE" comment="" />
+<DATE id="P17" start="1785" end="1793" text="November" TYPE="DATE" comment="" />
+<NAME id="P18" start="1804" end="1811" text="Wen Cho" TYPE="DOCTOR" comment="" />
+<LOCATION id="P19" start="1815" end="1837" text="Southside Smile Dental" TYPE="HOSPITAL" comment="" />
+<NAME id="P20" start="1862" end="1872" text="Marguerite" TYPE="PATIENT" comment="" />
+<CONTACT id="P21" start="1904" end="1926" text="(612) 555-0126 ext 204" TYPE="PHONE" comment="" />
+<DATE id="P22" start="1965" end="1978" text="Christmas Eve" TYPE="DATE" comment="" />
+<DATE id="P23" start="1994" end="1999" text="12/24" TYPE="DATE" comment="" />
+<DATE id="P24" start="2008" end="2013" text="12/26" TYPE="DATE" comment="" />
+<NAME id="P25" start="2043" end="2052" text="Beth Cook" TYPE="DOCTOR" comment="" />
+<CONTACT id="P26" start="2060" end="2074" text="(612) 555-0126" TYPE="PHONE" comment="" />
+<NAME id="P27" start="2142" end="2147" text="Selam" TYPE="PATIENT" comment="" />
+<NAME id="P28" start="2162" end="2169" text="B. Cook" TYPE="DOCTOR" comment="" />
+<AGE id="P29" start="2278" end="2280" text="55" TYPE="AGE" comment="" />
+<NAME id="P30" start="2412" end="2424" text="Lowell Frost" TYPE="DOCTOR" comment="" />
+<DATE id="P31" start="2432" end="2442" text="11/01/2073" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

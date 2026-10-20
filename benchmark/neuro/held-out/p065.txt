@@ -1,0 +1,18 @@
+ED NOTE — FALL, {{AGE|94}}-YEAR-OLD ON ANTIPLATELET
+{{FACILITY|Edgecombe General Hospital}} — {{DATE|10/03/2068}} 11:05
+{{NAME|Winifred Glasgow-Ashe}}, {{AGE|94}} F, MRN {{MRN|EGH-0019843}}
+ED physician Dr. {{NAME|Raymond Okafor-Lisle}}; geriatric ED nurse {{NAME|Bettina Halvorsen}}, RN
+
+Tripped on a rug at home. Struck her forehead. Takes [[clopidogrel 75 mg]] (prior [[coronary stent]]). Lives with her daughter. Baseline: independent with a cane, mild [[cognitive impairment]].
+[[GCS 15]] initially → [[GCS 12 (E3V4M5)]] at 2 h. (Patient's surname is {{NAME|Glasgow-Ashe}}; please chart "[[Glasgow Coma Scale]]" fully.) [[Left pronator drift]].
+[[CT head]]: right [[acute subdural haematoma]] 12 mm along the convexity, [[midline shift]] 7 mm; [[atrophy]]. [[CT C-spine]] negative. [[Platelet function assay (P2Y12)]] 38 PRU (strongly inhibited).
+Plan: [[platelet transfusion]] considered (PATCH trial — harm in spontaneous ICH, uncertain in traumatic SDH) and given as one adult dose before surgery; [[desmopressin 0.4 mcg/kg]]; neurosurgery consult; goals-of-care with daughter {{NAME|Edwina Ashe}} (healthcare POA) — patient's documented wishes: surgery acceptable if good chance of returning home; DNR/DNI otherwise.
+=====NOTE=====
+NEUROSURGERY OP NOTE — {{DATE|10/03/2068}} — {{NAME|GLASGOW-ASHE, W.}}, {{AGE|94}} y — {{MRN|EGH-0019843}}
+Surgeon Dr. {{NAME|Ingmar Svendsen-Kahale}}
+Right [[mini-craniotomy]] (5 x 4 cm) for evacuation of [[acute subdural haematoma]] under GA; clot evacuated; cortical arterial bleeder coagulated; brain re-expanded partially. [[Subdural drain]] placed. Bone flap replaced. [[Tranexamic acid 1 g]] given. EBL 150 mL.
+Post-op: extubated; [[GCS 14]]; drift improving. [[Delirium prevention]] — avoid [[benzodiazepines]], [[early mobilisation]], glasses and hearing aids on. Restart [[clopidogrel]] at day 7 if CT stable (coronary stent over 12 months old). [[CAM-ICU]] negative.
+=====NOTE=====
+GERIATRICS CONSULT — {{DATE|10/06/2068}} — {{NAME|W. Glasgow-Ashe}} ({{AGE|94}})
+Dr. {{NAME|Cosima Ravenhill}}, Geriatric Medicine
+[[Clinical Frailty Scale 5]]. [[Orthostatic hypotension]] present; [[medication review]]: stop [[amitriptyline]] (anticholinergic, [[Beers criteria]]), reduce [[metoprolol]]. [[Vitamin D]] low → supplement. [[Fall risk]]: home PT/OT, remove rugs, night lights. [[MoCA 19/30]] (baseline ~21). Discharge home with daughter and [[home health]] from {{ORG|Edgecombe Visiting Nurse Association}}. Repeat [[CT head]] in 2 weeks.

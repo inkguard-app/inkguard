@@ -1,0 +1,27 @@
+SPINE CLINIC — NEW PATIENT
+{{FACILITY|Bellmont Spine Institute}}
+{{NAME|Frederick Hoffmann}}, MRN {{MRN|BSI-602281}}, seen {{DATE|02/02/2061}}
+
+58 M right-handed carpenter, 9 months of bilateral hand numbness, dropping tools, loss of dexterity buttoning shirts, and progressive gait unsteadiness. Neck pain mild. [[Lhermitte sign]] on neck flexion.
+
+Exam: [[positive Hoffmann sign]] bilaterally (yes, Mr. {{NAME|Hoffmann}} has a [[positive Hoffmann sign]] — he laughed), [[inverted brachioradialis reflex]] right, [[hyperreflexia]] lower limbs 3+, [[sustained ankle clonus]] (4 beats) left, [[Babinski sign]] upgoing on the left, [[finger escape sign]] right, [[grip-release test]] 14 in 10 s. [[Romberg sign]] positive. [[Tandem gait]] impaired. Intrinsic hand wasting ([[myelopathy hand]]). Power: [[C5-T1]] 5-/5 grip.
+
+Scores: [[mJOA 12]] (moderate myelopathy), [[Nurick grade 3]], [[NDI 34%]].
+
+MRI cervical: multilevel [[cervical spondylosis]], [[disc-osteophyte complexes]] at [[C4-5 and C5-6]] with [[spinal cord compression]] and [[T2 intramedullary hyperintensity]] at C5-6 ("[[snake-eye appearance]]" absent). Canal AP diameter 7 mm at C5-6. Preserved [[cervical lordosis]] (C2-7 Cobb +12 degrees). No [[OPLL]] on CT.
+
+Plan: [[two-level ACDF C4-5, C5-6]] with [[PEEK cages]] and [[anterior cervical plate]]. [[Intraoperative neuromonitoring]] (SSEP/MEP).
+
+Surgeon: Dr. {{NAME|Linnea Cartwright-Abaje}}
+=====NOTE=====
+OP NOTE — {{DATE|03/01/2061}}
+Pt {{NAME|HOFFMANN, FREDERICK}}  {{MRN|BSI-602281}}
+Procedure: [[Anterior cervical discectomy and fusion C4-5 and C5-6]].
+Surgeon {{NAME|L. Cartwright-Abaje}}; neuromonitoring {{NAME|J. Ostrowski}}, CNIM.
+
+Supine, [[Gardner-Wells tongs]] 10 lb traction, shoulders taped. Right-sided [[Smith-Robinson approach]]: transverse incision, [[platysma]] divided, plane between [[sternocleidomastoid]]/[[carotid sheath]] laterally and [[trachea]]/[[oesophagus]] medially. [[Longus colli]] elevated, [[Caspar retractor]] and [[Caspar distraction pins]]. Levels confirmed with fluoroscopy. Discectomy with curettes and [[Kerrison 2 mm rongeur]], [[posterior longitudinal ligament]] removed, bilateral [[foraminotomy]]. Cord pulsatile after decompression.
+Implants: [[PEEK interbody cage 6 mm]] x2 packed with [[allograft]] and [[DBX]]; [[anterior cervical plate 37.5 mm]] with [[variable-angle screws 4.0 x 14 mm]]. Patient's implant lot numbers recorded on the implant sheet; patient-specific implant registry ID {{ID|IMPREG-BSI-61-002281}}.
+[[SSEP]] and [[MEP]] stable. EBL 60 mL.
+Post-op: [[soft collar]] for comfort, check for [[dysphagia]], [[recurrent laryngeal nerve palsy]], [[C5 palsy]]; [[upright cervical X-ray]] POD1.
+=====NOTE=====
+6 wk f/u {{DATE|04/12/2061}} {{NAME|F. Hoffmann}}: hands better, buttons ok. [[mJOA 15]], [[Nurick 2]]. [[Hoffmann sign]] still present R (expected, may persist). [[Ankle clonus]] gone, [[Babinski]] now equivocal, [[grip-release test]] 19 in 10 s. [[Lhermitte sign]] resolved. Mild [[dysphagia]] resolved, voice normal (no [[recurrent laryngeal nerve palsy]]). [[NDI 18%]]. XR: [[C4-6 ACDF]] hardware intact, no [[subsidence]]. Start [[physiotherapy]] for gait. CT at 1 yr for [[fusion]]. Return to light work. Clinic phone {{PHONE|555-731-9902}}.

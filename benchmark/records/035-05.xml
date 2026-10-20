@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>OPERATIVE / PROCEDURE NOTE -- DENTAL
+Cedar Ridge Dental Associates      Date of procedure: 10/11/2086
+Patient: EVERETT SAGE    46 y/o M     MRN PH-2290417
+Surgeon/Operator: Dr. Hamid Rostami       Assistant: Bao Nguyen RDH
+Referring: Dr. Achebe-Marsh, referral placed 09/27/2086
+
+Pre-op dx:
+- gingivitis, calculus buildup, last cleaning 2084
+Post-op dx:
+- same, mild generalized gingival inflammation, no caries seen on bitewings
+
+Procedure(s):
+- full-mouth supragingival scaling
+- full-mouth subgingival scaling
+- bitewing radiographs (4)
+- exam of gingivae
+- fluoride treatment
+- oral health education
+
+Anesthesia: topical only; no local needed. Pt tolerated.
+Allergy check: wasp venom (anaphylaxis); no latex allergy. Epinephrine pen in his bag -- brought it, good.
+Meds today: pt took loratadine am. No premedication needed.
+
+Findings / details:
+- moderate calculus lower anterior lingual, bleeding on probing most sites, pockets 3-4 mm
+- bitewings: no caries, bone levels ok
+- no complications, EBL minimal
+- OHI: brushing 2x/day, floss daily, soft brush. Parkinson-style tremor? none -- hands steady 
+- return 6 mo, sooner if bleeding persists
+
+&gt;&gt;&gt; pasted from med rec 9/27/86:
+Pt: Sage, Evertt Rx 4471921 EPINEPHRINE AUTO-INJ  Reconciled by Tomas Vandenberghe PharmD
+ (still showing syrup, ignore)
+
+Dictated by Dr. Rostami 10/11/2086 11:48       Cc: Dr. Achebe-Marsh fax (802) 555-0166
+Invoice acct CRD-88-20417
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="37" end="66" text="Cedar Ridge Dental Associates" TYPE="HOSPITAL" comment="" />
+<DATE id="P1" start="91" end="101" text="10/11/2086" TYPE="DATE" comment="" />
+<NAME id="P2" start="111" end="123" text="EVERETT SAGE" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="127" end="129" text="46" TYPE="AGE" comment="" />
+<ID id="P4" start="144" end="154" text="PH-2290417" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P5" start="177" end="190" text="Hamid Rostami" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="208" end="218" text="Bao Nguyen" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="238" end="250" text="Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="268" end="278" text="09/27/2086" TYPE="DATE" comment="" />
+<DATE id="P9" start="337" end="341" text="2084" TYPE="DATE" comment="" />
+<DATE id="P10" start="1175" end="1182" text="9/27/86" TYPE="DATE" comment="" />
+<NAME id="P11" start="1188" end="1200" text="Sage, Evertt" TYPE="PATIENT" comment="" />
+<ID id="P12" start="1204" end="1211" text="4471921" TYPE="IDNUM" comment="" />
+<NAME id="P13" start="1248" end="1266" text="Tomas Vandenberghe" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1322" end="1329" text="Rostami" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="1330" end="1340" text="10/11/2086" TYPE="DATE" comment="" />
+<NAME id="P16" start="1361" end="1373" text="Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<CONTACT id="P17" start="1378" end="1392" text="(802) 555-0166" TYPE="FAX" comment="" />
+<ID id="P18" start="1406" end="1418" text="CRD-88-20417" TYPE="ACCOUNT" comment="" />
+</TAGS>
+</deIdi2b2>

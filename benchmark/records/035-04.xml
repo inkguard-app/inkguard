@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>MEDICATION RECONCILIATION -- PHARMACY
+Whitcomb Valley Medical Center Outpatient Pharmacy         9/27/86
+Pt: Sage, Evertt     DOB 5/17/40     MRN PH-2290417
+Reconciled by: Tomas Vandenberghe, PharmD        PCP: Achebe-Marsh
+Sources: pt interview, bottles brought in, Alderwood Community Pharmacy fill hx, EHR list
+
+ACTIVE:
+- Loratadine 10 mg PO daily (Claritin generic) -- since 12/2060; last fill 08/29/86
+- Hydrocortisone 1% cream (10 mg/mL) topical prn rash -- since 11/2060; pt uses ~2x/mo
+- Epinephrine 0.3 mg autoinjector (EpiPen-type, NDA020800) prn anaphylaxis -- since 12/2060; pt's current pen exp 03/2087
+- Nothing OTC besides saline spray, multivit gummy (Centrum)
+
+DISCONTINUED / REMOVE FROM LIST:
+- Acetaminophen/dextromethorphan/doxylamine syrup (NyQuil-type) -- stopped 11/29/2079 for bronchitis, still on list in error
+- Sodium fluoride 1.1% gel -- one-time 10/6/84, dental
+
+Pharmacy label scanned in (text from bottle photo):
+ ALDERWOOD COMMUNITY PHARMACY  (802) 555-0140
+ Rx 4471920   SAGE, EVERETT L
+ LORATADINE 10MG TAB  TAKE 1 TABLET BY MOUTH DAILY
+ QTY 90  FILLED 08/29/86  REFILLS 3  DR ACHEBE-MARSH
+ Rx 4471921  EPINEPHRINE AUTO-INJ 0.3MG  QTY 2   *** EXPIRES 03/87
+
+Allergies / ADR:
+- wasp venom -- anaphylaxis
+- NO drug allergies (pt confused "sage" tea w a drug allergy lol)
+
+Issues:
+- list had hydrocortisone twice (dup) -- merged
+- pt asks if loratadine and sage interact -- no. 
+- adherence good, pays cash, no insurance now (job loss today)
+- member id on file VTH-30-884217-02 termed 9/30 
+
+Time spent: 25 min. Pt education: carry pen always, call 911 after use.
+T. Vandenberghe PharmD
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="38" end="68" text="Whitcomb Valley Medical Center" TYPE="ORGANIZATION" comment="" />
+<DATE id="P1" start="97" end="104" text="9/27/86" TYPE="DATE" comment="" />
+<NAME id="P2" start="109" end="121" text="Sage, Evertt" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="130" end="137" text="5/17/40" TYPE="DATE" comment="" />
+<ID id="P4" start="146" end="156" text="PH-2290417" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P5" start="172" end="190" text="Tomas Vandenberghe" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="211" end="223" text="Achebe-Marsh" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="267" end="295" text="Alderwood Community Pharmacy" TYPE="ORGANIZATION" comment="" />
+<DATE id="P8" start="379" end="386" text="12/2060" TYPE="DATE" comment="" />
+<DATE id="P9" start="398" end="406" text="08/29/86" TYPE="DATE" comment="" />
+<DATE id="P10" start="470" end="477" text="11/2060" TYPE="DATE" comment="" />
+<DATE id="P11" start="578" end="585" text="12/2060" TYPE="DATE" comment="" />
+<DATE id="P12" start="608" end="615" text="03/2087" TYPE="DATE" comment="" />
+<DATE id="P13" start="786" end="796" text="11/29/2079" TYPE="DATE" comment="" />
+<DATE id="P14" start="875" end="882" text="10/6/84" TYPE="DATE" comment="" />
+<CONTACT id="P15" start="975" end="989" text="(802) 555-0140" TYPE="PHONE" comment="" />
+<ID id="P16" start="994" end="1001" text="4471920" TYPE="IDNUM" comment="" />
+<DATE id="P17" start="1087" end="1095" text="08/29/86" TYPE="DATE" comment="" />
+<NAME id="P18" start="1111" end="1123" text="ACHEBE-MARSH" TYPE="DOCTOR" comment="" />
+<ID id="P19" start="1128" end="1135" text="4471921" TYPE="IDNUM" comment="" />
+<DATE id="P20" start="1185" end="1190" text="03/87" TYPE="DATE" comment="" />
+<ID id="P21" start="1493" end="1509" text="VTH-30-884217-02" TYPE="HEALTHPLAN" comment="" />
+<DATE id="P22" start="1517" end="1521" text="9/30" TYPE="DATE" comment="" />
+<NAME id="P23" start="1596" end="1611" text="T. Vandenberghe" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

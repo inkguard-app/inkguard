@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>PAGE 1 of 2   MARLOWE, DESMOND  MRN 0482-7731  DOB 03/09/1979
+RESULT COMMENT - PT LETTER (printed, pt has no portal acct)
+Comment date: 08/12/2076   Resulted: 08/08/2076
+Ordering: Dr Hana Kowalczyk, Internal Medicine, Saint Aldric Regional Medical Center
+
+Dear [PATIENT],
+Dear Mr Voss,   &lt;- legacy name pulled by merge, pt legally changed in 2041 (see reg)
+
+Labs from 8/8 reviewd. creat 2.6, eGFR 12.3 = kidneys wrking poorly, worse than we want esp before valve procedure. Sugar (A1c 6.0) still prediabetes range, ok. Chol 267 LDL 143 high - simva stopped 5/11, now on atorva 20, cont. Pls do NOT take naproxen/ibuprofen. cont aspirin 81, metoprolol, lisinopril per list. HTN controled at last visit.
+Plan: neph referal, repeat BMP 1 wk, cards (TAVI team) aware of renal fxn. 
+
+Pt hx unreliable - tells staff he "never had a heart attack", chart shows STEMI 2036. Tells reg DOB 03/09/1977, addr 81 Quarrystone Row (corrected, real is 18 Quarrystone Row Apt 3B). Sister is proxy: Marguerite Voss-Haldane (740) 555-0198, mbox m.voss.haldane@mailbox-demo.net.
+
+Mailed c/o neighbor bc pt mailbox jammed:
+Alphonse Giardello
+20 Quarrystone Row, Marietta, OH 45750
+Neighbor agrees to hand deliver. pt also asked us to cc landlord Cyrus Tolliver / Tolliver Property Group fax (740) 555-0140 - DECLINED, no release.
+
+PAGE 2 of 2   MARLOWE, DESMOND  MRN 0482-7713  DOB 03/09/1979
+Electronically signed by Hana Kowalczyk, MD on 08/12/2076 16:41
+Last edited by hkowalczyk on 8/12/2076 16:44 from 10.20.4.55
+</TEXT>
+<TAGS>
+<NAME id="P0" start="14" end="30" text="MARLOWE, DESMOND" TYPE="PATIENT" comment="" />
+<ID id="P1" start="36" end="45" text="0482-7731" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="51" end="61" text="03/09/1979" TYPE="DATE" comment="" />
+<DATE id="P3" start="136" end="146" text="08/12/2076" TYPE="DATE" comment="" />
+<DATE id="P4" start="159" end="169" text="08/08/2076" TYPE="DATE" comment="" />
+<NAME id="P5" start="183" end="197" text="Hana Kowalczyk" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="199" end="216" text="Internal Medicine" TYPE="DEPARTMENT" comment="" />
+<LOCATION id="P7" start="218" end="254" text="Saint Aldric Regional Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P8" start="280" end="284" text="Voss" TYPE="PATIENT" comment="" />
+<DATE id="P9" start="368" end="371" text="8/8" TYPE="DATE" comment="" />
+<DATE id="P10" start="557" end="561" text="5/11" TYPE="DATE" comment="" />
+<DATE id="P11" start="859" end="863" text="2036" TYPE="DATE" comment="" />
+<DATE id="P12" start="879" end="889" text="03/09/1977" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="896" end="914" text="81 Quarrystone Row" TYPE="STREET" comment="" />
+<LOCATION id="P14" start="935" end="953" text="18 Quarrystone Row" TYPE="STREET" comment="" />
+<NAME id="P15" start="980" end="1003" text="Marguerite Voss-Haldane" TYPE="PATIENT" comment="" />
+<CONTACT id="P16" start="1004" end="1018" text="(740) 555-0198" TYPE="PHONE" comment="" />
+<CONTACT id="P17" start="1025" end="1056" text="m.voss.haldane@mailbox-demo.net" TYPE="EMAIL" comment="" />
+<NAME id="P18" start="1101" end="1119" text="Alphonse Giardello" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="1120" end="1138" text="20 Quarrystone Row" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="1140" end="1148" text="Marietta" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="1150" end="1152" text="OH" TYPE="STATE" comment="" />
+<LOCATION id="P22" start="1153" end="1158" text="45750" TYPE="ZIP" comment="" />
+<NAME id="P23" start="1224" end="1238" text="Cyrus Tolliver" TYPE="PATIENT" comment="" />
+<LOCATION id="P24" start="1241" end="1264" text="Tolliver Property Group" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P25" start="1269" end="1283" text="(740) 555-0140" TYPE="FAX" comment="" />
+<NAME id="P26" start="1323" end="1339" text="MARLOWE, DESMOND" TYPE="PATIENT" comment="" />
+<ID id="P27" start="1345" end="1354" text="0482-7713" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P28" start="1360" end="1370" text="03/09/1979" TYPE="DATE" comment="" />
+<NAME id="P29" start="1396" end="1410" text="Hana Kowalczyk" TYPE="DOCTOR" comment="" />
+<DATE id="P30" start="1418" end="1428" text="08/12/2076" TYPE="DATE" comment="" />
+<NAME id="P31" start="1450" end="1460" text="hkowalczyk" TYPE="USERNAME" comment="" />
+<DATE id="P32" start="1464" end="1473" text="8/12/2076" TYPE="DATE" comment="" />
+<CONTACT id="P33" start="1485" end="1495" text="10.20.4.55" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

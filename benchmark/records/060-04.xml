@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>Patient portal message  -- Secure Messaging
+From: delphine.frost.mke (proxy account)
+To: Lakeshore Children's Clinic Front Desk
+Date: 10/28/2084
+Subject: my new teeth!!
+
+hello doctor its me BRAM, mom is letting me type. my new fake teeth (the denture thingy) hurt a little when i eat apple. also it makes me talk funny and marcus bell at school said i look like a grandpa lol. Can you fix it. my mom says to say i havent worn it at night. thank u
+
+bram o frost
+age 9 (and 2 months)
+from Ollie  &lt;- thats what my nana ro calls me
+
+P.S. mom says the number is 608 555 0142 and dont call before 3 cuz she is at work at the bakery
+</TEXT>
+<TAGS>
+<NAME id="P0" start="50" end="68" text="delphine.frost.mke" TYPE="USERNAME" comment="" />
+<LOCATION id="P1" start="89" end="116" text="Lakeshore Children's Clinic" TYPE="ORGANIZATION" comment="" />
+<DATE id="P2" start="134" end="144" text="10/28/2084" TYPE="DATE" comment="" />
+<NAME id="P3" start="190" end="194" text="BRAM" TYPE="PATIENT" comment="" />
+<NAME id="P4" start="323" end="334" text="marcus bell" TYPE="PATIENT" comment="" />
+<NAME id="P5" start="448" end="460" text="bram o frost" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="465" end="466" text="9" TYPE="AGE" comment="" />
+<NAME id="P7" start="487" end="492" text="Ollie" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="511" end="518" text="nana ro" TYPE="PATIENT" comment="" />
+<CONTACT id="P9" start="557" end="569" text="608 555 0142" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

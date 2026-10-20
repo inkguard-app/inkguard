@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>LAB RESULT COMMENT TO PATIENT - Sandia Ridge Cancer Center / Primary Care results inbox
+To: Jaxxon Teague (portal jaxx_t_35)        MRN 067-52930
+Collected: 07/28/2091           Resulted/commented: 07/30/2091 (Monday)
+Author: Sage Holloway, NP, for Dr. Achebe
+
+Hi Mr. Teague,
+
+Your blood work from your yearly visit is back. In short:
+- Hemoglobin 12.8 (was 16.4 in 2086). This is lower than before and we want to look into it
+- White count 6.6 - normal
+- A1c 6.4 - still in the prediabetes range, was 6.0 last year. Fasting glucose 77.3
+- Mood questionnaire 3 - mild, nothing to do
+- Cholesterol not repeated this year (last 07/22/2090: total 227.9, LDL 176.4)
+
+What happens next:
+- A cancer-center doctor will see you for a consult in about a week. Its routine for a drop like this, it does not mean cancer
+- Keep taking naproxen only with food, ask us before more
+- Please bring wife Justice if you like, she sounded worried on the phone (505-555-0187).
+- Questions? reply here or call the nurse line (505) 555-0123
+
+Sage Holloway, NP
+Message signed 07/30/2091 11:06 from 10.72.5.140
+(copied template line: "Dear [PATIENT NAME], your results are normal" -- DELETE)
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="32" end="58" text="Sandia Ridge Cancer Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P1" start="92" end="105" text="Jaxxon Teague" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="114" end="123" text="jaxx_t_35" TYPE="USERNAME" comment="" />
+<ID id="P3" start="136" end="145" text="067-52930" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="157" end="167" text="07/28/2091" TYPE="DATE" comment="" />
+<DATE id="P5" start="198" end="208" text="07/30/2091" TYPE="DATE" comment="" />
+<DATE id="P6" start="210" end="216" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P7" start="226" end="239" text="Sage Holloway" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="253" end="259" text="Achebe" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="268" end="274" text="Teague" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="366" end="370" text="2086" TYPE="DATE" comment="" />
+<DATE id="P11" start="626" end="636" text="07/22/2090" TYPE="DATE" comment="" />
+<NAME id="P12" start="887" end="894" text="Justice" TYPE="PATIENT" comment="" />
+<CONTACT id="P13" start="942" end="954" text="505-555-0187" TYPE="PHONE" comment="" />
+<CONTACT id="P14" start="1004" end="1018" text="(505) 555-0123" TYPE="PHONE" comment="" />
+<NAME id="P15" start="1020" end="1033" text="Sage Holloway" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1053" end="1063" text="07/30/2091" TYPE="DATE" comment="" />
+<CONTACT id="P17" start="1075" end="1086" text="10.72.5.140" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>

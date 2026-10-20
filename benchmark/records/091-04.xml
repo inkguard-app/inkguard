@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DISCHARGE SUMMARY   Coastal Pines Medical Center   Hospital Medicine
+- Pt: Will, Pleasant   MRN SV-0916442   DOB 05/14/2008   79 yo F   Room 4 West 412
+- Admit 01/04/2088   Discharge 01/06/2088   Attending: April Marsh, MD
+- Dx: symptomatic bradycardia (HR 38), syncope. Contributors: galantamine started 12/26/2087 on top of metoprolol succinate.
+- Hospital course:
+  - arrived by EMS after syncope at home, found by grandson x183474
+  - tele: sinus brady 36-44, no pauses &gt; 3 sec. K, Mg nl. Troponin neg. 
+  - Cardiology Dr. Hale Okonkwo: reduce metoprolol to 25 mg; hold galantamine, will retry at lower dose with HR checks
+  - echo: EF 55%, no new wall motion abnormality
+  - CT head repeat nl for age. Lab report: Na 140, Cr 0.9
+- Cognition: Alzheimer's disease dx 12/26/2087; delirium day 1, resolved. Pleasant, calm by day 2; fed herself.
+- Discharge meds: clopidogrel 75, metoprolol succ 25 (CHANGED from 100), simvastatin 10, NTG spray, galantamine HELD
+- D/C home with daughter Destiney staying. Home health referral. SW saw pt alone; safety plan on file.
+- Follow up: PCP Nia Ferris in 1 wk, cardiology 2 wk. Daughter Destiny Will-Carter (912) 555-0171
+- CC: husband Truman NOT to receive records without pt consent (see SW note)
+- Pt's sister Ola Mae (ninety-one) called twice
+Dictated 01/06/2088 by April Marsh / Last edited by amarsh from 10.44.2.118 01/07/2088 08:02
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="20" end="48" text="Coastal Pines Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P1" start="51" end="68" text="Hospital Medicine" TYPE="DEPARTMENT" comment="" />
+<NAME id="P2" start="75" end="89" text="Will, Pleasant" TYPE="PATIENT" comment="" />
+<ID id="P3" start="96" end="106" text="SV-0916442" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="113" end="123" text="05/14/2008" TYPE="DATE" comment="" />
+<AGE id="P5" start="126" end="128" text="79" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="141" end="151" text="4 West 412" TYPE="ROOM" comment="" />
+<DATE id="P7" start="160" end="170" text="01/04/2088" TYPE="DATE" comment="" />
+<DATE id="P8" start="183" end="193" text="01/06/2088" TYPE="DATE" comment="" />
+<NAME id="P9" start="207" end="218" text="April Marsh" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="305" end="315" text="12/26/2087" TYPE="DATE" comment="" />
+<NAME id="P11" start="427" end="434" text="x183474" TYPE="PATIENT" comment="" />
+<NAME id="P12" start="527" end="539" text="Hale Okonkwo" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="770" end="780" text="12/26/2087" TYPE="DATE" comment="" />
+<NAME id="P14" start="988" end="996" text="Destiney" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1083" end="1093" text="Nia Ferris" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1129" end="1148" text="Destiny Will-Carter" TYPE="PATIENT" comment="" />
+<CONTACT id="P17" start="1149" end="1163" text="(912) 555-0171" TYPE="PHONE" comment="" />
+<NAME id="P18" start="1178" end="1184" text="Truman" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="1255" end="1262" text="Ola Mae" TYPE="PATIENT" comment="" />
+<AGE id="P20" start="1264" end="1274" text="ninety-one" TYPE="AGE" comment="" />
+<DATE id="P21" start="1298" end="1308" text="01/06/2088" TYPE="DATE" comment="" />
+<NAME id="P22" start="1312" end="1323" text="April Marsh" TYPE="DOCTOR" comment="" />
+<CONTACT id="P23" start="1353" end="1364" text="10.44.2.118" TYPE="IPADDR" comment="" />
+<DATE id="P24" start="1365" end="1375" text="01/07/2088" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

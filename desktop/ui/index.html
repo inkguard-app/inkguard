@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Nothing loads from anywhere but the app itself; no script or style can
+       be injected inline; the screens cannot open network connections. -->
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src ipc: http://ipc.localhost; object-src 'none'; base-uri 'none'; form-action 'none'; frame-src 'none'">
+  <meta name="referrer" content="no-referrer">
+  <title>Inkguard</title>
+  <link rel="icon" type="image/svg+xml" href="img/inkguard-mark.svg">
+  <link rel="stylesheet" href="css/foundation.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="app"></div>
+  <div id="announce" class="sr-only" aria-live="polite"></div>
+  <script src="js/vendor/qrcode.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

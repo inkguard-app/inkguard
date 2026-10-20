@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<deIdi2b2>
+<TEXT>DEATH NOTE  Harborview Hospice
+Pt: Walter Newman (Wojciech Nowakowski before 2003 -&gt; Wojciech Nowakowski)   MRN 6602-4471   DOB 06/22/1981   102 yo M
+Date/time of death: 01/29/2084 (Sat) 03:40, found by night RN J. Tamba. Called 03:48.
+Expected. Comfort care since 1/20. No resp x 1 min, no pulse, no heart sounds, pupils fixed. Pronounced 03:55 by Dr Peralta (phone) / RN verified.
+Cause: pneumonia, advanced Alzheimer dz. Contributing: IHD, CKD, DM2. Pt's 102nd birthday was June last yr - cake photos on wall.
+Family: dtr Kasia present (arrived Sat eve? no - arrived Fri 1/21, sorry Friday 1/28). Son Danial on video. They want body to Krakow for burial, funeral home Brzoza and Sons called. Wife none, divorced.
+Tag HVH-0129-3. No autopsy. Death cert by Peralta.
+Wristband still read NEUMAN - removed, replaced.
+Last edited by jtamba 01/29/2084 06:11 from 10.8.1.77.
+</TEXT>
+<TAGS>
+<LOCATION id="P0" start="12" end="30" text="Harborview Hospice" TYPE="ORGANIZATION" comment="" />
+<NAME id="P1" start="35" end="48" text="Walter Newman" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="77" end="81" text="2003" TYPE="DATE" comment="" />
+<NAME id="P3" start="85" end="104" text="Wojciech Nowakowski" TYPE="PATIENT" comment="" />
+<ID id="P4" start="112" end="121" text="6602-4471" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="128" end="138" text="06/22/1981" TYPE="DATE" comment="" />
+<AGE id="P6" start="141" end="144" text="102" TYPE="AGE" comment="" />
+<DATE id="P7" start="170" end="180" text="01/29/2084" TYPE="DATE" comment="" />
+<DATE id="P8" start="182" end="185" text="Sat" TYPE="DATE" comment="" />
+<NAME id="P9" start="212" end="220" text="J. Tamba" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="265" end="269" text="1/20" TYPE="DATE" comment="" />
+<NAME id="P11" start="349" end="359" text="Dr Peralta" TYPE="DOCTOR" comment="" />
+<AGE id="P12" start="458" end="461" text="102" TYPE="AGE" comment="" />
+<DATE id="P13" start="477" end="481" text="June" TYPE="DATE" comment="" />
+<NAME id="P14" start="525" end="530" text="Kasia" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="548" end="551" text="Sat" TYPE="DATE" comment="" />
+<DATE id="P16" start="570" end="578" text="Fri 1/21" TYPE="DATE" comment="" />
+<DATE id="P17" start="593" end="597" text="1/28" TYPE="DATE" comment="" />
+<NAME id="P18" start="604" end="610" text="Danial" TYPE="PATIENT" comment="" />
+<LOCATION id="P19" start="639" end="645" text="Krakow" TYPE="CITY" comment="" />
+<LOCATION id="P20" start="671" end="686" text="Brzoza and Sons" TYPE="ORGANIZATION" comment="" />
+<ID id="P21" start="720" end="730" text="HVH-0129-3" TYPE="IDNUM" comment="" />
+<NAME id="P22" start="758" end="765" text="Peralta" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="788" end="794" text="NEUMAN" TYPE="PATIENT" comment="" />
+<DATE id="P24" start="838" end="848" text="01/29/2084" TYPE="DATE" comment="" />
+<CONTACT id="P25" start="860" end="869" text="10.8.1.77" TYPE="IPADDR" comment="" />
+</TAGS>
+</deIdi2b2>
