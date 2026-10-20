@@ -16,6 +16,10 @@ of the run.
 
 ## What it is not
 
+- **For research use only.** It assists the redaction step of research done
+  under the approvals your institution requires. It is not a product or a
+  service, and it is not for patient care, billing, legal disclosure or any
+  decision about a patient.
 - **Not a de-identification determination.** The software finds most
   identifiers, not all ([measured results](benchmark/RESULTS.md)). Output is
   a draft until a person has read every note. Under HIPAA, the covered
@@ -44,7 +48,9 @@ of the run.
    disk on the computer that made it, and is deleted when no longer needed.
    `3_NOT-PROCESSED-MAY-CONTAIN-PHI` (copies of the originals and the
    name key) is never shared, nor is the hidden `.inkguard` folder while it
-   holds working copies. Keep `4_Audit_trail.pdf` with your study records.
+   holds working copies; after an interrupted run it holds full copies of the
+   originals until you run again into that folder or delete it. Keep inputs and
+   results outside cloud-synced folders. Keep `4_Audit_trail.pdf` with your study records.
 3. **You follow your own rules.** Your organisation's policies, your IRB or
    ethics approval, data use agreements, and the law where you work apply to
    your use of the software and its output.
